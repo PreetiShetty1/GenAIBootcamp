@@ -1,0 +1,1460 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Biomed Sci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J. Biomed. Sci</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Biomedical Science</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1021-7770</issn>
+      <issn pub-type="epub">1423-0127</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">31928533</article-id>
+      <article-id pub-id-type="pmc">6956558</article-id>
+      <article-id pub-id-type="publisher-id">593</article-id>
+      <article-id pub-id-type="doi">10.1186/s12929-019-0593-y</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Involvement of collagen XVII in pluripotency gene expression and metabolic reprogramming of lung cancer stem cells</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" equal-contrib="yes">
+          <name>
+            <surname>Hsu</surname>
+            <given-names>Han-Shui</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" equal-contrib="yes">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Chen-Chi</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lin</surname>
+            <given-names>Jiun-Han</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hsu</surname>
+            <given-names>Tien-Wei</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hsu</surname>
+            <given-names>Jyuan-Wei</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Anna Fen-Yau</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1813-4616</contrib-id>
+          <name>
+            <surname>Hung</surname>
+            <given-names>Shih-Chieh</given-names>
+          </name>
+          <address>
+            <email>hung3340@gmail.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff6">6</xref>
+          <xref ref-type="aff" rid="Aff7">7</xref>
+          <xref ref-type="aff" rid="Aff8">8</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0604 5314</institution-id><institution-id institution-id-type="GRID">grid.278247.c</institution-id><institution>Division of Thoracic Surgery, Department of Surgery, </institution><institution>Taipei Veterans General Hospital, </institution></institution-wrap>Taipei, Taiwan </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0425 5914</institution-id><institution-id institution-id-type="GRID">grid.260770.4</institution-id><institution>Institute of Emergency and Critical Care Medicine, School of Medicine, </institution><institution>National Yang-Ming University, </institution></institution-wrap>Taipei, Taiwan </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0604 5314</institution-id><institution-id institution-id-type="GRID">grid.278247.c</institution-id><institution>Division of Traumatology, Emergency Department, </institution><institution>Taipei Veterans General Hospital, </institution></institution-wrap>Taipei, Taiwan </aff>
+        <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0425 5914</institution-id><institution-id institution-id-type="GRID">grid.260770.4</institution-id><institution>Faculty of Medicine, School of Medicine, </institution><institution>National Yang-Ming University, </institution></institution-wrap>Taipei, Taiwan </aff>
+        <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0604 5314</institution-id><institution-id institution-id-type="GRID">grid.278247.c</institution-id><institution>Department of Pathology and Laboratory Medicine, </institution><institution>Taipei Veterans General Hospital, </institution></institution-wrap>Taipei, Taiwan </aff>
+        <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0083 6092</institution-id><institution-id institution-id-type="GRID">grid.254145.3</institution-id><institution>Drug Development Center, Institute of New Drug Development, Institute of Biomedical Sciences, </institution><institution>China Medical University, </institution></institution-wrap>Taichung, 404 Taiwan </aff>
+        <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0572 9415</institution-id><institution-id institution-id-type="GRID">grid.411508.9</institution-id><institution>Integrative Stem Cell Center, Department of Orthopaedics, </institution><institution>China Medical University Hospital, </institution></institution-wrap>Taichung, 404 Taiwan </aff>
+        <aff id="Aff8"><label>8</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0633 7958</institution-id><institution-id institution-id-type="GRID">grid.482251.8</institution-id><institution>Institute of Biomedical Sciences, Academia Sinica, </institution></institution-wrap>Taipei, 105 Taiwan </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>1</month>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>13</day>
+        <month>1</month>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2020</year>
+      </pub-date>
+      <volume>27</volume>
+      <elocation-id>5</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>6</month>
+          <year>2019</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>11</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s). 2020</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p><bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p id="Par1">Recent advancements in cancer biology field suggest that glucose metabolism is a potential target for cancer treatment. However, little if anything is known about the metabolic profile of cancer stem cells (CSCs) and the related underlying mechanisms.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p id="Par2">The metabolic phenotype in lung CSC was first investigated. The role of collagen XVII, a putative stem cell or CSC candidate marker, in regulating metabolic reprogramming in lung CSC was subsequently studied. Through screening the genes involved in glycolysis, we identified the downstream targets of collagen XVII that were involved in metabolic reprogramming of lung CSCs. Collagen XVII and its downstream targets were then used to predict the prognosis of lung cancer patients.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p id="Par3">We showed that an aberrant upregulation of glycolysis and oxidative phosphorylation in lung CSCs is associated with the maintenance of CSC-like features, since blocking glycolysis and oxidative phosphorylation reduces sphere formation, chemoresistance, and tumorigenicity. We also showed that the Oct4-hexokinase 2 (HK2) pathway activated by collagen XVII-laminin-332 through FAK-PI3K/AKT-GSB3&#x3B2;/&#x3B2;-catenin activation induced the upregulation of glycolysis and maintenance of CSC-like features. Finally, we showed that collagen XVII, Oct4, and HK2 could be valuable markers to predict the prognosis of lung cancer patients.</p>
+        </sec>
+        <sec>
+          <title>Conculsions</title>
+          <p id="Par4">These data suggest the Oct4-HK2 pathway regulated by collagen XVII plays an important role in metabolic reprogramming and maintenance of CSC-like features in lung CSCs, which may aid in the development of new strategies in cancer treatment.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Collagen XVII</kwd>
+        <kwd>Hexokinase 2</kwd>
+        <kwd>Lung cancer stem cells</kwd>
+        <kwd>Metabolic reprogramming</kwd>
+        <kwd>Oct4</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100004663</institution-id>
+              <institution>Ministry of Science and Technology, Taiwan</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>MOST 106-2314-B-010-028-MY3</award-id>
+          <award-id>MOST 106-2314-B-075-030-MY3</award-id>
+          <award-id>MOST 106-2321-B-039-003</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>Han-Shui</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Chen-Chi</given-names>
+            </name>
+            <name>
+              <surname>Hung</surname>
+              <given-names>Shih-Chieh</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100011912</institution-id>
+              <institution>Taipei Veterans General Hospital</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>V107C-182, V106C-060</award-id>
+          <award-id>V106C-174</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>Han-Shui</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Chen-Chi</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; The Author(s) 2020</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p id="Par5">Cancer stem cells (CSCs), a subpopulation of cells within a tumor, were believed to confer tumorigenesis and resistance to standard treatment [<xref ref-type="bibr" rid="CR1">1</xref>&#x2013;<xref ref-type="bibr" rid="CR3">3</xref>], and the identification of new CSC characteristics is important in developing new strategies for eradicating cancer. Recent advancement in tumor metabolism has led to the consideration that glucose metabolism could become a potential target for cancer treatment [<xref ref-type="bibr" rid="CR4">4</xref>&#x2013;<xref ref-type="bibr" rid="CR6">6</xref>]. CSCs are supposed to get energy from different sources because of the complex spectrum of different microenvironments where they reside. Glioma stem cells (GSCs) consume less glucose and produce less lactate while maintaining higher ATP levels than their differentiated progeny [<xref ref-type="bibr" rid="CR7">7</xref>]. Breast CSCs also produce less lactate, and have higher ATP content, maximum mitochondrial capacity and mitochondrial proton leak compared to their differentiated progeny [<xref ref-type="bibr" rid="CR8">8</xref>]. These data suggest the energy of GSCs and breast CSCs rely on oxidative phosphorylation, which cannot be explained by the Warburg effect. In contrast, stem-like side population (SP) cells isolated from human non-small cell lung cancer (NSCLC) cells exhibit higher glycolytic activity compared to non-SP cells [<xref ref-type="bibr" rid="CR9">9</xref>]. Therefore, metabolic features of different types of CSCs remain inconclusive.</p>
+      <p id="Par6">Pluripotency genes, such as <italic>Oct4</italic> and <italic>Nanog</italic>, constitute the core regulatory network that suppresses differentiation-associated genes, thereby maintaining the pluripotency [<xref ref-type="bibr" rid="CR10">10</xref>]. Oct4 has been known to regulate the transcription of the glycolytic enzymes hexokinase-2 (HK2) and pyruvate kinase muscle isozyme M2 (PKM2), which determine the glycolytic flux in embryonic stem cells [<xref ref-type="bibr" rid="CR11">11</xref>]. The expression of <italic>Oct4</italic> has also been shown in human breast cancer stem-like cells, implicating its involvement in self-renewal and tumorigenesis via activating its downstream target genes [<xref ref-type="bibr" rid="CR12">12</xref>]. However, the functional and mechanistic significance of these pluripotency genes in cancer is not well understood and little is known about the underlying mechanism controlling their expression.</p>
+      <p id="Par7">Extracellular matrix (ECM) is essential for the uptake of extracellular nutrients and substrates for energy source. ECM also provides partitions that divid bulk cancer cells and CSCs, subsequently regulating the metabolic reprogramming of CSCs [<xref ref-type="bibr" rid="CR13">13</xref>]. Collagen XVII, a type II integral transmembrane protein, is known as a structural component of hemidesmosomes that connects the intracellular space of epithelial cells to the underlying basement membrane. We have recently demonstrated that collagen XVII and laminin-332 were upregulated in CSCs in a variety of cancer types, including lung cancer, colorectal cancer, breast cancer, and brain cancer [<xref ref-type="bibr" rid="CR14">14</xref>]. Collagen XVII and its downstream laminin-332 cooperate to form hemidesmosome-like structures, thereby mediating suspension survival in CSCs, and induce epithelial-mesenchymal transition (EMT) phenotypes through activation of the FAK-AKT-GSK3&#x3B2; pathways in lung CSCs [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR15">15</xref>]. However, the roles of collagen XVII in pluripotency gene expression and metabolic reprogramming of lung CSCs have not been investigated. Here, we show that an aberrant upregulation of glycolysis and oxidative phosphorylation in lung CSCs is associated with the maintenance of CSC-like features, since blocking agents of glycolysis or oxidative phosphorylation reduce sphere formation, chemoresistance, and tumorigenicity. We then demonstrate that the Oct4-HK2 pathway, activated by collagen XVII-laminin-332 through activation of FAK-AKT/GSB3&#x3B2;/&#x3B2;-catenin, induces upregulation of glycolysis and maintenance of CSC-like features in lung CSCs. Finally, we show that collagen XVII, Oct4 and HK2 are valuable markers to predict the prognosis of patients with lung cancer.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Materials and methods</title>
+      <sec id="Sec3">
+        <title>Cell line culture and reagents</title>
+        <p id="Par8">The human NSCLC cell line A549 was obtained from the ATCC and grown in Ham&#x2019;s F12 (Gibco, Grand Island, NY). Another human NSCLC cell line CL1&#x2013;1 was kindly provided by Dr. Pan-Chyr Yang (Department of Internal Medicine, National Taiwan University Hospital, Taiwan, R.O.C.) and grown in Dulbecco modified Eagle medium (DMEM) (Gibco). HT29 (human colorectal cancer cell line) was obtained from the ATCC and grown in DMEM. Cells were cultured in F12 or DMEM containing 10&#x2009;units/ml penicillin, 10&#x2009;&#x3BC;g/ml streptomycin and 10% fetal bovine serum (FBS; Gibco). For enrichment of CSCs in spheroid culture, cancer cells were suspended in tumor sphere medium consisting of serum-free DMEM/F12, N2 supplement (Gibco), human recombinant epidermal growth factor (EGF) (20&#x2009;ng/ml, PeproTech, Rocky Hill, NJ), and basic fibroblastic growth factor (bFGF) (10&#x2009;ng/ml, PeproTech). Cell colonies &gt;&#x2009;50&#x2009;&#x3BC;m in diameter and&#x2009;&gt;&#x2009;50% in area showing 3-dimensional structure and blurred cell margins were defined as spheres. Sphere numbers were counted at day 12 of culture. Treatment reagents included FAK inhibitor (10&#x2009;&#x3BC;M) (Calbiochem, San Diego, CA), SB216763 (20&#x2009;&#x3BC;M) (Sigma-Aldrich; St. Louis, MO), LY294002 (10&#x2009;&#x3BC;M) (Abmole Bioscience, Houston, TX), and ICG001 (10&#x2009;&#x3BC;M) (Abmole Bioscience).</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Western blot analysis</title>
+        <p id="Par9">Cell extracts were prepared with M-PER (Pierce, Rockford, IL) plus protease inhibitor cocktail (Pierce) and protein concentrations are determined using the bicinchoninic acid (BCA) assay (Pierce). Aliquots of protein lysates are separated on SDS&#x2013;10% polyacrylamide gels and transferred to PVDF membrane filters, followed by blocking with 5% blotting grade milk (Bio-Rad, Hercules, CA) in TBST (20&#x2009;mM Tris&#x2013;HCl pH&#x2009;7.2, 137&#x2009;mM NaCl, 1% Tween 20). Membranes are then probed with the indicated primary antibodies, reacted with corresponding secondary antibodies, and detected using a chemiluminescence assay (PerkinElmer Life and Analytical Sciences, Boston, MA). Membranes are exposed to X-ray film to visualize the bands (Amersham Pharmacia Biotech, Piscataway, NJ). Antibody against laminin-332&#x3B3;2 (#sc-7652; 1:500) was purchased from Santa Cruz Biotechnology, Inc. (Santa Cruz, CA). Antibody against Sox2 (#GTX101507; 1:1000) was purchased from GeneTex (San Antonio, TX). Antibodies against collagen XVII (#ab28440; 1:1000) and Oct4 (#ab19857; 1:1000) were purchased from Abcam (Cambrige, MA). Antibodies against pAKT (Ser473, #3787; 1:1000), HK2 (#2867; 1:1000), PKM2 (#4053; 1:1000) and &#x3B2;-catenin (#8480; 1:1000) were purchased from Cell Signaling (Boston, MA). Antibodies against pFAK (#E011215; 1:1000) was purchased from EnoGene Biotech (New York, NY). Antibodies against pGSK3b (Ser9, #ADI-905-761&#x2013;100; 1:1000) and Nanog (#ENZ-ABS270&#x2013;0100; 1:1000) were purchased from Enzo Life Science, (Farmingdale, NY). Antibody against &#x3B2;-Actin (#A5441; 1:10000) was purchased from Sigma (St. Louis, MO).</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Extracellular flux analysis</title>
+        <p id="Par10">Extracellular acidification rate (ECAR) and oxygen consumption rate (OCR) were measured using the Seahorse XF24 extracellular flux analyzer (Seahorse Bioscience, North Billerica, MA) according to the manufacturer&#x2019;s instructions and as reviewed previously [<xref ref-type="bibr" rid="CR16">16</xref>]. In brief, cells were plated in 24-well cell culture microplates (Seahorse Bioscience) at a density of 10<sup>4</sup> cells per well to allow growth for 1&#x2009;day and ensured 90% surface coverage. Media were replaced to XF base medium 1&#x2009;h prior to analysis and incubated in a 37&#x2009;&#xB0;C incubator to stabilize the pH and temperature. In glycolysis analysis, different compounds were added in succession: glucose (10&#x2009;mM), oligomycin (1&#x2009;&#x3BC;M), and 2-deoxy-D-glucose (50&#x2009;mM). These compounds are purchased as XF Glycolysis Stress Test kit. OCR were analysis from XF Mito Stress Test kit containing oligomycin (1&#x2009;&#x3BC;M), FCCP (2&#x2009;&#x3BC;M) and Rotenone/Antimycin A (0.5&#x2009;&#x3BC;M). OCR and ECAR values were normalized to cell number.</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Glucose uptake and lactate assay</title>
+        <p id="Par11">Glucose and lactate concentrations in the culture medium were determined by Glucose Uptake Colorimetric Kit and Lactate Colorimetric Assay Kit (Biovision, Milpitas, CA) according the manufacturer&#x2019;s instructions using SpectraMax M5 multi- mode reader (Molecular Devices, Sunnyvale, CA).</p>
+      </sec>
+      <sec id="Sec7">
+        <title>Mitochondrial activity assay</title>
+        <p id="Par12">Mitochondrial activity was measured using Mitotracker dyes (Invitrogen, Carlsbad, CA). Cells were stained with a final concentration of 100&#x2009;nM at 37&#x2009;&#xB0;C for 15&#x2009;min, and then washed with PBS, fixed with 3.7% formaldehyde.</p>
+      </sec>
+      <sec id="Sec8">
+        <title>Intracellular ATP analysis</title>
+        <p id="Par13">Intracellular ATP levels were measured using ATP Colorimetric/Fluorometric Assay Kit (Biovision). 10<sup>6</sup> cells were lysed in 100&#x2009;&#x3BC;l ATP Assay Buffer and measured according the manufacturer&#x2019;s instructions using SpectraMax M5 multi-mode reader (Molecular Devices).</p>
+      </sec>
+      <sec id="Sec9">
+        <title>ALDH activity assay</title>
+        <p id="Par14">ALDH enzymatic activities were analyzed using ALDEFLUOR assay (STEMCELL technologies, Vancouver, BC, Canada) according to the manufacturer&#x2019;s instructions. In brief, cells were harvested, washed, and then resuspended to a concentration of 1&#x2009;&#xD7;&#x2009;10<sup>6</sup> cells /ml with the ALDEFLUOR&#x2122; assay buffer. Then 5&#x2009;&#x3BC;l ALDH substrate was added into 1&#x2009;ml cell suspension and mixed. As a negative control, 0.5&#x2009;ml cell mixture was immediately transferred to control tube containing 5&#x2009;&#x3BC;l specific ALDH inhibitor DEBA. After incubation at 37&#x2009;&#xB0;C for 30&#x2009;min, cells were analyzed using a flow cytometer (FACS Canto II, BD Biosciences, San Jose, CA).</p>
+      </sec>
+      <sec id="Sec10">
+        <title>Transfection of small interfering RNA</title>
+        <p id="Par15">The small interfering RNAs (SiRNA) against Oct4 were purchased from Biotools (Taipei, Taiwan). Cells were transfected with Oct4-SiRNA using the TransIT-X2 transfection reagent (Mirus Bio LLC, Madison, WI) according to the manufacturer&#x2019;s protocol.</p>
+      </sec>
+      <sec id="Sec11">
+        <title>Lentiviral vector production and cell infection</title>
+        <p id="Par16">The shRNA expression plasmids and bacterial clones for Col XVIIa1 (TRCN118937, TRCN118941) and HK2 (TRCN12545) were provided by the RNAi Core Facility, Academia Sinica (Taipei, Taiwan). Subconfluent tumor cells were infected with lentivirus in the presence of 8&#x2009;&#x3BC;g/ml polybrene (Sigma-Aldrich). At 24&#x2009;h post-infection, culture medium was replaced with fresh growth medium containing puromycin (4&#x2009;&#x3BC;g/ml, Sigma-Aldrich) to select for infected cells after 48&#x2009;h of infection.</p>
+      </sec>
+      <sec id="Sec12">
+        <title>Cell transfection for col XVII overexpression</title>
+        <p id="Par17">To establish human collagen XVII overexpression cell lines, cells were transfected with constructed plasmid pcDNA3.1 that had been inserted with the human collagen XVII gene (a gift from Doctor K. B. Yancey, University of Texas Southwestern Medical Center, Dallas, TX). Cells were transfected in serum-free OPTI-MEMI (Gibco) that contains plasmid DNA and using the TransIT-X2 transfection reagent (Mirus Bio LLC, Madison, WI). TransIT-X2 was mixed gently into the reaction solution, and the mixtures were incubated at room temperature for 15&#x2009;min according to the manufacturer&#x2019;s instructions. Cells were maintained in media with transfection complexes for 48&#x2009;h. The cultures are then subjected to G418 (Enzo Life Science) selection.</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Growth and cytotoxicity analysis</title>
+        <p id="Par18">Cells were plated at a density of 10<sup>4</sup> cells/well in 96-well plates and incubated overnight. For growth assay, d-galactose or glucose (Sigma, St. Louis, MO) was added to make galactose or glucose media, respectively. Cells were then cultured in d-galactose (10&#x2009;mM or 20&#x2009;mM) without glucose, 2-deoxy-D-glucose (2-DG, 4&#x2009;mM or 5&#x2009;mM, Sigma) and metformin (2.5&#x2009;mM or 5&#x2009;mM, Selleckchem, Houston, TX) for 48&#x2009;h, respectively. For cytotoxicity assay, cells were treated with cisplatin combined with 2-DG (4&#x2009;mM) or metformin (2.5&#x2009;mM) for 48&#x2009;h. All assays were quantified using Cell Counting Kit-8 (Dojindo, Kumamoto, Japan).</p>
+      </sec>
+      <sec id="Sec14">
+        <title>Tumor xenograft mouse model and treatment</title>
+        <p id="Par19">Protocols involving mice were approved by the Institutional Animal Committee of Taipei Veterans General Hospital. NOD/SCID mice were purchased from the BioLASCO Experimental Animal Center (BioLASCO, Taiwan) and used for experiments at 6&#x2013;8&#x2009;weeks of age. Lung cancer cells were subcutaneously injected into mice with different doses and monitored for two months to evaluate tumor initiation. Absolute tumor-initiating frequency was calculated using the L-CalcTM Version 1.1 (Stem Cell Technologies, Vancouver, Canada). After sacrifice, tumors were resected and the expression of collagen XVII, Oct4 or HK2 was evaluated by immunohistochemistry (IHC). Anti-CK7 antibody (#M7018; 1:50, Agilent Dako, Santa Clara, CA), anti-collagen XVII antibody (#ab184996; 1:200, Abcam), anti-Oct4 polyclonal antibody (#2750; 1:50, Cell Signaling), anti-HK2 polyclonal antibody (#2867; 1:200, Cell Signaling) were used as the IHC primary antibodies.</p>
+        <p id="Par20">For evaluation of lung metastasis ability, 3&#x2009;&#xD7;&#x2009;10<sup>5</sup> tumor cells were injected into the tail vein and lung tissue was harvested 12&#x2009;weeks later. For tumor growth inhibition, 10<sup>6</sup> tumor cells were subcutaneously injected into mice. Tumor size was measured and tumor volume was calculated as: (tumor volume&#x2009;=&#x2009;length x width<sup>2</sup>/2). Mice with tumors were randomly grouped when its size approached 50&#x2009;mm<sup>3</sup>. For 2-DG treatment, mice were intraperitoneally injected with saline or 2-DG (800&#x2009;mg/kg in saline, daily for 15&#x2009;days). For metformin treatment, mice received metformin in drinking water (1&#x2009;mg/ml) for 15&#x2009;days. Tumor volume was measured every 3&#x2013;4&#x2009;days and tumor weight was determined after sacrifice.</p>
+      </sec>
+      <sec id="Sec15">
+        <title>Quantitative real-time PCR (quantitative RT-PCR)</title>
+        <p id="Par21">The total RNA was reversed transcribed in 20&#x2009;&#x3BC;l using oligo dT and Superscript II RT (Invitrogen). The quantitative real-time PCR was performed using FastStart SYBR Green Master (Roche Applied Science, Mannheim, Germany) and ABI StepOnePlus Real-Time PCR System machine. The sequences of primer sets are listed in Additional&#xA0;file&#xA0;<xref rid="MOESM9" ref-type="media">9</xref>: Table S1.</p>
+      </sec>
+      <sec id="Sec16">
+        <title>PCR array and data analysis</title>
+        <p id="Par22">Total RNA was extracted using Trizol reagent (Invitrogen) and was analyzed by means of a Human Glucose Metabolism RT<sup>2</sup> Profiler&#x2122; PCR Array (QIAGEN, Valencia, CA) according to the manufacturer&#x2019;s instructions.</p>
+      </sec>
+      <sec id="Sec17">
+        <title>Patients and IHC analysis of tumor specimens</title>
+        <p id="Par23">Seventy-nine patients who underwent surgical resection for NSCLC between 2010 and 2015 were enrolled in this study. None of these patients received neoadjuvant chemotherapy or radiotherapy. The clinical data were collected by chart review. Paraffin blocks of tumor specimens were cut into 4-&#x3BC;m slices and then processed using standard deparaffinization and rehydration techniques, and then subjected to hematoxylin and eosin (HE) staining and IHC analysis. Anti-CK7 antibody (#M7018; 1:50, Agilent Dako), anti-collagen XVII antibody (#ab184996; 1:200, Abcam), anti-Oct4 polyclonal antibody (#ab19857; 1:200Abcam) anti-HK2 polyclonal antibody (#2867; 1:200, Cell Signaling) were used as the IHC primary antibodies. We used the score of positive tumor cell frequency and reaction intensity together to determine the result of IHC analysis. Score of positive tumor cell frequency: 0, &lt;&#x2009;25%; 1, 25~50%; 2, 50~75%; 3, &gt;&#x2009;75%. Score of reaction intensity: 0, no reaction; 1, weak; 2, moderate; 3, strong. Total score equaled the score of positive tumor cell frequency added the score of reaction intensity. If total score was more than two, we determined the expression of IHC was positive. On the contrary, if the total score was one or zero, the expression of IHC was negative.</p>
+      </sec>
+      <sec id="Sec18">
+        <title>Statistical analysis</title>
+        <p id="Par24">Values were shown as the mean&#x2009;&#xB1;&#x2009;standard deviation of the mean of measurements of at least three independently performed experiments. Student&#x2019;s t-test or one-way ANOVA was employed. The correlations between IHC results and clinic pathological variables were analyzed by Pearson&#x2019;s Chi-square test. Survival curves were calculated using the Kaplan-Meier method and comparisons were performed using the log-rank test. <italic>P</italic>&#x2009;&lt;&#x2009;0.05 was considered to be statistically significant.</p>
+      </sec>
+    </sec>
+    <sec id="Sec19">
+      <title>Results</title>
+      <sec id="Sec20">
+        <title>Lung CSCs increase glycolysis and oxidative phosphorylation</title>
+        <p id="Par25">CSCs could be enriched by culturing primary or developed cancer cell lines in medium with serum reduction and the presence of growth factors such as EGF and FGF2 [<xref ref-type="bibr" rid="CR17">17</xref>&#x2013;<xref ref-type="bibr" rid="CR19">19</xref>], in which cancer cells form spheres and become more capable of tumorigeneicity and resistant to chemotherapy. To demonstrate metabolic alteration in lung CSCs, we first showed that A549 in spheroid culture exhibited increased extracellular acidification rate (ECAR) (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>a), glucose uptake (Fig. <xref rid="Fig1" ref-type="fig">1</xref>b), and lactate production (Fig. <xref rid="Fig1" ref-type="fig">1</xref>c). Interestingly, A549 in spheroid culture also increased the oxygen consumption rate (OCR) (Fig. <xref rid="Fig1" ref-type="fig">1</xref>d), mitochondrial mass (Fig. <xref rid="Fig1" ref-type="fig">1</xref>e), and ATP production (Fig. <xref rid="Fig1" ref-type="fig">1</xref>f) compared to adherent culture. These data suggest that A549 lung CSCs have aberrant metabolic features.
+<fig id="Fig1"><label>Fig. 1</label><caption><p>CSCs of lung cancer increase in glycolysis and oxidative phosphorylation. <bold>a,</bold> Lung cancer cells A549 cultured in spheroid medium showed increased extracellular acidification rate (ECAR) compared to cells without collagen XVII overexpression. <bold>b</bold> and <bold>c,</bold> The glucose uptake and lactate assay showed increased glucose consumption and lactate production in cells cultured with spheroid medium. <bold>d,</bold> The results of seahorse assay also showed increased OCR in cells cultured in spheroid medium. <bold>e,</bold> The mitotracker red staining showed increased mitochondria mass in cells cultured in spheroid medium. <bold>f,</bold> In ATP content assay, the data showed increased ATP production in cells cultured in spheroid medium</p></caption><graphic xlink:href="12929_2019_593_Fig1_HTML" id="MO1"/></fig></p>
+      </sec>
+      <sec id="Sec21">
+        <title>Involvement of collagen XVII in inducing CSC-like features in lung cancer cells</title>
+        <p id="Par26">We have previously demonstrated the important roles of collagen XVII in suspension survival and the maintenance of EMT phenotypes in CSCs [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR15">15</xref>]. Besides, collagen XVII has also recently been recognized as a master molecule and marker in hair follicle stem cells and orchestrates skin homeostasis and ageing [<xref ref-type="bibr" rid="CR20">20</xref>, <xref ref-type="bibr" rid="CR21">21</xref>]. These data suggest that collagen XVII may have pleiotropic roles in regulating CSC phenotypes that may include tumorigenesis, metabolic reprogramming, and other CSC-like features. To evaluate the roles of collagen XVII in the maintenance of CSC-like properties, we first developed A549 lung adenocarcinoma cell lines with collagen XVII overexpression and silencing independently. As demonstrated before [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR15">15</xref>], A549 in spheroid culture showed increased CSC-like properties, including sphere formation, upregulated ALDH activity, expression of pluripotency markers, tumorigenic potential, metastasis, and chemoresistance abilities when compared to A549 in adherent culture (Additional&#xA0;file&#xA0;<xref rid="MOESM3" ref-type="media">1</xref>: Figure S1). In comparison with the control transfections, collagen XVII overexpression in adherent culture increased sphere numbers, while collagen XVII silencing reduced sphere numbers in spheroid culture (Additional file <xref rid="MOESM3" ref-type="media">1</xref>: Figure S1A). Collagen XVII overexpression in adherent culture also increased ALDH activity (Additional file <xref rid="MOESM3" ref-type="media">1</xref>: Figure S1B), the expression of pluripotency markers (Additional file <xref rid="MOESM3" ref-type="media">1</xref>: Figure S1C), tumorigenic potential (Additional file <xref rid="MOESM3" ref-type="media">1</xref>: Figure S1D), metastasis ability when infused via tail vein (Additional file <xref rid="MOESM3" ref-type="media">1</xref>: Figure S1E), and chemoresistance abilities when treated with cisplatin (Additional file <xref rid="MOESM3" ref-type="media">1</xref>: Figure S1F). These data suggest that collagen XVII plays an essential role in inducing CSC-like features in lung cancer cells.</p>
+      </sec>
+      <sec id="Sec22">
+        <title>Involvement of collagen XVII in metabolic reprogramming of lung CSCs</title>
+        <p id="Par27">To demonstrate that collagen XVII plays an important role in metabolic reprogramming of lung CSCs, we first showed that collagen XVII overexpression in adherent culture increased ECAR (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>a), glucose uptake (Fig. <xref rid="Fig2" ref-type="fig">2</xref>b), and lactate production (Fig. <xref rid="Fig2" ref-type="fig">2</xref>c) compared to cells transfected with control plasmids. Moreover, collagen XVII silencing reduced ECAR (Fig. <xref rid="Fig2" ref-type="fig">2</xref>d), glucose uptake (Fig. <xref rid="Fig2" ref-type="fig">2</xref>e), and lactate production (Fig. <xref rid="Fig2" ref-type="fig">2</xref>f) in spheroid culture. Collagen XVII overexpression in adherent culture increased OCR (Additional&#xA0;file&#xA0;<xref rid="MOESM8" ref-type="media">2</xref>: Figure S2A), ATP production (Additional file <xref rid="MOESM8" ref-type="media">2</xref>: Figure S2B), and mitochondrial mass (Additional file <xref rid="MOESM8" ref-type="media">2</xref>: Figure S2C) compared to cells transfected with control plasmids. Moreover, collagen XVII silencing reduced OCR (Additional file <xref rid="MOESM8" ref-type="media">2</xref>: Figure S2D), ATP production (Additional file <xref rid="MOESM8" ref-type="media">2</xref>: Figure S2E), and mitochondrial mass (Additional file <xref rid="MOESM8" ref-type="media">2</xref>: Figure S2F) in spheroid culture. These data together suggest the essential role of collagen XVII in metabolic reprogramming of lung CSCs.
+<fig id="Fig2"><label>Fig. 2</label><caption><p>Collagen XVII is essential for increased glycolysis of lung cancer cells. <bold>a,</bold> Lung cancer cells A549 with collagen XVII overexpression (Col XVII OE) showed increased ECAR compared to parental cells. <bold>b</bold> and <bold>c,</bold> The glucose uptake and lactate assay showed increased glucose consumption and lactate production in cells with collagen XVII overexpression. <bold>d,</bold> Decreased ECAR was observed in lung cancer with collagen XVII knockdown (Col XVII KD). <bold>e</bold> and <bold>f,</bold> The glucose uptake and lactate assay showed decreased glucose consumption and lactate production in cells with collagen XVII knockdown</p></caption><graphic xlink:href="12929_2019_593_Fig2_HTML" id="MO2"/></fig></p>
+      </sec>
+      <sec id="Sec23">
+        <title>Metabolic reprogramming is required for CSC survival and maintenance of CSC-like features</title>
+        <p id="Par28">To demonstrate the requirement of metabolic reprogramming in CSC survival and the maintenance of CSC-like features in lung cancer, we first showed that A549 cells in spheroid culture were more sensitive to 2-deoxy-D-glucose (2-DG) (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>a), galactose (inhibitors of glycolysis) (Additional&#xA0;file&#xA0;<xref rid="MOESM5" ref-type="media">3</xref>: Figure S3A), and metformin (an inhibitor of oxidative phosphorylation)-induced cell death (Fig. <xref rid="Fig3" ref-type="fig">3</xref>b), compared to cells in adherent culture. Moreover, spheroid culture in the presence of 2-DG or metformin resulted in decreased sphere-forming abilities (Fig. <xref rid="Fig3" ref-type="fig">3</xref>c) and inhibited chemotoxic agent resistance (Fig. <xref rid="Fig3" ref-type="fig">3</xref>d), and formed smaller tumors in mouse xenograft models (Fig. <xref rid="Fig3" ref-type="fig">3</xref>e) in comparison with that in the absence of 2-DG or metformin. Collagen XVII overexpression also sensitized adherent cell culture to 2-DG (Fig. <xref rid="Fig3" ref-type="fig">3</xref>f), galactose (Additional file <xref rid="MOESM5" ref-type="media">3</xref>: Figure S3B), and metformin (Fig. <xref rid="Fig3" ref-type="fig">3</xref>g)-induced cell death. In contrast, collagen XVII silencing de-sensitized spheroid culture to 2-DG (Fig. <xref rid="Fig3" ref-type="fig">3</xref>f), galactose (Additional file <xref rid="MOESM5" ref-type="media">3</xref>: Figure S3C), and metformin (Fig. <xref rid="Fig3" ref-type="fig">3</xref>g)-induced cell death. Moreover, adherent culture with collagen XVII overexpression in the presence of 2-DG or metformin resulted in decreased sphere-forming abilities (Fig. <xref rid="Fig3" ref-type="fig">3</xref>h) and inhibited chemotoxic agent resistance (Fig. <xref rid="Fig3" ref-type="fig">3</xref>i), and formed smaller tumors in mouse xenograft models (Fig. <xref rid="Fig3" ref-type="fig">3</xref>j) in comparison with that in the absence of 2-DG or metformin. These data suggest that metabolic reprogramming is required for CSC survival and the maintenance of CSC-like features.
+<fig id="Fig3"><label>Fig. 3</label><caption><p>Lung cancer cells with overexpression of collagen XVII are resistant to the treatment of 2-DG and metformin in vitro and in vivo. <bold>a</bold> and <bold>b,</bold> When treated with 2-DG or metformin, lung cancer cells cultured with spheroid medium are more sensitive to the controls. <bold>c,</bold> Decreased sphere formation was noted when lung cancer cells cultured in spheroid medium were treated with 2-DG or metformin. <bold>d,</bold> When combined with cisplatin treatment, lung cancer cells cultured in spheroid culture were more sensitive to 2-DG or metformin treatment. <bold>e,</bold> In in vivo study, tumor size was significantly reduced when the mice were treated with 2-DG or metformin. <bold>f</bold> and <bold>g,</bold> Lung cancer cells with collagen XVII overexpression in monolayer culture were more sensitive to 2-DG or metformin. In contrast, cells with collagen XVII knockdown in spheroid culture are more resistant to 2-DG or metformin. <bold>h,</bold> Decreased sphere formation was noted when lung cancer cells with overexpression of collagen XVII were treated with 2-DG or metformin. <bold>i,</bold> Lung cancer cells with collagen XVII overexpression were more sensitive when treated with 2-DG or metformin in addition to cisplatin. <bold>j,</bold> In animal study, lung cancer cells with collagen XVII overexpression were injected s.c. in the back of the mice and treated with 2-DG or metformin. After 17&#x2009;days, tumor size and weight were significantly decreased in the group of lung cancer cells with collagen XVII overexpression, compared to the control (CTR)</p></caption><graphic xlink:href="12929_2019_593_Fig3_HTML" id="MO3"/></fig></p>
+      </sec>
+      <sec id="Sec24">
+        <title>HK2 is required for collagen XVII-mediated increase in glycolysis and CSC-like features in lung cancer</title>
+        <p id="Par29">To explore which factor mediated the role of collagen XVII in metabolic reprogramming of CSCs in lung cancer, we performed a quantitative RT-PCR array followed by confirmation with western blotting analysis and found that HK2 was upregulated in A549 spheroid culture as well as in cells with collagen XVII overexpression (Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>a, b, and c). In contrast, HK2 expression in spheroid culture was downregulated when collagen XVII was silenced (Fig. <xref rid="Fig4" ref-type="fig">4</xref>d). HK2 silencing reduced ECAR (Fig. <xref rid="Fig4" ref-type="fig">4</xref>e), glucose uptake, and lactate production (Fig. <xref rid="Fig4" ref-type="fig">4</xref>f) in spheroid culture as well as adherent culture with collagen XVII overexpression. However, HK2 silencing did not reduce OCR (Fig. <xref rid="Fig4" ref-type="fig">4</xref>g), ATP production, and mitochondrial mass (Fig. <xref rid="Fig4" ref-type="fig">4</xref>h) in spheroid culture as well as adherent culture with collagen XVII overexpression. Moreover, HK2 silencing reduced the abilities of A549 with collagen XVII overexpression to form spheres in spheroid culture (Fig. <xref rid="Fig4" ref-type="fig">4</xref>i), resist chemotoxic agents (Fig. <xref rid="Fig4" ref-type="fig">4</xref>j), and form tumors in mouse xenograft models (Fig. <xref rid="Fig4" ref-type="fig">4</xref>k). These data suggest that HK2 is required for collagen XVII-mediated increase in glycolysis and the maintenance of CSC-like features in lung CSCs.
+<fig id="Fig4"><label>Fig. 4</label><caption><p>HK2 is required for collagen XVII-mediated increases of glycolysis and CSC features in lung cancer cells. <bold>a</bold> and <bold>b,</bold> PCR array showed increased expression of HK2 in both cells cultured in spheroid medium and cells with collagen XVII overexpression, indicating the HK2 plays an important role in collagen XVII-induced metabolic reprogramming in lung cancer cells. <bold>c,</bold> RT-PCR and western blot analysisshowed increased HK2 expression in both cells cultured in spheroid medium and cells with collagen XVII overexpression. <bold>d,</bold> RT-PCR and western blot analysis showed decreased expression of HK2 in cells with collagen XVII knockdown. <bold>e,</bold> Glycolysis was decreased in collagen XVII overexpressed lung cancer cells with HK2 knockdown. <bold>f,</bold> The glucose uptake and lactate level were decreased in collagen XVII overexpressed lung cancer cells with HK2 knockdown. <bold>g,</bold> However, OCR was not significantly different between collagen XVII overexpressed lung cancer cells with or without HK2 knockdown. <bold>h,</bold> The relative ATP content and the percentage of mitotracker red staining were neither different between collagen XVII overexpressed lung cancer cells with or without HK2 knockdown. <bold>i,</bold> The number of sphere formation decreased in collagen XVII overexpressed lung cancer cells with HK2 knockdown. <bold>j,</bold> Collagen XVII overexpressed lung cancer cells with HK2 knockdown were more sensitive to cisplatin. <bold>k,</bold> The capability of tumor initiation was decreased in collagen XVII overexpressed lung cancer cells with HK2 knockdown</p></caption><graphic xlink:href="12929_2019_593_Fig4_HTML" id="MO4"/></fig></p>
+      </sec>
+      <sec id="Sec25">
+        <title>Oct4 is required for collagen XVII-mediated increase of HK2 expression in lung CSCs</title>
+        <p id="Par30">To investigate the mechanism of collagen XVII-mediated increase in HK2 expression, we first demonstrated that spheroid culture or adherent culture with collagen XVII overexpression increased both the mRNA and the protein levels of Oct4 and HK2 (Fig.&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>a, Additional&#xA0;file&#xA0;<xref rid="MOESM1" ref-type="media">4</xref>: Figure S4). Consistently, the expressions of Oct4 and HK2 were upregulated in xenograft tumors formed by A549 spheroid culture in comparion to adherent culture or by A549 transfected with collagen XVII vector compared to control vector (Additional&#xA0;file&#xA0;<xref rid="MOESM6" ref-type="media">5</xref>: Figure S5). Further, Oct4 silencing abrogated collagen XVII-mediated increase in HK2 expression (Fig. <xref rid="Fig5" ref-type="fig">5</xref>a). However, HK2 silencing did not block collagen XVII-mediated increase in Oct4 expression (Fig. <xref rid="Fig5" ref-type="fig">5</xref>a). Furthermore, Oct4 silencing blocked collagen XVII-mediated increase in ECAR (Fig. <xref rid="Fig5" ref-type="fig">5</xref>b), glucose uptake, and lactate production (Fig. <xref rid="Fig5" ref-type="fig">5</xref>c) compared to that in cells transfected with control shRNAs. Similar to HK2 silencing, Oct4 silencing did not block collagen XVII-mediated increase in OCR (Fig. <xref rid="Fig5" ref-type="fig">5</xref>d), ATP production, and mitochondrial mass (Fig. <xref rid="Fig5" ref-type="fig">5</xref>e) compared to that in cells transfected with control shRNAs. Also, Oct4 silencing reduced the abilities of A549 cells with collagen XVII overexpression to form spheres in spheroid culture (Fig. <xref rid="Fig5" ref-type="fig">5</xref>f), resist chemotoxic agents (Fig. <xref rid="Fig5" ref-type="fig">5</xref>g), and form tumors (Fig. <xref rid="Fig5" ref-type="fig">5</xref>h). These data together suggest that Oct4 is required for collagen XVII-mediated increase in HK2 expression, glycolysis, and the maintenance of CSC-like features in lung CSCs.
+<fig id="Fig5"><label>Fig. 5</label><caption><p>Oct4 acted as an upstream protein of HK2 and is also involved in the metabolic reprogramming of lung cancer cells with Collagen XVII overexpression. <bold>a,</bold> In lung cancer cells with collagen XVII overexpression, knockdown of Oct4 downregualted the mRNA and protein expression of HK2. <bold>b,</bold> Decreased glycosis in collagen XVII overexpressed lung cancer cells was noted when Oct4 was knockdown. <bold>c,</bold> The glucose uptake and lactate level were decreased in collagen overexpressed lung cancer cells with Oct4 knockdown. <bold>d,</bold> Oct4 did not affect the oxidative phosphorylation in lung cancer cells with collagen XVII overexpression. <bold>e,</bold> ATP content and the mitotracker red percentage were not different between collagen XVII overexpressed cells with or without Oct4 knockdown. <bold>f,</bold> Decreased sphere formation was observed in collagen XVII overexpressed lung cancer cells with Oct4 knockdown. <bold>g,</bold> Collagen XVII overexpressed cells with Oct4 knockdown were more sensitive to cisplatin treatment. <bold>h</bold>, The capability of tumor initiation was decreased in collagen XVII overexpressed lung cancer cells with Oct4 knockdown</p></caption><graphic xlink:href="12929_2019_593_Fig5_HTML" id="MO5"/></fig></p>
+      </sec>
+      <sec id="Sec26">
+        <title>Collagen XVII-laminin-332 pathway activates FAK-PI3K/AKT-GSK3&#x3B2;/&#x3B2;-catenin pathways to increase Oct4 expression</title>
+        <p id="Par31">To investigate the mechanism underlying the collagen XVII-mediated increase in Oct4 expression, we first demonstrated that adherent culture with collagen XVII overexpression increased the phosphorylation levels of FAK, AKT and GSK3&#x3B2; (Additional&#xA0;file&#xA0;<xref rid="MOESM2" ref-type="media">6</xref>: Figure S6A). Further, treatment with FAK and PI3K inhibitor LY294002 blocked collagen XVII-mediated increase in Oct4 expression (Additional file <xref rid="MOESM2" ref-type="media">6</xref>: Figure S6B). Treatment with FAK inhibitor also reduced the phosphorylation levels of AKT and GSK3&#x3B2; (Additional file <xref rid="MOESM2" ref-type="media">6</xref>: Figure S6B). Treatment with LY294002 failed to reduce the phosphorylation level of FAK, while reduced the phosphorylation levels of AKT and GSK3&#x3B2; (Additional file <xref rid="MOESM2" ref-type="media">6</xref>: Figure S6B). Moreover, treatment with GSK3&#x3B2; inhibitor SB216763 increased &#x3B2;-catenin, Oct4, and HK2 levels, while treatment with selective Wnt/&#x3B2;-catenin signaling inhibitor ICG-001 blocked collagen XVII-mediated increase in &#x3B2;-catenin, Oct4, and HK2 expression (Additional file <xref rid="MOESM2" ref-type="media">6</xref>: Figure S6C). These data suggest that the collagen XVII-laminin-332 pathway activates the FAK-PI3K/AKT-GSK3&#x3B2;/&#x3B2;-catenin pathway to increase Oct4 expression, which subsequently increases HK2 expression and glycolysis.</p>
+      </sec>
+      <sec id="Sec27">
+        <title>Collagen XVII-&#x3B2;-catenin-Oct4-HK2 pathway is also upregulated in CSCs of other lung cancer cells and other epithelial cancer type</title>
+        <p id="Par32">To determine whether a similar pathway is also upregulated in CSCs of other lung cancer cells or in other epithelial cancers, we chose another human lung cancer cell line CL1&#x2013;1 and a human colorectal cancer cell line HT-29 for further investigation. The spheroid culture of CL1&#x2013;1 and HT-29 also showed an increase in the protein levels of collagen XVII, &#x3B2;-catenin, Oct4, and HK2 compared to the corresponding adherent culture (Additional&#xA0;file&#xA0;<xref rid="MOESM4" ref-type="media">7</xref>: Figure S7A). Interestingly, cells with collagen XVII overexpression also showed an increase in the protein levels of &#x3B2;-catenin, Oct4, and HK2 (Additional file <xref rid="MOESM4" ref-type="media">7</xref>: Figure S7B). Moreover, spheroid culture with collagen XVII silencing showed a reduction in the protein levels of &#x3B2;-catenin, Oct4, and HK2 in comparison with that observed with transfection with control shRNAs (Additional file <xref rid="MOESM4" ref-type="media">7</xref>: Figure S7C). These data suggest that the collagen XVII-&#x3B2;-catenin-Oct4-HK2 pathway is also upregulated in CSCs of other lung cancer cells and other epithelial cancer types.</p>
+      </sec>
+      <sec id="Sec28">
+        <title>Expression of collagen XVII, Oct4, and HK2 predicts poorer prognosis in patients with lung cancer</title>
+        <p id="Par33">We used immunohistochemistry to investigate the clinical significance of collagen XVII, Oct4, and HK2 expression in tumor specimens from a cohort of 79 patients who received lung resection for lung cancer (Fig.&#xA0;<xref rid="Fig6" ref-type="fig">6</xref>a). The clinical demographics of the patients are described in Additional&#xA0;file&#xA0;<xref rid="MOESM10" ref-type="media">10</xref>: Table S2. Kaplan-Meier analysis showed that patients who displayed positive staining of either collagen XVII, Oct4 or HK2 (Fig. <xref rid="Fig6" ref-type="fig">6</xref>b) in their tumors exhibited poorer survival compared to patients who were negative for these markers. Patients who presented double-negative expression of collagen XVII and Oct4, or collagen XVII and HK2, or Oct4 and HK2 had a better prognosis than other groups (Fig. <xref rid="Fig6" ref-type="fig">6</xref>c). Patients who displayed triple-positive expression of collagen XVII, Oct4, and HK2 had a significantly worse prognosis than those with the triple-negative expression (Fig. <xref rid="Fig6" ref-type="fig">6</xref>d). These data suggest that collagen XVII, Oct4, and HK2 could be valuable markers to predict the prognosis of patients with lung cancer.
+<fig id="Fig6"><label>Fig. 6</label><caption><p>Collagen XVII, Oct4 and HK2 were associated with poor prognosis of lung cancer patients. <bold>a,</bold> The serial sections of immunohistochemical staining showed the patients with late stage had increased expression of Collagen XVII, Oct4 and HK2, and the patients with early stage had decreased expression of Collagen XVII, Oct4 and HK2. HE stain and CK7 immunostaining indicates tumor location. <bold>b,</bold> The survival curves of patients with lung cancer. The results showed patients with increased expressions of Collagen XVII, Oct4 and HK2 had worse prognosis than the patients with reduced expression of Collagen XVII, Oct4 and HK2. <bold>c,</bold> The survival curves of overall survival compared each group of patients with lung cancer cells, according to the expression of proteins. <bold>d,</bold> The patients with all increased expression of these 3 proteins had worst prognosis than the patients with all reduced expression of these 3 proteins. Scale bar, 50&#x2009;&#x3BC;m</p></caption><graphic xlink:href="12929_2019_593_Fig6_HTML" id="MO6"/></fig></p>
+      </sec>
+    </sec>
+    <sec id="Sec29">
+      <title>Discussion</title>
+      <p id="Par34">An outstanding issue in tumor cell biology is whether CSCs possess specific aberrant cellular characteristics, such as dysregulated metabolism, in a specific manner to maintain CSC-like features. For example, pancreatic CSCs have distinct metabolic phenotypes, relying on mitochondrial oxidative phosphorylation and show sensitivity to metformin-induced cell death, which are mechanistically determined by suppression of MYC and subsequent increase in peroxisome proliferator-activated receptor gamma coactivator 1 (PGC-1)&#x3B1; [<xref ref-type="bibr" rid="CR22">22</xref>]. However, resistant CSC clones eventually emerged during metformin treatment and exhibited intermediate glycolytic/respiratory phenotype with balance between MYC and PGC-1&#x3B1; expressions. In this study, we demonstrated that collagen XVII mediates metabolic reprogramming in lung CSCs, increasing both glycolysis and oxidative phosphorylation. We then found that Oct4 and HK2 are upregulated in lung CSCs or lung cancer cells with collagen XVII overexpression. When Oct4 or HK2 was silenced, the metabolic alteration such as upregulated glycolysis was blocked and the CSC-like features were abrogated. These data confirmed that metabolic reprogramming is crucial for the maintenance of lung CSC-like features that depend on collagen XVII-mediated upregulation of Oct4 and HK2.</p>
+      <p id="Par35">Collagen XVII is an essential component of the skin basement membrane. Mutation or autoantibodies targeting of collagen XVII leads to blistering skin disease [<xref ref-type="bibr" rid="CR23">23</xref>]. In skin cancer, collagen XVII has been reported to be expressed in malignant but not in benign melanocytic tumor [<xref ref-type="bibr" rid="CR24">24</xref>]. Increased collagen XVII expression is also associated with poorer outcome in colorectal cancer [<xref ref-type="bibr" rid="CR25">25</xref>]. Aberrant <italic>Col17A1</italic> promoter methylation can predict the prognosis of patients with epithelial cancers, such as breast and cervical cancers [<xref ref-type="bibr" rid="CR26">26</xref>]. Earlier reports from our group explain that collagen XVII is important to mediate suspension survival of CSCs and activate EMT-associated pathways [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR15">15</xref>], both of which lead to tumor metastasis in lung cancer. In this study, we further demonstrated that collagen XVII is involved in metabolic reprogramming of CSCs in lung cancer and required for their survival and maintenance of CSC-like features. Taken together, collagen XVII has multiple roles in lung cancer progression and targeting collagen XVII and related signaling pathways could be a novel strategy to prevent metastasis in lung cancer patients. Moreover, the therapeutic agents should be delivered in a carrier, a micelle or a synthetic nanobody that is conjugated with an antibody against marker of CSC to prevent systemic destruction of hemidesmosomal adhesion, causing systemic skin blistering, and premature aging, since collagen XVII also plays an important role in normal stem cell niche functions [<xref ref-type="bibr" rid="CR20">20</xref>, <xref ref-type="bibr" rid="CR21">21</xref>].</p>
+      <p id="Par36">Recently, many studies have proposed that stem cells have unique metabolic profiles [<xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR28">28</xref>]. Upregulation of glycolysis and downregulation of oxidative phosphorylation were first demonstrated in pluripotent stem cells [<xref ref-type="bibr" rid="CR27">27</xref>]. Pluripotency factors, such as Oct4, directly upregulate HK2 and PKM2, which are important glycolytic enzymes that determine the glycolytic flux [<xref ref-type="bibr" rid="CR11">11</xref>]. The overexpression of HK2 or PKM2 maintains high levels of glycolysis that hampers embryonic stem cell (ESC) differentiation and preserves the pluripotency of ESCs in the absence of leukemia inhibitory factor. Although it is clear that high glycolysis levels are important for pluripotency, their impact on CSC-like features, such as sphere formation in spheroid culture, chemoresistance, and tumorigenicity, remains unknown. We demonstrate that CSCs increase glycolysis by the Oct4-HK2 pathway which is activated by the FAK-PI3K/AKT-GSK3&#x3B2;/&#x3B2;-catenin signaling activated by the collagen XVII-laminin-332 pathway. We also demonstrate that CSCs are vulnerable to inhibitors of glycolysis, 2-DG, and galactose-induced apoptosis. Moreover, 2-DG decreased the abilities of CSCs to form spheres, resist chemotoxic agent-induced cell death, and form tumors in mouse xenograft models. These data suggest that CSCs, like ESCs, require upregulated glycolysis to maintain their stem cell-like features. Although PKM2 is upregulated by Oct4 in ESCs [<xref ref-type="bibr" rid="CR11">11</xref>], its levels are not significantly upregulated in spheroid culture or adherent culture with collagen XVII overexpression (Additional&#xA0;file&#xA0;<xref rid="MOESM7" ref-type="media">8</xref>: Figure S8). These data suggest that pluripotent stem cells (PSCs) and CSCs share a similar mechanism to induce metabolic reprogramming and upregulate glycolysis. However, Oct4 downregulates oxidative phosphorylation in PSCs [<xref ref-type="bibr" rid="CR11">11</xref>], while failing to downregulate or affect oxidative phosphorylation in CSCs, suggesting some dissimilarities between ESCs and CSCs.</p>
+    </sec>
+    <sec id="Sec30">
+      <title>Conclusions</title>
+      <p id="Par37">In conclusion, an aberrant upregulation of glycolysis and oxidative phosphorylation observed in lung CSCs is associated with the maintenance of CSC-like features. Activation of Oct4-HK2 pathway by collagen XVII-laminin-332 via activating FAK-PI3K/AKT-GSB3&#x3B2;/&#x3B2;-catenin is responsible for induced glycolysis and maintenance of CSC-like features in lung CSCs. More importantly, expression of collagen XVII, Oct4, and HK2 predicts a poorer prognosis in patients with lung cancer. Targeting the upregulated glycolysis, collagen XVII and its associated downstream pathways, and glycolytic genes could be novel strategies for eliminating CSCs and for enabling a better prognosis of cancer.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary information</title>
+      <sec id="Sec31">
+        <p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="12929_2019_593_MOESM1_ESM.tif"><caption><p><bold>Additional file 1: Fig. S1.</bold> Collagen XVII plays an important role in the maintenance of CSC features in lung cancer cells. <bold>A,</bold> The picture of cell culture showed more spindle like shape cancer cells in of A549 lung cancer cells with collagen XVII cultured in adherent culture dishes and increased sphere formation in lung cancer cells with collagen XVII overexpression cultured in with spheroid medium (spheroid, CSC) for 12&#x2009;days. After knock-out of collagen XVII in A549 cells, decreased sphere formation was noted in lung cancer cells with collagen XVII knockdown when cultured in spheroid culture. <bold>B,</bold> The results of flow cytometry showed increased ALDH activity in cells cultured in spheroid medium, in cells with collagen XVII overexpression in monolayer culture, and in cells with collagen XVII knockdown in spheroid culture. <bold>C,</bold> Western blot analysis of Oct4, Nanog and Sox2. <bold>D,</bold> Tumor initiation capabilities with TIC frequency of lung cancer cells in different culture system or cells with collagen XVII overexpression or knockdown. <bold>E,</bold> Increased lung metastasis when cells with collagen XVII overexpression injected from tail vein in animal models. <bold>F,</bold> Lung cancer cells with collagen XVII overexpression showed more chemoresistant, compared to cells without collagen XVII overexpression</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="12929_2019_593_MOESM2_ESM.tif"><caption><p><bold>Additional file 2: Fig. S2.</bold> Collagen XVII is essential for increased oxidative phosphorylation of lung cancer cells. <bold>A,</bold> Lung cancer cells A549 with collagen XVII overexpression showed increased oxygen consumption rate (OCR) compared to parental cells. <bold>B</bold> and <bold>C,</bold> The ATP content and mitotracker red staining showed increased ATP production and mitochondria mass in cells with collagen XVII overexpression. <bold>D,</bold> Decreased OCR was observed in lung cancer with collagen XVII knockdown. <bold>E</bold> and <bold>F,</bold> ATP content assay and Mitotracker Red staining showed decreased ATP production and mitochondria mass in cells with collagen XVII knockdown</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM3"><media xlink:href="12929_2019_593_MOESM3_ESM.tif"><caption><p><bold>Additional file 3: Fig. S3.</bold> Cell viability of lung cancer cells with galatose. <bold>A,</bold> Lung cancer cells cultured in spheroid medium were more resistant to galactose treatment. <bold>B,</bold> Two single clones of lung cancer cell with Collagen XVII overexpression were also more resistant to galactose treatment. <bold>C,</bold> Cells with collagen XVII knockdown in spheroid culture were more resistant to galactose treatment</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM4"><media xlink:href="12929_2019_593_MOESM4_ESM.tif"><caption><p><bold>Additional file 4: Fig. S4.</bold> Real time-PCR of glycolysis-related genes. Real time-PCR of glycolysis-related genes including HK2, HK3, GCK, PGAM2, and PGK2 in 4 single clones of lung cancer cells with collagen XVII overexpression</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM5"><media xlink:href="12929_2019_593_MOESM5_ESM.tif"><caption><p><bold>Additional file 5: Fig. S5.</bold> Additional file <xref rid="MOESM5" ref-type="media">1</xref>: H&amp;E and IHC staining of xenograft tumor formed by A549 cells in adherent or spheroid culture, and A549 cells with collagen XVII overexpression or control pcDNA3.1 in adherent culture. CK7 immunostaining indicates tumor location. Scale bar, 50&#x2009;&#x3BC;m</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM6"><media xlink:href="12929_2019_593_MOESM6_ESM.tif"><caption><p><bold>Additional file 6: Fig. S6.</bold> Collagen XVII activated FAK-AKT-GSK3&#x3B2; pathway, thus upregulated &#x3B2;-catenin and Oct4 in lung cancer cells with collagen XVII overexpression. <bold>A,</bold> Western blot analysis showed that increased FAK phosphrylation and the associated downstream proteins including AKT, GSK3&#x3B2; and &#x3B2;-catenin were all activated in collagen XVII overexpressed lung cancer cells. <bold>B,</bold> FAK inhibitor and PI3K inhibitor LY294002 were added in collagen XVII overexpressed cells to confirm Oct4 as the downstream of FAK-AKT pathway. <bold>C,</bold> Wnt/&#x3B2;-catenin inhibitor ICG-001 and GSK3 inhibitor SB216763 were added in collagen XVII overexpressed cells to confirm Oc4-HK2 as the downstream of GSK3&#x3B2;/&#x3B2;-catenin pathway</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM7"><media xlink:href="12929_2019_593_MOESM7_ESM.tif"><caption><p><bold>Additional file 7: Fig. S7.</bold> Western blot analysis of collagen XVII-&#x3B2;-catenin-Oct4-HK2 pathway in CL1&#x2013;1 and HT-29 cells. <bold>A,</bold> Western blot analysis of collagen XVII-&#x3B2;-catenin-Oct4-HK2 pathway in CL1&#x2013;1 and HT-29 cells in spheroid culture. <bold>B,</bold> Western blot analysis of collagen XVII-&#x3B2;-catenin-Oct4-HK2 pathway in CL1&#x2013;1 and HT-29 cells with collagen XVII overexpression in monolayer culture. <bold>C,</bold> Western blot analysis of collagen XVII-&#x3B2;-catenin-Oct4-HK2 pathway in CL1&#x2013;1 and HT-29 cells with collagen XVII knockdown in spheroid culture</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM8"><media xlink:href="12929_2019_593_MOESM8_ESM.tif"><caption><p><bold>Additional file 8: Fig. S8.</bold> Western blot analysis of PKM2 of cells in different culture systems and cells with collagen XVII overexpression or knockdown</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM9"><media xlink:href="12929_2019_593_MOESM9_ESM.docx"><caption><p><bold>Additional file 9: Table S1.</bold> Primer sequence for RT-PCR</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM10"><media xlink:href="12929_2019_593_MOESM10_ESM.docx"><caption><p><bold>Additional file 10: Table S2.</bold> Demographic data of 79 patients who underwent surgery for lung cancer</p></caption></media></supplementary-material>
+</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher&#x2019;s Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+      <fn>
+        <p>Chen-Chi Liu and Han-Shui Hsu are equally contributing first author.</p>
+      </fn>
+    </fn-group>
+    <sec>
+      <title>Supplementary information</title>
+      <p><bold>Supplementary information</bold> accompanies this paper at 10.1186/s12929-019-0593-y.</p>
+    </sec>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank for the Division of Experimental Surgery of the Department of Surgery, Taipei Veterans General Hospital, to assist in part of deparaffinization and rehydration of patients tissue blocks. We also thank for the Medical Science &amp; Technology Building of Taipei Veterans General Hospital for providing experimental space and facilities. Additional support was provided by the Lung Cancer Foundation, in memory of Dr. K. S. Lu, Taipei.</p>
+      <sec id="FPar1">
+        <title>Ethics approval and Conssent to participate</title>
+        <p id="Par38">All animals and procedures used in this study were approved by the Institutional Animal Committee of Taipei Veterans General Hospital (IACUC: 2016&#x2013;290). The use of human tissue or tumor specimen samples was approved by the IRB of Taipei Veterans General Hospital (IRB No.:2016&#x2013;12-013CC).</p>
+      </sec>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors&#x2019; contributions</title>
+      <p>SCH conceptualized and supervised the study. HSH and CCL established the methodology, analyzed data, and wrote the manuscript with input from all other authors. Anna FYL performed and analyzed IHC data of patient&#x2019;s specimens. JHL, TWH, and JWH. AFYL carried out the experiments and analyzed data. All authors read and approved the final Manuiscript.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>This work was supported by the Ministry of Science and Technology (MOST 106&#x2013;2314-B-010-028-MY3, MOST 106&#x2013;2314-B-075-030-MY3, MOST 106&#x2013;2321-B-039-003) and Taipei Veteran General Hospital (V107C-182, V106C-060, V106C-174). This work was also financially supported by the &#x201C;Drug Development Center, China Medical University&#x201D; from The Featured Areas Research Center Program within the framework of the Higher Education Sprout Project by the Ministry of Education (MOE) in Taiwan. The funding sources had no involvement in study design, in the collection, analysis and interpretation of data, in the writing of the report, and in the decision to submit the article for publication.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Availability of data and materials</title>
+      <p>Data and materials related to this study are available from the corresponding author on reasonable request.</p>
+    </notes>
+    <notes>
+      <title>Consent for publication</title>
+      <p id="Par39">Not applicable.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Competing interests</title>
+      <p id="Par40">The authors declare that they have no competing interests.</p>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hsu</surname>
+              <given-names>HS</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>WC</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>TW</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Chiou</surname>
+              <given-names>SH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Chemoresistance of lung cancer stemlike cells depends on activation of Hsp27</article-title>
+          <source>Cancer</source>
+          <year>2011</year>
+          <volume>117</volume>
+          <issue>7</issue>
+          <fpage>1516</fpage>
+          <lpage>1528</lpage>
+          <pub-id pub-id-type="doi">10.1002/cncr.25599</pub-id>
+          <pub-id pub-id-type="pmid">21425153</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hsu</surname>
+              <given-names>HS</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>PI</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>YL</given-names>
+            </name>
+            <name>
+              <surname>Tzao</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>YW</given-names>
+            </name>
+            <name>
+              <surname>Shih</surname>
+              <given-names>HC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cucurbitacin I inhibits tumorigenic ability and enhances radiochemosensitivity in nonsmall cell lung cancer-derived CD133-positive cells</article-title>
+          <source>Cancer</source>
+          <year>2011</year>
+          <volume>117</volume>
+          <issue>13</issue>
+          <fpage>2970</fpage>
+          <lpage>2985</lpage>
+          <pub-id pub-id-type="doi">10.1002/cncr.25869</pub-id>
+          <pub-id pub-id-type="pmid">21225866</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>TW</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>HS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>IL-6 enriched lung cancer stem-like cell population by inhibition of cell cycle regulators via DNMT1 upregulation</article-title>
+          <source>Int J Cancer</source>
+          <year>2015</year>
+          <volume>136</volume>
+          <issue>3</issue>
+          <fpage>547</fpage>
+          <lpage>559</lpage>
+          <pub-id pub-id-type="pmid">24947242</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peixoto</surname>
+              <given-names>Joana</given-names>
+            </name>
+            <name>
+              <surname>Lima</surname>
+              <given-names>Jorge</given-names>
+            </name>
+          </person-group>
+          <article-title>Metabolic traits of cancer stem cells</article-title>
+          <source>Disease Models &amp; Mechanisms</source>
+          <year>2018</year>
+          <volume>11</volume>
+          <issue>8</issue>
+          <fpage>dmm033464</fpage>
+          <pub-id pub-id-type="doi">10.1242/dmm.033464</pub-id>
+          <pub-id pub-id-type="pmid">29991569</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Del Re</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Arrigoni</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Restante</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Passaro</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Rofi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Crucitta</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Concise review: resistance to tyrosine kinase inhibitors in non-small cell lung cancer: the role of cancer stem cells</article-title>
+          <source>Stem Cells</source>
+          <year>2018</year>
+          <volume>36</volume>
+          <issue>5</issue>
+          <fpage>633</fpage>
+          <lpage>640</lpage>
+          <pub-id pub-id-type="doi">10.1002/stem.2787</pub-id>
+          <pub-id pub-id-type="pmid">29352734</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>De Francesco</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Sotgia</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Lisanti</surname>
+              <given-names>MP</given-names>
+            </name>
+          </person-group>
+          <article-title>Cancer stem cells (CSCs): metabolic strategies for their identification and eradication</article-title>
+          <source>Biochem J</source>
+          <year>2018</year>
+          <volume>475</volume>
+          <issue>9</issue>
+          <fpage>1611</fpage>
+          <lpage>1634</lpage>
+          <pub-id pub-id-type="doi">10.1042/BCJ20170164</pub-id>
+          <pub-id pub-id-type="pmid">29743249</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vlashi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lagadec</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Vergnes</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Matsutani</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Masui</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Poulou</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Metabolic state of glioma stem cells and nontumorigenic cells</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <year>2011</year>
+          <volume>108</volume>
+          <issue>38</issue>
+          <fpage>16062</fpage>
+          <lpage>16067</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1106704108</pub-id>
+          <pub-id pub-id-type="pmid">21900605</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vlashi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lagadec</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Vergnes</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Reue</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Frohnen</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Metabolic differences in breast cancer stem cells and differentiated progeny</article-title>
+          <source>Breast Cancer Res Treat</source>
+          <year>2014</year>
+          <volume>146</volume>
+          <issue>3</issue>
+          <fpage>525</fpage>
+          <lpage>534</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10549-014-3051-2</pub-id>
+          <pub-id pub-id-type="pmid">25007966</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>PP</given-names>
+            </name>
+            <name>
+              <surname>Liao</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>ZJ</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zeng</surname>
+              <given-names>ZL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Metabolic regulation of cancer cell side population by glucose through activation of the Akt pathway</article-title>
+          <source>Cell Death Differ</source>
+          <year>2014</year>
+          <volume>21</volume>
+          <issue>1</issue>
+          <fpage>124</fpage>
+          <lpage>135</lpage>
+          <pub-id pub-id-type="doi">10.1038/cdd.2013.131</pub-id>
+          <pub-id pub-id-type="pmid">24096870</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boyer</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>TI</given-names>
+            </name>
+            <name>
+              <surname>Cole</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Johnstone</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Levine</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>Zucker</surname>
+              <given-names>JP</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Core transcriptional regulatory circuitry in human embryonic stem cells</article-title>
+          <source>Cell</source>
+          <year>2005</year>
+          <volume>122</volume>
+          <issue>6</issue>
+          <fpage>947</fpage>
+          <lpage>956</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2005.08.020</pub-id>
+          <pub-id pub-id-type="pmid">16153702</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Jang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>TW</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>BH</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Jeon</surname>
+              <given-names>YK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Core pluripotency factors directly regulate metabolism in embryonic stem cell to maintain pluripotency</article-title>
+          <source>Stem Cells</source>
+          <year>2015</year>
+          <volume>33</volume>
+          <issue>9</issue>
+          <fpage>2699</fpage>
+          <lpage>2711</lpage>
+          <pub-id pub-id-type="doi">10.1002/stem.2073</pub-id>
+          <pub-id pub-id-type="pmid">26059508</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ponti</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Costa</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Zaffaroni</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Pratesi</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Petrangolini</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Coradini</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Isolation and in vitro propagation of tumorigenic breast cancer cells with stem/progenitor cell properties</article-title>
+          <source>Cancer Res</source>
+          <year>2005</year>
+          <volume>65</volume>
+          <issue>13</issue>
+          <fpage>5506</fpage>
+          <lpage>5511</lpage>
+          <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-05-0626</pub-id>
+          <pub-id pub-id-type="pmid">15994920</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pickup</surname>
+              <given-names>MW</given-names>
+            </name>
+            <name>
+              <surname>Mouw</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Weaver</surname>
+              <given-names>VM</given-names>
+            </name>
+          </person-group>
+          <article-title>The extracellular matrix modulates the hallmarks of cancer</article-title>
+          <source>EMBO Rep</source>
+          <year>2014</year>
+          <volume>15</volume>
+          <issue>12</issue>
+          <fpage>1243</fpage>
+          <lpage>1253</lpage>
+          <pub-id pub-id-type="doi">10.15252/embr.201439246</pub-id>
+          <pub-id pub-id-type="pmid">25381661</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>SP</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>HS</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>MH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Suspension survival mediated by PP2A-STAT3-col XVII determines tumour initiation and metastasis in cancer stem cells</article-title>
+          <source>Nat Commun</source>
+          <year>2016</year>
+          <volume>7</volume>
+          <fpage>11798</fpage>
+          <pub-id pub-id-type="doi">10.1038/ncomms11798</pub-id>
+          <pub-id pub-id-type="pmid">27306323</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>TW</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Collagen XVII/laminin-5 activates epithelial-to-mesenchymal transition and is associated with poor prognosis in lung cancer</article-title>
+          <source>Oncotarget</source>
+          <year>2018</year>
+          <volume>9</volume>
+          <issue>2</issue>
+          <fpage>1656</fpage>
+          <lpage>1672</lpage>
+          <pub-id pub-id-type="pmid">29416721</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferrick</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Neilson</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Beeson</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Advances in measuring cellular bioenergetics using extracellular flux</article-title>
+          <source>Drug Discov Today</source>
+          <year>2008</year>
+          <volume>13</volume>
+          <issue>5&#x2013;6</issue>
+          <fpage>268</fpage>
+          <lpage>274</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.drudis.2007.12.008</pub-id>
+          <pub-id pub-id-type="pmid">18342804</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Clarke</surname>
+              <given-names>ID</given-names>
+            </name>
+            <name>
+              <surname>Terasaki</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bonn</surname>
+              <given-names>VE</given-names>
+            </name>
+            <name>
+              <surname>Hawkins</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Squire</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identification of a cancer stem cell in human brain tumors</article-title>
+          <source>Cancer Res</source>
+          <year>2003</year>
+          <volume>63</volume>
+          <issue>18</issue>
+          <fpage>5821</fpage>
+          <lpage>5828</lpage>
+          <pub-id pub-id-type="pmid">14522905</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eramo</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lotti</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Sette</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Pilozzi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Biffoni</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Di Virgilio</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identification and expansion of the tumorigenic lung cancer stem cell population</article-title>
+          <source>Cell Death Differ</source>
+          <year>2008</year>
+          <volume>15</volume>
+          <issue>3</issue>
+          <fpage>504</fpage>
+          <lpage>514</lpage>
+          <pub-id pub-id-type="doi">10.1038/sj.cdd.4402283</pub-id>
+          <pub-id pub-id-type="pmid">18049477</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vermeulen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Todaro</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>de Sousa</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Sprick</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Kemper</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Perez Alea</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Single-cell cloning of colon cancer stem cells reveals a multi-lineage differentiation capacity</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <year>2008</year>
+          <volume>105</volume>
+          <issue>36</issue>
+          <fpage>13427</fpage>
+          <lpage>13432</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0805706105</pub-id>
+          <pub-id pub-id-type="pmid">18765800</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Matsumura</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kato</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Ichinose</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Takada</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Namiki</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Stem cell competition orchestrates skin homeostasis and ageing</article-title>
+          <source>Nature</source>
+          <year>2019</year>
+          <volume>568</volume>
+          <issue>7752</issue>
+          <fpage>344</fpage>
+          <lpage>350</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41586-019-1085-7</pub-id>
+          <pub-id pub-id-type="pmid">30944469</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsumura</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Mohri</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Binh</surname>
+              <given-names>NT</given-names>
+            </name>
+            <name>
+              <surname>Morinaga</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Fukuda</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Hair follicle aging is driven by transepidermal elimination of stem cells via COL17A1 proteolysis</article-title>
+          <source>Science</source>
+          <year>2016</year>
+          <volume>351</volume>
+          <issue>6273</issue>
+          <fpage>aad4395</fpage>
+          <pub-id pub-id-type="doi">10.1126/science.aad4395</pub-id>
+          <pub-id pub-id-type="pmid">26912707</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sancho</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Burgos-Ramos</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Tavera</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bou Kheir</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Jagust</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Schoenhals</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>MYC/PGC-1alpha balance determines the metabolic phenotype and plasticity of pancreatic cancer stem cells</article-title>
+          <source>Cell Metab</source>
+          <year>2015</year>
+          <volume>22</volume>
+          <issue>4</issue>
+          <fpage>590</fpage>
+          <lpage>605</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cmet.2015.08.015</pub-id>
+          <pub-id pub-id-type="pmid">26365176</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Di Zenzo</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Della Torre</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Zambruno</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Borradori</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Bullous pemphigoid: from the clinic to the bench</article-title>
+          <source>Clin Dermatol</source>
+          <year>2012</year>
+          <volume>30</volume>
+          <issue>1</issue>
+          <fpage>3</fpage>
+          <lpage>16</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.clindermatol.2011.03.005</pub-id>
+          <pub-id pub-id-type="pmid">22137222</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krenacs</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kiszner</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Stelkovics</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Balla</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Teleki</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Nemeth</surname>
+              <given-names>I</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Collagen XVII is expressed in malignant but not in benign melanocytic tumors and it can mediate antibody induced melanoma apoptosis</article-title>
+          <source>Histochem Cell Biol</source>
+          <year>2012</year>
+          <volume>138</volume>
+          <issue>4</issue>
+          <fpage>653</fpage>
+          <lpage>667</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00418-012-0981-9</pub-id>
+          <pub-id pub-id-type="pmid">22688676</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moilanen</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Kokkonen</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Loffek</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Vayrynen</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Syvaniemi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Hurskainen</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Collagen XVII expression correlates with the invasion and metastasis of colorectal cancer</article-title>
+          <source>Hum Pathol</source>
+          <year>2015</year>
+          <volume>46</volume>
+          <issue>3</issue>
+          <fpage>434</fpage>
+          <lpage>442</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.humpath.2014.11.020</pub-id>
+          <pub-id pub-id-type="pmid">25623077</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thangavelu</surname>
+              <given-names>PU</given-names>
+            </name>
+            <name>
+              <surname>Krenacs</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Dray</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Duijf</surname>
+              <given-names>PH</given-names>
+            </name>
+          </person-group>
+          <article-title>In epithelial cancers, aberrant COL17A1 promoter methylation predicts its misexpression and increased invasion</article-title>
+          <source>Clin Epigenetics</source>
+          <year>2016</year>
+          <volume>8</volume>
+          <fpage>120</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13148-016-0290-6</pub-id>
+          <pub-id pub-id-type="pmid">27891193</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ryall</surname>
+              <given-names>JG</given-names>
+            </name>
+            <name>
+              <surname>Cliff</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Dalton</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sartorelli</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Metabolic reprogramming of stem cell epigenetics</article-title>
+          <source>Cell Stem Cell</source>
+          <year>2015</year>
+          <volume>17</volume>
+          <issue>6</issue>
+          <fpage>651</fpage>
+          <lpage>662</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.stem.2015.11.012</pub-id>
+          <pub-id pub-id-type="pmid">26637942</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shyh-Chang</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Daley</surname>
+              <given-names>GQ</given-names>
+            </name>
+            <name>
+              <surname>Cantley</surname>
+              <given-names>LC</given-names>
+            </name>
+          </person-group>
+          <article-title>Stem cell metabolism in tissue development and aging</article-title>
+          <source>Development</source>
+          <year>2013</year>
+          <volume>140</volume>
+          <issue>12</issue>
+          <fpage>2535</fpage>
+          <lpage>2547</lpage>
+          <pub-id pub-id-type="doi">10.1242/dev.091777</pub-id>
+          <pub-id pub-id-type="pmid">23715547</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

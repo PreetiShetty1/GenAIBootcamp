@@ -1,0 +1,1376 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Commun Biol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Commun Biol</journal-id>
+      <journal-title-group>
+        <journal-title>Communications Biology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2399-3642</issn>
+      <publisher>
+        <publisher-name>Nature Publishing Group UK</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">32193503</article-id>
+      <article-id pub-id-type="pmc">7081195</article-id>
+      <article-id pub-id-type="publisher-id">863</article-id>
+      <article-id pub-id-type="doi">10.1038/s42003-020-0863-y</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A miRNA-based diagnostic model predicts resectable lung cancer in humans with high accuracy</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" equal-contrib="yes">
+          <name>
+            <surname>Asakura</surname>
+            <given-names>Keisuke</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" equal-contrib="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9533-7241</contrib-id>
+          <name>
+            <surname>Kadota</surname>
+            <given-names>Tsukasa</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3204-5049</contrib-id>
+          <name>
+            <surname>Matsuzaki</surname>
+            <given-names>Juntaro</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6494-2318</contrib-id>
+          <name>
+            <surname>Yoshida</surname>
+            <given-names>Yukihiro</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yamamoto</surname>
+            <given-names>Yusuke</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nakagawa</surname>
+            <given-names>Kazuo</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Takizawa</surname>
+            <given-names>Satoko</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Aoki</surname>
+            <given-names>Yoshiaki</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff6">6</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nakamura</surname>
+            <given-names>Eiji</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff6">6</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Miura</surname>
+            <given-names>Junichiro</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff6">6</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sakamoto</surname>
+            <given-names>Hiromi</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff7">7</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1733-5072</contrib-id>
+          <name>
+            <surname>Kato</surname>
+            <given-names>Ken</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff8">8</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Watanabe</surname>
+            <given-names>Shun-ichi</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Ochiya</surname>
+            <given-names>Takahiro</given-names>
+          </name>
+          <address>
+            <email>tochiya@ncc.go.jp</email>
+          </address>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+          <xref ref-type="aff" rid="Aff9">9</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2168 5385</institution-id><institution-id institution-id-type="GRID">grid.272242.3</institution-id><institution>Department of Thoracic Surgery, National Cancer Center Hospital, </institution></institution-wrap>5-1-1 Tsukiji, Chuo-ku, Tokyo 104-0045 Japan </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 9959</institution-id><institution-id institution-id-type="GRID">grid.26091.3c</institution-id><institution>Division of Thoracic Surgery, Department of Surgery, Keio University School of Medicine, </institution></institution-wrap>35 Shinanomachi, Shinjuku-ku, Tokyo 160-8582 Japan </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2168 5385</institution-id><institution-id institution-id-type="GRID">grid.272242.3</institution-id><institution>Division of Molecular and Cellular Medicine, National Cancer Center Research Institute, </institution></institution-wrap>5-1-1 Tsukiji, Chuo-ku, Tokyo 104-0045 Japan </aff>
+        <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0661 2073</institution-id><institution-id institution-id-type="GRID">grid.411898.d</institution-id><institution>Division of Respiratory Diseases, Department of Internal Medicine, The Jikei University School of Medicine, </institution></institution-wrap>3-25-8 Nishi-shimbashi, Minato-ku, Tokyo 105-8461 Japan </aff>
+        <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0658 2898</institution-id><institution-id institution-id-type="GRID">grid.452701.5</institution-id><institution>Toray Industries, </institution></institution-wrap>Inc. 6-10-1 Tebiro, Kamakura city, Kanagawa 248-0036 Japan </aff>
+        <aff id="Aff6"><label>6</label>Dynacom Co., Ltd., World Business Garden E25, 2-6-1 Nakase, Mihama-ku, Chiba city, Chiba 261-7125 Japan </aff>
+        <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2168 5385</institution-id><institution-id institution-id-type="GRID">grid.272242.3</institution-id><institution>Department of Biobank and Tissue Resources, National Cancer Center Research Institute, </institution></institution-wrap>Tokyo, 104-0045 Japan </aff>
+        <aff id="Aff8"><label>8</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2168 5385</institution-id><institution-id institution-id-type="GRID">grid.272242.3</institution-id><institution>Department of Gastrointestinal Medical Oncology, National Cancer Center Hospital, </institution></institution-wrap>5-1-1 Tsukiji, Chuo-ku, Tokyo 104-0045 Japan </aff>
+        <aff id="Aff9"><label>9</label>Institute of Medical Science, Tokyo Medical University, Tokyo, 160-0023 Japan </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>3</month>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>19</day>
+        <month>3</month>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2020</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>134</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>2</month>
+          <year>2020</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2020</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article&#x2019;s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article&#x2019;s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <p id="Par1">Lung cancer, the leading cause of cancer death worldwide, is most frequently detected through imaging tests. In this study, we investigated serum microRNAs (miRNAs) as a possible early screening tool for resectable lung cancer. First, we used serum samples from participants with and without lung cancer to comprehensively create 2588 miRNAs profiles; next, we established a diagnostic model based on the combined expression levels of two miRNAs (miR-1268b and miR-6075) in the discovery set (208 lung cancer patients and 208 non-cancer participants). The model displayed a sensitivity of 99% and specificity of 99% in the validation set (1358 patients and 1970 non-cancer participants) and exhibited high sensitivity regardless of histological type and pathological TNM stage of the cancer. Moreover, the diagnostic index markedly decreased after lung cancer resection. Thus, the model we developed has the potential to markedly improve screening for resectable lung cancer.</p>
+      </abstract>
+      <abstract id="Abs2" abstract-type="web-summary">
+        <p id="Par2">Asakura, Kadota et al. demonstrate the diagnostic potential of serum microRNAs for resectable lung cancer. Their diagnostic model based on the combined expression levels of two miRNAs predicts resectable lung cancer with 99% sensitivity, regardless of histological types and pathological stages of cancer, suggesting its promising, diagnostic utility.</p>
+      </abstract>
+      <kwd-group kwd-group-type="npg-subject">
+        <title>Subject terms</title>
+        <kwd>Diagnostic markers</kwd>
+        <kwd>Cancer screening</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">https://doi.org/10.13039/100009619</institution-id>
+              <institution>Japan Agency for Medical Research and Development (AMED)</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>18ae0101011h0005</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Ochiya</surname>
+              <given-names>Takahiro</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; The Author(s) 2020</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1" sec-type="introduction">
+      <title>Introduction</title>
+      <p id="Par3">Lung cancer is the most common cancer and the leading cause of cancer-related death worldwide<sup><xref ref-type="bibr" rid="CR1">1</xref></sup>. The 5-year overall survival rate in patients with stage I non-small cell lung cancer is approximately 80%<sup><xref ref-type="bibr" rid="CR2">2</xref></sup>. However, most patients with stage I lung cancer are asymptomatic and are thus unlikely to be diagnosed. In fact, about 75% of lung cancers are diagnosed as locally advanced or metastatic disease (stage III or IV), which are associated with poorer overall survival (37 and 6%, respectively)<sup><xref ref-type="bibr" rid="CR2">2</xref></sup>. Therefore, early detection is essential for decreasing lung cancer-related mortality.</p>
+      <p id="Par4">Computed tomography (CT) has been shown to be an effective method for lung cancer screening of high-risk populations. The National Lung Screening Trial revealed that high-risk participants who underwent CT screening had a 20% decrease in lung cancer mortality<sup><xref ref-type="bibr" rid="CR3">3</xref></sup>. Based on this result, in 2014, the United States Preventive Services Task Force (USPSTF) released recommendations for low-dose CT scans for lung cancer screening in high-risk patients (people 55&#x2013;74 years old with a 30 pack-year smoking history who currently smoke or quit within the past 15 years)<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>. However, screening by CT scan has several limitations: low specificity (61%) for detection of lung cancer, resulting in unnecessary follow-up CT scans or invasive lung biopsies<sup><xref ref-type="bibr" rid="CR5">5</xref></sup>; poor access to CT facilities in some regions<sup><xref ref-type="bibr" rid="CR6">6</xref></sup>; and a low screening rate (3.9% in the eligible high-risk population in the United States)<sup><xref ref-type="bibr" rid="CR7">7</xref></sup>.</p>
+      <p id="Par5">MicroRNAs (miRNAs), 19&#x2013;22-nucleotide noncoding RNAs that regulate gene activity, are differentially regulated in various types of cancer, including ovarian, liver, gastric, pancreatic, esophageal, colorectal, breast, and lung cancers<sup><xref ref-type="bibr" rid="CR8">8</xref>,<xref ref-type="bibr" rid="CR9">9</xref></sup>. Due to the marked stability of miRNA, it is measurable in whole blood<sup><xref ref-type="bibr" rid="CR10">10</xref></sup>, plasma<sup><xref ref-type="bibr" rid="CR11">11</xref>&#x2013;<xref ref-type="bibr" rid="CR13">13</xref></sup>, serum<sup><xref ref-type="bibr" rid="CR14">14</xref>,<xref ref-type="bibr" rid="CR15">15</xref></sup>, and sputum<sup><xref ref-type="bibr" rid="CR16">16</xref>,<xref ref-type="bibr" rid="CR17">17</xref></sup>, and is therefore suitable as a potential biomarker for lung cancer. Previous reports revealed the usefulness of circulating miRNAs for detection of lung cancer<sup><xref ref-type="bibr" rid="CR8">8</xref>,<xref ref-type="bibr" rid="CR13">13</xref>&#x2013;<xref ref-type="bibr" rid="CR15">15</xref>,<xref ref-type="bibr" rid="CR18">18</xref></sup>. However, the results of these studies were discrepant, possibly due to the limited number of samples or analyzed miRNAs. To address this issue, we managed a national research project in Japan called &#x201C;Development and Diagnostic Technology for Detection of miRNA in Body Fluids.&#x201D; The purposes of this project were to standardize platforms for the analysis of serum miRNAs and to characterize the serum miRNA profiles in 13 types of cancer, including lung cancer, using a large sample size (<italic>n</italic>&#x2009;&gt;&#x2009;50,000). The project was the largest study to date of miRNA in the context of cancer screening. In the study reported here, we examined the utility of serum miRNAs as biomarkers for the detection of resectable lung cancer using a large number of serum samples.</p>
+    </sec>
+    <sec id="Sec2" sec-type="results">
+      <title>Results</title>
+      <sec id="Sec3">
+        <title>Participants</title>
+        <p id="Par6">To generate comprehensive miRNA expression profiles, 1698 lung cancer and 207 non-cancer serum samples from National Cancer Center (NCC) Biobank and 1998 non-cancer serum samples from Yokohama Minoru Clinic (YMC) were analyzed by miRNA microarray. Among the 1698 lung cancer serum samples, 74 were excluded due to low-quality microarray results, 33 due to past history of other cancers, 25 due to lack of patient information, 19 due to treatment before collection of serum, and 4 because the interval between serum collection and surgery was greater than 180 days, leaving 1566 samples for analysis (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>).<fig id="Fig1"><label>Fig. 1</label><caption><title>Workflow of lung cancer and non-cancer controls used for developing a diagnostic model.</title><p>Serum samples were obtained from 1698 lung cancer, 207 non-cancer patients in National Cancer Center biobank, and 1998 non-cancer participants in Yokohama Minoru Clinic. After excluding 132 samples from National Cancer Center biobank and 27 samples from Yokohama Minoru Clinic, the sample set was divided into two groups: the discovery set (<italic>N</italic>&#x2009;=&#x2009;416) and validation set (<italic>N</italic>&#x2009;=&#x2009;3328).</p></caption><graphic xlink:href="42003_2020_863_Fig1_HTML" id="d29e522"/></fig></p>
+        <p id="Par7">Lung cancer, NCC non-cancer, and YMC non-cancer samples were grouped into discovery and validation sets. The discovery set included 208 lung cancer, 104 NCC non-cancer, and 104 YMC non-cancer samples. The validation sets included 1358 lung cancer, 103 NCC non-cancer, and 1867 YMC non-cancer samples. Patient characteristics for the discovery and validation sets are shown in Table&#xA0;<xref rid="Tab1" ref-type="table">1</xref>. In the discovery set, we observed no significant difference in patient characteristics, including age, sex, or smoking history, between the 208 lung cancer patients and 208 non-cancer participants. In the validation set, age was significantly higher in the 1358 lung cancer patients than in the 1970 non-cancer participants (66.3&#x2009;&#xB1;&#x2009;0.3 vs. 50.3&#x2009;&#xB1;&#x2009;0.2, <italic>p</italic>&#x2009;&lt;&#x2009;0.001). In the validation set, the proportions of men and smokers were also significantly higher among lung cancer patients than among non-cancer participants (57.6% vs. 52.1%, <italic>p</italic>&#x2009;=&#x2009;0.002; 65.4% vs. 20.3%, <italic>p</italic>&#x2009;&lt;&#x2009;0.0001, respectively).<table-wrap id="Tab1"><label>Table 1</label><caption><p>Patient characteristics in discovery and validation sets.</p></caption><table frame="hsides" rules="groups"><thead><tr><th>Variables</th><th colspan="3">Discovery set (<italic>N</italic>&#x2009;=&#x2009;416)</th><th colspan="3">Validation set (<italic>N</italic>&#x2009;=&#x2009;3328)</th></tr><tr><th/><th>Lung cancer (<italic>N</italic>&#x2009;=&#x2009;208)</th><th>Non-cancer (<italic>N</italic>&#x2009;=&#x2009;208)</th><th><italic>P</italic> Value</th><th>Lung cancer (<italic>N</italic>&#x2009;=&#x2009;1358)</th><th>Non-cancer (<italic>N</italic>&#x2009;=&#x2009;1970)</th><th><italic>P</italic> Value</th></tr></thead><tbody><tr><td>Age, years &#xB1; SD</td><td>60.2&#x2009;&#xB1;&#x2009;0.5</td><td>60.0&#x2009;&#xB1;&#x2009;0.5</td><td>0.7843</td><td>66.3&#x2009;&#xB1;&#x2009;0.3</td><td>50.3&#x2009;&#xB1;&#x2009;0.2</td><td>&lt;0.001</td></tr><tr><td colspan="7">Sex, <italic>n</italic> (%)</td></tr><tr><td>&#x2003;Men</td><td>113 (54.3)</td><td>103 (50.0)</td><td>0.377</td><td>782 (57.6)</td><td>1026 (52.1)</td><td>0.002</td></tr><tr><td>&#x2003;Women</td><td>95 (45.7)</td><td>105 (50.0)</td><td/><td>576 (42.4)</td><td>944 (47.9)</td><td/></tr><tr><td colspan="7">Smoking status, <italic>n</italic> (%)</td></tr><tr><td>&#x2003;Former or current</td><td>84 (40.4)</td><td>83 (40.0)</td><td>1.0</td><td>888 (65.4)</td><td>399 (20.3)</td><td>&lt;0.001</td></tr><tr><td>&#x2003;Never</td><td>124 (59.6)</td><td>125 (60.1)</td><td/><td>470 (34.6)</td><td>1571 (79.7)</td><td/></tr><tr><td colspan="7">Histology, n (%)</td></tr><tr><td>&#x2003;Adenocarcinoma</td><td>179 (86.1)</td><td>&#x2013;</td><td>&#x2013;</td><td>1038 (76.4)</td><td>&#x2013;</td><td>&#x2013;</td></tr><tr><td>&#x2003;Squamous carcinoma</td><td>14 (6.7)</td><td>&#x2013;</td><td>&#x2013;</td><td>207 (15.2)</td><td>&#x2013;</td><td>&#x2013;</td></tr><tr><td>&#x2003;Adenosquamous carcinoma</td><td>1 (0.5)</td><td>&#x2013;</td><td>&#x2013;</td><td>17 (1.3)</td><td>&#x2013;</td><td>&#x2013;</td></tr><tr><td>&#x2003;Small cell carcinoma</td><td>1 (0.5)</td><td>&#x2013;</td><td>&#x2013;</td><td>22 (1.6)</td><td>&#x2013;</td><td>&#x2013;</td></tr><tr><td>&#x2003;Other</td><td>13 (6.3)</td><td>&#x2013;</td><td>&#x2013;</td><td>74 (5.4)</td><td>&#x2013;</td><td>&#x2013;</td></tr><tr><td colspan="7">Stage, n (%)</td></tr><tr><td>&#x2003;I (IA+ IB)</td><td>155 (74.5)</td><td>&#x2013;</td><td>&#x2013;</td><td>971 (71.5)</td><td>&#x2013;</td><td>&#x2013;</td></tr><tr><td>&#x2003;II (IIA+ IIB)</td><td>26 (12.5)</td><td>&#x2013;</td><td>&#x2013;</td><td>207 (15.2)</td><td>&#x2013;</td><td>&#x2013;</td></tr><tr><td>&#x2003;III (IIIA+ IIIB)</td><td>22 (10.6)</td><td>&#x2013;</td><td>&#x2013;</td><td>170 (12.5)</td><td>&#x2013;</td><td>&#x2013;</td></tr><tr><td>&#x2003;IV</td><td>3 (1.4)</td><td>&#x2013;</td><td>&#x2013;</td><td>8 (0.6)</td><td>&#x2013;</td><td>&#x2013;</td></tr><tr><td>&#x2003;0</td><td>2 (1.0)</td><td>&#x2013;</td><td>&#x2013;</td><td>2 (0.1)</td><td>&#x2013;</td><td>&#x2013;</td></tr></tbody></table></table-wrap></p>
+      </sec>
+      <sec id="Sec4">
+        <title>Selection of circulating miRNA biomarker candidates</title>
+        <p id="Par8">The expression levels of the 2588 miRNAs were measured in the discovery set (208 lung cancer and 208 non-cancer samples). Of those, 406 miRNAs passed the quality check criteria, described in methods, and were selected for subsequent analysis (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2a</xref>). Principal component analysis mapping (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2b</xref>) and hierarchical unsupervised clustering analysis (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2c</xref>) were performed to visualize the expression patterns of these 406 miRNAs in all samples in the discovery set. These two classification analyses showed that the miRNA profiles differed between lung cancer and non-cancer samples.<fig id="Fig2"><label>Fig. 2</label><caption><title>Strategy for the selection of candidate miRNAs for lung cancer diagnosis.</title><p><bold>a</bold> Flow diagram of the (1) miRNA expression analysis and (2) development of the diagnostic model. <bold>b</bold> A principal component analysis map for 208 lung cancer samples and 208 non-cancer samples with 406 miRNAs. <bold>c</bold> Heat map showing the differences in miRNA expression levels between 208 lung cancer and 208 non-cancer control samples.</p></caption><graphic xlink:href="42003_2020_863_Fig2_HTML" id="d29e983"/></fig></p>
+      </sec>
+      <sec id="Sec5">
+        <title>Identifying the best combination of miRNAs for lung cancer detection</title>
+        <p id="Par9">To establish a comprehensive discriminant consisting of one to three miRNAs in the discovery set, we used Fisher&#x2019;s linear discriminant analysis (Table&#xA0;<xref rid="Tab2" ref-type="table">2</xref>, Supplementary Tables&#xA0;<xref rid="MOESM1" ref-type="media">1</xref> and <xref rid="MOESM1" ref-type="media">2</xref>). One single miRNA was effective in distinguishing cancer patients (diagnostic index = 0.491213 &#xD7; miR-17-3p &#x2013; 2.49845; Area under the curve (AUC), 0.935; sensitivity, 93.3%; specificity, 88.5%) (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3a</xref>). However, a combination of two miRNAs (miR-1268b and miR-6075) improved the AUC relative to the single miRNA (diagnostic index&#x2009;=&#x2009;&#x2212;3.56049 &#xD7; miR-1268b&#x2009;+&#x2009;1.99039 &#xD7; miR-6075&#x2009;+&#x2009;16.7999; AUC, 0.993; sensitivity, 99.0%; specificity, 99.0%) (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3b, c</xref>). The addition of the first candidate miRNA (miR-6858-5p) to the combination of two miRNAs (miR-1268b and miR-6075) did not improve the results (AUC, 0.995; sensitivity, 99.0%; specificity, 99.0%) (Table&#xA0;<xref rid="Tab2" ref-type="table">2</xref>). Therefore, we selected the combination of two miRNAs (miR-1268b and miR-6075) that yielded the best discrimination in the discovery set.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Discriminant analysis for lung cancer (diagnostic model).</p></caption><table frame="hsides" rules="groups"><thead><tr><th>Model</th><th>Number of miRNAs</th><th>Sensitivity (%)</th><th>Specificity (%)</th><th>Accuracy (%)</th><th>PPV (%)</th><th>NPV(%)</th><th>AUC</th></tr></thead><tbody><tr><td>model 1</td><td>1</td><td>93.3</td><td>88.5</td><td>90.9</td><td>89.0</td><td>92.9</td><td>0.935<sup>a</sup></td></tr><tr><td>model 2</td><td>2</td><td>99.0</td><td>99.0</td><td>99.0</td><td>99.0</td><td>99.0</td><td>0.993<sup>b</sup></td></tr><tr><td>model 3</td><td>3</td><td>99.0</td><td>99.0</td><td>99.0</td><td>99.0</td><td>99.0</td><td>0.995</td></tr></tbody></table><table-wrap-foot><p>model1: (0.491213) &#xD7; miR-17-3p &#x2212; 2.49845.</p><p>model2: (&#x2212;3.56049) &#xD7; miR-1268b&#x2009;+&#x2009;(1.99039) &#xD7; miR-6075&#x2009;+&#x2009;16.7999.</p><p>model3: (&#x2212;3.87517) &#xD7; miR-1268b&#x2009;+&#x2009;(2.28137) &#xD7; miR-6075&#x2009;+&#x2009;(&#x2212;0.81776) &#xD7; miR-6858-5p&#x2009;+&#x2009;23.5615.</p><p><sup>a</sup>DeLong&#x2019;s test for two correlated ROC curves to assess whether the model 2 gives a significantly greater AUC compared with model 1, <italic>P</italic>&#x2009;&lt;&#x2009;0.0001</p><p><sup>b</sup>DeLong&#x2019;s test for two correlated ROC curves to assess whether the model 3 gives a significantly greater AUC compared with model 2, <italic>P</italic>&#x2009;=&#x2009;0.342</p></table-wrap-foot></table-wrap><fig id="Fig3"><label>Fig. 3</label><caption><title>Development of a discrimination model to distinguish lung cancers from non-cancer participants.</title><p><bold>a</bold> Receiver operating characteristic (ROC) curves for detecting lung cancer patients using miR-17-3p selected as the best single miRNA model in the discovery set. <bold>b</bold> Receiver operating characteristic (ROC) curves for detecting lung cancer patients using two miRNAs selected as best discrimination model in the discovery set. <bold>c</bold> Diagnostic index levels of miR-17-3p and two miRNAs selected as best discrimination model among lung cancer, non-cancer 1 and non-cancer 2. A diagnostic index score &#x2265; 0 indicated lung cancer and a diagnostic index score &lt; 0 indicated the absence of lung cancer. model(miR-7-3p): (0.491213) &#xD7; miR-17-3p&#x2212;2.49845, model(miR-1268b): (&#x2212;3.55955) &#xD7; miR-1268b&#x2009;+&#x2009;34.53362, model(miR-6075): (2.17625) &#xD7; miR-6075&#x2212;18.78233, model(miR-1268b&#x2009;+&#x2009;miR-6075): (&#x2212;3.56049) &#xD7; miR-1268b&#x2009;+&#x2009;(1.99039) &#xD7; miR-6075&#x2009;+&#x2009;16.7999.</p></caption><graphic xlink:href="42003_2020_863_Fig3_HTML" id="d29e1169"/></fig></p>
+        <p id="Par10">We then confirmed the diagnostic performance of the model in the validation set, which showed that the model was highly reliable (AUC, 0.996; sensitivity, 95.0%; specificity, 99.0%; Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>). According to our univariable logistic regression analysis, the odds ratio (OR) of the diagnostic model for the presence of lung cancer was 21.76 (95% confidence interval [CI], 15.98&#x2013;29.63). Because patient sex, age, and smoking status were not matched between cases and controls, we performed sex-, age-, and smoking status&#x2013;adjusted logistic regression analysis of the validation set. The results revealed that the diagnostic indices of the two miRNAs were statistically significantly associated with the presence of lung cancer (adjusted OR, 20.34; 95% CI, 13.99&#x2013;29.57) (Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">3</xref>).<fig id="Fig4"><label>Fig. 4</label><caption><title>Diagnostic performance of the discrimination model in the validation set.</title><p>Receiver operating characteristic (ROC) curves for detecting lung cancer patients using two miRNAs selected as best discrimination model.</p></caption><graphic xlink:href="42003_2020_863_Fig4_HTML" id="d29e1188"/></fig></p>
+      </sec>
+      <sec id="Sec6">
+        <title>Performance of the diagnostic index as a function of clinical condition</title>
+        <p id="Par11">Next, we examined the performance of the diagnostic index for each pathological TNM stage and each histological type of lung cancer in the validation set. The diagnostic index exhibited high performance for all pathological stages (IA, 96.1%; IB, 93.7%; IIA, 97.3%; IIB, 96.7%; IIIA, 90.2%; IIIB, 83.3%; IV, 100%), T stages (T1a, 96.1%; T1b, 95.6%; T2a, 93.6%; T2b, 92.3%; T3, 94.4%; T4, 94.1%), N stages (N0, 95.5%; N1, 95.8%; N2, 90.1%), M stages (M0, 94.7%; M1a, 100%), and histological types (adenocarcinoma, 95.1%; squamous cell carcinoma, 94.2%; small-cell lung cancer, 90.9%) (Fig.&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>).<fig id="Fig5"><label>Fig. 5</label><caption><title>Diagnostic performance of the discrimination model at different stages and histological types of lung cancer.</title><p><bold>a</bold> Diagnostic performance of the two selected miRNAs at different pathological TNM stages in the validation set. The diagnostic index showed high performance for all stages. Each positive rate is shown in the plot. <bold>b</bold> Diagnostic performance of the two selected miRNAs at different histological types in the validation set. The diagnostic index showed high performance for all histological types. Each positive rate is shown in the plot.</p></caption><graphic xlink:href="42003_2020_863_Fig5_HTML" id="d29e1212"/></fig></p>
+      </sec>
+      <sec id="Sec7">
+        <title>Comparison of the diagnostic indexes between preoperative and postoperative serum samples</title>
+        <p id="Par12">Next, we compared the diagnostic indexes of three miRNAs between preoperative and postoperative serum samples from 180 lung cancer patients. The diagnostic indexes of miR-17-3p, miR-1268b, and miR-6075 and the two-miRNA panel (miR-1268b and miR-6075) were significantly decreased after surgery. (miR-17-3p, 0.71&#x2009;&#xB1;&#x2009;0.46 vs. &#x2212;3.10&#x2009;&#xB1;&#x2009;0.32, <italic>p</italic>&#x2009;&lt;&#x2009;0.001; miR-1268b, 1.15&#x2009;&#xB1;&#x2009;0.88 vs. &#x2212;1.83&#x2009;&#xB1;&#x2009;0.75, <italic>p</italic>&#x2009;&lt;&#x2009;0.001; miR-6075, 0.44&#x2009;&#xB1;&#x2009;0.85 vs. &#x2212;2.10&#x2009;&#xB1;&#x2009;1.16, <italic>p</italic>&#x2009;&lt;&#x2009;0.001; two-miRNA panel (miR-1268b and miR-6075), 0.98&#x2009;&#xB1;&#x2009;0.82 vs. &#x2212;4.30&#x2009;&#xB1;&#x2009;1.15, <italic>p</italic>&#x2009;&lt;&#x2009;0.001; Fig.&#xA0;<xref rid="Fig6" ref-type="fig">6</xref>).<fig id="Fig6"><label>Fig. 6</label><caption><title>Comparison of diagnostic indexes between preoperative and postoperative serum samples from lung cancer patients.</title><p>Diagnostic index levels of miR-17-3p, miR-1268b, miR-6075, and two-miRNA panel (miR-1268b and miR-6075) were decreased after lung cancer resection. A diagnostic index score &#x2265; 0 indicated lung cancer and a diagnostic index score &lt; 0 indicated the absence of lung cancer.</p></caption><graphic xlink:href="42003_2020_863_Fig6_HTML" id="d29e1244"/></fig></p>
+      </sec>
+    </sec>
+    <sec id="Sec8" sec-type="discussion">
+      <title>Discussion</title>
+      <p id="Par13">In this study, we comprehensively profiled the expression of 2588 miRNAs, constituting all human miRNAs identified to date, according to miRBase release 21 (<ext-link ext-link-type="uri" xlink:href="http://www.mirbase.org/">http://www.mirbase.org/</ext-link>)<sup><xref ref-type="bibr" rid="CR19">19</xref></sup>, in serum samples from 1566 lung cancer and 2178 non-cancer participants, on a standardized microarray platform. The results revealed that lung cancer patients could be accurately distinguished from non-cancer participants based on the serum levels of two miRNAs (sensitivity and specificity, 99%). This is the largest study to date of miRNA profiling in the context of lung cancer detection.</p>
+      <p id="Par14">Recently, a series of articles reported that many kinds of circulating miRNAs can be applied to lung cancer detection<sup><xref ref-type="bibr" rid="CR8">8</xref>,<xref ref-type="bibr" rid="CR10">10</xref>,<xref ref-type="bibr" rid="CR11">11</xref>,<xref ref-type="bibr" rid="CR14">14</xref>,<xref ref-type="bibr" rid="CR15">15</xref>,<xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR21">21</xref></sup>. For example, serum miR-21, an oncogenic miRNA, is useful for detection lung cancer<sup><xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR21">21</xref></sup>. However, the results of previous studies are inconsistent, probably due to their small sample sizes and limited numbers of analyzed miRNAs. The largest previous study included 514 patients with lung cancer, but evaluated only one miRNA, miR-499<sup><xref ref-type="bibr" rid="CR15">15</xref></sup>. Several studies were performed using miRNA panels with fewer than 34 miRNAs<sup><xref ref-type="bibr" rid="CR14">14</xref>,<xref ref-type="bibr" rid="CR22">22</xref>,<xref ref-type="bibr" rid="CR23">23</xref></sup>. To address this issue, we conducted a national study to analyze comprehensive miRNA profiles in a large sample population. The diagnostic accuracy of lung cancer detection using our model (sensitivity and specificity, 99%) was much higher than those reported in previous studies. For example, Wang et al. performed a meta-analysis of 28 articles involving 2121 non-small-cell lung cancer patients, and 1582 healthy controls, and reported that the overall pooled sensitivity and specificity of miRNA were 75 and 79%<sup><xref ref-type="bibr" rid="CR24">24</xref></sup>, respectively. One possible reason for the high diagnostic accuracy of our model is that we could select the best combinations of two miRNAs from the large number of pairwise combinations of 2588 miRNAs.</p>
+      <p id="Par15">We identified the combination of miR-1268b and miR-6075 in serum as a biomarker for resectable lung cancer. To date, the function and serum expression profiles of these two miRNAs have not been extensively investigated. Zhu et al. reported that miR-1268b is upregulated in drug-sensitive breast cancer, and that ERBB2, a receptor tyrosine kinase, is a direct target gene of miR-1268b<sup><xref ref-type="bibr" rid="CR25">25</xref></sup>. On the other hand, Kojima et al. reported that serum miR-6075 can detect pancreatic and biliary tract cancer with a sensitivity and specificity of 63.6 and 93.5%, respectively; their study analyzed 571 serum samples, including material from 100 patients with pancreatic or biliary tract cancer<sup><xref ref-type="bibr" rid="CR26">26</xref></sup>. These reports suggest that elevated levels of the two miRNAs are associated with tumorigenesis and/or progression of lung cancer.</p>
+      <p id="Par16">MiR-17-3p was the best single miRNA for detecting lung cancer in the discovery set (cross-validation score = 0.9087, Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">1</xref>), although miR-1268b and miR-6075 combination achieved the highest accuracy as two miRNAs combination (cross-validation score = 0.9904, Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">2</xref>). MiR-17-3p is a member of the miR-17-92 cluster, which has been reported to play oncogenic roles by promoting tumor cell proliferation<sup><xref ref-type="bibr" rid="CR27">27</xref>,<xref ref-type="bibr" rid="CR28">28</xref></sup>, invasion<sup><xref ref-type="bibr" rid="CR29">29</xref></sup>, and suppressing apoptosis of tumor cells<sup><xref ref-type="bibr" rid="CR30">30</xref></sup>. Previous reports have shown that miR-17-92 cluster were associated with the tumorigenesis in colorectal cancer<sup><xref ref-type="bibr" rid="CR31">31</xref>,<xref ref-type="bibr" rid="CR32">32</xref></sup>, breast cancer<sup><xref ref-type="bibr" rid="CR33">33</xref></sup>, glioblastoma<sup><xref ref-type="bibr" rid="CR34">34</xref></sup>, skin cancer<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>, gallbladder cancer<sup><xref ref-type="bibr" rid="CR36">36</xref></sup>, hepatocellular cancer<sup><xref ref-type="bibr" rid="CR37">37</xref></sup>, prostate cancer<sup><xref ref-type="bibr" rid="CR29">29</xref></sup>, B-cell lymphoma<sup><xref ref-type="bibr" rid="CR30">30</xref></sup>, and lung cancer<sup><xref ref-type="bibr" rid="CR28">28</xref></sup>. Moreover, it has been reported that high expression level of serum miR-17-3p were correlated with poor prognosis in patients with colorectal cancer<sup><xref ref-type="bibr" rid="CR38">38</xref></sup> and prostate cancer<sup><xref ref-type="bibr" rid="CR39">39</xref></sup>. These reports regarding various types of cancers including lung cancer support our finding that elevated level of serum miR-17-3p highly correlated with lung cancer.</p>
+      <p id="Par17">In this study, the serum levels of the two biomarker miRNAs (miR-1268b and miR-6075) were detected even in the early stages of lung cancer, and did not correlate with pathological stage. These characteristics are different from classical plasma tumor markers such as caricinoembrionic antigen. However, the diagnostic indexes of the selected biomarker miRNAs (miR-17-3p, miR-1268b, miR-6075 and the two-miRNA panel (miR-1268b and miR-6075) were dramatically decreased within 60 days after lung cancer resection. This finding suggests that these miRNAs are tumor-derived similar to plasma tumor markers. However, we have not identified the origins of these miRNAs. Therefore, the origins and detailed function of these miRNAs should be investigated in future studies.</p>
+      <p id="Par18">Our results show that the miRNA profile of lung cancer patients is distinct from that of non-cancer participants, regardless of histological type and pathological TNM stage. Although adenocarcinoma is the most common histological type of lung cancer, other histological types account for approximately 20% of cases in the Japanese Lung Cancer Registry<sup><xref ref-type="bibr" rid="CR40">40</xref></sup>. Therefore, accurate detection of lung cancers other than adenocarcinoma is also important. The 5-year overall survival rate of patients with stage I non-small-cell lung cancer is approximately 80%<sup><xref ref-type="bibr" rid="CR2">2</xref></sup>, whereas those of patients with stage III and IV non-small-cell lung cancer are 37 and 6%, respectively. Therefore, a high sensitivity (96%) for pathological stage IA non-small-cell lung cancer could dramatically decrease lung cancer-related mortality.</p>
+      <p id="Par19">The National Lung Screening Trial revealed a 20% decrease in lung cancer mortality among high-risk participants who received CT screening<sup><xref ref-type="bibr" rid="CR3">3</xref></sup>. However, the most important limitation of screening by CT scan is a high false-positive rate, 64%, which results in unnecessary follow-up CT scans or invasive lung biopsies<sup><xref ref-type="bibr" rid="CR5">5</xref></sup>. To address this issue, Sozzi et al. conducted a study to determine the diagnostic performance of a prespecified miRNA signature classifier algorithm in 939 participants retrospectively evaluated using samples prospectively collected within the randomized Multicenter Italian Lung Detection clinical trial comparing low-dose CT with usual care<sup><xref ref-type="bibr" rid="CR41">41</xref></sup>. Their results showed that combining miRNA signature classifier and low-dose CT decreased the low-dose CT false-positive rate by 5-fold, from 19.4 to 3.7%<sup><xref ref-type="bibr" rid="CR13">13</xref></sup>. Due to the high sensitivity and specificity of miRNA, first-line miRNA-based screening before low-dose CT could reduce the rate of unnecessary low-dose CTs and invasive biopsies in participants without lung cancer.</p>
+      <p id="Par20">The absence of lung cancer in non-cancer controls was defined according to self-reported medical history and chest X-ray, and was not confirmed by CT scans or biopsies in most non-cancer participants from YMC. However, the National Lung Screening Trial reported that the incidence of lung cancer in high-risk populations is as low as 0.6%<sup><xref ref-type="bibr" rid="CR3">3</xref></sup>. Therefore, it is reasonable to regard these participants as not having lung cancer. In addition, this study used retrospectively collected serum samples; therefore, storage conditions before microarray analysis were not strictly controlled, and this may have affected the results. Indeed, several studies reported that miRNAs are affected by various physical processes<sup><xref ref-type="bibr" rid="CR42">42</xref>,<xref ref-type="bibr" rid="CR43">43</xref></sup>. Because direct comparison between NCC Biobank samples and non-cancer control samples from YMC could introduce bias, we did not select biomarker miRNA candidates by comparing miRNAs between NCC lung cancer and YMC non-cancer samples. Rather, we used NCC non-cancer controls to choose miRNA candidates that were upregulated or downregulated in both NCC and YMC non-cancer samples relative to lung cancer samples. This process allowed us to exclude certain miRNAs showing alterations in serum levels only in NCC non-cancer patients, but not in YMC non-cancer participants. In addition, we recently started a prospective project to validate the general applicability of our findings in fresh serum samples; we will report the results in the near future.</p>
+      <p id="Par21">In this study, the largest of its kind to date, analysis of serum miRNA levels from a large pool of participants with and without lung cancer identified a combination of two miRNAs, miR-1268b and miR-6075, as reliable markers for resectable lung cancer. The high sensitivity and specificity demonstrated by our results indicate the potential efficacy of this model in improving the early detection of resectable lung cancer, thereby reducing mortality and the use of unnecessary diagnostic procedures.</p>
+    </sec>
+    <sec id="Sec9">
+      <title>Methods</title>
+      <sec id="Sec10">
+        <title>Lung cancer patients</title>
+        <p id="Par22">Serial serum samples were collected preoperatively from patients with lung cancer who underwent surgical resection at the National Cancer Center Hospital (NCCH). Serum collection was performed at outpatient department along with routine blood tests before surgery. These samples were registered in the NCC Biobank between 2008 and 2016 and stored at &#x2212;20&#x2009;&#xB0;C until use. Clinical information for all samples was collected from the electronic medical charts of each patient. Exclusion criteria were as follows: past history of any other cancers before the collection of serum samples; preoperative treatment for lung cancer before the collection of serum samples; no information about smoking history; no information about pathological stage; interval between collection of serum samples and operation for lung cancer &#x2265;180 days. Serum was also collected postoperatively from 180 lung cancer patients at the outpatient department within 60 postoperative days. Postoperative serum samples were also registered in the NCC Biobank and stored at &#x2212;20&#x2009;&#xB0;C until use.</p>
+      </sec>
+      <sec id="Sec11">
+        <title>Non-cancer participants</title>
+        <p id="Par23">Serum samples from study participants without cancer were collected at YMC (<italic>n</italic>&#x2009;=&#x2009;1998) from patients at NCCH who were not diagnosed with cancer based on imaging or biopsy results (<italic>n</italic>&#x2009;=&#x2009;207). Serum collection from non-cancer participants at NCCH were performed at outpatient department along with routine blood tests. Inclusion criteria for these study participants providing non-cancer serum samples were no history of hospitalization during the last 3 months and no history of malignant disease. Information about smoking history was available for all samples. The serum samples were stored at &#x2212;20&#x2009;&#xB0;C until use.</p>
+      </sec>
+      <sec id="Sec12">
+        <title>Serum miRNA expression analysis</title>
+        <p id="Par24">Total RNA was extracted from aliquots (300&#x2009;&#xB5;L) of the serum samples with 3D-Gene&#xAE; RNA extraction reagent (Toray Industries, Tokyo, Japan). Then, comprehensive miRNA profiling was performed with the 3D-Gene&#xAE; miRNA Labeling kit and 3D-Gene&#xAE; Human miRNA Oligo Chip (Toray Industries), which was designed to analyze 2588 miRNA sequences registered in miRBase release 21 (<ext-link ext-link-type="uri" xlink:href="http://www.mirbase.org/">http://www.mirbase.org/</ext-link>)<sup><xref ref-type="bibr" rid="CR19">19</xref></sup>. To ensure the quality of the microarray data, the following criteria for low-quality data were used: more than 10 flagged probes identified as &#x201C;uneven spot images&#x201D; by the 3D-Gene&#xAE; Scanner and a coefficient of variation for negative control probes greater than 0.15. Samples fulfilling these criteria were excluded from further analysis. A miRNA was defined as present when the signal was greater than the mean + 2&#xD7; the standard deviation of the negative control signal, from which the top and bottom 5%, as ranked by signal intensity, were removed. Once a miRNA was judged to be present, the average signal of the negative control was subtracted from the miRNA signal. Three internal control miRNAs (miR-4463, miR-2861, and miR-1493-p) were used to normalize the microarray signals as described previously<sup><xref ref-type="bibr" rid="CR44">44</xref>&#x2013;<xref ref-type="bibr" rid="CR48">48</xref></sup>. The expression levels of these miRNAs in the present dataset were checked by geNorm log2 ranking analysis, and the results showed that these miRNAs were in the top 100 in serum samples from both NCCH and YMC (data shown in Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">4</xref>), suggesting that these miRNAs are also suitable for normalization in this study. If the signal value was negative (or undetected) after normalization, the signal value was replaced with 0.1 on a base-2 logarithm scale.</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Statistics and reporoducibility</title>
+        <p id="Par25">Samples were divided into the discovery and validation sets. To reduce bias in patient selection, one-to-one propensity score matching for age, sex, and smoking history was performed using the caliper-matching method in the validation set<sup><xref ref-type="bibr" rid="CR49">49</xref></sup>. One-way analysis of variance for continuous variables and Chi-square tests for categorical variables were used to compare patient characteristics (age, sex, smoking history, histological type [World Health Organization classification, third edition]<sup><xref ref-type="bibr" rid="CR50">50</xref></sup>, and pathological TNM stage [Union for International Cancer Control seventh edition]<sup><xref ref-type="bibr" rid="CR51">51</xref></sup>) in the discovery and validation sets.</p>
+        <p id="Par26">Highly expressed miRNAs, with signal values greater than 2<sup>6</sup>, in more than 50% of the lung cancer or non-cancer samples in the discovery set were selected. In the discovery set, the best combinations of the identified miRNAs were explored using Fisher&#x2019;s linear discriminant analysis with leave-one-out cross-validation (Supplementary Methods). Briefly, we selected the best 20 discriminants by one miRNA, added one of residual miRNAs to make two-miRNA discriminants, and selected the best 20 discriminants by two miRNAs. Like this, we constructed 1- to 3-miRNA discriminants. Subsequently, we listed the best discriminants for each number of miRNAs, and finally selected the model of the best AUC with the least number of miRNAs using DeLong&#x2019;s test<sup><xref ref-type="bibr" rid="CR52">52</xref></sup>. The solution of the discriminant (an &#x2018;index&#x2019;) &#x2265;0 in the diagnostic model indicated the presence of lung cancer, whereas an index &lt;0 indicated the absence of lung cancer. The performance of the diagnostic index was evaluated in the validation set (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2a</xref>).</p>
+        <p id="Par27">Statistical analyses were conducted using R version 3.1.2 (R Foundation for Statistical Computing, <ext-link ext-link-type="uri" xlink:href="http://www.R-project.org">http://www.R-project.org</ext-link>), MASS version 7.3&#x2013;45, SPSS version 25 (IBM Corp., Armonk, NY), mutoss version 0.1&#x2013;10, pROC version 1.8, compute.es version 0.2&#x2013;4, hash version 2.26, and GraphPad Prism version 7 (GraphPad Software, La Jolla, CA). Unsupervised clustering and heat map generation using Pearson&#x2019;s correlation and Ward&#x2019;s method for linkage analysis as well as principal component analysis were performed using Partek Genomics Suite version 6.6. A two-sided p value less than 0.05 was defined as statistically significant.</p>
+      </sec>
+      <sec id="Sec14">
+        <title>Ethical statement</title>
+        <p id="Par28">This study was approved by the Institutional Review Board of NCCH (#2015-376, #2016-249) and the Research Committee of Medical Corporation Shintokai YMC (#6019-18-3772). Written informed consent was obtained from each participant.</p>
+      </sec>
+      <sec id="Sec15">
+        <title>Reporting summary</title>
+        <p id="Par29">Further information on research design is available in the&#xA0;<xref rid="MOESM10" ref-type="media">Nature Research Reporting Summary</xref> linked to this article.</p>
+      </sec>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary information</title>
+      <sec id="Sec16">
+        <p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="42003_2020_863_MOESM1_ESM.pdf"><caption><p>Supplementary Information</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="42003_2020_863_MOESM2_ESM.pdf"><caption><p>Description of Additional Supplementary Items</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM3"><media xlink:href="42003_2020_863_MOESM3_ESM.xlsx"><caption><p>Supplementary Data 1</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM4"><media xlink:href="42003_2020_863_MOESM4_ESM.xlsx"><caption><p>Supplementary Data 2</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM5"><media xlink:href="42003_2020_863_MOESM5_ESM.xlsx"><caption><p>Supplementary Data 3</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM6"><media xlink:href="42003_2020_863_MOESM6_ESM.xlsx"><caption><p>Supplementary Data 4</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM7"><media xlink:href="42003_2020_863_MOESM7_ESM.xlsx"><caption><p>Supplementary Data 5</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM8"><media xlink:href="42003_2020_863_MOESM8_ESM.xlsx"><caption><p>Supplementary Data 6</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM9"><media xlink:href="42003_2020_863_MOESM9_ESM.txt"><caption><p>Supplementary Data 7</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM10"><media xlink:href="42003_2020_863_MOESM10_ESM.pdf"><caption><p>Reporting Summary</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM11"><media xlink:href="42003_2020_863_MOESM11_ESM.pdf"><caption><p>Peer Review File</p></caption></media></supplementary-material>
+</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p><bold>Publisher&#x2019;s note</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+      <fn>
+        <p>These authors contributed equally: Keisuke Asakura, Tsukasa Kadota.</p>
+      </fn>
+    </fn-group>
+    <sec>
+      <title>Supplementary information</title>
+      <p><bold>Supplementary information</bold> is available for this paper at 10.1038/s42003-020-0863-y.</p>
+    </sec>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors thank Tomomi Fukuda, Takumi Sonoda, Hiroko Tadokoro, Megumi Miyagi, Tatsuya Suzuki, Junpei Kawauchi, Makiko Ichikawa, and Kamakura Techno-Science Inc. for performing the microarray assays, Satoshi Kondo for technical support, Noriko Abe for the management of serum samples, Michiko Ohori for the management of personal information, Hitoshi Fujimiya for developing in-house analytic tools, and Kazuki Sudo for independent confirmation of participant eligibility. The National Cancer Center Biobank is supported by the National Cancer Center Research and Development Fund (29-A-1). This study was financially supported through a &#x201C;Development of Diagnostic Technology for Detection of miRNA in Body Fluids&#x201D; grant from the Japan Agency for Medical Research and Development (to TO).</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Author contributions</title>
+      <p>Conception and design. K.A., T.K., J.Matsuzaki, and T.O. Development of methodology. S.T., Y.A.,&#xA0;E.N., J Miura, and T.O. Acquisition of data (acquired and managed patients, provided facilities, etc.). K.A., J.Matsuzaki, Y. Yoshida, K.N., H.S., K.K., and S.W. Analysis and interpretation of data (e.g., statistical analysis, biostatistics, computational analysis). K.K., T.K., Y. Yoshida, J.Matsuzaki and Y. Yamamoto. Writing, review, and/or revision of the manuscript. K.A., T.K., J.Matsuzaki, Y. Yamamoto, Y. Yoshida, K.N., S.T., Y.A.,&#xA0;E.N., J Miura, H.S., K.K., S.W., and T.O. Administrative, technical, or material support (i.e., reporting or organizing data, constructing a database). Y. Yoshida, H.S., K.K., S.W., and T.O.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data availability</title>
+      <p>All miRNA microarray data have been deposited in the Gene Expression Omnibus (GEO) (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/geo/">https://www.ncbi.nlm.nih.gov/geo/</ext-link>) database (accession number: GSE137140).The authors declare that the data supporting the findings of this study are available within the paper and its supplementary information file. All source data underlying the graphs and charts are available within supplementary data files (Supplementary Data&#xA0;<xref rid="MOESM3" ref-type="media">1</xref>&#x2013;<xref rid="MOESM8" ref-type="media">6</xref>).</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Code availability</title>
+      <p>The algorithm for combinational optimization for multicandidate miRNAs and R scripts are available in Supplementary Information and Supplementary Data&#xA0;<xref rid="MOESM9" ref-type="media">7</xref>.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Competing interests</title>
+      <p id="Par30">S.T. is an employee of Toray Industries, Inc., the provider of the 3D-Gene&#xAE; system. Y.A., E.N.,&#xA0;and J Miura are employees of Dynacom Co., Ltd., the developer of the statistical script used for selecting the best miRNA combination. All other authors have no conflict of interest to declare.</p>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <mixed-citation publication-type="other">Bray, F., et al. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. <italic>CA Cancer J. Clin.</italic><bold>68</bold>, 394&#x2013;424 (2018).</mixed-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chansky</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The IASLC lung cancer staging project: external validation of the revision of the TNM stage groupings in the eighth edition of the TNM classification of lung cancer</article-title>
+          <source>J. Thorac. Oncol.</source>
+          <year>2017</year>
+          <volume>12</volume>
+          <fpage>1109</fpage>
+          <lpage>1121</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jtho.2017.04.011</pub-id>
+          <pub-id pub-id-type="pmid">28461257</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>National Lung Screening Trial Research, T., et al.</collab>
+          </person-group>
+          <article-title>Reduced lung-cancer mortality with low-dose computed tomographic screening</article-title>
+          <source>N. Engl. J. Med.</source>
+          <year>2011</year>
+          <volume>365</volume>
+          <fpage>395</fpage>
+          <lpage>409</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMoa1102873</pub-id>
+          <pub-id pub-id-type="pmid">21714641</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moyer</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Force</surname>
+              <given-names>USPST</given-names>
+            </name>
+          </person-group>
+          <article-title>Screening for lung cancer: U.S. Preventive Services Task Force recommendation statement</article-title>
+          <source>Ann. Intern. Med.</source>
+          <year>2014</year>
+          <volume>160</volume>
+          <fpage>330</fpage>
+          <lpage>338</lpage>
+          <pub-id pub-id-type="pmid">24378917</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bach</surname>
+              <given-names>PB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Benefits and harms of CT screening for lung cancer: a systematic review</article-title>
+          <source>JAMA</source>
+          <year>2012</year>
+          <volume>307</volume>
+          <fpage>2418</fpage>
+          <lpage>2429</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.2012.5521</pub-id>
+          <pub-id pub-id-type="pmid">22610500</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <mixed-citation publication-type="other">Tailor, T.D., et al. Geographic access to CT for lung cancer screening: a census tract-level analysis of cigarette smoking in the United States and driving distance to a CT facility. <italic>J. Am. Coll. Radiol.</italic><bold>16</bold>, 15&#x2013;23 (2018).</mixed-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jemal</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Fedewa</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <article-title>Lung cancer screening with low-dose computed tomography in the United States-2010 to 2015</article-title>
+          <source>OJAMA Oncol.</source>
+          <year>2017</year>
+          <volume>3</volume>
+          <fpage>1278</fpage>
+          <lpage>1281</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cohen</surname>
+              <given-names>JD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Detection and localization of surgically resectable cancers with a multi-analyte blood test</article-title>
+          <source>Science</source>
+          <year>2018</year>
+          <volume>359</volume>
+          <fpage>926</fpage>
+          <lpage>930</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.aar3247</pub-id>
+          <pub-id pub-id-type="pmid">29348365</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsuzaki</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ochiya</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Circulating microRNAs and extracellular vesicles as potential cancer biomarkers: a systematic review</article-title>
+          <source>Int J. Clin. Oncol.</source>
+          <year>2017</year>
+          <volume>22</volume>
+          <fpage>413</fpage>
+          <lpage>420</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10147-017-1104-3</pub-id>
+          <pub-id pub-id-type="pmid">28243946</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ulivi</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Peripheral blood miR-328 expression as a potential biomarker for the early diagnosis of NSCLC</article-title>
+          <source>Int J. Mol. Sci.</source>
+          <year>2013</year>
+          <volume>14</volume>
+          <fpage>10332</fpage>
+          <lpage>10342</lpage>
+          <pub-id pub-id-type="doi">10.3390/ijms140510332</pub-id>
+          <pub-id pub-id-type="pmid">23681013</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shen</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Diagnosis of lung cancer in individuals with solitary pulmonary nodules by plasma microRNA biomarkers</article-title>
+          <source>BMC Cancer</source>
+          <year>2011</year>
+          <volume>11</volume>
+          <fpage>374</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2407-11-374</pub-id>
+          <pub-id pub-id-type="pmid">21864403</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sanfiorenzo</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Two panels of plasma microRNAs as non-invasive biomarkers for prediction of recurrence in resectable NSCLC</article-title>
+          <source>PLoS ONE</source>
+          <year>2013</year>
+          <volume>8</volume>
+          <fpage>e54596</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0054596</pub-id>
+          <pub-id pub-id-type="pmid">23342174</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sozzi</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Clinical utility of a plasma-based miRNA signature classifier within computed tomography lung cancer screening: a correlative MILD trial study</article-title>
+          <source>J. Clin. Oncol.</source>
+          <year>2014</year>
+          <volume>32</volume>
+          <fpage>768</fpage>
+          <lpage>773</lpage>
+          <pub-id pub-id-type="doi">10.1200/JCO.2013.50.4357</pub-id>
+          <pub-id pub-id-type="pmid">24419137</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identification of ten serum microRNAs from a genome-wide serum microRNA expression profile as novel noninvasive biomarkers for nonsmall cell lung cancer diagnosis</article-title>
+          <source>Int J. Cancer</source>
+          <year>2012</year>
+          <volume>130</volume>
+          <fpage>1620</fpage>
+          <lpage>1628</lpage>
+          <pub-id pub-id-type="doi">10.1002/ijc.26177</pub-id>
+          <pub-id pub-id-type="pmid">21557218</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Serum miR-499 as a novel diagnostic and prognostic biomarker in non-small cell lung cancer</article-title>
+          <source>Oncol. Rep.</source>
+          <year>2014</year>
+          <volume>31</volume>
+          <fpage>1961</fpage>
+          <lpage>1967</lpage>
+          <pub-id pub-id-type="doi">10.3892/or.2014.3029</pub-id>
+          <pub-id pub-id-type="pmid">24549225</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xing</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Todd</surname>
+              <given-names>NW</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Fang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Early detection of squamous cell lung cancer in sputum by a panel of microRNA markers</article-title>
+          <source>Mod. Pathol.</source>
+          <year>2010</year>
+          <volume>23</volume>
+          <fpage>1157</fpage>
+          <lpage>1164</lpage>
+          <pub-id pub-id-type="doi">10.1038/modpathol.2010.111</pub-id>
+          <pub-id pub-id-type="pmid">20526284</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Early detection of lung adenocarcinoma in sputum by a panel of microRNA markers</article-title>
+          <source>Int J. Cancer</source>
+          <year>2010</year>
+          <volume>127</volume>
+          <fpage>2870</fpage>
+          <lpage>2878</lpage>
+          <pub-id pub-id-type="doi">10.1002/ijc.25289</pub-id>
+          <pub-id pub-id-type="pmid">21351266</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Montani</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>miR-Test: a blood test for lung cancer early detection</article-title>
+          <source>J. Natl Cancer Inst.</source>
+          <year>2015</year>
+          <volume>107</volume>
+          <fpage>djv063</fpage>
+          <pub-id pub-id-type="doi">10.1093/jnci/djv063</pub-id>
+          <pub-id pub-id-type="pmid">25794889</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kozomara</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Griffiths-Jones</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>miRBase: annotating high confidence microRNAs using deep sequencing data</article-title>
+          <source>Nucleic Acids Res.</source>
+          <year>2014</year>
+          <volume>42</volume>
+          <fpage>D68</fpage>
+          <lpage>D73</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gkt1181</pub-id>
+          <pub-id pub-id-type="pmid">24275495</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wei</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identification of plasma microRNA-21 as a biomarker for early detection and chemosensitivity of non-small cell lung cancer</article-title>
+          <source>Chin. J. Cancer</source>
+          <year>2011</year>
+          <volume>30</volume>
+          <fpage>407</fpage>
+          <lpage>414</lpage>
+          <pub-id pub-id-type="doi">10.5732/cjc.010.10522</pub-id>
+          <pub-id pub-id-type="pmid">21627863</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>W</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Serum miR-21 level: a potential diagnostic and prognostic biomarker for non-small cell lung cancer</article-title>
+          <source>Int J. Clin. Exp. Med</source>
+          <year>2015</year>
+          <volume>8</volume>
+          <fpage>14759</fpage>
+          <lpage>14763</lpage>
+          <pub-id pub-id-type="pmid">26628958</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patnaik</surname>
+              <given-names>SK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>MicroRNA expression profiles of whole blood in lung adenocarcinoma</article-title>
+          <source>PLoS ONE</source>
+          <year>2012</year>
+          <volume>7</volume>
+          <fpage>e46045</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0046045</pub-id>
+          <pub-id pub-id-type="pmid">23029380</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bianchi</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A serum circulating miRNA diagnostic test to identify asymptomatic high-risk individuals with early stage lung cancer</article-title>
+          <source>EMBO Mol. Med.</source>
+          <year>2011</year>
+          <volume>3</volume>
+          <fpage>495</fpage>
+          <lpage>503</lpage>
+          <pub-id pub-id-type="doi">10.1002/emmm.201100154</pub-id>
+          <pub-id pub-id-type="pmid">21744498</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Clinical use of microRNAs as potential non-invasive biomarkers for detecting non-small cell lung cancer: a meta-analysis</article-title>
+          <source>Respirology</source>
+          <year>2015</year>
+          <volume>20</volume>
+          <fpage>56</fpage>
+          <lpage>65</lpage>
+          <pub-id pub-id-type="doi">10.1111/resp.12444</pub-id>
+          <pub-id pub-id-type="pmid">25440223</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>MiR-1268b confers chemosensitivity in breast cancer by targeting ERBB2-mediated PI3K-AKT pathway</article-title>
+          <source>Oncotarget</source>
+          <year>2017</year>
+          <volume>8</volume>
+          <fpage>89631</fpage>
+          <lpage>89642</lpage>
+          <pub-id pub-id-type="pmid">29163776</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kojima</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>MicroRNA markers for the diagnosis of pancreatic and biliary-tract cancers</article-title>
+          <source>PLoS ONE</source>
+          <year>2015</year>
+          <volume>10</volume>
+          <fpage>e0118220</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0118220</pub-id>
+          <pub-id pub-id-type="pmid">25706130</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Takakura</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Oncogenic role of miR-17-92 cluster in anaplastic thyroid cancer cells</article-title>
+          <source>Cancer Sci.</source>
+          <year>2008</year>
+          <volume>99</volume>
+          <fpage>1147</fpage>
+          <lpage>1154</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1349-7006.2008.00800.x</pub-id>
+          <pub-id pub-id-type="pmid">18429962</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hayashita</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A polycistronic microRNA cluster, miR-17-92, is overexpressed in human lung cancers and enhances cell proliferation</article-title>
+          <source>Cancer Res.</source>
+          <year>2005</year>
+          <volume>65</volume>
+          <fpage>9628</fpage>
+          <lpage>9632</lpage>
+          <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-05-2352</pub-id>
+          <pub-id pub-id-type="pmid">16266980</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Both mature miR-17-5p and passenger strand miR-17-3p target TIMP3 and induce prostate tumor growth and invasion</article-title>
+          <source>Nucleic Acids Res.</source>
+          <year>2013</year>
+          <volume>41</volume>
+          <fpage>9688</fpage>
+          <lpage>9704</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gkt680</pub-id>
+          <pub-id pub-id-type="pmid">23990326</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>He</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A microRNA polycistron as a potential human oncogene</article-title>
+          <source>Nature</source>
+          <year>2005</year>
+          <volume>435</volume>
+          <fpage>828</fpage>
+          <lpage>833</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature03552</pub-id>
+          <pub-id pub-id-type="pmid">15944707</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lu</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhuang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>miR-17-3P regulates the proliferation and survival of colon cancer cells by targeting Par4</article-title>
+          <source>Mol. Med. Rep.</source>
+          <year>2018</year>
+          <volume>17</volume>
+          <fpage>618</fpage>
+          <lpage>623</lpage>
+          <pub-id pub-id-type="pmid">29115593</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Combined assays for serum carcinoembryonic antigen and microRNA-17-3p offer improved diagnostic potential for stage I/II colon cancer</article-title>
+          <source>Mol. Clin. Oncol.</source>
+          <year>2015</year>
+          <volume>3</volume>
+          <fpage>1315</fpage>
+          <lpage>1318</lpage>
+          <pub-id pub-id-type="doi">10.3892/mco.2015.616</pub-id>
+          <pub-id pub-id-type="pmid">26807240</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jin</surname>
+              <given-names>YY</given-names>
+            </name>
+            <name>
+              <surname>Andrade</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wickstrom</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Non-specific blocking of miR-17-5p guide strand in triple negative breast cancer cells by amplifying passenger strand activity</article-title>
+          <source>PLoS ONE</source>
+          <year>2015</year>
+          <volume>10</volume>
+          <fpage>e0142574</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0142574</pub-id>
+          <pub-id pub-id-type="pmid">26629823</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>BB</given-names>
+            </name>
+          </person-group>
+          <article-title>Stress response of glioblastoma cells mediated by miR-17-5p targeting PTEN and the passenger strand miR-17-3p targeting MDM2</article-title>
+          <source>Oncotarget</source>
+          <year>2012</year>
+          <volume>3</volume>
+          <fpage>1653</fpage>
+          <lpage>1668</lpage>
+          <pub-id pub-id-type="pmid">23391506</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sand</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Expression of oncogenic miR-17-92 and tumor suppressive miR-143-145 clusters in basal cell carcinoma and cutaneous squamous cell carcinoma</article-title>
+          <source>J. Dermatol. Sci.</source>
+          <year>2017</year>
+          <volume>86</volume>
+          <fpage>142</fpage>
+          <lpage>148</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jdermsci.2017.01.012</pub-id>
+          <pub-id pub-id-type="pmid">28187958</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ma</surname>
+              <given-names>MZ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long noncoding RNA GCASPC, a target of miR-17-3p, negatively regulates pyruvate carboxylase-dependent cell proliferation in gallbladder cancer</article-title>
+          <source>Cancer Res</source>
+          <year>2016</year>
+          <volume>76</volume>
+          <fpage>5361</fpage>
+          <lpage>5371</lpage>
+          <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-15-3047</pub-id>
+          <pub-id pub-id-type="pmid">27450454</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shan</surname>
+              <given-names>SW</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Mature miR-17-5p and passenger miR-17-3p induce hepatocellular carcinoma by targeting PTEN, GalNT7 and vimentin in different signal pathways</article-title>
+          <source>J. Cell Sci.</source>
+          <year>2013</year>
+          <volume>126</volume>
+          <fpage>1517</fpage>
+          <lpage>1530</lpage>
+          <pub-id pub-id-type="doi">10.1242/jcs.122895</pub-id>
+          <pub-id pub-id-type="pmid">23418359</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Serum miRNA expression profile as a prognostic biomarker of stage II/III colorectal adenocarcinoma</article-title>
+          <source>Sci. Rep.</source>
+          <year>2015</year>
+          <volume>5</volume>
+          <fpage>12921</fpage>
+          <pub-id pub-id-type="doi">10.1038/srep12921</pub-id>
+          <pub-id pub-id-type="pmid">26250939</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nam</surname>
+              <given-names>RK</given-names>
+            </name>
+            <name>
+              <surname>Wallis</surname>
+              <given-names>CJD</given-names>
+            </name>
+            <name>
+              <surname>Amemiya</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Benatar</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Seth</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of a novel MicroRNA panel associated with metastasis following radical prostatectomy for prostate cancer</article-title>
+          <source>Anticancer Res.</source>
+          <year>2018</year>
+          <volume>38</volume>
+          <fpage>5027</fpage>
+          <lpage>5034</lpage>
+          <pub-id pub-id-type="doi">10.21873/anticanres.12821</pub-id>
+          <pub-id pub-id-type="pmid">30194146</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <mixed-citation publication-type="other">Okami, J. et al. Demographics, safety and quality, and prognostic information in both the seventh and eighth editions of the TNM classification in 18,973 surgical cases of the Japanese Joint Committee of Lung Cancer Registry Database in 2010. <italic>J. Thorac. Oncol.</italic><bold>14</bold>, 212&#x2013;222 (2018).</mixed-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pastorino</surname>
+              <given-names>U</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Annual or biennial CT screening versus observation in heavy smokers: 5-year results of the MILD trial</article-title>
+          <source>Eur. J. Cancer Prev.</source>
+          <year>2012</year>
+          <volume>21</volume>
+          <fpage>308</fpage>
+          <lpage>315</lpage>
+          <pub-id pub-id-type="doi">10.1097/CEJ.0b013e328351e1b6</pub-id>
+          <pub-id pub-id-type="pmid">22465911</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sourvinou</surname>
+              <given-names>IS</given-names>
+            </name>
+            <name>
+              <surname>Markou</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lianidou</surname>
+              <given-names>ES</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantification of circulating miRNAs in plasma: effect of preanalytical and analytical parameters on their isolation and stability</article-title>
+          <source>J. Mol. Diagn.</source>
+          <year>2013</year>
+          <volume>15</volume>
+          <fpage>827</fpage>
+          <lpage>834</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jmoldx.2013.07.005</pub-id>
+          <pub-id pub-id-type="pmid">23988620</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ge</surname>
+              <given-names>Q</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>miRNA in plasma exosome is stable under different storage conditions</article-title>
+          <source>Molecules</source>
+          <year>2014</year>
+          <volume>19</volume>
+          <fpage>1568</fpage>
+          <lpage>1575</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules19021568</pub-id>
+          <pub-id pub-id-type="pmid">24473213</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shimomura</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Novel combination of serum microRNA for detecting breast cancer in the early stage</article-title>
+          <source>Cancer Sci.</source>
+          <year>2016</year>
+          <volume>107</volume>
+          <fpage>326</fpage>
+          <lpage>334</lpage>
+          <pub-id pub-id-type="doi">10.1111/cas.12880</pub-id>
+          <pub-id pub-id-type="pmid">26749252</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yokoi</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Integrated extracellular microRNA profiling for ovarian cancer screening</article-title>
+          <source>Nat. Commun.</source>
+          <year>2018</year>
+          <volume>9</volume>
+          <fpage>4319</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41467-018-06434-4</pub-id>
+          <pub-id pub-id-type="pmid">30333487</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Asano</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A serum microRNA classifier for the diagnosis of sarcomas of various histological subtypes</article-title>
+          <source>Nat. Commun.</source>
+          <year>2019</year>
+          <volume>10</volume>
+          <fpage>1299</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41467-019-09143-8</pub-id>
+          <pub-id pub-id-type="pmid">30898996</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shiino</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Serum miRNA-based prediction of axillary lymph node metastasis in breast cancer</article-title>
+          <source>Clin. Cancer Res.</source>
+          <year>2019</year>
+          <volume>25</volume>
+          <fpage>1817</fpage>
+          <lpage>1827</lpage>
+          <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-18-1414</pub-id>
+          <pub-id pub-id-type="pmid">30482779</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Usuba</surname>
+              <given-names>W</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Circulating miRNA panels for specific and early detection in bladder cancer</article-title>
+          <source>Cancer Sci.</source>
+          <year>2019</year>
+          <volume>110</volume>
+          <fpage>408</fpage>
+          <lpage>419</lpage>
+          <pub-id pub-id-type="pmid">30382619</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Austin</surname>
+              <given-names>PC</given-names>
+            </name>
+          </person-group>
+          <article-title>Some methods of propensity-score matching had superior performance to others: results of an empirical investigation and Monte Carlo simulations</article-title>
+          <source>Biom. J.</source>
+          <year>2009</year>
+          <volume>51</volume>
+          <fpage>171</fpage>
+          <lpage>184</lpage>
+          <pub-id pub-id-type="doi">10.1002/bimj.200810488</pub-id>
+          <pub-id pub-id-type="pmid">19197955</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <mixed-citation publication-type="other">Travis, W., Colby, T., Corrin, B., Shimosato, Y. &amp; Brambilla, E. <italic>Histological Typing of Lung and Pleural Tumours, World Health Organization International Histological Classification of Tumors</italic> (Springer, Berlin, Germany, 2012).</mixed-citation>
+      </ref>
+      <ref id="CR51">
+        <label>51.</label>
+        <mixed-citation publication-type="other">Sobin, L., Gospodarowicz, M. &amp; Wittekind, C. <italic>International Union Against Cancer (UICC) TNM Classification of Malignant Tumours</italic> (Wiley-Liss, New York, 2009).</mixed-citation>
+      </ref>
+      <ref id="CR52">
+        <label>52.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DeLong</surname>
+              <given-names>ER</given-names>
+            </name>
+            <name>
+              <surname>DeLong</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Clarke-Pearson</surname>
+              <given-names>DL</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approach</article-title>
+          <source>Biometrics</source>
+          <year>1988</year>
+          <volume>44</volume>
+          <fpage>837</fpage>
+          <lpage>845</lpage>
+          <pub-id pub-id-type="doi">10.2307/2531595</pub-id>
+          <pub-id pub-id-type="pmid">3203132</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

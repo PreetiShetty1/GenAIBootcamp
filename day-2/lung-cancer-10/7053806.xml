@@ -1,0 +1,1115 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">JCO Clin Cancer Inform</journal-id>
+      <journal-id journal-id-type="iso-abbrev">JCO Clin Cancer Inform</journal-id>
+      <journal-id journal-id-type="hwp">cci</journal-id>
+      <journal-id journal-id-type="pmc">cci</journal-id>
+      <journal-id journal-id-type="publisher-id">CCI</journal-id>
+      <journal-title-group>
+        <journal-title>JCO Clinical Cancer Informatics</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2473-4276</issn>
+      <publisher>
+        <publisher-name>American Society of Clinical Oncology</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">32027538</article-id>
+      <article-id pub-id-type="pmc">7053806</article-id>
+      <article-id pub-id-type="publisher-id">1900099</article-id>
+      <article-id pub-id-type="doi">10.1200/CCI.19.00099</article-id>
+      <article-categories>
+        <subj-group subj-group-type="subjects">
+          <compound-subject>
+            <compound-subject-part content-type="code">00</compound-subject-part>
+            <compound-subject-part content-type="label">Computer Assisted Diagnostics and Therapeutics</compound-subject-part>
+          </compound-subject>
+          <compound-subject>
+            <compound-subject-part content-type="code">00</compound-subject-part>
+            <compound-subject-part content-type="label">Thoracic Oncology</compound-subject-part>
+          </compound-subject>
+          <compound-subject>
+            <compound-subject-part content-type="code">00</compound-subject-part>
+            <compound-subject-part content-type="label">Tumor Imaging</compound-subject-part>
+          </compound-subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Review Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The International Association for the Study of Lung Cancer Early Lung Imaging Confederation</article-title>
+        <alt-title alt-title-type="short">IASLC-ELIC Initiative</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mulshine</surname>
+            <given-names>James L.</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Avila</surname>
+            <given-names>Ricardo S.</given-names>
+          </name>
+          <degrees>MS</degrees>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Conley</surname>
+            <given-names>Ed</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Devaraj</surname>
+            <given-names>Anand</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ambrose</surname>
+            <given-names>Laurie Fenton</given-names>
+          </name>
+          <degrees>BS</degrees>
+          <xref ref-type="aff" rid="aff5">
+            <sup>5</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Flanagan</surname>
+            <given-names>Tanya</given-names>
+          </name>
+          <degrees>MA</degrees>
+          <xref ref-type="aff" rid="aff6">
+            <sup>6</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Henschke</surname>
+            <given-names>Claudia I.</given-names>
+          </name>
+          <degrees>MD, PhD</degrees>
+          <xref ref-type="aff" rid="aff7">
+            <sup>7</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hirsch</surname>
+            <given-names>Fred R.</given-names>
+          </name>
+          <degrees>MD, PhD</degrees>
+          <xref ref-type="aff" rid="aff8">
+            <sup>8</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Janz</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <degrees>MSci</degrees>
+          <xref ref-type="aff" rid="aff9">
+            <sup>9</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kakinuma</surname>
+            <given-names>Ryutaro</given-names>
+          </name>
+          <degrees>MD, PhD</degrees>
+          <xref ref-type="aff" rid="aff10">
+            <sup>10</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lam</surname>
+            <given-names>Stephen</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff11">
+            <sup>11</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>McWilliams</surname>
+            <given-names>Annette</given-names>
+          </name>
+          <degrees>MBBS</degrees>
+          <xref ref-type="aff" rid="aff12">
+            <sup>12</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Van Ooijen</surname>
+            <given-names>Peter M.A.</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref ref-type="aff" rid="aff13">
+            <sup>13</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Oudkerk</surname>
+            <given-names>Matthijs</given-names>
+          </name>
+          <degrees>MD, PhD</degrees>
+          <xref ref-type="aff" rid="aff13">
+            <sup>13</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pastorino</surname>
+            <given-names>Ugo</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff14">
+            <sup>14</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Reeves</surname>
+            <given-names>Anthony</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref ref-type="aff" rid="aff15">
+            <sup>15</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rogalla</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff16">
+            <sup>16</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Schmidt</surname>
+            <given-names>Heidi</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff16">
+            <sup>16</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sullivan</surname>
+            <given-names>Daniel C.</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff17">
+            <sup>17</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wind</surname>
+            <given-names>Haije H.J.</given-names>
+          </name>
+          <degrees>MSc</degrees>
+          <xref ref-type="aff" rid="aff13">
+            <sup>13</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wu</surname>
+            <given-names>Ning</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff18">
+            <sup>18</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wynes</surname>
+            <given-names>Murry</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref ref-type="aff" rid="aff19">
+            <sup>19</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xueqian</surname>
+            <given-names>Xie</given-names>
+          </name>
+          <degrees>MD, PhD</degrees>
+          <xref ref-type="aff" rid="aff20">
+            <sup>20</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yankelevitz</surname>
+            <given-names>David F.</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff7">
+            <sup>7</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Field</surname>
+            <given-names>John K.</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <aff id="aff1"><label><sup>1</sup></label>Rush University, Chicago, IL</aff>
+        <aff id="aff2"><label><sup>2</sup></label>Accumetra, LLC, Clifton Park, NY</aff>
+        <aff id="aff3"><label><sup>3</sup></label>University of Liverpool, Liverpool, United Kingdom</aff>
+        <aff id="aff4"><label><sup>4</sup></label>University College, London, United Kingdom</aff>
+        <aff id="aff5"><label><sup>5</sup></label>GO2 Foundation, Washington, DC</aff>
+        <aff id="aff6"><label><sup>6</sup></label>Canadian Partnership Against Cancer, Toronto, Ontario, Canada</aff>
+        <aff id="aff7"><label><sup>7</sup></label>Icahn School of Medicine at Mount Sinai, New York, NY</aff>
+        <aff id="aff8"><label><sup>8</sup></label>Mount Sinai Health System, New York, NY</aff>
+        <aff id="aff9"><label><sup>9</sup></label>University of Groningen, Groningen, Netherlands</aff>
+        <aff id="aff10"><label><sup>10</sup></label>National Cancer Center Hospital, Tokyo, Japan</aff>
+        <aff id="aff11"><label><sup>11</sup></label>University of British Columbia, Vancouver, British Columbia, Canada</aff>
+        <aff id="aff12"><label><sup>12</sup></label>Fiona Stanley Hospital, Western Australia</aff>
+        <aff id="aff13"><label><sup>13</sup></label>University Medical College, Groningen, Netherlands</aff>
+        <aff id="aff14"><label><sup>14</sup></label>Instituti Tumori, Milan, Italy</aff>
+        <aff id="aff15"><label><sup>15</sup></label>Cornell University, Ithaca, New York, NY</aff>
+        <aff id="aff16"><label><sup>16</sup></label>Toronto Joint Department of Medical Imaging, University of Toronto, Ontario, Canada</aff>
+        <aff id="aff17"><label><sup>17</sup></label>Duke University Medical Center, Durham, NC</aff>
+        <aff id="aff18"><label><sup>18</sup></label>National Cancer Center, Peking Union Medical College, Beijing, China</aff>
+        <aff id="aff19"><label><sup>19</sup></label>International Association for the Study of Lung Cancer, Denver, CO</aff>
+        <aff id="aff20"><label><sup>20</sup></label>Shanghai General Hospital, Shanghai, China</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cor1">James L. Mulshine, MD, Rush University Medical Center, 1700 W Van Buren St, Suite 245, Triangle Office Building, Chicago, IL 60612; e-mail: <email>jmulshin@rush.edu</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>6</day>
+        <month>2</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>4</volume>
+      <elocation-id>CCI.19.00099</elocation-id>
+      <history>
+        <date date-type="accepted">
+          <day>05</day>
+          <month>12</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2020 by American Society of Clinical Oncology</copyright-statement>
+        <copyright-year>2020</copyright-year>
+        <copyright-holder>American Society of Clinical OncologyCC-BY</copyright-holder>
+        <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+          <license-p>Licensed under the Creative Commons Attribution 4.0 License: <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link></license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:title="pdf" xlink:href="CCI.19.00099.pdf"/>
+      <abstract>
+        <sec>
+          <title>PURPOSE</title>
+          <p>To improve outcomes for lung cancer through low-dose computed tomography (LDCT) early lung cancer detection. The International Association for the Study of Lung Cancer is developing the Early Lung Imaging Confederation (ELIC) to serve as an open-source, international, universally accessible environment to analyze large collections of quality-controlled LDCT images and associated biomedical data for research and routine screening care.</p>
+        </sec>
+        <sec>
+          <title>METHODS</title>
+          <p>ELIC is an international confederation that allows access to efficiently analyze large numbers of high-quality computed tomography (CT) images with associated de-identified clinical information without moving primary imaging/clinical or imaging data from its local or regional site of origin. Rather, ELIC uses a cloud-based infrastructure to distribute analysis tools to the local site of the stored imaging and clinical data, thereby allowing for research and quality studies to proceed in a vendor-neutral, collaborative environment. ELIC&#x2019;s hub-and-spoke architecture will be deployed to permit analysis of CT images and associated data in a secure environment, without any requirement to reveal the data itself (ie, privacy protecting). Identifiable data remain under local control, so the resulting environment complies with national regulations and mitigates against privacy or data disclosure risk.</p>
+        </sec>
+        <sec>
+          <title>RESULTS</title>
+          <p>The goal of pilot experiments is to connect image collections of LDCT scans that can be accurately analyzed in a fashion to support a global network using methodologies that can be readily scaled to accrued databases of sufficient size to develop and validate robust quantitative imaging tools.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSION</title>
+          <p>This initiative can rapidly accelerate improvements to the multidisciplinary management of early, curable lung cancer and other major thoracic diseases (eg, coronary artery disease and chronic obstructive pulmonary disease) visualized on a screening LDCT scan. The addition of a facile, quantitative CT scanner image quality conformance process is a unique step toward improving the reliability of clinical decision support with CT screening worldwide.</p>
+        </sec>
+      </abstract>
+      <counts>
+        <fig-count count="5"/>
+        <table-count count="1"/>
+        <equation-count count="0"/>
+        <ref-count count="26"/>
+        <page-count count="11"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name> SJS Export </meta-name>
+          <meta-value>v1</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>INTRODUCTION</title>
+      <p>Lung cancer is the most lethal cancer throughout the world, and it typically presents at a late stage when cure is unlikely.<sup><xref rid="B1" ref-type="bibr">1</xref>,<xref rid="B2" ref-type="bibr">2</xref></sup> Recent reports have demonstrated the usefulness of low-dose computed tomography (CT) screening in reducing lung cancer mortality in heavily tobacco-exposed individuals.<sup><xref rid="B3" ref-type="bibr">3</xref>-<xref rid="B7" ref-type="bibr">7</xref></sup> However, to achieve the most efficient screening management, groups have incorporated a quantitative assessment of pulmonary nodule volume to guide the diagnostic case&#x2013;finding efforts within the screening process.<sup><xref rid="B8" ref-type="bibr">8</xref>-<xref rid="B12" ref-type="bibr">12</xref></sup> In this fashion, the false-positive detection rate can be reduced from 28% to approximately 3%.<sup><xref rid="B10" ref-type="bibr">10</xref>-<xref rid="B12" ref-type="bibr">12</xref></sup> This improves the screening cost and reduces the potential for iatrogenic harm, which would be a critical aspect to include in the global implementation of computed tomography (CT) screening.<sup><xref rid="B13" ref-type="bibr">13</xref></sup> The concept of developing an early lung cancer image registry emerged through a series of workshops sponsored by the International Association for the Study of Lung Cancer (IASLC) as a critical opportunity to accelerate the pace of innovation in improving the curative management for detection and intervention with early lung cancer.</p>
+      <p>The IASLC mission is to improve lung cancer outcomes through international and multidisciplinary collaborative efforts. This large collaborative image archival and analysis effort builds on the established IASLC successes with the national and international lung cancer IASLC TNM Staging Committee, which has been undertaken in collaboration with the Union for International Cancer Control and American Joint Committee on Cancer, as well as with the recently updated lung cancer pathology collaboration with the WHO.<sup><xref rid="B14" ref-type="bibr">14</xref>,<xref rid="B15" ref-type="bibr">15</xref></sup> Success in developing screening tools, as with the staging and pathology efforts, involves issues of scale and cost that leverage the IASLC&#x2019;s broad international scope and expertise in aligning global participation to improve early lung cancer management.</p>
+      <boxed-text id="b1" position="anchor" orientation="portrait">
+        <sec>
+          <title>Context</title>
+          <list list-type="simple" id="L1">
+            <list-item>
+              <p>
+                <bold>Key Objective</bold>
+              </p>
+            </list-item>
+            <list-item>
+              <p>Can an open-source cloud-based environment become a repository of screening computed tomography images and associated data to enable quantitative and related imaging tool development for use in guiding the management of early, presymptomatic lung cancer and related thoracic diseases?</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Knowledge Generated</bold>
+              </p>
+            </list-item>
+            <list-item>
+              <p>A prototype international, open-source imaging resource is proposed that can allow federated image/data interrogation. This construct is designed to comply with existing international standards for data security while enabling the development and validation of new imaging biomarkers to facilitate early lung cancer management.</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Relevance</bold>
+              </p>
+            </list-item>
+            <list-item>
+              <p>Lung cancer screening is emerging as an important approach for early lung cancer management. However, robust and economic image analysis tools are needed to ensure facile clinical workflows for pulmonary nodule detection and quantitative nodule assessment so that this new service can be provided to the target high-risk population at high quality throughout the world.</p>
+            </list-item>
+          </list>
+        </sec>
+      </boxed-text>
+      <p>To date, no consensus image analysis tool has emerged to allow routine and reliable volumetric characterization of pulmonary nodules in routine clinical imaging settings. Developing a tool to allow easy and robust nodule measurement requires access to large numbers of high-quality thoracic CT images that were acquired with the intent of precisely measuring volumes of pulmonary nodules 5 to 10 mm in diameter. Because this is a newly appreciated opportunity as lung imaging technology rapidly improves, lung images from earlier CT screening trials were generally not acquired with sufficient resolution to enable this precise volumetric tool development. Therefore, prospective collections of CT images from current-generation, high-resolution CT scanners are urgently required to address this gap. This lack of large quantities of such high-quality image data imposes a profound barrier to progress with early lung cancer management.</p>
+      <sec id="s2">
+        <title>How to Bring Value to Early Lung Cancer Detection</title>
+        <p>In response to this situation, the IASLC hosted a planning workshop held in Dallas, Texas, in February 2018. Although aware of the heterogeneous nature of existing image registries at leading centers from around the world, the group proposed the creation of a cloud-based informatics infrastructure to interact with existing international registries and centers collecting thoracic CT images together with associated core clinical outcomes data to optimize cost and data security.</p>
+        <p>This IASLC Early Lung Imaging Confederation (ELIC) was proposed as a hub-and-spoke architecture with the intention of enabling the imaging-donating local site to retain all of the images and metadata within their defined spoke environment consistent with local governing data-sharing provisions. With local site permission, their stored clinical and imaging data can be made accessible, to allow software tools distributed to the spoke from the hub to the relevant stored digital data. In this confederated architecture, the hub acts as a conduit with the spokes to distribute software analysis tools to the relevant spokes and then to aggregate the results of the analysis of the images stored locally in the participating spokes. Therefore, only the resulting analysis data will leave an individual spoke. The resulting analysis data aggregated in the hub from multiple sites with diverse populations allow for research and for quality questions to be addressed with a potentially vast number of test screening cases from multiple countries.</p>
+        <p>To accommodate this architecture, the most cost-feasible approach for a flexible, scalable, and sustainable environment capable of enabling the goals of ELIC is to leverage the global accessibility of a cloud environment.<sup><xref rid="B16" ref-type="bibr">16</xref></sup> Currently, thoracic CT screening images and associated clinical outcomes and relevant metadata are stored in a vast array of architectures across IASLC member sites. We envision developing a vendor-neutral, secure, scalable, cloud-based environment to bridge to existing sites&#x2019; data storage resources. <xref rid="T1" ref-type="table">Table 1</xref> summarizes the design considerations guiding the development of this informatics resource. Given the dynamic and complex nature of the privacy challenges inherent in collecting and sharing large amounts of imaging and clinical data, the proposed IASLC imaging/data resource may be preferable for many national sponsors to have a rigorously designed, precompetitive environment hosted by an international, nonprofit professional society such as IASLC. IASLC has a proven legacy of patient benefit and as a reliable host to ensure appropriate stewardship as an &#x201C;honest broker&#x201D; for such a critical international resource.<sup><xref rid="B14" ref-type="bibr">14</xref>,<xref rid="B15" ref-type="bibr">15</xref></sup></p>
+        <table-wrap id="T1" orientation="portrait" position="float">
+          <label>TABLE 1.</label>
+          <caption>
+            <p>Guiding Principles of ELIC</p>
+          </caption>
+          <graphic xlink:href="CCI.19.00099t1"/>
+        </table-wrap>
+      </sec>
+      <sec id="s3">
+        <title>High-Quality Image Acquisition</title>
+        <p>For optimal efficiency, there is also the need to prospectively ensure that newly accrued thoracic CT images are objectively of sufficiently high quality to support robust quantitative analysis. Because ELIC is envisioned to be a resource to develop and then validate image processing algorithms as required to support clinical decision making for early lung cancer management, such efforts will move into the rapidly evolving realm of deep learning methods or artificial intelligence approaches; therefore, the curation of an image collection that has been optimized for quantitative measurement is critical.<sup><xref rid="B17" ref-type="bibr">17</xref>,<xref rid="B18" ref-type="bibr">18</xref></sup></p>
+        <p>Reliable guidance and clinical management in the lung cancer screening setting requires accurate and robust analysis of pulmonary nodule volume. Therefore, ELIC will require image-sharing sites to prospectively adhere to the Quantitative Imaging Biomarkers Alliance (QIBA) of the Radiologic Society of North America (RSNA) CT Small Lung Nodule Profile quality provisions to ensure that aggregated imaging data obtained for quantitative analysis are of a high quality; this is a unique strength of the ELIC effort.<sup><xref rid="B19" ref-type="bibr">19</xref>,<xref rid="B20" ref-type="bibr">20</xref></sup></p>
+        <p>From extensive work in optimizing image measurement quality in this setting, the QIBA has developed a process to address these factors.<sup><xref rid="B17" ref-type="bibr">17</xref>,<xref rid="B18" ref-type="bibr">18</xref></sup> This entails analyzing pulmonary nodules in the volume range relevant to lung cancer screening (6-10 mm in diameter). Crowd-sourced data collected from international QIBA CT Small Lung Nodule testing sites have been used over the past 2 years to help identify and globally disseminate the top-performing CT image acquisition protocols for each CT scanner model. This innovative approach has enabled what we believe to be the first rapid global optimization of scanner image acquisition protocols for CT lung nodule measurement. The data are also revealing new insights into low-dose CT lung cancer screening image acquisition performance, including the reproducibility of image acquisition properties, differences between requested and obtained slice thickness, and losses of resolution associated with lowering the radiation dose.<sup><xref rid="B21" ref-type="bibr">21</xref></sup></p>
+      </sec>
+    </sec>
+    <sec sec-type="methods" id="s4">
+      <title>METHODS</title>
+      <p>A proof-of-concept demonstration was developed in 2018 to evaluate the potential of a hub-and-spoke&#x2013;distributed lung cancer screening image archive and computing architecture to achieve the goals of ELIC<sup><xref rid="B19" ref-type="bibr">19</xref></sup>. Ten international cloud computing sites were chosen from the Amazon Web Services global cloud network map to launch and set-up spoke EC2 cloud computing instances, as shown in <xref ref-type="fig" rid="f1">Figure 1</xref>. This figure overlays the 10 ELIC spokes feeding a central hub (at the point of the arrow) on the Amazon Web Services (AWS) global cloud network map. The hub is shown (with the blue circle at the tip of the arrow), with each of the 10 spokes (indicated by green circles) populated with an identical set of 100 publicly available de-identified CT lung scans. As shown on the map, existing AWS cloud services sites are indicated by smaller (lighter) blue and purple circles. This distribution of existing cloud resources demonstrate the global reach of AWS to support local/regional hosting of available lung cancer screening images and corresponding clinical data as required by General Data Protection Regulations. Each of these spokes was populated with an identical set of 100 publicly available de-identified CT lung scans.<sup><xref rid="B20" ref-type="bibr">20</xref></sup> However, each scan was given a unique patient ID and fictitious age, sex, and pack-year demographics. This was done so that proof-of-concept performance testing could be obtained with the equivalent of 1,000 patient cases; the analyses described in this report were repeated on at least 5 separate occasions. In addition, a Hub EC2 cloud computing instance was set up at the Northern Virginia location of the Amazon Web Services cloud.</p>
+      <fig id="f1" fig-type="figure" orientation="portrait" position="float">
+        <label>FIG 1.</label>
+        <caption>
+          <p>The global distribution of the hub and spokes for the 2018 World Conference on Lung Cancer ELIC proof-of-concept demonstrations using the Amazon Web Services (AWS) cloud.</p>
+        </caption>
+        <graphic xlink:href="CCI.19.00099f1"/>
+      </fig>
+      <p><xref ref-type="fig" rid="f2">Figure 2</xref> is a schematic representation of the computing resources and main data flows that were used during the design of the ELIC Hub-and-Spoke Environment (H&amp;SE) software. A lung cancer screening principal investigator (PI; A) typically coordinates CT lung cancer screening for several screening sites shown as sources (Ai). The PI is responsible for submitting de-identified lung cancer screening image DICOM (Digital Imaging and Communications in Medicine) data and metadata, including any requested image annotations, before data upload to a spoke (B). Each time data on the spoke (B) are added or corrected, a set of basic demographics and metadata information about the new data is communicated to the hub (C). In this way, the hub and spoke will remain in agreement regarding the data that a PI has made available for analysis on the spoke (B). Because the spoke (B) can be set up on a local cloud computing instance or on local computing hardware, the spoke (B) data will remain within the source geographic region and will only be analyzed according to strictly administered analysis and reporting rules (D) decided by the PI (A). The data residing on all spokes are de-identified by the PI (A) before upload.</p>
+      <fig id="f2" fig-type="figure" orientation="portrait" position="float">
+        <label>FIG 2.</label>
+        <caption>
+          <p>High-level illustration of the ELIC Hub &amp; Spoke Environment and how lung cancer screening principal investigators (PI) and clients will interact with the system. DICOM, Digital Imaging and Communications in Medicine; ELIC, Early Lung Imaging Confederation.</p>
+        </caption>
+        <graphic xlink:href="CCI.19.00099f2"/>
+      </fig>
+      <p>Thus, at all times, only de-identified data are stored on the ELIC H&amp;SE and, at rest, the data are also encrypted. Each ELIC spoke contains a de-identified set of data stored on a spoke using identical ELIC H&amp;SE data storage organization and methods. This allows the ELIC H&amp;SE software to contain fully automated scripts for thoroughly performing required data protection operations, such as the General Data Protection Regulation &#x201C;right to be forgotten.&#x201D; Each ELIC spoke will have automated scripts that achieve the data governance protections and procedures required by local regulations, some of which will be standard and can be provided by the same ELIC H&amp;SE script for all regions.</p>
+      <p>A client (E) can view a listing or catalog of all the data sets available within the ELIC environment and take the necessary steps to run a quantitative algorithm on all the data or on a subset of the data available within the ELIC environment. This is referred to as running an &#x201C;experiment&#x201D; within the ELIC environment. To run an experiment, the client (E) must provide a quantitative algorithm according to ELIC H&amp;SE specifications to the hub (C) and request that the hub execute the experiment on all the relevant spokes (B). The hub (C) then coordinates the running of the quantitative algorithm on the spokes and collects the results according to the analysis rules (D) agreed to by the PI. When the experiment is finished, the client (E) is provided an aggregate summary of all the data collected from the experiment, including information on any errors or issues encountered while running the experiment. A prototype hub password-protected Website<sup><xref rid="B22" ref-type="bibr">22</xref></sup> was created that displays the status of spokes, allows the specification and launching of quantitative lung imaging experiments on global collections of data, and provides a real-time quantitative and graphic display of the results obtained from the international spoke calculations.</p>
+      <p>Two cloud-based experiments using software algorithms were created to accept DICOM data and produce quantitative results and images in a standard format that the ELIC H&amp;SE supports. One algorithm quantitatively measured total lung volume, and the second algorithm quantitatively measured the volume of solid pulmonary nodules. This permitted the ELIC H&amp;SE to demonstrate running the quantitative imaging experiments on image collections at globally distributed spokes and then aggregating the quantitative CT image measurements and output image results on the hub. Each of the 10 spokes was set up to run one of the 2 quantitative CT lung image measurement algorithms when requested by the hub.</p>
+      <p>The project also deployed the QIBA CT Small Lung Nodule Profile Conformance Certification service on the hub and performed CT image quality conformance assessment calculations on CT phantom scans. Cloud-based phantom analysis software was developed to perform a low-cost CT image quality assessment using a specifically designed phantom (ie, test object). This approach makes achieving CT image quality conformance with the QIBA Small Lung Nodule Profile possible from virtually any clinical imaging site in the world.<sup><xref rid="B17" ref-type="bibr">17</xref>,<xref rid="B18" ref-type="bibr">18</xref></sup> The purpose of this quality control step is to ensure consistent image quality appropriate for the defined context of use with lung cancer screening&#x2013;related quantitative assessment for imaging sites around the world. The standardized assessment of CT lung imaging quality is enabled using a dedicated, low-cost phantom (CTLX1) that was developed for this purpose. The CTLX1 phantom contains small, precision-made, geometric components to assess thoracic CT imaging performance. A CT scan of the CTLX1 phantom is typically acquired in approximately 5 minutes and then uploaded to the QIBA Phantom Analysis Service, which rapidly analyzes the uploaded phantom image using automated software to characterize the quality of a CT scanner and acquisition process. The results of the comprehensive QIBA CT image quality analysis are sent back to the site within a few minutes using an easy-to-interpret structured report indicating whether the CT scanner and acquisition parameters were of sufficient quality for quantitative assessment. If the image quality was insufficient, then remediation measures are suggested to the site to improve image quality. This analysis has been performed at &gt; 60 CT lung cancer screening sites evaluating the use of the CTLX1 phantom, including screening sites in Australia, England, Canada, China, Israel, Italy, the Netherlands, Poland, Spain, Japan, and the United States. The image quality data collected from the analysis of CTLX1 phantom scans include CT scanner image acquisition parameter settings such as milliampere, peak kilovoltage, slice thickness, slice spacing, and reconstruction kernel, as well as fundamental image quality characteristics achieved, including levels of edge enhancement, 3-dimensional (3D) resolution, 3D resolution aspect ratio, CT linearity, noise, and 3D spatial warping. Each of these fundamental image quality properties is measured throughout the CT scanner field of view at 3 distances from isocenter (0, 100, and 200 mm) to ensure that lung nodules present in the lung periphery, which is common, can be accurately measured.</p>
+      <p>For proof-of-concept testing, the QIBA CT Small Lung Nodule Profile Conformance automated phantom analysis software was placed on SPOKE 1 running in northern Virginia and used to run automated image quality analyses on scans of the QIBA CT Small Lung Nodule Profile CTLX1 phantom. These tests confirmed that the fully automated QIBA CT Small Lung Nodule Profile conformance certification methods for CT image quality assessment will be able to successfully run on future ELIC spokes (or hub) running on the Amazon cloud.</p>
+      <p>A total of 5 live demonstrations were run using the ELIC environment at 5 distinct time windows to evaluate the ability of ELIC H&amp;SE to perform useful quantitative imaging computational experiments on large collections of globally distributed CT lung cancer imaging cases without moving data out of geographic regions. Each demonstration was run for ELIC H&amp;SE analyses performed with a central hub server and 10 globally distributed spoke servers all running on the Amazon Web Services cloud. The prototype ELIC H&amp;SE Website<sup><xref rid="B22" ref-type="bibr">22</xref></sup> allowed a user to launch a computational experiment request on a specific set of data distributed across any number of spokes, store the results, and display an aggregated summary report of the results when the analysis was complete.</p>
+      <p>In all, 3 pilot testing runs were performed. For these pilot testing runs, quantitative lung volume analyses were completed on 1,000 globally distributed CT lung cancer screening data sets in &lt; 25 minutes at 10 different ELIC hosting sites from 4 continents. <xref ref-type="fig" rid="f3">Figure 3</xref> shows the main user page available within the Website,<sup><xref rid="B22" ref-type="bibr">22</xref></sup> which includes a listing of the available spokes, a place to specify the launch of a quantitative experiment on the data located on the spokes, and a list of pages showing the results obtained from each experiment.</p>
+      <fig id="f3" fig-type="figure" orientation="portrait" position="float">
+        <label>FIG 3.</label>
+        <caption>
+          <p>The main user page available at <ext-link ext-link-type="uri" xlink:href="http://www.iaslc-elic.org">www.iaslc-elic.org</ext-link> for the launch and review of quantitative lung imaging experiments on globally distributed spokes.</p>
+        </caption>
+        <graphic xlink:href="CCI.19.00099f3"/>
+      </fig>
+      <p>The developed H&amp;SE software allows a hub server to make quantitative CT imaging computational requests to a collection of globally distributed spokes, each of which is populated with de-identified CT lung images. The H&amp;SE software is set up so that each spoke performs a computational request and returns quantitative results back to the hub. <xref ref-type="fig" rid="f4">Figure 4</xref> shows the results page from a representative lung nodule measurement experiment (experiment 3) performed on all the images at the 10 sites in the archive with lung nodules (N = 62 &#xD7; 10) in the ELIC H&amp;SE. The results reported were mean volume and standard deviation for all the data sets analyzed. <xref ref-type="fig" rid="f5">Figure 5</xref> displays the detailed quantitative imaging results that were computed on CT lung imaging cases on SPOKE 10 (Sao Paulo, Brazil) for the same experiment as that shown in <xref ref-type="fig" rid="f4">Figure 4</xref> (experiment 3), including the quantitative lung nodule volume values and 3 orthogonal reformat images with contours of the segmentation results overlaid for each case.</p>
+      <fig id="f4" fig-type="figure" orientation="portrait" position="float">
+        <label>FIG 4.</label>
+        <caption>
+          <p>Results page for a lung nodule measurement experiment performed in the ELIC Hub and Spoke Experiment.</p>
+        </caption>
+        <graphic xlink:href="CCI.19.00099f4"/>
+      </fig>
+      <fig id="f5" fig-type="figure" orientation="portrait" position="float">
+        <label>FIG 5.</label>
+        <caption>
+          <p>Detailed results for cases run on spoke 10 (Sao Paulo) for experiment 13.</p>
+        </caption>
+        <graphic xlink:href="CCI.19.00099f5"/>
+      </fig>
+      <p>Three presentations, including a live demonstration, were given at IASLC&#x2019;s 2018 World Conference on Lung Cancer in Toronto, Canada. In total, &gt; 5 live demonstrations successfully showed the simultaneous running of the CT lung nodule algorithm on CT lung imaging cases distributed at 10 internationally distributed spoke sites.<sup><xref rid="B21" ref-type="bibr">21</xref></sup></p>
+    </sec>
+    <sec sec-type="discussion" id="s5">
+      <title>DISCUSSION</title>
+      <p>This initial proof-of-concept project demonstrated the potential of the ELIC H&amp;SE to provide a useful resource for global quantitative lung imaging studies. This project used global cloud-computing resources, each populated with an identical data set of 100 publicly available lung cancer images. A central hub Website simultaneously distributed 2 open-source quantitative lung measurement algorithm requests to the 10 globally distributed spoke sites. Using publicly available CT lung images allowed the project to achieve results quickly. The hub received and aggregated all quantitative algorithm results from the spoke sites and displayed the results on the hub Website. In addition, the QIBA CT Small Lung Nodule Profile CT image quality conformance testing service was successfully run on a spoke to demonstrate that CT image quality monitoring and optimization can be supported with the ELIC H&amp;SE.</p>
+      <p>Although the developed proof-of-concept software implemented a basic H&amp;SE, the functionality represents a subset of that which will be needed to fully realize the IASLC ELIC H&amp;SE vision. For example, the demonstration Website supports only 1 user type; when mature, the ELIC H&amp;SE will support a variety of different roles and types of access for clients, hub personnel, and spoke personnel. Future versions of the ELIC H&amp;SE will also provide higher levels of security to prevent access or extraction of PI CT image data as well as to prevent unauthorized use of client algorithms.</p>
+      <p>For these initial demonstrations, the client algorithms were created as open-source projects and built on each spoke into an executable application. However, a future ELIC H&amp;SE will likely also support the distribution of algorithms from the hub. For example, the distribution of virtual containers with executable applications embedded is being explored. Future H&amp;SE environments will also need to provide additional functionality and support for artificial intelligence development and specifically, deep learning algorithm development and testing. A fuller description of the methodology, governance, data use provisions, scope, and other proposed policy elements are provided in the Data Supplement.</p>
+      <p>The ELIC H&amp;SE prototype vehicle was developed with IASLC seed funding to support feasibility testing and was developed as an open-science and open-source research/care environment to allow a broad range of collaborative participation in achieving its CT imaging-related objectives. Funding to sustain this large-scale international collaborative effort will be dependent on the early lung cancer research and innovation communities using ELIC in their research to address important research and lung cancer care issues. We expect many stakeholders, including software developers, artificial intelligence companies, imaging researchers, diagnostic device developers, medical imaging companies, government agencies, pharmaceutical developers, academic societies, and many other innovators, to be early users of the flexible capabilities of ELIC. This service model is designed to allow a sustainable path forward for this internationally accessible quantitative imaging environment to emerge as a core resource for improving the detection and management of early thoracic disease.</p>
+      <p>The internationally federated ELIC hub-and-spoke system has features such as robust data privacy provisions to permit large-scale analyses of clinical CT images with relevant associated data in a secure environment (ie, privacy protection that is under the control of the Trial/Study PI), so that this resource could support the conduct of clinical trials. This approach is intended to ensure local governance control of the site PI, who can address the specific data protection conditions at diverse international locations.</p>
+      <p>In addition to prospective accumulation of individual new screening cases, existing imaging collections will remain at the local site where they were collected, so, again, the resulting environment remains consistent with local regulations without a privacy or data disclosure risk. An inherent design feature of ELIC is to manage large numbers of thoracic CT image screening registries. Therefore, control of the processes for the users of the spokes and hub requires a well-functioning informatics environment with easy-to-setup and deployment tools that will enable rapid screening care implementation as well as research by new global lung cancer screening groups.</p>
+      <p>The power of ELIC relates to the accessibility of the cloud and its remarkable cost efficiency.<sup><xref rid="B16" ref-type="bibr">16</xref></sup> For image quality processes, ELIC already uses machine vision and will soon include artificial intelligence to ensure optimal and economic image quality. This resource can greatly accelerate radiomics and deep learning processes for medical images and can be integrated with digital pathology and genomic data. As the ELIC project continues to mature as a resource to conduct analyses and study international collections of high-quality thoracic CT images together with associated biomedical data, there are a number of models through which the pharmaceutical industry can be involved. For example, drug company sponsors may host their own ELIC spoke, on which they can collect quality-controlled CT images associated with new innovative neoadjuvant studies, adjuvant or even chemoprevention clinical trials, and associated clinical outcomes data. With each trial, the sponsor can decide which image collections to acquire and maintain as private versus aggregated in large public image collections. In this fashion, aggregated image and data collections could emerge as critical postmarketing research and quality resources. Furthermore, access to large quality-controlled CT screening images with clinical outcomes data will provide the basis on which to construct the next generation of algorithms to build models and tools, which can function as clinical decision support. This is a rapidly evolving area, and we are working to evolve ELIC in alignment with new regulatory guidance relative to responsibly building international clinical decision support tools for clinical care and research.<sup><xref rid="B23" ref-type="bibr">23</xref>-<xref rid="B25" ref-type="bibr">25</xref></sup> Because thoracic CT images from screening also contain information about the presence of early coronary artery disease and chronic obstructive disease, a high-quality international collection of these images will be of growing public health value.<sup><xref rid="B26" ref-type="bibr">26</xref></sup></p>
+      <p>In summary, the development and deployment of the ELIC hub-and-spoke environment, together with fair and internationally developed governance policies, will establish, to our knowledge for the first time, a large and efficient global computing environment for the study of thoracic CT scans obtained in the context of lung cancer screening. The use of QIBA CT Small Lung Nodule Profile and the associated phantoms and software tools will improve the quality of global thoracic CT images aggregated for ELIC, ensuring much more efficient image tool development. Not only will these resources help accelerate lung imaging research and the availability of thoroughly tested imaging tools, but the data generated will provide insights to guide future recommendations for lung screening and for managing early thoracic diseases.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>ACKNOWLEDGMENT</title>
+      <p>The International Association for the Study of Lung Cancer hosted a workshop in Dallas, TX, in which the conception and design of this project were developed. We appreciate the efforts of Pia Hirsch in the coordination of that meeting. We appreciate David Gierada&#x2019;s efforts in critically reviewing this manuscript. In addition, we thank Giorgio Scagliotti, president of IASLC, and David Mesko, CEO of IASLC, for ongoing support of this critical work.</p>
+    </ack>
+    <sec id="s6">
+      <title>AUTHOR CONTRIBUTIONS</title>
+      <p><bold>Conception and design:</bold> All authors</p>
+      <p><bold>Collection and assembly of data:</bold> Ricardo S. Avila</p>
+      <p><bold>Data analysis and interpretation</bold>: James Mulshine, Ricardo S. Avila, John Field</p>
+      <p><bold>Manuscript writing:</bold> All authors</p>
+      <p><bold>Final approval of manuscript:</bold> All authors</p>
+      <p><bold>Accountable for all aspects of the work:</bold> All authors</p>
+    </sec>
+    <sec sec-type="COI-statement">
+      <title>AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST</title>
+      <p>The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to <ext-link ext-link-type="uri" xlink:href="http://www.asco.org/rwc">www.asco.org/rwc</ext-link> or <ext-link ext-link-type="uri" xlink:href="https://ascopubs.org/cci/author-center">ascopubs.org/cci/author-center</ext-link>.</p>
+      <p>Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (<ext-link ext-link-type="uri" xlink:href="https://openpaymentsdata.cms.gov/">Open Payments</ext-link>).</p>
+      <sec id="s8">
+        <title>Ricardo S. Avila</title>
+        <p><bold>Employment:</bold> Accumetra, Paraxial, Kitware (I)</p>
+        <p><bold>Leadership:</bold> Accumetra, Paraxial, Kitware (I)</p>
+        <p><bold>Stock and Other Ownership Interests:</bold> Accumetra, Paraxial, Kitware (I)</p>
+        <p><bold>Consulting or Advisory Role:</bold> Cannot disclose (I), Cannot disclose</p>
+        <p><bold>Patents, Royalties, Other Intellectual Property:</bold> Accumetra has patents pending</p>
+      </sec>
+      <sec id="s9">
+        <title>Anand Devaraj</title>
+        <p><bold>Honoraria:</bold> Boehringer Ingelheim</p>
+        <p><bold>Consulting or Advisory Role:</bold> Boehringer Ingelheim, GlaxoSmithKline</p>
+      </sec>
+      <sec id="s10">
+        <title>Fred R. Hirsch</title>
+        <p><bold>Consulting or Advisory Role:</bold> AstraZeneca, Genentech, Lilly, Merck, Bristol-Myers Squibb, Pfizer, Roche, Loxo, Novartis, Amgen, Oncocyte</p>
+        <p><bold>Research Funding:</bold> Amgen (Inst), Merck (Inst), Abbvie (Inst), Biodesix (Inst), Mersana (Inst), Rain Therapeutics (Inst)</p>
+        <p><bold>Patents, Royalties, Other Intellectual Property:</bold> EGFR FISH and IHC for prediction of outcome in patients treated with EGFR inhibitors (Inst)</p>
+      </sec>
+      <sec id="s11">
+        <title>Stephen Lam</title>
+        <p><bold>Patents, Royalties, Other Intellectual Property:</bold> Deep learning prediction algorithm to estimate the 3-year lung cancer risk and cancer related mortality for individuals who have &gt; 2 screening chest CT scans. Joint application by Johns Hopkins University and the BC Cancer Agency Patent pending (Inst).</p>
+      </sec>
+      <sec id="s12">
+        <title>Annette McWilliams</title>
+        <p><bold>Travel, Accommodations, Expenses:</bold> Olympus Medical Systems, Roche</p>
+      </sec>
+      <sec id="s13">
+        <title>Matthijs Oudkerk</title>
+        <p><bold>Employment:</bold> Institute for Diagnostic Accuracy</p>
+        <p><bold>Speakers' Bureau:</bold> Siemens Healthineers</p>
+        <p><bold>Research Funding:</bold> EU Horizon 2020 (Inst)</p>
+        <p><bold>Travel, Accommodations, Expenses:</bold> AstraZeneca</p>
+      </sec>
+      <sec id="s14">
+        <title>Anthony Reeves</title>
+        <p><bold>Leadership:</bold> D4Vision</p>
+        <p><bold>Stock and Other Ownership Interests:</bold> VisionGate</p>
+        <p><bold>Patents, Royalties, Other Intellectual Property:</bold> Co-inventor on patents owned by Cornell Research Foundation, which are nonexclusively licensed and are related to technology involving computer-aided diagnostic methods.</p>
+      </sec>
+      <sec id="s15">
+        <title>Patrick Rogalla</title>
+        <p><bold>Research Funding:</bold> Canon Medical (Inst)</p>
+        <p><bold>Travel, Accommodations, Expenses:</bold> Canon Medical (Inst)</p>
+      </sec>
+      <sec id="s16">
+        <title>David F. Yankelevitz</title>
+        <p><bold>Stock and Other Ownership Interests:</bold> Accumetra</p>
+        <p><bold>Consulting or Advisory Role:</bold> Grail</p>
+        <p><bold>Patents, Royalties, Other Intellectual Property:</bold> Licensing agreement between Cornell University and General Electric for management of various lung abnormalities including lung nodules.</p>
+      </sec>
+      <sec id="s17">
+        <title>John K. Field</title>
+        <p><bold>Consulting or Advisory Role:</bold> Epigenomics (Inst), NUCLEIX (Inst), AstraZenca (Inst), AstraZenca (Inst), Institute Diagnostic Accuracy (Inst)</p>
+        <p><bold>Speakers' Bureau:</bold> AstraZenca (Inst)</p>
+        <p><bold>Research Funding:</bold> Janssen Research &amp; Development (Inst)</p>
+        <p>No other potential conflicts of interest were reported.</p>
+      </sec>
+    </sec>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="B1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siegel</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Jemal</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Cancer statistics, 2019</article-title>
+          <source>CA Cancer J Clin</source>
+          <volume>69</volume>
+          <fpage>7</fpage>
+          <lpage>34</lpage>
+          <year>2019</year>
+          <pub-id pub-id-type="pmid">30620402</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Torre</surname><given-names>LA</given-names></name><name><surname>Siegel</surname><given-names>RL</given-names></name><name><surname>Jemal</surname><given-names>A</given-names></name></person-group><article-title>Lung cancer statistics,</article-title>in<person-group person-group-type="author"><name><surname>Ahmad</surname><given-names>A</given-names></name><name><surname>Gadgeel</surname><given-names>S</given-names></name></person-group>(eds)<source>Lung Cancer and Personalized Medicine. Advances in Experimental Medicine and Biology, Volume 893</source><publisher-loc>Switzerland</publisher-loc><publisher-name>Springer, Cham</publisher-name><year>2016</year>DOI<pub-id pub-id-type="doi">10.1007/978-3-319-24223-1_1</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>International Early Lung Cancer Action Program Investigators</collab>
+          </person-group>
+          <article-title>Survival of patients with stage I lung cancer detected on CT screening</article-title>
+          <source>N Engl J Med</source>
+          <volume>355</volume>
+          <fpage>1763</fpage>
+          <lpage>1771</lpage>
+          <year>2006</year>
+          <pub-id pub-id-type="pmid">17065637</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aberle</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Adams</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Berg</surname>
+              <given-names>CD</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Reduced lung-cancer mortality with low-dose computed tomographic screening</article-title>
+          <source>N Engl J Med</source>
+          <volume>365</volume>
+          <fpage>395</fpage>
+          <lpage>409</lpage>
+          <year>2011</year>
+          <pub-id pub-id-type="pmid">21714641</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <mixed-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>De Koning</surname><given-names>H</given-names></name><name><surname>Van Der Aalst</surname><given-names>C</given-names></name><name><surname>Ten Haaf</surname><given-names>K</given-names></name><etal>et al</etal></person-group><article-title>Effects of volume CT lung cancer screening: Mortality results of the NELSON randomized-controlled population based trial</article-title><conf-name>2018 World Conference on Lung Cancer</conf-name>Abstract PL02.05Toronto, Ontario, Canada<conf-date>September 25, 2018</conf-date></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pastorino</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sestini</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Prolonged lung cancer screening reduced 10-year mortality in the MILD trial: New confirmation of lung cancer screening efficacy</article-title>
+          <source>Ann Oncol</source>
+          <volume>30</volume>
+          <fpage>1162</fpage>
+          <lpage>1169</lpage>
+          <year>2019</year>
+          <pub-id pub-id-type="pmid">30937431</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nawa</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Fukui</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Nakayama</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>A population-based cohort study to evaluate the effectiveness of lung cancer screening using low-dose CT in Hitachi city, Japan</article-title>
+          <source>Jpn J Clin Oncol</source>
+          <volume>49</volume>
+          <fpage>130</fpage>
+          <lpage>136</lpage>
+          <year>2019</year>
+          <pub-id pub-id-type="pmid">30541133</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yankelevitz</surname>
+              <given-names>DF</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Small pulmonary nodules: Evaluation with repeat CT--preliminary experience</article-title>
+          <source>Radiology</source>
+          <volume>212</volume>
+          <fpage>561</fpage>
+          <lpage>566</lpage>
+          <year>1999</year>
+          <pub-id pub-id-type="pmid">10429718</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van Klaveren</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Oudkerk</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Prokop</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Management of lung nodules detected by volume CT scanning</article-title>
+          <source>N Engl J Med</source>
+          <volume>361</volume>
+          <fpage>2221</fpage>
+          <lpage>2229</lpage>
+          <year>2009</year>
+          <pub-id pub-id-type="pmid">19955524</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Horeweg</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>van Rosmalen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Heuvelmans</surname>
+              <given-names>MA</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Lung cancer probability in patients with CT-detected pulmonary nodules: A prespecified analysis of data from the NELSON trial of low-dose CT screening</article-title>
+          <source>Lancet Oncol</source>
+          <volume>15</volume>
+          <fpage>1332</fpage>
+          <lpage>1341</lpage>
+          <year>2014</year>
+          <pub-id pub-id-type="pmid">25282285</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Henschke</surname>
+              <given-names>CI</given-names>
+            </name>
+            <name>
+              <surname>Yip</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Yankelevitz</surname>
+              <given-names>DF</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Definition of a positive test result in computed tomography screening for lung cancer: a cohort study</article-title>
+          <source>Ann Intern Med</source>
+          <volume>158</volume>
+          <fpage>246</fpage>
+          <lpage>252</lpage>
+          <year>2013</year>
+          <pub-id pub-id-type="pmid">23420233</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Field</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Duffy</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Baldwin</surname>
+              <given-names>DR</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>UK Lung Cancer RCT Pilot Screening Trial: Baseline findings from the screening arm provide evidence for the potential implementation of lung cancer screening</article-title>
+          <source>Thorax</source>
+          <volume>71</volume>
+          <fpage>161</fpage>
+          <lpage>170</lpage>
+          <year>2016</year>
+          <pub-id pub-id-type="pmid">26645413</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oudkerk</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Devaraj</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Vliegenthart</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>European position statement on lung cancer screening</article-title>
+          <source>Lancet Oncol</source>
+          <volume>18</volume>
+          <fpage>e754</fpage>
+          <lpage>e766</lpage>
+          <year>2017</year>
+          <pub-id pub-id-type="pmid">29208441</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rami-Porta</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bolejack</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Crowley</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>The IASLC lung cancer staging project: Proposals for the revisions of the T descriptors in the forthcoming eighth edition of the TNM classification for lung cancer</article-title>
+          <source>J Thorac Oncol</source>
+          <volume>10</volume>
+          <fpage>990</fpage>
+          <lpage>1003</lpage>
+          <year>2015</year>
+          <pub-id pub-id-type="pmid">26134221</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lantuejoul</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Rouquette</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Brambilla</surname>
+              <given-names>E</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>New WHO classification of lung adenocarcinoma and preneoplasia [in French]</article-title>
+          <source>Ann Pathol</source>
+          <volume>36</volume>
+          <fpage>5</fpage>
+          <lpage>14</lpage>
+          <year>2016</year>
+          <pub-id pub-id-type="pmid">26791238</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Navale</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Bourne</surname>
+              <given-names>PE</given-names>
+            </name>
+          </person-group>
+          <article-title>Cloud computing applications for biomedical science: A perspective</article-title>
+          <source>PLOS Comput Biol</source>
+          <volume>14</volume>
+          <elocation-id>e1006144</elocation-id>
+          <year>2018</year>
+          <pub-id pub-id-type="pmid">29902176</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mulshine</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Gierada</surname>
+              <given-names>DS</given-names>
+            </name>
+            <name>
+              <surname>Armato</surname>
+              <given-names>SG</given-names>
+              <suffix>III</suffix>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Role of the Quantitative Imaging Biomarker Alliance in optimizing CT for the evaluation of lung cancer screen-detected nodules</article-title>
+          <source>J Am Coll Radiol</source>
+          <volume>12</volume>
+          <fpage>390</fpage>
+          <lpage>395</lpage>
+          <year>2015</year>
+          <pub-id pub-id-type="pmid">25842017</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rydzak</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Armato</surname>
+              <given-names>SG</given-names>
+            </name>
+            <name>
+              <surname>Avila</surname>
+              <given-names>RS</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Quality assurance and quantitative imaging biomarkers in low dose CT lung cancer screening</article-title>
+          <source>Br J Radiol</source>
+          <volume>91</volume>
+          <elocation-id>20170401</elocation-id>
+          <year>2018</year>
+          <pub-id pub-id-type="pmid">28830225</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Field</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>deKoning</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Oudkerk</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Implementation of lung cancer screening in Europe: Challenges and potential solutions: Summary of a multidisciplinary roundtable discussion</article-title>
+          <source>ESMO Open</source>
+          <pub-id pub-id-type="doi">10.1136/esmoopen-2019-000577</pub-id>
+          <comment>. eCollection 2019</comment>
+        </mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20.</label>
+        <mixed-citation publication-type="web">
+          <person-group person-group-type="author">
+            <collab>Lung Imaging Database Consortium</collab>
+          </person-group>
+          <ext-link ext-link-type="uri" xlink:href="https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI">https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI</ext-link>
+        </mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21.</label>
+        <mixed-citation publication-type="web">
+          <person-group person-group-type="author">
+            <collab>IASLC News</collab>
+            <name>
+              <surname>Mulshine</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Field</surname>
+              <given-names>JK</given-names>
+            </name>
+          </person-group>
+          <source>The IASLC&#x2019;s spotlight on screening</source>
+          <ext-link ext-link-type="uri" xlink:href="http://www.lungcancernews.org/2019/02/26/the-iaslcs-spotlight-on-screening">http://www.lungcancernews.org/2019/02/26/the-iaslcs-spotlight-on-screening</ext-link>
+        </mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22.</label>
+        <mixed-citation publication-type="web">
+          <person-group person-group-type="author">
+            <collab>Early Lung Imaging Confederation</collab>
+          </person-group>
+          <ext-link ext-link-type="uri" xlink:href="http://iaslc-elic.org">http://iaslc-elic.org</ext-link>
+        </mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23.</label>
+        <mixed-citation publication-type="web">
+          <person-group person-group-type="author">
+            <collab>ASCO Post</collab>
+            <name>
+              <surname>McNeil</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <source>Low-dose CT lung screening: New developments support increased quality, more data, deep learning</source>
+          <ext-link ext-link-type="uri" xlink:href="https://www.ascopost.com/issues/december-25-2018/low-dose-ct-lung-screening/">https://www.ascopost.com/issues/december-25-2018/low-dose-ct-lung-screening/</ext-link>
+        </mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24.</label>
+        <mixed-citation publication-type="web">
+          <person-group person-group-type="author">
+            <collab>US Food and Drug Administration</collab>
+          </person-group>
+          <source>Proposed regulatory framework for modifications to artificial intelligence/machine learning (AI/ML)-based software as a medical device (SaMD)</source>
+          <ext-link ext-link-type="uri" xlink:href="https://www.fda.gov/media/122535/download">https://www.fda.gov/media/122535/download</ext-link>
+        </mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Conley</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Pocs</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>GDPR compliance challenges for interoperable health information exchanges (HIEs) and trustworthy research environments (TREs)</article-title>
+          <source>Eur J Biomed Inform</source>
+          <volume>14</volume>
+          <fpage>48</fpage>
+          <lpage>61</lpage>
+          <year>2018</year>
+          <ext-link ext-link-type="uri" xlink:href="https://www.ejbi.org/scholarly-articles/gdpr-compliance-challenges-for-interoperable-health-information-exchanges-hies-and-trustworthy-research-environments-tre.pdf">https://www.ejbi.org/scholarly-articles/gdpr-compliance-challenges-for-interoperable-health-information-exchanges-hies-and-trustworthy-research-environments-tre.pdf</ext-link>
+        </mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mulshine</surname><given-names>JL</given-names></name></person-group>: <article-title>One screening for ischemic heart disease, lung cancer, and chronic obstructive pulmonary disease: A systems biology bridge for tobacco and radiation exposure</article-title>. <source>Am J Public Health</source>
+<volume>108</volume>:<fpage>1294</fpage>-<lpage>1295</lpage>, <year>2018</year><pub-id pub-id-type="pmid">30207781</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

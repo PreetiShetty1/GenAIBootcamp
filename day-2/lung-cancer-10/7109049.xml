@@ -1,0 +1,2174 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Br J Cancer</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Br J Cancer</journal-id>
+      <journal-title-group>
+        <journal-title>British Journal of Cancer</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0007-0920</issn>
+      <issn pub-type="epub">1532-1827</issn>
+      <publisher>
+        <publisher-name>Nature Publishing Group UK</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">32020063</article-id>
+      <article-id pub-id-type="pmc">7109049</article-id>
+      <article-id pub-id-type="publisher-id">742</article-id>
+      <article-id pub-id-type="doi">10.1038/s41416-020-0742-9</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Long non-coding RNA dysregulation is a frequent event in non-small cell lung carcinoma pathogenesis</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Acha-Sagredo</surname>
+            <given-names>Amelia</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Uko</surname>
+            <given-names>Bubaraye</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pantazi</surname>
+            <given-names>Paschalia</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bediaga</surname>
+            <given-names>Naiara G.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Moschandrea</surname>
+            <given-names>Chryssanthi</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rainbow</surname>
+            <given-names>Lucille</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Marcus</surname>
+            <given-names>Michael W.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Davies</surname>
+            <given-names>Michael P. A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Field</surname>
+            <given-names>John K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Liloglou</surname>
+            <given-names>Triantafillos</given-names>
+          </name>
+          <address>
+            <email>tliloglo@liverpool.ac.uk</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8470</institution-id><institution-id institution-id-type="GRID">grid.10025.36</institution-id><institution>Roy Castle Lung Cancer Programme, Department of Molecular &amp; Clinical Cancer Medicine, </institution><institution>University of Liverpool, </institution></institution-wrap>Liverpool, UK </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2113 8111</institution-id><institution-id institution-id-type="GRID">grid.7445.2</institution-id><institution>Department of Surgery and Cancer, Institute of Reproductive and Developmental Biology (IRDB), </institution><institution>Imperial College London, </institution></institution-wrap>London, UK </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8470</institution-id><institution-id institution-id-type="GRID">grid.10025.36</institution-id><institution>Centre for Genomic Research, Institute of Integrative Biology, </institution><institution>University of Liverpool, </institution></institution-wrap>Liverpool, UK </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>5</day>
+        <month>2</month>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <day>31</day>
+        <month>3</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>122</volume>
+      <issue>7</issue>
+      <fpage>1050</fpage>
+      <lpage>1058</lpage>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>6</month>
+          <year>2019</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>16</day>
+          <month>12</month>
+          <year>2019</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>1</month>
+          <year>2020</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s), under exclusive licence to Cancer Research UK 2020</copyright-statement>
+        <license>
+          <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p><bold>Note</bold> This work is published under the standard license to publish agreement. After 12 months the work will become freely available and the license terms will switch to a Creative Commons Attribution 4.0 International (CC BY 4.0).</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p id="Par1">Long non-coding RNAs compose an important level of epigenetic regulation in normal physiology and disease. Despite the plethora of publications of lncRNAs in human cancer, the landscape is still unclear.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p id="Par2">Microarray analysis in 44 NSCLC paired specimens was followed by qPCR-based validation in 29 (technical) and 38 (independent) tissue pairs. Cross-validation of the selected targets was achieved in 850 NSCLC tumours from TCGA datasets.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p id="Par3">Twelve targets were successfully validated by qPCR (upregulated: FEZF1-AS1, LINC01214, LINC00673, PCAT6, NUTM2A-AS1, LINC01929; downregulated: PCAT19, FENDRR, SVIL-AS1, LANCL1-AS1, ADAMTS9-AS2 and LINC00968). All of them were successfully cross validated in the TCGA datasets. Abnormal DNA methylation was observed in the promoters of FENDRR, FEZF1-AS1 and SVIL-AS1. FEZF1-AS1 and LINC01929 were associated with survival in the TCGA set.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p id="Par4">Our study provides through multiple levels of internal and external validation, a comprehensive list of dysregulated lncRNAs in NSCLC. We therefore envisage this dataset to serve as an important source for the lung cancer research community assisting future investigations on the involvement of lncRNAs in the pathogenesis of the disease and providing novel biomarkers for diagnosis, prognosis and therapeutic stratification.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="npg-subject">
+        <title>Subject terms</title>
+        <kwd>Non-small-cell lung cancer</kwd>
+        <kwd>Long non-coding RNAs</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">https://doi.org/10.13039/100009855</institution-id>
+              <institution>Roy Castle Lung Cancer Foundation (RCLCF)</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>2014/05/Liloglou</award-id>
+          <award-id>2014/05/Liloglou</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Field</surname>
+              <given-names>John K.</given-names>
+            </name>
+            <name>
+              <surname>Liloglou</surname>
+              <given-names>Triantafillos</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; Cancer Research UK 2020</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p id="Par5">Long non-coding RNAs (lncRNAs) comprise a heterogeneous group of transcripts &gt;200 nucleotides with no protein coding capacity. In relation to their topography of the closest protein-coding gene, lncRNAs have been broadly classified into: sense, antisense, bidirectional, intronic and intergenic lncRNAs.<sup><xref ref-type="bibr" rid="CR1">1</xref></sup> They are largely transcribed by RNA polymerase II, spliced, 5&#x2032; capped, polyadenylated and regulated at multiple levels similarly to the mRNAs.<sup><xref ref-type="bibr" rid="CR2">2</xref></sup> GENCODE release v29 reports 16,066 lncRNA transcripts.<sup><xref ref-type="bibr" rid="CR3">3</xref></sup> Although the function of the majority of lncRNAs is still largely unknown, evidence reveals their participation in many regulatory pathways,<sup><xref ref-type="bibr" rid="CR4">4</xref></sup> including chromatin organisation, transcriptional regulation, post-transcriptional and post-translational processing.<sup><xref ref-type="bibr" rid="CR5">5</xref></sup> These functions are exerted by acting as guides, tethers, decoys, scaffolds, competitive endogenous RNAs and miRNA sponges.<sup><xref ref-type="bibr" rid="CR4">4</xref></sup> In general, lncRNAs show lower expression levels, significantly shorter transcript half-lives and higher cell and tissue specificity than mRNAs.<sup><xref ref-type="bibr" rid="CR1">1</xref>,<xref ref-type="bibr" rid="CR6">6</xref>,<xref ref-type="bibr" rid="CR7">7</xref></sup></p>
+      <p id="Par6">Dysregulation of lncRNA expression appears to be extensive in cancer, where they act either as oncogenes or tumour repressors.<sup><xref ref-type="bibr" rid="CR8">8</xref>&#x2013;<xref ref-type="bibr" rid="CR10">10</xref></sup> In the past few years, several pan-cancer transcriptomic analyses have been carried out after thorough realignment and reannotation of thousands of RNA-seq libraries retrieved from TCGA, providing an overview of lncRNA transcriptional alterations in different human cancers. These studies suggest that (a) lncRNAs are frequently dysregulated in tumours, (b) many of these alterations are highly tumour-specific and (c) they are often associated with other cancer-related (epi)genetic alterations.<sup><xref ref-type="bibr" rid="CR9">9</xref>,<xref ref-type="bibr" rid="CR10">10</xref></sup></p>
+      <p id="Par7">Lung cancer is the most frequent cause of cancer-related deaths, and non-small cell lung cancer accounts for the majority of the reported cases.<sup><xref ref-type="bibr" rid="CR11">11</xref></sup> Early screening and improved therapies are critical unmet clinical needs<sup><xref ref-type="bibr" rid="CR12">12</xref></sup> and the field of lncRNAs has attracted a lot of interest in an effort to identify novel diagnostic biomarkers and therapeutic targets. Analysis of publicly available RNA-seq data indicated 111 intergenic lung cancer-associated lncRNAs that were differentially expressed between tumour and adjacent normal lung tissue.<sup><xref ref-type="bibr" rid="CR13">13</xref></sup> Furthermore, following a pan-cancer analysis of RNA-seq data from seven additional TCGA solid tumour types, 58 of these were shown to be specific to lung cancer. To date, there are a number of additional studies analysing publicly available lncRNA expression data in lung cancer<sup><xref ref-type="bibr" rid="CR14">14</xref>&#x2013;<xref ref-type="bibr" rid="CR16">16</xref></sup> and fewer attempting validation in independent sample sets.<sup><xref ref-type="bibr" rid="CR17">17</xref>&#x2013;<xref ref-type="bibr" rid="CR19">19</xref></sup> However, despite the plethora of published papers, the lncRNA landscape in NSCLC is far from comprehensive, mainly because of the limited independent validation, inconsistency of targets and sample sets. In this study, we undertook a lncRNA transcriptome-wide microarray approach and performed both technical and biological validation of a number of highly differential expressed lncRNA targets. Qualified targets from this process were cross validated in TCGA datasets. Expression was also tested in a series of NSCLC cell lines. Finally, we investigated the DNA methylation status of those dysregulated lncRNAs bearing CpG islands in their promoters.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Methods</title>
+      <sec id="Sec3">
+        <title>Patients and samples</title>
+        <p id="Par8">A set of 82 NSCLC patients from the Liverpool Lung Project (LLP) were used for expression analysis. All patients were recruited, following voluntary informed consent, from Liverpool Heart and Chest Hospital, in accordance with the Declaration of Helsinki. Ethical approval was obtained from the Liverpool Central Research Ethics Committee (ref 97/141). Frozen tissues were macro-dissected to ensure &gt;70% tumour content. For DNA methylation analysis, we utilised DNAs from 129 tumour and 36 normal samples available from previous studies.<sup><xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR21">21</xref></sup> Demographic and clinical characteristics of the cancer patients are summarised in Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">S1</xref>.</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Analysis of the Cancer Genome Atlas expression data</title>
+        <p id="Par9">Clinical and gene expression data was downloaded from the Genomics Data Commons (GDC) data portal using GDC Data Transfer Tool from the following The Cancer Genome Atlas (TCGA) datasets: TCGA-LUAD (Lung adenocarcinoma; <italic>N</italic>&#x2009;=&#x2009;585) and TCGA-LUSC (Lung squamous cell carcinoma; <italic>N</italic>&#x2009;=&#x2009;504). Patients with prior malignancies, subject to prior treatment and/or synchronous tumours were removed from our analysis. The main demographic and clinical characteristics of the TCGA patients analysed are summarised in Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">S2</xref>. Normalised gene expression values (FPKM-UQ; Fragments Per Kilobase of transcript per Million mapped reads upper quartile) were employed.</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Cell lines and growth conditions</title>
+        <p id="Par10">Thirteen NSCLC cell lines (A549, Calu-1, Calu-3, Calu-6, COR-L23, DMS53, H358, H2073, HTB-59, HTB-182, LUDLU-1, SK-LU-1 and SK-MES-1) and a non-tumorigenic human foetal lung fibroblast cell line (IMR-90) were cultured in Dulbecco&#x2019;s Modified Eagle&#x2019;s Medium (DMEM)/Ham&#x2019;s Nutrient Mixture F-12 (1:&#x2009;1) containing 10% foetal bovine serum (Sigma-Aldrich, Gillingham, UK) at 37&#x2009;&#xB0;C and 5% CO<sub>2</sub>. All cell lines were mycoplasma tested (e-Myco&#x2122; plus Kit, iNtRON Biotechnology, Gyeonggi-do, Korea) and authenticated (GenePrint 10 System, Promega, Southampton, UK).</p>
+      </sec>
+      <sec id="Sec6">
+        <title>RNA isolation</title>
+        <p id="Par11">Total RNA was extracted from both tissue (10&#x2009;&#xD7;&#x2009;10&#x2009;&#x3BC;m thick) and cell lines using the Direct-zol mini kit (ZymoResearch, Irvine, CA, USA). RNA concentration and purity were determined on a NanoDrop ND-1000 spectrophotometer (Thermo Fisher Scientific, Hemel Hempstead, UK). RNA integrity was determined using the RNA 6000 Nano Lab-on-a-Chip kit on a Bioanalyzer 2100 (Agilent Technologies, Warrington, UK).</p>
+      </sec>
+      <sec id="Sec7">
+        <title>lncRNA array profiling</title>
+        <p id="Par12">lncRNA profiling was performed on 44 normal-tumour pairs, using an Agilent Custom 8&#xD7;60K expression array (AMADID: 047718) designed by the GENCODE consortium based on the Gencode v15 catalogue of human lncRNA.</p>
+        <p id="Par13">Sample labelling and array hybridisation were performed according to the Two-Color Microarray-Based Gene Expression Analysis&#x2014;Low Input Quick Amp Labeling&#x2014;protocol version 6.7 (Agilent Technologies, Warrington, UK). Tumour samples were labelled with Cy3 and Cy5 was used with normal tissue. The labelled cRNA was hybridised to the Agilent SurePrint G3 gene expression 8&#xD7;60K microarray and scanned on an Agilent G2565CA microarray scanner at 100% R&#x2009;+&#x2009;G PMT, 3&#x2009;&#x3BC;m resolution and 20&#x2009;bit TIFF with no XDR. Agilent&#x2019;s Feature Extraction 11.0.1.1 software was used to analyse acquired array images and extract intensity data. The microarray data have been deposited in the Gene Expression Omnibus (GEO) database (GSE130740).</p>
+      </sec>
+      <sec id="Sec8">
+        <title>lncRNA RT&#x2013;qPCR</title>
+        <p id="Par14">Technical validation of the selected targets was performed in 29/44 array samples. Biological validation was undertaken on 38 independent NSCLC normal-tumour pairs. Additionally, the expression levels of the validated lncRNA targets were assessed in 14 cell lines. One microgram of total RNA was reverse transcribed (QuantiTect Reverse Transcription Kit, Qiagen, Crawley, UK) according to the manufacturer&#x2019;s instructions. Quantitative real-time PCR was performed in triplicate using QuantiTect probe PCR mastermix (Qiagen, Crawley, UK). Primers and probes as well as the thermal profiles for each lncRNA qPCR assay are provided in Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">S3</xref>. lncRNA expression was quantified using the 2<sup>&#x2212;&#x394;&#x394;Ct</sup> method and TBP as endogenous control.</p>
+      </sec>
+      <sec id="Sec9">
+        <title>DNA extraction and methylation analysis</title>
+        <p id="Par15">DNA has been previously isolated.<sup><xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR21">21</xref></sup> Pyrosequencing methylation analysis assays were designed for those lncRNAs harbouring a CpG island in their promoter (i.e. <italic>FENDRR, FEZF1-AS1, LIN00673, NUTM2A-AS1, PCAT6, RNF139-AS1, SVIL-AS1</italic>). One microgram of DNA was bisulphite-converted (EZ-96 DNA Methylation-Gold Kit, ZymoResearch, Irvine, CA, USA). DNA methylation analysis was performed by pyrosequencing (Qiagen, Crawley, UK) as previously described.<sup><xref ref-type="bibr" rid="CR20">20</xref></sup> Primers and PCR thermal profiles for each pyrosequencing assay are provided in Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">S4</xref>.</p>
+      </sec>
+      <sec id="Sec10">
+        <title>Statistical analysis</title>
+        <sec id="Sec11">
+          <title>Statistical analysis of the microarray</title>
+          <p id="Par16">Raw data were corrected for background noise using the normexp method and normalised using the loess method in Limma.<sup><xref ref-type="bibr" rid="CR22">22</xref></sup> Differential expression analysis was carried out on non-control probes using linear models and robust empirical Bayes moderated <italic>t</italic>-statistics.<sup><xref ref-type="bibr" rid="CR23">23</xref></sup> We compared lung tumours to their matched normal tissue to identify NSCLC-specific lncRNA transcriptional signatures. <italic>i</italic>-values were adjusted to control the false discovery rate (FDR) below 5% using the Benjamini and Hochberg method. Differentially expressed genes were identified using the double-filtering criterion: adjusted p-value (FDR)&#x2009;&lt;&#x2009;0.01 and an absolute log2 fold-change (absolute log2 fold-change)&#x2009;&gt;&#x2009;0.5. All statistical analyses were performed with Bioconductor in the <italic>R</italic> statistical environment.<sup><xref ref-type="bibr" rid="CR24">24</xref></sup> For the visualisation of the 44 pairs of tissue (tumour and normal) data were subtracted for Cy3 and Cy5 separately after background correction, normalised using cyclicloess method, log2 transformed and plotted using the coolmap function in Limma.<sup><xref ref-type="bibr" rid="CR22">22</xref></sup></p>
+        </sec>
+        <sec id="Sec12">
+          <title>Validation of differentially expressed lncRNA by RT-qPCR</title>
+          <p id="Par17">lncRNA targets showing the highest differential expression between tumour and normal tissues were selected for further biological validation. Wilcoxon signed rank tests were used to establish statistically significant changes between the paired tumours and adjacent tissues while Mann&#x2013;Whitney <italic>U</italic> and Kruskal&#x2013;Wallis H tests were used to assess possible associations between expression and clinicopathological features in tumours. ROC curves and AUC were calculated for all the validated targets following binary logistic regression analysis. For each lncRNA, the patient cohort was dichotomised into low and high expression subgroups using the relative quantity (RQ) median; patients&#x2019; survival was calculated using the log rank test and plotted using Kaplan-Meier curves.</p>
+        </sec>
+        <sec id="Sec13">
+          <title>DNA methylation analysis</title>
+          <p id="Par18">Hypermethylation thresholds were calculated using the 95% reference interval (mean&#x2009;+&#x2009;2&#x2009;&#xD7;&#x2009;SD) of the normal sample values. Differences between the methylation status (hypermethylated vs normal) of tumours and clinicopathological features were assessed using Chi-square and Fisher&#x2019;s exact tests.</p>
+        </sec>
+        <sec id="Sec14">
+          <title>Analysis of differentially expressed lncRNAs in the TCGA dataset</title>
+          <p id="Par19">Mann&#x2013;Whitney U tests were used to establish statistically significant changes between the tumours and normal tissues. Associations between expression and clinicopathological features in tumours were assessed using Mann&#x2013;Whitney <italic>U</italic> and Kruskal&#x2013;Wallis H tests. Pairwise multiple comparisons were carried out using Dunn&#x2019;s post hoc test and <italic>p</italic>-values were adjusted using the Bonferroni error correction. Patients&#x2019; survival was calculated as described above.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="Sec15" sec-type="results">
+      <title>Results</title>
+      <sec id="Sec16">
+        <title>Discovery of aberrant lncRNA expression profiles in NSCLC</title>
+        <p id="Par20">On the Gencode v15 microarray, each of the 17,535 randomly selected protein coding and 22,001 lncRNA transcripts is targeted by two probes. Three samples that were analysed in duplicate and hybridised on separate arrays were used as technical replicates. Technical replicates showed a strong pairwise Pearson correlation coefficient (<italic>r</italic>&#x2009;&#x2265;&#x2009;0.86, <italic>p</italic>-value&#x2009;&lt;&#x2009;10<sup>&#x2013;16</sup>). An initial comparison between the lncRNA expression profiles of NSCLC tissue and adjacent normal tissue using unsupervised hierarchical clustering analysis showed that samples could be neatly classified based on the expression levels of antisense and lincRNAs (Supplementary Figs.&#xA0;<xref rid="MOESM1" ref-type="media">S1C</xref> and <xref rid="MOESM1" ref-type="media">S1B</xref>) as well as protein coding transcripts (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">S1A</xref>). Gene expression analysis identified the following numbers of differentially expressed transcripts in the NSCLC vs normal comparison: 581 (down) and 368 (up) lincRNAs, 541 (down) and 403 (up) antisense RNAs as well as 1992 (up) and 1,448 (down) protein-coding RNAs, (Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">S5</xref>). In this study, we focused only in the validation of the lncRNAs (lincRNA and antisense RNA transcripts).</p>
+      </sec>
+      <sec id="Sec17">
+        <title>Validation of differentially expressed lncRNAs</title>
+        <p id="Par21">The selection criteria for the validation step included the <italic>p</italic>-value, fold-change and the clarity of annotation of the sequences. Regarding the latter, validation was performed only for targets where the probe sequence matched the location or Ensembl_ID indicated in the array manifest. For the validation step, we selected fourteen targets across a range of adjusted p-values (7.6&#x2009;&#xD7;&#x2009;10<sup>&#x2013;3</sup> to 2.7&#x2009;&#xD7;&#x2009;10<sup>&#x2013;23</sup>) in order to assess the range of confidence in this microarray dataset.</p>
+        <p id="Par22">The selected lncRNAs for technical and biological qPCR-based validation (Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">S5</xref>) were <italic>FEZF1-AS1, LINC01214, LINC00673, PCAT6, NUTM2A-AS1, RNF139-AS1, LINC01929, HMGA1P4</italic> (upregulated) and <italic>PCAT19, FENDRR, SVIL-AS1, LANCL1-AS1, ADAMTS9-AS2 and LINC00968</italic> (downregulated).</p>
+        <p id="Par23">Out of the eight over-expressed lncRNAs identified on the microarray, six were confirmed as upregulated in lung tumours compared with paired normal tissue both in the technical and biological sets (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>). <italic>HMGA1P4</italic> showed no significant difference in expression between tumour and normal paired samples in any of the validation sets (<italic>p</italic>&#x2009;&gt;&#x2009;0.05 in both), whereas <italic>RNF139-AS1</italic> showed insignificant expression difference in the technical validation set (<italic>p</italic>&#x2009;=&#x2009;0.325) and borderline difference in the biological validation set (<italic>p</italic>&#x2009;=&#x2009;0.03). All six selected under-expressed lncRNA targets were significantly differentially expressed in lung tumours compared with paired normal lung in both sets (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>).<fig id="Fig1"><label>Fig. 1</label><caption><title>Overexpressed lncRNAs in NSCLC.</title><p>Scatterplot diagrams demonstrating the expression levels of lncRNAs <italic>FEZF1-AS1</italic> (<bold>a</bold>), <italic>LINC01214</italic> (<bold>b</bold>), <italic>LINC00673</italic> (<bold>c</bold>), <italic>PCAT6</italic> (<bold>d</bold>), <italic>LINC01929</italic> (<bold>e</bold>) and <italic>NUTM2A-AS1</italic> (<bold>f</bold>), which are overexpressed in lung tumours compared to adjacent normal lung tissue. Means are also indicated along with the 95% confidence intervals. Technical validation values are given by circles, while biological independent validation values are given as triangles. <italic>p</italic>-values are derived from Wilcoxon ranked tests. RQ relative quantity.</p></caption><graphic xlink:href="41416_2020_742_Fig1_HTML" id="d32e676"/></fig><fig id="Fig2"><label>Fig. 2</label><caption><title>Downregulated lncRNAs in NSCLC.</title><p>Scatterplot diagrams demonstrating the expression levels of lncRNAs <italic>PCAT19</italic> (<bold>a</bold>), <italic>SVIL-AS1</italic> (<bold>b</bold>), <italic>LANCL1-AS1</italic> (<bold>c</bold>), <italic>FENDRR</italic> (<bold>d</bold>), <italic>LINC00968</italic> (<bold>e</bold>) and <italic>ADAMTS9-AS2</italic> (<bold>f</bold>), which are downregulated in lung tumours compared to adjacent normal lung tissue. Means are also indicated along with the 95% confidence intervals. Technical validation values are given by circles, while biological independent validation values are given as triangles. <italic>p</italic>-values are derived from Wilcoxon ranked tests. RQ relative quantity.</p></caption><graphic xlink:href="41416_2020_742_Fig2_HTML" id="d32e728"/></fig></p>
+        <p id="Par24">In order to estimate the efficiency of each validated target to discriminate between normal and tumour tissue, binary logistic regression analysis was performed, and ROC curves were constructed (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">S2</xref>). Expression of LANCL1-AS1 appeared to discriminate best (AUC&#x2009;=&#x2009;0.995, 95% CI: 0.987&#x2013;1), whilst assessment of NUTM2A-AS1 was the least informative (AUC&#x2009;=&#x2009;0.689, 95% CI: 0.594&#x2013;0.784).</p>
+      </sec>
+      <sec id="Sec18">
+        <title>Correlation between clinical data and the expression of the validated lncRNAs</title>
+        <p id="Par25">qPCR-based expression was analysed in relation to the epidemiological and clinicopathopathological parameters. No association with age or histology was observed, while a number of borderline associations between individual lncRNA expression and certain clinicopathological parameters were noticed (Table&#xA0;<xref rid="Tab1" ref-type="table">1</xref>). Higher expression of <italic>FEZF1-AS1</italic> (<italic>p</italic>&#x2009;=&#x2009;0.03) and <italic>ADAMTS9-AS2</italic> (<italic>p</italic>&#x2009;=&#x2009;0.03) was observed in males compared to females. In addition, the expression of <italic>LINC00968</italic> (<italic>p</italic>&#x2009;=&#x2009;0.03) was significantly higher in patients with lymph node involvement (N1/N2 stages when compared with N0), while the opposite relationship was found for <italic>LINC01929</italic> (<italic>p</italic>&#x2009;=&#x2009;0.05). Finally, <italic>PCAT6</italic> (<italic>p</italic>&#x2009;=&#x2009;0.02) and <italic>LANCL1-AS1</italic> (<italic>p</italic>&#x2009;=&#x2009;0.01) expression was significantly lower in poorly differentiated tumours when compared to well and moderately differentiated ones.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Correlation between clinical data and the expression of the validated lncRNAs.</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" colspan="2"/><th rowspan="2"><italic>N</italic></th><th colspan="2">Relative quantity (RQ)</th><th colspan="2">Mann&#x2013;Whitney test</th></tr><tr><th>Mean</th><th>SD</th><th><italic>U</italic>-score</th><th><italic>p</italic>-value</th></tr></thead><tbody><tr><td><italic>Gender</italic></td><td/><td/><td/><td/><td/><td/></tr><tr><td><italic>FEZF1-AS1</italic></td><td>Male</td><td>49</td><td>6.49</td><td>8.31</td><td rowspan="2">268</td><td rowspan="2">0.03</td></tr><tr><td/><td>Female</td><td>17</td><td>2.72</td><td>3.68</td></tr><tr><td rowspan="2"><italic>ADAMTS9-AS2</italic></td><td>Male</td><td>50</td><td>0.66</td><td>1.51</td><td rowspan="2">255</td><td rowspan="2">0.03</td></tr><tr><td>Female</td><td>16</td><td>0.11</td><td>0.16</td></tr><tr><td><italic>Lymph node involvement</italic></td><td/><td/><td/><td/><td/><td/></tr><tr><td><italic>LINC01929</italic></td><td>N(&#x2212;)</td><td>33</td><td>31.63</td><td>74.00</td><td rowspan="2">339</td><td rowspan="2">0.05</td></tr><tr><td/><td>N(+)</td><td>29</td><td>8.00</td><td>7.39</td></tr><tr><td rowspan="2"><italic>LINC00968</italic></td><td>N(&#x2212;)</td><td>34</td><td>0.20</td><td>0.50</td><td rowspan="2">435</td><td rowspan="2">0.03</td></tr><tr><td>N(+)</td><td>32</td><td>0.38</td><td>2.18</td></tr><tr><td><italic>Differentiation</italic></td><td/><td/><td/><td/><td/><td/></tr><tr><td><italic>PCAT6</italic></td><td>Poor</td><td>18</td><td>2.03</td><td>3.85</td><td rowspan="2">212</td><td rowspan="2">0.02</td></tr><tr><td/><td>Well-Moderate</td><td>38</td><td>3.60</td><td>5.83</td></tr><tr><td><italic>LANCL1-AS1</italic></td><td>Poor</td><td>20</td><td>0.02</td><td>0.05</td><td rowspan="2">266</td><td rowspan="2">0.01</td></tr><tr><td/><td>Well-Moderate</td><td>41</td><td>0.07</td><td>0.11</td></tr></tbody></table><table-wrap-foot><p><italic>SD</italic> standard deviation.</p></table-wrap-foot></table-wrap></p>
+        <p id="Par26">Only the expression of LINC01214 and FENDRR appeared to have an effect in survival (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">S3</xref>). Longer survival was observed among the patients with high LINC01214 expression level (mean survival time: 73.24 months, 95% CI: 52.12&#x2013;94.35) compared to low LINC01214 level (mean survival time: 41.14 months, 95% CI: 23.22&#x2013;59.05, log rank <italic>p</italic>&#x2009;=&#x2009;0.031). Likewise, patients with high FENDRR expression levels showed a better outcome (mean survival time: 75.29 months, 95% CI: 49.90&#x2013;100.69) than those with low FENDRR expression levels (mean survival time: 43.71 months, 95% CI: 28.65&#x2013;58.78, log rank <italic>p</italic>&#x2009;=&#x2009;0.021).</p>
+      </sec>
+      <sec id="Sec19">
+        <title>Cross-validation of selected targets with TCGA datasets</title>
+        <p id="Par27">Out of the 14 lncRNAs selected for validation in our study, 13 were confirmed as being differentially expressed between tumour and normal tissue in the TCGA dataset (Supplementary Figs.&#xA0;<xref rid="MOESM1" ref-type="media">S4</xref> and <xref rid="MOESM1" ref-type="media">S5</xref>). The only significant difference between our dataset and TCGA was for RNF139-AS1; only a borderline expression difference was seen in our biological validation set (<italic>p</italic>&#x2009;=&#x2009;0.03), but it was significantly higher in tumours compared to normal tissues in the TCGA set (<italic>p</italic>&#x2009;=&#x2009;1.27&#x2009;&#xD7;&#x2009;10<sup>&#x2013;22</sup>).</p>
+        <p id="Par28">A number of significant associations were observed between tumour histology and the expression of the validated lncRNAs (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">S6</xref>). Adenocarcinomas showed a significantly higher expression for PCAT19 (<italic>p</italic>&#x2009;=&#x2009;4.14&#x2009;&#xD7;&#x2009;10<sup>&#x2013;18</sup>), FENDRR (<italic>p</italic>&#x2009;=&#x2009;0.011), LANCL1-AS1 (<italic>p</italic>&#x2009;=&#x2009;1.26&#x2009;&#xD7;&#x2009;10<sup>&#x2013;4</sup>), LINC00968 (<italic>p</italic>&#x2009;=&#x2009;3.97&#x2009;&#xD7;&#x2009;10<sup>&#x2013;12</sup>) and ADAMTS9-AS2 (<italic>p</italic>&#x2009;=&#x2009;1.92&#x2009;&#xD7;&#x2009;10<sup>&#x2013;44</sup>) when compared to squamous cell carcinomas. On the other hand, the expression of LINC00673 (<italic>p</italic>&#x2009;=&#x2009;6.42&#x2009;&#xD7;&#x2009;10<sup>&#x2013;30</sup>), PCAT6 (<italic>p</italic>&#x2009;=&#x2009;1.01&#x2009;&#xD7;&#x2009;10<sup>&#x2013;7</sup>), NUTM2A-AS1 (<italic>p</italic>&#x2009;=&#x2009;3.69&#x2009;&#xD7;&#x2009;10<sup>&#x2013;5</sup>) and LINC01929 (<italic>p</italic>&#x2009;=&#x2009;3.26&#x2009;&#xD7;&#x2009;10<sup>&#x2013;6</sup>) was significantly higher in squamous cell carcinomas than in adenocarcinomas.</p>
+        <p id="Par29">Tumour stage significantly associated with the expression of LINC00673 (<italic>p</italic>&#x2009;=&#x2009;0.005), LINC01929 (<italic>p</italic>&#x2009;=&#x2009;0.002), PCAT19 (<italic>p</italic>&#x2009;=&#x2009;0.001), FENDRR (<italic>p</italic>&#x2009;=&#x2009;8.33&#x2009;&#xD7;&#x2009;10<sup>&#x2013;6</sup>), SVIL-AS1 (<italic>p</italic>&#x2009;=&#x2009;0.037), LANCL1-AS1 (<italic>p</italic>&#x2009;=&#x2009;8.69&#x2009;&#xD7;&#x2009;10<sup>&#x2013;7</sup>), LINC00968 (<italic>p</italic>&#x2009;=&#x2009;2.32&#x2009;&#xD7;&#x2009;10<sup>&#x2013;7</sup>) and ADAMTS9-AS2 (8.29&#x2009;&#xD7;&#x2009;10<sup>&#x2013;6</sup>) as determined by Kruskal&#x2013;Wallis test (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">S7</xref>). Dunn&#x2019;s post hoc pairwise test revealed that median expression level was significantly lower in T1 compared to T2 stage tumours for LINC00673 (<italic>p</italic>&#x2009;=&#x2009;0.004) and LINC01929 (<italic>p</italic>&#x2009;=&#x2009;0.001). SVIL-AS1 median expression was significantly lower in T1 compared to T3 NSCLC tumours (<italic>p</italic>&#x2009;=&#x2009;0.027). On the other hand, for PCAT19, FENDRR, LANCL1-AS1, LINC00968 and ADAMTS9-AS2 the median expression level was significantly higher in T1 compared to T2 (<italic>p</italic>-values&#x2009;&#x2264;&#x2009;0.001) and in T1 compared to T3 stage tumours (<italic>p</italic>-values&#x2009;&#x2264;&#x2009;0.01) (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">S7</xref>).</p>
+        <p id="Par30">Regarding nodal stage (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">S8</xref>), the expression of LINC00673 (<italic>p</italic>&#x2009;=&#x2009;0.021) was significantly higher in patients with lymph node involvement (N1/N2 stages when compared with N0), while the opposite relationship was found for LANCL1-AS1 (<italic>p</italic>&#x2009;=&#x2009;0.001), LINC00968 (<italic>p</italic>&#x2009;=&#x2009;0.009) and ADAMTS9-AS2 (<italic>p</italic>&#x2009;=&#x2009;0.003).</p>
+        <p id="Par31">The expression of FEZF1-AS1 and LINC01929 appeared to be related to survival in the TCGA dataset (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">S9</xref>). A trend for longer survival was observed among the patients with high FEZF1-AS1 level (mean survival time: 92.65 months, 95% CI: 74.46&#x2013;110.84) compared to the low FEZF1-AS1 expression group (mean survival time: 76.25 months, 95% CI: 62.81&#x2013;89.69, log rank <italic>p</italic>&#x2009;=&#x2009;0.040). In addition, patients with low LINC01929 expression levels had better outcome (mean survival time: 95.38 months, 95% CI: 79.03&#x2013;111.73) than those with high expression (mean survival time: 67.68 months, 95% CI: 59.63&#x2013;75.73, log rank <italic>p</italic>&#x2009;=&#x2009;0.022).</p>
+      </sec>
+      <sec id="Sec20">
+        <title>Expression of the validated lncRNAs in NSCLC cell lines</title>
+        <p id="Par32">The expression profiles of the 12 validated lncRNAs were also assessed in a panel of 13 lung cancer cell lines in comparison to a normal lung fibroblast line (IMR-90). Expression of the 6 downregulated targets in lung cancer tissue was significantly reduced (<italic>SVIL-AS1, FENDRR, ADAMTS9-AS2</italic>) or completely absent (<italic>PCAT19, LANCL1-AS1 and LINC00968</italic>) (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>) in lung cancer cell lines while positive controls (pooled normal lung tissue RNA) performed as expected in these experiments.<fig id="Fig3"><label>Fig. 3</label><caption><title>Bar chart diagrams showing the expression levels of the validated lncRNAs in NSCLC cell lines and a normal lung fibroblast cell line (IMR90), which was used as a calibrator (RQ&#x2009;=&#x2009;1) for the analysis, with the exception of FEZF1-AS1 and LINC01929, which are not expressed in IMR90.</title><p> In this case Calu-1 was used as calibrator. All downregulated lncRNAs in lung cancer tissue were reduced (<italic>SVIL-AS1</italic> (<bold>a</bold>), <italic>FENDRR</italic> (<bold>b</bold>), <italic>ADAMTS9-AS2</italic> (<bold>c</bold>)) or completely undetected (<italic>PCAT19</italic>, <italic>LANCL1-AS1</italic> and <italic>LINC00968</italic>, data not shown). Upregulated in lung cancer tissue lncRNAs did not necessarily follow the same pattern in cell lines. <italic>FEZF1-AS1</italic> (<bold>d</bold>), <italic>LIN00673</italic> (<bold>e</bold>) and <italic>LINC01214</italic> (<bold>f</bold>) were higher in NSCLC cell lines, <italic>PCAT6</italic> (<bold>g</bold>) and <italic>LINC01929</italic> (<bold>h</bold>) were lower in NSCLC cell lines compared to IMR90, while <italic>NUTM2A-AS1</italic> (<bold>i</bold>) was highly variable. Error bars represent standard error of the mean. RQ relative quantity.</p></caption><graphic xlink:href="41416_2020_742_Fig3_HTML" id="d32e1352"/></fig></p>
+        <p id="Par33">All the lncRNAs found upregulated in lung cancer tissue were widely expressed in the lung cancer cell lines analysed, however, not all of them followed the tissue pattern. When compared with the non-tumorigenic IMR-90, the expression of <italic>FEZF1-AS1</italic>, <italic>LIN00673</italic> and <italic>LINC01214</italic> was markedly higher in most lung cancer cell lines; the expression of <italic>PCAT6</italic> and <italic>LINC01929</italic> was strikingly lower and no clear trend was observed for the expression of <italic>NUTM2A-AS1</italic> (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>).</p>
+      </sec>
+      <sec id="Sec21">
+        <title>Methylation of lncRNA loci in NSCLC patients</title>
+        <p id="Par34">Only 7 out of the 14 lncRNAs selected from the microarray phase harbour a CpG island in their promoter. Pyrosequencing analysis demonstrated that <italic>PCAT6</italic>, <italic>RNF139-AS1</italic>, <italic>LINC00673</italic> and <italic>NUTM2A-AS1</italic> had &lt;5% DNA methylation levels in both normal or tumour tissue, which is usually classified as noise.<sup><xref ref-type="bibr" rid="CR25">25</xref></sup> In contrast, variable methylation levels were observed for the remaining three targets. Hypermethylation in tumours (defined as&#x2009;&gt;&#x2009;95% reference range of normal values) was observed in 45/126 (35.7%) of tumours for <italic>FENDRR</italic>, 61/128 (47.7%) for <italic>FEZF1-AS1</italic> and 26/128 (20.3%) for <italic>SVIL-AS1</italic> (Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>). DNA and corresponding RNA was available for 42 common samples between the two (expression and methylation analysis) sets. No direct correlation was established between RNA expression and hypermethylation status in any of these three genes.<fig id="Fig4"><label>Fig. 4</label><caption><title>DNA methylation of lncRNA promoters in NSCLC.</title><p>Scatterplot diagrams demonstrating the DNA methylation levels of lncRNAs <italic>FENDRR</italic> (<bold>a</bold>), <italic>FEZF1-AS1</italic> (<bold>b</bold>) and <italic>SVIL-AS1</italic> (<bold>c</bold>) in lung tumours compared to adjacent normal lung tissue. The horizontal dotted line in each diagram defines the 95% reference range (= mean&#x2009;+&#x2009;2&#x2009;&#xD7;&#x2009;Standard deviation) of the normal tissues. Tumour samples with values over this line are classified as hypermethylated.</p></caption><graphic xlink:href="41416_2020_742_Fig4_HTML" id="d32e1440"/></fig></p>
+      </sec>
+      <sec id="Sec22">
+        <title>Association between clinical data and the methylation of the validated lncRNAs</title>
+        <p id="Par35"><italic>FENDRR</italic> hypermethylation was more frequent in adenocarcinomas (56.9%) than in squamous cell carcinomas (21.6%, <italic>p</italic>&#x2009;=&#x2009;5.5&#x2009;&#xD7;&#x2009;10<sup>&#x2013;5</sup>) while an opposite borderline trend was found for <italic>FEZF1-AS1</italic> (37.3% vs 55.3%, <italic>p</italic>&#x2009;=&#x2009;0.05, Table&#xA0;<xref rid="Tab2" ref-type="table">2</xref>). Non-significant trends were found between, <italic>FEZF1-AS1</italic> (<italic>p</italic>&#x2009;=&#x2009;0.08) and <italic>SVIL-AS1</italic> (<italic>p</italic>&#x2009;=&#x2009;0.06) hypermethylation and the differentiation status of the tumours, while no associations were obtained between hypermethylation of any promoter and age, gender and nodal stage.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Association between clinical data and hypermethylation status of FENDRR and FEZF1-AS1.</p></caption><table frame="hsides" rules="groups"><thead><tr><th colspan="2"/><th><italic>N</italic></th><th>Hypermethylated (%)</th><th>Pearson <italic>&#x3C7;</italic><sup>2</sup> test <italic>p</italic>-value</th></tr></thead><tbody><tr><td><italic>Histology</italic></td><td/><td/><td/><td/></tr><tr><td><italic>FENDRR</italic></td><td>AdenoCa</td><td>51</td><td>29 (56.9%)</td><td rowspan="2"><bold>5.5</bold>&#x2009;<bold>&#xD7;</bold>&#x2009;<bold>10</bold><sup><bold>&#x2013;5</bold></sup></td></tr><tr><td/><td>SqCCa</td><td>74</td><td>16 (21.6%)</td></tr><tr><td rowspan="2"><italic>FEZF1-AS1</italic></td><td>AdenoCa</td><td>51</td><td>19 (37.3%)</td><td rowspan="2"><bold>0.05</bold></td></tr><tr><td>SqCCa</td><td>76</td><td>42 (55.3%)</td></tr><tr><td><italic>Differentiation</italic></td><td/><td/><td/><td/></tr><tr><td><italic>FEZF1-AS1</italic></td><td>Poor</td><td>36</td><td>12 (34.3%)</td><td rowspan="2">0.08</td></tr><tr><td/><td>Well-Moderate</td><td>87</td><td>45 (51.7%)</td></tr><tr><td><italic>SVIL-AS1</italic></td><td>Poor</td><td>35</td><td>11 (31.4%)</td><td rowspan="2">0.06</td></tr><tr><td/><td>Well-Moderate</td><td>87</td><td>14 (16.1%)</td></tr></tbody></table><table-wrap-foot><p><italic>AdenoCa</italic> adenocarcinoma, <italic>SqCCa</italic> squamous cell carcinoma.</p><p>Bold values indicate statistical significance <italic>p</italic>-values.</p></table-wrap-foot></table-wrap></p>
+      </sec>
+    </sec>
+    <sec id="Sec23" sec-type="discussion">
+      <title>Discussion</title>
+      <p id="Par36">The discovery of long non-coding RNAs has revolutionised biological research, from basic gene function to clinical exploitation as disease specific biomarkers or therapeutic targets. The lncRNA transcriptome constitutes a whole new level of regulation in cell physiology. The promise of utilisation of lncRNAs in translational research and clinical management will rely on validation of differential gene expression levels associated with clinically relevant disease states and outcomes. Although there is still a lot to learn about lncRNA biology, there are already an increasing number of attempts to address lncRNA detection in body fluids to assist lung cancer diagnosis.<sup><xref ref-type="bibr" rid="CR26">26</xref></sup></p>
+      <p id="Par37">The existing lncRNA profiling data in lung cancer to date is substantial. This includes high-throughput approaches<sup><xref ref-type="bibr" rid="CR13">13</xref>,<xref ref-type="bibr" rid="CR14">14</xref>,<xref ref-type="bibr" rid="CR16">16</xref>&#x2013;<xref ref-type="bibr" rid="CR18">18</xref></sup> and targeted studies.<sup><xref ref-type="bibr" rid="CR27">27</xref>&#x2013;<xref ref-type="bibr" rid="CR31">31</xref></sup> However, despite the plethora of reports, the landscape is less clear than one would hope. The main reason is the marked diversity of approaches and validation methods. In addition, with the exception of studies mining existing data in the public domain, most studies utilise limited discovery sample sets, which leads to high FDR.</p>
+      <p id="Par38">In this study, we aimed to strengthen the existing data and contribute to a more comprehensive landscape of lncRNA dysregulation in NSCLC. We used a comparatively large discovery set in microarray analysis (44 pairs) and performed both technical (29 pairs) and independent biological (38 pairs) validation of targets by RT-qPCR, in order to identify lncRNA profiles significantly distinguishing NSCLCs tissue from paired normal lung tissue.</p>
+      <p id="Par39">Following microarray data analysis and having set the desired thresholds (adjusted p-value (FDR)&#x2009;&lt;&#x2009;0.01 and absolute log2 fold-change&#x2009;&gt;&#x2009;0.5) we selected targets for validation with different <italic>p</italic>-values and fold-change values, in order to obtain a representative estimation of validity for our microarray analysis. An important selection factor was gene annotation and verification of probe sequences against locus sequence. For validation, we only selected among targets for which we had cross-referenced the hybridisation probe in the microarray with the annotated gene name in the databases (NCBI Genbank and ENSEMBL). Twelve out of the 14 targets selected for qPCR validation (six up- and six down-regulated in tumours) were successfully validated to demonstrate a strong and consistent difference of expression between NSCLC tissue and normal lung, suggesting a role in lung cancer pathogenesis. Interestingly, the two targets that failed in validation did not represent the highest <italic>p</italic>-values in the microarray analysis, indicating that even 10<sup>&#x2013;2</sup> adjusted <italic>p</italic>-values can be trusted. Surprisingly, a target with a very low p-value in microarray analysis (10<sup>&#x2013;19</sup>) failed to validate, probably indicating potential problems with probe specificity and/or target annotation.</p>
+      <p id="Par40">To the best of our knowledge, from the 12 validated lncRNAs, this is the first study where <italic>LANCL1-AS1</italic>, <italic>LINC01214</italic>, <italic>LINC01929</italic>, <italic>NUTM2A-AS1</italic>, <italic>PCAT19</italic> and <italic>SVIL-AS1</italic> are shown to be aberrantly expressed in cancer, while <italic>ADAMTS9-AS2</italic>, <italic>FENDRR</italic>, <italic>FEZF1-AS1</italic>, <italic>LINC00673</italic>, <italic>LINC00968</italic> and <italic>PCAT6</italic> have been previously reported to be dysregulated in lung and other types of cancer. Interestingly, our analysis of the available TCGA datasets demonstrated that all the 12 targets show significant differential expression in NSCLC, increasing further the confidence in this result. Apart from the validation of the RNF139-AS1, the main difference between our dataset and TCGA is centred around clinicopathological associations. A substantial number of associations of these lncRNA targets were found in TCGA, while we only found a few associations of borderline significance. This is not surprising, as TCGA datasets contained 850 tumours as opposed to 67 for our set used for clinicopathological comparisons. The clinicopathological associations revealed within the TCGA dataset point to future research in establishing the potential prognostic value of these targets. In addition, no major associations were found between lncRNA expression and overall survival, with the exception of a few statistical trends (0.02&#x2009;&lt;&#x2009;<italic>p</italic>&#x2009;&lt;&#x2009;0.05) for FEZF1-AS1 and LINC01929 in TCGA dataset and LINC01214 and FENDRR in our dataset. The differences in this finding probably reflects the size difference of the two datasets. Nevertheless, one has to consider that overall survival in lung cancer is a challenging parameter as the cause of death is frequently related to comorbidities and/or therapy related toxicity.</p>
+      <p id="Par41"><italic>ADAMTS9-AS2</italic> was previously found dysregulated in several cancer types including NSCLC.<sup><xref ref-type="bibr" rid="CR32">32</xref>,<xref ref-type="bibr" rid="CR33">33</xref></sup> Overexpression of <italic>ADAMTS9-AS2</italic> reduces proliferation, cell migration, invasion, and induces apoptosis in vitro while restrains tumour growth in vivo.<sup><xref ref-type="bibr" rid="CR32">32</xref>&#x2013;<xref ref-type="bibr" rid="CR34">34</xref></sup> Recent evidence suggests that <italic>ADAMTS9-AS2</italic> might exert its function by &#x2018;sponging&#x2019; common microRNAs.<sup><xref ref-type="bibr" rid="CR33">33</xref>,<xref ref-type="bibr" rid="CR34">34</xref></sup> For instance, in NSCLC, <italic>ADAMTS9-AS2</italic> represses cancer progression by regulating the miR-223-3p/TGFBR3 axis,<sup><xref ref-type="bibr" rid="CR33">33</xref></sup> while in ovarian cancer it regulates the miR-182-5p/FOXF2 pathway.<sup><xref ref-type="bibr" rid="CR34">34</xref></sup></p>
+      <p id="Par42">A few studies have analysed the role of <italic>FENDDR</italic> in various cancer types suggesting that <italic>FENDRR</italic> plays an inhibitory role in tumour progression by regulating cell migration, invasion and metastasis.<sup><xref ref-type="bibr" rid="CR35">35</xref>&#x2013;<xref ref-type="bibr" rid="CR37">37</xref></sup>
+<italic>FENDRR</italic> was found to be downregulated in gastric cancer tissues, which increased cell migration and invasion in vitro through up-regulation of FN1 and MMP2 and MMP9.<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>
+<italic>FENDRR</italic> expression was also shown to be suppressed in gastric cancer associated fibroblasts (CAFs) by hypermethylation.<sup><xref ref-type="bibr" rid="CR38">38</xref></sup> In NSCLC, we have observed that <italic>FENDRR</italic> expression is reduced in lung tumours compared with paired normal tissue and lung cancer cell lines showed a similar trend. This result is in agreement with a previous study reporting a significant downregulation of <italic>FENDRR</italic> in NSCLC as well as a potential involvement of <italic>FENDRR</italic> in regulating epithelial mesenchymal transition (EMT), stemness and metastasis of lung cancer cells via EZH2.<sup><xref ref-type="bibr" rid="CR37">37</xref></sup></p>
+      <p id="Par43">Our finding on <italic>FEZF1-AS1</italic> upregulation in NSCLC is in agreement with previous reports on many tumour types including NSCLC<sup><xref ref-type="bibr" rid="CR39">39</xref>,<xref ref-type="bibr" rid="CR40">40</xref></sup> and breast.<sup><xref ref-type="bibr" rid="CR41">41</xref></sup>
+<italic>FEZF1-AS1</italic> exerts regulatory functions at a transcriptional and post-transcriptional level, promoting cell proliferation, migration, and invasion. In fact, it has been reported to modulate the expression of Nanog by sponging miR-30a to promote cancer stemness in breast cancer.<sup><xref ref-type="bibr" rid="CR41">41</xref></sup> However, <italic>FEZF1-AS1</italic> can also act at a transcriptional level by recruiting chromatin-modifying enzymes to target genes. For instance, <italic>FEZF1-AS1</italic> can bind to LSD1 and EZH2 and epigenetically repress E-cadherin in NSCLC<sup><xref ref-type="bibr" rid="CR39">39</xref></sup> or p57 in lung adenocarcinomas.<sup><xref ref-type="bibr" rid="CR40">40</xref></sup></p>
+      <p id="Par44">In our dataset, <italic>LINC00673</italic> was overexpressed in lung tumours, which is in agreement with previous reports on NSCLC.<sup><xref ref-type="bibr" rid="CR42">42</xref>&#x2013;<xref ref-type="bibr" rid="CR44">44</xref></sup> Upregulation of <italic>LINC00673</italic> has also been reported in gastric cancer,<sup><xref ref-type="bibr" rid="CR45">45</xref>,<xref ref-type="bibr" rid="CR46">46</xref></sup> having a role in cell proliferation, migration, and invasion. <italic>LINC00673</italic> transcripts have been localised both in the nucleus and the cytoplasm,<sup><xref ref-type="bibr" rid="CR42">42</xref>,<xref ref-type="bibr" rid="CR44">44</xref>&#x2013;<xref ref-type="bibr" rid="CR46">46</xref></sup> suggesting that it can function at a transcriptional and post-transcriptional level. In NSCLC, Lu <italic>et al</italic> proposed that <italic>LINC00673</italic> promotes TGF-&#x3B2; induced EMT by sponging miR-150-5p and thereby modulating ZEB1 expression indirectly.<sup><xref ref-type="bibr" rid="CR43">43</xref></sup> In addition, Roth <italic>et al</italic> have reported that <italic>LINC00673</italic> negatively regulates p53 translation by directly interacting with its 3&#x2032;UTR leading to senescence bypass.<sup><xref ref-type="bibr" rid="CR44">44</xref></sup>
+<italic>LINC00673</italic> can also regulate the expression of target genes epigenetically. Notably, in lung cancer, <italic>LINC00673</italic> represses HOXA5 expression through recruiting the epigenetic repressor EZH2 to its promoter region.<sup><xref ref-type="bibr" rid="CR47">47</xref></sup> Shi <italic>et al</italic> observed that <italic>LINC00673</italic> epigenetically inhibited NCALD expression through direct binding to LSD1.<sup><xref ref-type="bibr" rid="CR42">42</xref></sup> In a similar way, in gastric cancer <italic>LINC00673</italic> suppressed KLF4 expression by interacting with EZH2 and DNMT1<sup><xref ref-type="bibr" rid="CR46">46</xref></sup> and direct binding to LSD1 and EZH2 repressed KLF2 and LATS2 expression.<sup><xref ref-type="bibr" rid="CR45">45</xref></sup></p>
+      <p id="Par45">Regarding <italic>PCAT6</italic>, our findings are in line with previous studies reporting its upregulation in various cancer types including NSCLC<sup><xref ref-type="bibr" rid="CR48">48</xref></sup> and colon.<sup><xref ref-type="bibr" rid="CR49">49</xref></sup> Functional studies have shown that <italic>PCAT6</italic> exerts its oncogenic activity, at least partly, by leading chromatin-modifying complexes to specific promoter regions. For instance, in NSCLC, <italic>PCAT6</italic> interacts with EZH2 epigenetically, suppressing LATS2,<sup><xref ref-type="bibr" rid="CR48">48</xref></sup> while in colon cancer, the association of <italic>PCAT6</italic> with EZH2 modulates ARC expression.<sup><xref ref-type="bibr" rid="CR49">49</xref></sup></p>
+      <p id="Par46">We observed that <italic>LINC00968</italic> was significantly downregulated in lung tumours compared with paired normal lung and completely absent in lung cancer cell lines, which is in contrast to a previous study reporting upregulation of <italic>LINC00968</italic> in NSCLC.<sup><xref ref-type="bibr" rid="CR50">50</xref></sup> However, that study evaluated <italic>LINC00968</italic> expression using datasets from the Oncomine database and four NSCLC cell lines, whereas we performed wet validation in 82 NSCLC tissue samples and 13 NSCLC cell lines. We speculate that inconsistency of results may lie with incorrect annotation in the previous bioinformatic analysis.</p>
+      <p id="Par47">To explore the molecular mechanisms responsible for the modulated expression observed, we hypothesised that DNA methylation might be one of the mechanisms responsible. Therefore, we undertook DNA methylation analysis in seven of our target genes that were found to bear a CpG island in their promoter. Of those, hypermethylation was detected only in three, namely <italic>FENDRR</italic>, <italic>SVIL-AS1</italic> and <italic>FEZF1-AS1</italic>. There was a general lack of correlation between expression and DNA methylation in the genes tested. This may be due to the low number of common samples in the two analyses, but it most likely indicates the presence of strong alternative regulation factors besides DNA methylation. <italic>FENDRR</italic> hypermethylation has previously been shown in gastric CAFs.<sup><xref ref-type="bibr" rid="CR38">38</xref></sup>
+<italic>FENDRR</italic> promoter methylation demonstrated a significant increase in adenocarcinoma, however this was not the case for <italic>FENDRR</italic> expression.</p>
+      <p id="Par48">This study contributes significantly to the wider knowledge of lncRNA involvement in NSCLC pathogenesis. Its strength lies with the technical and independent biological validation in patient tissues as well as its agreement with the available relevant TCGA datasets. Out of the 12 validated targets, half are shown to be differentially expressed in cancer for the first time, while our results for the other six lncRNAs confirm previous findings. Certainly, there are still a large number of dysregulated candidate lncRNAs in our microarray analysis list that require independent validation. Our data have been made publicly available, therefore open to other research groups to attempt independent validation. To date, the involvement of lncRNAs in NSCLC development is undisputable; however, further studies are needed to establish additional lncRNA targets and to identify their functional role in the pathogenesis of NSCLC.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary information</title>
+      <sec id="Sec24">
+        <p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="41416_2020_742_MOESM1_ESM.pdf"><caption><p>Supplementary Information</p></caption></media></supplementary-material>
+</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p><bold>Publisher&#x2019;s note</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <sec>
+      <title>Supplementary information</title>
+      <p><bold>Supplementary information</bold> is available for this paper at 10.1038/s41416-020-0742-9.</p>
+    </sec>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We would like to thank Dr. Gordon K. Smyth and Dr Ramyar Molania from the Walter &amp; Eliza Hall Institute of Medical Research, Melbourne, Australia for their invaluable assistance in the bioinformatics analysis. We would also want to acknowledge the voluntary contribution of patients with their specimens and information as well as the nursing staff that recruited them in the study.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Author contributions</title>
+      <p>The study was conceived and designed by T.L. and A.A.S. Methodology was developed by A.A.S., P.P. and T.L. Data acquisition was carried out by A.A.S., B.U., P.P., C.M., L.R., M.P.A.D., J.K.F. Analysis and interpretation of the data was undertaken by A.A.S., N.G.B., M.W.M., T.L. Writing, review, and/or revision of the manuscript was done by A.A.S., N.G.B., B.U., M.P.A.D., J.K.F. and T.L. This research was supervised by T.L.</p>
+    </notes>
+    <notes id="FPar1">
+      <title>Ethics approval and consent to participate</title>
+      <p id="Par49">Ethical approval was obtained from the Liverpool Central Research Ethics Committee (ref 97/141). All patients were recruited following voluntary informed consent, and the study was performed in accordance with the Declaration of Helsinki.</p>
+    </notes>
+    <notes id="FPar2">
+      <title>Consent to publish</title>
+      <p id="Par50">Not applicable.</p>
+    </notes>
+    <notes id="FPar3">
+      <title>Data availability</title>
+      <p id="Par51">Microarray data have been deposited in the Gene Expression Omnibus (GEO) database (GSE130740).</p>
+    </notes>
+    <notes id="FPar4" notes-type="COI-statement">
+      <title>Competing interests</title>
+      <p id="Par52">The authors declare no competing interests.</p>
+    </notes>
+    <notes id="FPar5" notes-type="funding">
+      <title>Funding information</title>
+      <p id="Par53">This research was supported by the Roy Castle Lung Cancer Foundation, UK (Grant no 2014/05/Liloglou) and a Roy Castle Lung Cancer Senior Fellowship (MPAD).</p>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Derrien</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bussotti</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Tanzer</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Djebali</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Tilgner</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The GENCODE v7 catalog of human long noncoding RNAs: analysis of their gene structure, evolution, and expression</article-title>
+          <source>Genome Res.</source>
+          <year>2012</year>
+          <volume>22</volume>
+          <fpage>1775</fpage>
+          <lpage>1789</lpage>
+          <pub-id pub-id-type="pmid">22955988</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guttman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Amit</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Garber</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>French</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Feldser</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Chromatin signature reveals over a thousand highly conserved large non-coding RNAs in mammals</article-title>
+          <source>Nature</source>
+          <year>2009</year>
+          <volume>458</volume>
+          <fpage>223</fpage>
+          <lpage>227</lpage>
+          <pub-id pub-id-type="pmid">19182780</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frankish</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Diekhans</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ferreira</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Jungreis</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Loveland</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>GENCODE reference annotation for the human and mouse genomes</article-title>
+          <source>Nucleic Acids Res.</source>
+          <year>2019</year>
+          <volume>47</volume>
+          <fpage>D766</fpage>
+          <lpage>D773</lpage>
+          <pub-id pub-id-type="pmid">30357393</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>LncRNA: a link between RNA and cancer</article-title>
+          <source>Biochim. Biophys. Acta</source>
+          <year>2014</year>
+          <volume>1839</volume>
+          <fpage>1097</fpage>
+          <lpage>1109</lpage>
+          <pub-id pub-id-type="pmid">25159663</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ulitsky</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Bartel</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <article-title>lincRNAs: genomics, evolution, and mechanisms</article-title>
+          <source>Cell</source>
+          <year>2013</year>
+          <volume>154</volume>
+          <fpage>26</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="pmid">23827673</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cabili</surname>
+              <given-names>MN</given-names>
+            </name>
+            <name>
+              <surname>Trapnell</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Goff</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Koziol</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tazon-Vega</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Regev</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Integrative annotation of human large intergenic noncoding RNAs reveals global properties and specific subclasses</article-title>
+          <source>Genes Dev.</source>
+          <year>2011</year>
+          <volume>25</volume>
+          <fpage>1915</fpage>
+          <lpage>1927</lpage>
+          <pub-id pub-id-type="pmid">21890647</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clark</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Johnston</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Inostroza-Ponta</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Fox</surname>
+              <given-names>AH</given-names>
+            </name>
+            <name>
+              <surname>Fortini</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Moscato</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Genome-wide analysis of long noncoding RNA stability</article-title>
+          <source>Genome Res.</source>
+          <year>2012</year>
+          <volume>22</volume>
+          <fpage>885</fpage>
+          <lpage>898</lpage>
+          <pub-id pub-id-type="pmid">22406755</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Iyer</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name>
+              <surname>Niknafs</surname>
+              <given-names>YS</given-names>
+            </name>
+            <name>
+              <surname>Malik</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Singhal</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Sahu</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hosono</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The landscape of long noncoding RNAs in the human transcriptome</article-title>
+          <source>Nat. Genet</source>
+          <year>2015</year>
+          <volume>47</volume>
+          <fpage>199</fpage>
+          <lpage>208</lpage>
+          <pub-id pub-id-type="pmid">25599403</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yan</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>SD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Comprehensive genomic characterization of long non-coding RNAs across human cancers</article-title>
+          <source>Cancer Cell</source>
+          <year>2015</year>
+          <volume>28</volume>
+          <fpage>529</fpage>
+          <lpage>540</lpage>
+          <pub-id pub-id-type="pmid">26461095</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ashouri</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sayin</surname>
+              <given-names>VI</given-names>
+            </name>
+            <name>
+              <surname>Van den Eynden</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>SX</given-names>
+            </name>
+            <name>
+              <surname>Papagiannakopoulos</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Larsson</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Pan-cancer transcriptomic analysis associates long non-coding RNAs with key mutational driver events</article-title>
+          <source>Nat. Commun.</source>
+          <year>2016</year>
+          <volume>7</volume>
+          <fpage>13197</fpage>
+          <pub-id pub-id-type="pmid">28959951</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herbst</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Morgensztern</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Boshoff</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>The biology and management of non-small cell lung cancer</article-title>
+          <source>Nature</source>
+          <year>2018</year>
+          <volume>553</volume>
+          <fpage>446</fpage>
+          <lpage>454</lpage>
+          <pub-id pub-id-type="pmid">29364287</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Field</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Duffy</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Devaraj</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Baldwin</surname>
+              <given-names>DR</given-names>
+            </name>
+          </person-group>
+          <article-title>Implementation planning for lung cancer screening: five major challenges</article-title>
+          <source>Lancet Respir. Med.</source>
+          <year>2016</year>
+          <volume>4</volume>
+          <fpage>685</fpage>
+          <lpage>687</lpage>
+          <pub-id pub-id-type="pmid">27599242</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>White</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>Cabanski</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Silva-Fisher</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Dang</surname>
+              <given-names>HX</given-names>
+            </name>
+            <name>
+              <surname>Govindan</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Maher</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title>Transcriptome sequencing reveals altered long intergenic non-coding RNAs in lung cancer</article-title>
+          <source>Genome Biol.</source>
+          <year>2014</year>
+          <volume>15</volume>
+          <fpage>429</fpage>
+          <pub-id pub-id-type="pmid">25116943</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>W</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Analysis of lncRNA expression profiles in non-small cell lung cancers (NSCLC) and their clinical subtypes</article-title>
+          <source>Lung Cancer</source>
+          <year>2014</year>
+          <volume>85</volume>
+          <fpage>110</fpage>
+          <lpage>115</lpage>
+          <pub-id pub-id-type="pmid">24906504</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Jiao</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Comprehensive characterization of cancer subtype associated long non-coding RNAs and their clinical implications</article-title>
+          <source>Sci. Rep.</source>
+          <year>2014</year>
+          <volume>4</volume>
+          <fpage>6591</fpage>
+          <pub-id pub-id-type="pmid">25307233</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhou</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A potential signature of eight long non-coding RNAs predicts survival in patients with non-small cell lung cancer</article-title>
+          <source>J. Transl. Med.</source>
+          <year>2015</year>
+          <volume>13</volume>
+          <fpage>231</fpage>
+          <pub-id pub-id-type="pmid">26183581</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Ye</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>X</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification and validation of long noncoding RNA biomarkers in human non-small-cell lung carcinomas</article-title>
+          <source>J. Thorac. Oncol.</source>
+          <year>2015</year>
+          <volume>10</volume>
+          <fpage>645</fpage>
+          <lpage>654</lpage>
+          <pub-id pub-id-type="pmid">25590602</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Feng</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Ching</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>O</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Analysis of microarray data on gene expression and methylation to identify long non-coding RNAs in non-small cell lung cancer</article-title>
+          <source>Sci. Rep.</source>
+          <year>2016</year>
+          <volume>6</volume>
+          <fpage>37233</fpage>
+          <pub-id pub-id-type="pmid">27849024</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Bai</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhong</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identification of long noncoding RNAs for the detection of early stage lung squamous cell carcinoma by microarray analysis</article-title>
+          <source>Oncotarget</source>
+          <year>2017</year>
+          <volume>8</volume>
+          <fpage>13329</fpage>
+          <lpage>13337</lpage>
+          <pub-id pub-id-type="pmid">28076325</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nikolaidis</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Raji</surname>
+              <given-names>OY</given-names>
+            </name>
+            <name>
+              <surname>Markopoulou</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gosney</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Bryan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Warburton</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>DNA methylation biomarkers offer improved diagnostic efficiency in lung cancer</article-title>
+          <source>Cancer Res.</source>
+          <year>2012</year>
+          <volume>72</volume>
+          <fpage>5692</fpage>
+          <lpage>5701</lpage>
+          <pub-id pub-id-type="pmid">22962272</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bediaga</surname>
+              <given-names>NG</given-names>
+            </name>
+            <name>
+              <surname>Davies</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Acha-Sagredo</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hyde</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Raji</surname>
+              <given-names>OY</given-names>
+            </name>
+            <name>
+              <surname>Page</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A microRNA-based prediction algorithm for diagnosis of non-small lung cell carcinoma in minimal biopsy material</article-title>
+          <source>Br. J. Cancer</source>
+          <year>2013</year>
+          <volume>109</volume>
+          <fpage>2404</fpage>
+          <lpage>2411</lpage>
+          <pub-id pub-id-type="pmid">24113142</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ritchie</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Phipson</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Law</surname>
+              <given-names>CW</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>W</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>limma powers differential expression analyses for RNA-sequencing and microarray studies</article-title>
+          <source>Nucleic Acids Res.</source>
+          <year>2015</year>
+          <volume>43</volume>
+          <fpage>e47</fpage>
+          <pub-id pub-id-type="pmid">25605792</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Phipson</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Majewski</surname>
+              <given-names>IJ</given-names>
+            </name>
+            <name>
+              <surname>Alexander</surname>
+              <given-names>WS</given-names>
+            </name>
+            <name>
+              <surname>Smyth</surname>
+              <given-names>GK</given-names>
+            </name>
+          </person-group>
+          <article-title>Robust Hyperparameter estimation protects against hypervariable genes and improves power to detect differential expression</article-title>
+          <source>Ann. Appl. Stat.</source>
+          <year>2016</year>
+          <volume>10</volume>
+          <fpage>946</fpage>
+          <lpage>963</lpage>
+          <pub-id pub-id-type="pmid">28367255</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gentleman</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Carey</surname>
+              <given-names>VJ</given-names>
+            </name>
+            <name>
+              <surname>Bates</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Bolstad</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Dettling</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Dudoit</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Bioconductor: open software development for computational biology and bioinformatics</article-title>
+          <source>Genome Biol.</source>
+          <year>2004</year>
+          <volume>5</volume>
+          <fpage>R80</fpage>
+          <pub-id pub-id-type="pmid">15461798</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shaw</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Liloglou</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Rogers</surname>
+              <given-names>SN</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Vaughan</surname>
+              <given-names>ED</given-names>
+            </name>
+            <name>
+              <surname>Lowe</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Promoter methylation of P16, RARbeta, E-cadherin, cyclin A1 and cytoglobin in oral cancer: quantitative evaluation using pyrosequencing</article-title>
+          <source>Br. J. Cancer</source>
+          <year>2006</year>
+          <volume>94</volume>
+          <fpage>561</fpage>
+          <lpage>568</lpage>
+          <pub-id pub-id-type="pmid">16449996</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wan</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Diagnostic significance of circulating long noncoding RNA PCAT6 in patients with non-small cell lung cancer</article-title>
+          <source>Onco Targets Ther.</source>
+          <year>2017</year>
+          <volume>10</volume>
+          <fpage>5695</fpage>
+          <lpage>5702</lpage>
+          <pub-id pub-id-type="pmid">29238201</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nie</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Ge</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>XQ</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Tao</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>LncRNA-UCA1 exerts oncogenic functions in non-small cell lung cancer by targeting miR-193a-3p</article-title>
+          <source>Cancer Lett.</source>
+          <year>2016</year>
+          <volume>371</volume>
+          <fpage>99</fpage>
+          <lpage>106</lpage>
+          <pub-id pub-id-type="pmid">26655272</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shi</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Kong</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A critical role for the long non-coding RNA GAS5 in proliferation and apoptosis in non-small-cell lung cancer</article-title>
+          <source>Mol. Carcinog.</source>
+          <year>2015</year>
+          <volume>54</volume>
+          <issue>Suppl. 1</issue>
+          <fpage>E1</fpage>
+          <lpage>E12</lpage>
+          <pub-id pub-id-type="pmid">24357161</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>XH</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Nie</surname>
+              <given-names>FQ</given-names>
+            </name>
+            <name>
+              <surname>Kong</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>JS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Downregulation of BRAF activated non-coding RNA is associated with poor prognosis for non-small cell lung cancer and promotes metastasis by affecting epithelial-mesenchymal transition</article-title>
+          <source>Mol. Cancer</source>
+          <year>2014</year>
+          <volume>13</volume>
+          <fpage>68</fpage>
+          <pub-id pub-id-type="pmid">24655544</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Han</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>EB</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>DD</given-names>
+            </name>
+            <name>
+              <surname>Kong</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>WM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Low expression of long noncoding RNA PANDAR predicts a poor prognosis of non-small cell lung cancer and affects cell apoptosis by regulating Bcl-2</article-title>
+          <source>Cell Death Dis.</source>
+          <year>2015</year>
+          <volume>6</volume>
+          <fpage>e1665</fpage>
+          <pub-id pub-id-type="pmid">25719249</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nie</surname>
+              <given-names>FQ</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Xia</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long noncoding RNA ANRIL promotes non-small cell lung cancer cell proliferation and inhibits apoptosis by silencing KLF2 and P21 expression</article-title>
+          <source>Mol. Cancer Ther.</source>
+          <year>2015</year>
+          <volume>14</volume>
+          <fpage>268</fpage>
+          <lpage>277</lpage>
+          <pub-id pub-id-type="pmid">25504755</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cao</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Down-regulation of lncRNA ADAMTS9-AS2 contributes to gastric cancer development via activation of PI3K/Akt pathway</article-title>
+          <source>Biomed. Pharmacother.</source>
+          <year>2018</year>
+          <volume>107</volume>
+          <fpage>185</fpage>
+          <lpage>193</lpage>
+          <pub-id pub-id-type="pmid">30089248</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Deng</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Upregulated lncRNA ADAMTS9-AS2 suppresses progression of lung cancer through inhibition of miR-223-3p and promotion of TGFBR3</article-title>
+          <source>IUBMB Life</source>
+          <year>2018</year>
+          <volume>70</volume>
+          <fpage>536</fpage>
+          <lpage>546</lpage>
+          <pub-id pub-id-type="pmid">29707897</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>LncRNA ADAMTS9-AS2 regulates ovarian cancer progression by targeting miR-182-5p/FOXF2 signaling pathway</article-title>
+          <source>Int J. Biol. Macromol.</source>
+          <year>2018</year>
+          <volume>120</volume>
+          <fpage>1705</fpage>
+          <lpage>1713</lpage>
+          <pub-id pub-id-type="pmid">30268751</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Xia</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>XX</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Decreased expression of the long non-coding RNA FENDRR is associated with poor prognosis in gastric cancer and FENDRR regulates gastric cancer cell metastasis by affecting fibronectin1 expression</article-title>
+          <source>J. Hematol. Oncol.</source>
+          <year>2014</year>
+          <volume>7</volume>
+          <fpage>63</fpage>
+          <pub-id pub-id-type="pmid">25167886</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kun-Peng</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Chun-Lin</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Xiao-Long</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Antisense lncRNA FOXF1-AS1 Promotes Migration and Invasion of Osteosarcoma Cells Through the FOXF1/MMP-2/-9 Pathway</article-title>
+          <source>Int J. Biol. Sci.</source>
+          <year>2017</year>
+          <volume>13</volume>
+          <fpage>1180</fpage>
+          <lpage>1191</lpage>
+          <pub-id pub-id-type="pmid">29104509</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miao</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Zengli</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Yao</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Loss of long noncoding RNA FOXF1-AS1 regulates epithelial-mesenchymal transition, stemness and metastasis of non-small cell lung cancer cells</article-title>
+          <source>Oncotarget</source>
+          <year>2016</year>
+          <volume>7</volume>
+          <fpage>68339</fpage>
+          <lpage>68349</lpage>
+          <pub-id pub-id-type="pmid">27577075</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Najgebauer</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Liloglou</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Jithesh</surname>
+              <given-names>PV</given-names>
+            </name>
+            <name>
+              <surname>Giger</surname>
+              <given-names>OT</given-names>
+            </name>
+            <name>
+              <surname>Varro</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sanderson</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <article-title>Integrated omics profiling reveals novel patterns of epigenetic programming in cancer-associated myofibroblasts</article-title>
+          <source>Carcinogenesis</source>
+          <year>2019</year>
+          <volume>40</volume>
+          <fpage>500</fpage>
+          <lpage>512</lpage>
+          <pub-id pub-id-type="pmid">30624614</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>He</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>FH</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>LncRNA FEZF1-AS1 enhances epithelial-mesenchymal transition (EMT) through suppressing E-cadherin and regulating WNT pathway in non-small cell lung cancer (NSCLC)</article-title>
+          <source>Biomed. Pharmacother.</source>
+          <year>2017</year>
+          <volume>95</volume>
+          <fpage>331</fpage>
+          <lpage>338</lpage>
+          <pub-id pub-id-type="pmid">28858731</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jin</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>LincRNA FEZF1-AS1 contributes to the proliferation of LAD cells by silencing p57 expression</article-title>
+          <source>Oncotarget</source>
+          <year>2017</year>
+          <volume>8</volume>
+          <fpage>103004</fpage>
+          <lpage>103013</lpage>
+          <pub-id pub-id-type="pmid">29262540</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Long non-coding RNA FEZF1-AS1 promotes breast cancer stemness and tumorigenesis via targeting miR-30a/Nanog axis</article-title>
+          <source>J. Cell Physiol.</source>
+          <year>2018</year>
+          <volume>233</volume>
+          <fpage>8630</fpage>
+          <lpage>8638</lpage>
+          <pub-id pub-id-type="pmid">29797562</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shi</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gu</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Upregulation of long intergenic noncoding RNA 00673 promotes tumor proliferation via LSD1 interaction and repression of NCALD in non-small-cell lung cancer</article-title>
+          <source>Oncotarget</source>
+          <year>2016</year>
+          <volume>7</volume>
+          <fpage>25558</fpage>
+          <lpage>25575</lpage>
+          <pub-id pub-id-type="pmid">27027352</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Niu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long non-coding RNA linc00673 regulated non-small cell lung cancer proliferation, migration, invasion and epithelial mesenchymal transition by sponging miR-150-5p</article-title>
+          <source>Mol. Cancer</source>
+          <year>2017</year>
+          <volume>16</volume>
+          <fpage>118</fpage>
+          <pub-id pub-id-type="pmid">28697764</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Roth</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Boulay</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Gross</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Polycarpou-Schwarz</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mallette</surname>
+              <given-names>FA</given-names>
+            </name>
+            <name>
+              <surname>Regnier</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Targeting LINC00673 expression triggers cellular senescence in lung cancer</article-title>
+          <source>RNA Biol.</source>
+          <year>2018</year>
+          <volume>15</volume>
+          <fpage>1499</fpage>
+          <lpage>1511</lpage>
+          <pub-id pub-id-type="pmid">30499379</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huang</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hou</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Nie</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long noncoding RNA LINC00673 is activated by SP1 and exerts oncogenic properties by interacting with LSD1 and EZH2 in gastric cancer</article-title>
+          <source>Mol. Ther.</source>
+          <year>2017</year>
+          <volume>25</volume>
+          <fpage>1014</fpage>
+          <lpage>1026</lpage>
+          <pub-id pub-id-type="pmid">28214253</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ba</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Long</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>SZ</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>YF</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>ZF</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>YB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long noncoding RNA LINC00673 epigenetically suppresses KLF4 by interacting with EZH2 and DNMT1 in gastric cancer</article-title>
+          <source>Oncotarget</source>
+          <year>2017</year>
+          <volume>8</volume>
+          <fpage>95542</fpage>
+          <lpage>95553</lpage>
+          <pub-id pub-id-type="pmid">29221147</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ma</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long intergenic noncoding RNA 00673 promotes non-small-cell lung cancer metastasis by binding with EZH2 and causing epigenetic silencing of HOXA5</article-title>
+          <source>Oncotarget</source>
+          <year>2017</year>
+          <volume>8</volume>
+          <fpage>32696</fpage>
+          <lpage>32705</lpage>
+          <pub-id pub-id-type="pmid">28423732</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shi</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Hua</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long noncoding RNA PCAT6 functions as an oncogene by binding to EZH2 and suppressing LATS2 in non-small-cell lung cancer</article-title>
+          <source>EBioMedicine</source>
+          <year>2018</year>
+          <volume>37</volume>
+          <fpage>177</fpage>
+          <lpage>187</lpage>
+          <pub-id pub-id-type="pmid">30314898</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Zou</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long noncoding RNA PCAT6 inhibits colon cancer cell apoptosis by regulating anti-apoptotic protein ARC expression via EZH2</article-title>
+          <source>Cell Cycle</source>
+          <year>2019</year>
+          <volume>18</volume>
+          <fpage>69</fpage>
+          <lpage>83</lpage>
+          <pub-id pub-id-type="pmid">30569799</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>YJ</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>HB</given-names>
+            </name>
+          </person-group>
+          <article-title>Long non-coding RNA LINC00968 acts as oncogene in NSCLC by activating the Wnt signaling pathway</article-title>
+          <source>J. Cell Physiol.</source>
+          <year>2018</year>
+          <volume>233</volume>
+          <fpage>3397</fpage>
+          <lpage>3406</lpage>
+          <pub-id pub-id-type="pmid">28926089</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

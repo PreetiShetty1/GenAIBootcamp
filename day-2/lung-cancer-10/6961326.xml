@@ -1,0 +1,2512 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Mol Cancer</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Mol. Cancer</journal-id>
+      <journal-title-group>
+        <journal-title>Molecular Cancer</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1476-4598</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">31941509</article-id>
+      <article-id pub-id-type="pmc">6961326</article-id>
+      <article-id pub-id-type="publisher-id">1133</article-id>
+      <article-id pub-id-type="doi">10.1186/s12943-020-1133-9</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>lncRNA JPX/miR-33a-5p/Twist1 axis regulates tumorigenesis and metastasis of lung cancer by activating Wnt/&#x3B2;-catenin signaling</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pan</surname>
+            <given-names>Jinchang</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fang</surname>
+            <given-names>Shuai</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tian</surname>
+            <given-names>Haihua</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhou</surname>
+            <given-names>Chengwei</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhao</surname>
+            <given-names>Xiaodong</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tian</surname>
+            <given-names>Hui</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>He</surname>
+            <given-names>Jinxian</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shen</surname>
+            <given-names>Weiyu</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meng</surname>
+            <given-names>Xiaodan</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jin</surname>
+            <given-names>Xiaofeng</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5662-2752</contrib-id>
+          <name>
+            <surname>Gong</surname>
+            <given-names>Zhaohui</given-names>
+          </name>
+          <address>
+            <email>zhaohui@ncri.org.cn</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0000 8950 5267</institution-id><institution-id institution-id-type="GRID">grid.203507.3</institution-id><institution>Department of Biochemistry and Molecular Biology, </institution><institution>Ningbo University School of Medicine, </institution></institution-wrap>Ningbo, 315211 China </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0000 8950 5267</institution-id><institution-id institution-id-type="GRID">grid.203507.3</institution-id><institution>Zhejiang Province Key Laboratory of Pathophysiology, </institution><institution>Ningbo University School of Medicine, </institution></institution-wrap>Ningbo, 315211 China </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1759 700X</institution-id><institution-id institution-id-type="GRID">grid.13402.34</institution-id><institution>Department of Laboratory Medicine, </institution><institution>The Affiliated Ningbo Kangning Hospital of Ningbo University School of Medicine, </institution></institution-wrap>Ningbo, 315201 China </aff>
+        <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.460077.2</institution-id><institution>Department of Thoracic Surgery, </institution><institution>The Affiliated Hospital of Ningbo University School of Medicine, </institution></institution-wrap>Ningbo, 315020 China </aff>
+        <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1759 700X</institution-id><institution-id institution-id-type="GRID">grid.13402.34</institution-id><institution>Department of Thoracic Surgery, </institution><institution>The Affiliated Ningbo Medical Center Lihuili Eastern Hospital of Ningbo University School of Medicine, </institution></institution-wrap>Ningbo, 315048 China </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>15</day>
+        <month>1</month>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>15</day>
+        <month>1</month>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2020</year>
+      </pub-date>
+      <volume>19</volume>
+      <elocation-id>9</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>7</month>
+          <year>2019</year>
+        </date>
+        <date date-type="accepted">
+          <day>9</day>
+          <month>1</month>
+          <year>2020</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s). 2020</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p><bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p id="Par1">MicroRNAs (miRNAs) and Twist1-induced epithelial-mesenchymal transition (EMT) in cancer cell dissemination are well established, but the involvement of long noncoding RNAs (lncRNAs) in Twist1-mediated signaling remains largely unknown.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p id="Par2">RT-qPCR and western blotting were conducted to detect the expression levels of lncRNA JPX and Twist1 in lung cancer cell lines and tissues. The impact of JPX on Twist1 expression, cell growth, invasion, apoptosis, and in vivo tumor growth were investigated in lung cancer cells by western blotting, rescue experiments, colony formation assay, flow cytometry, and xenograft animal experiment.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p id="Par3">We observed that lncRNA JPX was upregulated in lung cancer metastatic tissues and was closely correlated with tumor size and an advanced stage. Functionally, JPX promoted lung cancer cell proliferation in vitro and facilitated lung tumor growth in vivo. Additionally, JPX upregulated Twist1 by competitively sponging miR-33a-5p and subsequently induced EMT and lung cancer cell invasion. Interestingly, JPX and Twist1 were coordinately upregulated in lung cancer tissues and cells. Mechanically, the JPX/miR-33a-5p/Twist1 axis participated in EMT progression by activating Wnt/&#x3B2;-catenin signaling.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p id="Par4">These findings suggest that lncRNA JPX, a mediator of Twist1 signaling, could predispose lung cancer cells to metastasis and may serve as a potential target for targeted therapy.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Epithelial-mesenchymal transition</kwd>
+        <kwd>Twist1</kwd>
+        <kwd>Long noncoding RNA</kwd>
+        <kwd>Wnt/&#x3B2;-catenin signaling</kwd>
+        <kwd>Lung cancer</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>Non-profit Technology Research Program of Zhejiang</institution>
+          </funding-source>
+          <award-id>LGF18H160006</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Gong</surname>
+              <given-names>Zhaohui</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>Natural Science Foundation of Tianjin Municipal Science and Technology Commission (CN)</institution>
+          </funding-source>
+          <award-id>LQ18H200001</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Meng</surname>
+              <given-names>Xiaodan</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>Non-profit Technology Research Program of Ningbo</institution>
+          </funding-source>
+          <award-id>2019C50040</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Gong</surname>
+              <given-names>Zhaohui</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100007834</institution-id>
+              <institution>Natural Science Foundation of Ningbo</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>2018A610204</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Gong</surname>
+              <given-names>Zhaohui</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>Scientific Innovation Team Project of Ningbo</institution>
+          </funding-source>
+          <award-id>2017C110019</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Gong</surname>
+              <given-names>Zhaohui</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>K.C. Wong Magna Fund in Ningbo University</institution>
+          </funding-source>
+          <award-id>2019-012</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Gong</surname>
+              <given-names>Zhaohui</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; The Author(s) 2020</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p id="Par20">Lung cancer is one of the most malignant of all cancer, and the 5-year survival rates vary from 4 to 17% depending on stage and regional differences [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>]. Although many advances have been made in the diagnosis and treatment of lung cancer in recent years, metastasis still remains the main challenge posed by advanced lung cancer leading to high mortality [<xref ref-type="bibr" rid="CR3">3</xref>]. Thus, the elucidation of a new oncogenic pathway is required to precisely target lung cancer and to serve as a prognostic factor. Long noncoding RNAs (lncRNAs) are a class of RNA molecules longer than 200 nucleotides in length with considerable potential to drive cancer development [<xref ref-type="bibr" rid="CR4">4</xref>&#x2013;<xref ref-type="bibr" rid="CR7">7</xref>].</p>
+      <p id="Par21">Aberrantly expressed lncRNAs have been found to be associated with the occurrence and development of various types of cancers [<xref ref-type="bibr" rid="CR8">8</xref>&#x2013;<xref ref-type="bibr" rid="CR10">10</xref>]. In addition, lncRNAs affect gene expression through various mechanisms in which lncRNAs regulate their target genes by acting as microRNA (miRNA) sponges, thereby affecting the growth, proliferation, migration, and invasion of cancer cells [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR12">12</xref>]. In the lncRNA-miRNA-mRNA regulatory network, lncRNAs act as competitive endogenous RNAs (ceRNAs) of specific mRNAs [<xref ref-type="bibr" rid="CR13">13</xref>]. Specifically, lncRNA SMAD5-AS1 could upregulate adenomatous polyposis coli expression by sponging miR-135b-5p and inactivate the canonical Wnt/&#x3B2;-catenin pathway to inhibit diffuse large B cell lymphoma proliferation [<xref ref-type="bibr" rid="CR14">14</xref>]. Furthermore, lncRNA PVT1 was found to regulate hexokinase 2 (HK2) expression by competitively binding to endogenous miR-143 in gallbladder cancer (GBC) cells, suggesting an important role of the PVT1/miR-143/HK2 axis in cell proliferation and metastasis by modulating aerobic glucose metabolism in GBC cells [<xref ref-type="bibr" rid="CR15">15</xref>]. However, the function and mechanism of most aberrantly expressed lncRNAs as ceRNAs in lung cancer remain unclear.</p>
+      <p id="Par22">Our previous work showed that miR-33a-5p negatively regulated Twist1, thus inhibiting the invasion and metastasis of non-small cell lung cancer (NSCLC) [<xref ref-type="bibr" rid="CR16">16</xref>], and served as a potential biomarker for early lung cancer diagnosis [<xref ref-type="bibr" rid="CR17">17</xref>]. Twist1 is an important transcription factor that mediates epithelial-mesenchymal transition (EMT) progression and tumor metastasis [<xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR19">19</xref>]. In addition, Wnt/&#x3B2;-catenin signaling is a critical driver in EMT and cancer metastasis [<xref ref-type="bibr" rid="CR20">20</xref>]. It has been found that miRNAs can participate in the EMT process by regulating the Wnt/&#x3B2;-catenin pathway in a variety of cancers [<xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR22">22</xref>]. Therefore, we considered whether an lncRNA could form a ceRNA network with miR-33a-5p and Twist1 to participate in EMT and malignant processes in lung cancer. In the present study, we identified that JPX, an upregulated lncRNA in lung cancer, acted as a ceRNA for Twist1 through binding with miR-33a-5p. As an oncogene, JPX affected the tumor size, TNM staging, and metastasis of lung cancer. Functionally, JPX promoted cell proliferation, migration, and invasion and facilitated tumor growth in xenograft mouse model. Further assays revealed that JPX participated in the activation of Wnt/&#x3B2;-catenin signaling by regulating miR-33a-5p/Twist1, which in turn promoted the EMT process, ultimately influencing the of lung cancer process. The results indicate that the JPX/miR-33a-5p/Twist1 axis regulates lung carcinoma by activating Wnt/&#x3B2;-catenin signaling, suggesting a therapeutic potential for lung cancer treatment.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Methods</title>
+      <sec id="Sec3">
+        <title>Clinical subjects and specimens</title>
+        <p id="Par23">Total of 116 lung cancer tissues and corresponding adjacent tissues were collected from the Affiliated Hospital of Medical School of Ningbo University (Ningbo, China) and Ningbo Medical Center Lihuili Eastern Hospital (Ningbo, China). All of the patients were diagnosed with primary lung cancer and did not receive preoperative radiotherapy, chemotherapy, targeted therapy and immunotherapy. At the same time, general clinical information and detailed pathology records were collected. All patients received written informed consent and the study protocol was approved by the Clinical Research Ethics Committee of the Medical School of Ningbo University (Approval No.: NBUSM20171006). All experimental protocols were implemented in accordance with relevant regulations.</p>
+      </sec>
+      <sec id="Sec4">
+        <title>RNA extraction and quantitative real-time PCR (RT-qPCR)</title>
+        <p id="Par24">Total RNA was isolated from lung cancer tissue and cells using Trizol reagent (Invitrogen, USA) following the manufacturer&#x2019;s protocol. DeNovix DS-11 Spectrophotometer (DeNovix, USA) detects the purity and concentration of RNA. We synthesized cDNA by reverse transcription reaction using a ReverTra Ace qPCR RT Master Mix with gDNA Remove kit (Toyobo, Japan) or a commercial miRNA reverse transcription PCR kit (GenePharma, China). RT-qPCR was conducted using a SYBR Premix Ex Taq II (Takara, Japan) on a Mx3005P real-time PCR System (Stratagene, USA) according to manufacturer&#x2019;s instructions. Results were normalized using glyceraldehyde-3-phosphate dehydrogenase (GAPDH) or U6 as an internal control. To account for the assessment of technical variability, the assays were performed in triplicate for each case. Primer sequences are shown in Additional&#xA0;file&#xA0;<xref rid="MOESM1" ref-type="media">1</xref>: Table S1.</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Cell culture and transfection</title>
+        <p id="Par25">All cell lines were obtained from the Chinese Academy of Sciences Cell Bank (CASCB, China), including 1 human normal bronchial epithelial cell (BEAS-2B) and 4 human lung adenocarcinoma cells (SPC-A-1, LTEP-a-2, A549, NCI-H1299). All human lung cancer cell lines were cultured in RPMI-1640 (Hyclone, USA), with 10% fetal bovine serum (PAN, Germany). BEAS-2B was maintained in Dulbecco&#x2019;s modified Eagle&#x2019;s medium (DMEM) that was supplemented with 10% FBS. All cell lines were placed in a cell culture incubator (Thermo Fisher, USA) containing 5% CO<sub>2</sub> at 37&#x2009;&#xB0;C. JPX small interfering RNA (siRNA, GenePharma, China) and <italic>Twist1</italic> siRNA with the corresponding control RNA (siRNA NC), or recombinant plasmid overexpressing JPX with the empty pcDNA3.1 vector (Tiandz, China), or miR-33a-5p mimics (GenePharma, China) with corresponding control RNA (mimics NC) were transfected into cells in logarithmic growth phase. The transfection was performed using the Lipofectamine 2000 transfection reagent (Invitrogen, USA) according to the manufacturer&#x2019;s protocol. The transfected sequences of the miR-33a-5p mimics and siRNA oligonucleotides are shown in Additional file <xref rid="MOESM1" ref-type="media">1</xref>, Table S2.</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Recombinant plasmid construction</title>
+        <p id="Par26">The sequences of JPX was amplified by PCR from the genomic DNA of SPC-A1 cell line, and sub-cloned into the pcDNA3.1 vector or pGL3-control vector (Promega, USA) as described in our previous work [<xref ref-type="bibr" rid="CR16">16</xref>]. The primer sequences are shown in Additional file <xref rid="MOESM1" ref-type="media">1</xref>, Table S1.</p>
+      </sec>
+      <sec id="Sec7">
+        <title>Cell counting Kit-8 (CCK-8) assay</title>
+        <p id="Par27">The transfected cells were seeded in 96-well plates at a concentration of 5&#x2009;&#xD7;&#x2009;10<sup>3</sup> per well at different time points (24, 48, 72, and 96&#x2009;h), and 10&#x2009;ml CCK-8 reagent (Dojindo, Japan) was added to each well after cell attachment, and cells were incubated at 37&#x2009;&#xB0;C for 2&#x2009;h. We determined the cell growth rate by measuring their optical density (OD) value at 450&#x2009;nm using a microplate reader (Labsystems, Finland).</p>
+      </sec>
+      <sec id="Sec8">
+        <title>Colony formation assay</title>
+        <p id="Par28">The transfected cell suspension was collected, and 500 cells were seeded ito a 6-well plate and cultured in a cell culture incubator. After 2&#x2009;weeks, the cell colonies were washed 3 times with 1&#x2009;&#xD7;&#x2009;PBS. Colonies were fixed with 4% paraformaldehyde for 30&#x2009;min and stained with 0.1% crystal violet (Solarbio, China) for 30&#x2009;min.</p>
+      </sec>
+      <sec id="Sec9">
+        <title>Wound healing assay</title>
+        <p id="Par29">The confluent cell monolayer was manually damaged by scraping the cells with a 200&#x2009;&#x3BC;l pipette tip. Photographs were taken using an optical microscope (Olympus, Japan) at 0, 24, and 48&#x2009;h, respectively. The distances were measured by Image-Pro Plus 6.0 software.</p>
+      </sec>
+      <sec id="Sec10">
+        <title>Transwell invasion assay</title>
+        <p id="Par30">The transfected cells were collected and resuspended in serum-free medium. Then, 1&#x2009;&#xD7;&#x2009;10<sup>5</sup> cells were seeded into a pre-packed Matrigel (BD Bioscience, USA) chamber (Corning, USA), and the chamber was inserted into a well containing 20% serum from 24-well plate. After 24&#x2009;h incubation, the cells remaining on the upper membrane surface were removed using a cotton swab, and the cells adhering to the lower membrane surface were fixed with 4% paraformaldehyde and stained with 0.1% crystal violet. Cells were then counted under an optical microscope.</p>
+      </sec>
+      <sec id="Sec11">
+        <title>Nuclear and cytoplasmic RNA fractionation analysis</title>
+        <p id="Par31">Nuclear and cytosolic fractions were separated using a PARIS kit (Thermo Fisher Scientific, USA) according to the manufacturer&#x2019;s instruction. The expression levels of GAPDH, U6 and JPX in the nuclear and cytoplasm of lung cancer cells were detected by RT-qPCR assays.</p>
+      </sec>
+      <sec id="Sec12">
+        <title>Cell lysates and western blotting</title>
+        <p id="Par32">We extracted the protein (including total, nuclear and cytoplasmic protein) of the cells using RIPA lysis buffer (50&#x2009;mM Tris-HCl pH&#x2009;8.0, 150&#x2009;mM NaCl, 1%Triton X-100, and 1 protease inhibitor cocktail tablet/10&#x2009;ml) and detected the protein concentration with a BCA kit (Beyotime, China). The western blotting was conducted as previously described [<xref ref-type="bibr" rid="CR23">23</xref>]. The primary antibodies were anti-E-cadherin (Bioss, USA), anti-N-cadherin (Santa Cruz, USA), anti-Vimentin (CST, USA), anti-GSK-3-&#x3B2; (Bioss, USA), anti-&#x3B2;-Catenin (CST, USA), anti-Twist1 (Sigma, USA), anti-GAPDH (Santa Cruz, USA), and anti-Lamin B (Bioss, USA).</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Bioinformatic analysis</title>
+        <p id="Par33">The putative miRNA binding sites on JPX sequences were predicted using StarBase V3.0 (<ext-link ext-link-type="uri" xlink:href="http://starbase.sysu.edu.cn/">http://starbase.sysu.edu.cn/</ext-link>).</p>
+      </sec>
+      <sec id="Sec14">
+        <title>Luciferase reporter assay</title>
+        <p id="Par34">JPX wild-type and mutant-type luciferase reporter vector targeting the miR-33a-5p binding site were constructed. The vectors and miR-33a-5p mimics were co-transfected into cells by Lipofectamine 2000 reagent, and luciferase activities were measured 24&#x2009;h later using the dual luciferase reporter system (Promega, USA). Renilla luciferase activity was used as a standardized control.</p>
+      </sec>
+      <sec id="Sec15">
+        <title>In vivo tumorigenesis assay</title>
+        <p id="Par35">Four-week-old BALB/c male nude mice were purchased from Shanghai SLAC Laboratory Animals Co., Ltd. (Shanghai, China). We screened lung cancer cells stably expressing JPX and empty plasmids using G418 and stably expressed miR-33a-5p by transfecting AgomiR-33a-5p (GenePharma, China). AgomiRNA is a specially labeled and chemically modified double-stranded small RNA that mimics the endogenous miRNA to regulate the biological function of the target gene. The subcutaneous xenograft mouse model was used to assess the tumor formation ability. First, 5&#x2009;&#xD7;&#x2009;10<sup>6</sup> lung cancer cells (SPC-A-1 and NCI-H1299) stably expressing miR-NC/miR-33a-5p, and empty plasmid/JPX were suspended in 200&#x2009;&#x3BC;L phosphate-buffered saline (PBS) and then were injected subcutaneously into the right flanks of BALB/c nude mice (single-factor experiment, <italic>n</italic>&#x2009;=&#x2009;7 per group; rescue experiment <italic>n</italic>&#x2009;=&#x2009;3 per group). The tumor dimensions were measured every two days via digital caliper measurements; after 4&#x2009;weeks, the mice were sacrificed by cervical dislocation and the tumors were excised for weighing. The tumor volume was calculated with the formula V&#x2009;=&#x2009;(length &#xD7; width<sup>2</sup>)/2. To determine lung cancer cell metastasis, SPC-A-1 and NCI-H1299 cells stably expressing miR-NC/miR-33a-5p, and empty plasmid/JPX were used to construct a tail vein metastasis animal model. Each BALB/c nude mouse was injected with 200&#x2009;&#x3BC;L PBS containing 5&#x2009;&#xD7;&#x2009;10<sup>6</sup> cells (<italic>n</italic>&#x2009;=&#x2009;3 each group). All nude mice were sacrificed humanely after 30&#x2009;days, and intact lung tissues were obtained f and imaged. The tissue sections were used for subsequent experiments, such as H&amp;E staining. To prevent AgomiR-33a-5p degradation in vivo, we injected a dose of 1&#x2009;nmol AgomiR-33a-5p (in 20&#x2009;&#x3BC;L PBS) into the subcutaneous tumors and tail veins of nude mice weekly. The experiments were performed in accordance with the approved guidelines of the Laboratory Animal Ethical Committee at Ningbo University (Approval No.: NBULA20180902/ NBULA20191109).</p>
+      </sec>
+      <sec id="Sec16">
+        <title>Immunohistochemistry assay (IHC)</title>
+        <p id="Par36">The paraffin-embedded tumor tissue sections were deparaffinized and rehydrated for IHC, and the antigen was retrieved with high pressure in 0.01&#x2009;M sodium citrate buffer solution. After incubating with the primary and secondary antibodies, the sections were incubated with diaminobenzidine and counterstained with hematoxylin (Solarbio, China). Images were taken by a microscope with 200&#xD7; magnification (Olympus, Japan). Primary antibody for IHC: anti-Twist1 (Bioss, USA), anti-&#x3B2;-catenin (Bioss, USA).</p>
+      </sec>
+      <sec id="Sec17">
+        <title>Statistical analysis</title>
+        <p id="Par37">The statistical analyses were carried out with using GraphPad Prism 8 software. Data are presented as the mean&#x2009;&#xB1;&#x2009;SD, and all experiments were performed in triplicate. The relationship between JPX expression and the clinical characteristics of patients with lung cancer were evaluated using the chi-squared test. Analysis of differences between the two groups were performed using Student&#x2019;s t test, one-way ANOVA, and Pearson&#x2019;s correlation analysis. For all analyses, a <italic>P</italic>-value less than 0.05 from a two-tailed test was considered statistically significant.</p>
+      </sec>
+      <sec id="Sec18" sec-type="data-availability">
+        <title>Data availability</title>
+        <p id="Par38">The data that support the findings of this study are available from the corresponding author upon reasonable request.</p>
+      </sec>
+    </sec>
+    <sec id="Sec19">
+      <title>Results</title>
+      <sec id="Sec20">
+        <title>JPX was upregulated in lung cancer tissues and cells</title>
+        <p id="Par39">We performed lncRNA microarray analysis to identify differentially expressed lncRNAs using four pairs of human lung cancer tissues and matched nontumor tissues. In total, 1551 differentially expressed lncRNAs were identified, of which 817 lncRNAs were highly expressed and of which 734 were lowly expressed (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>a and b). Our previous work showed that miR-33a-5p could inhibit lung cancer invasion and metastasis [<xref ref-type="bibr" rid="CR16">16</xref>]. Here, we expected to obtain differentially lncRNAs that bind with miR-33a-5p. The miRNA-lncRNA interaction database (<ext-link ext-link-type="uri" xlink:href="http://starbase.sysu.edu.cn/starbase2/index.php">http://starbase.sysu.edu.cn/starbase2/index.php</ext-link>) was used to predict the potential lncRNAs that could interact with miR-33a-5p. The results showed that 61 lncRNAs shared binding sites with miR-33a-5p. The overlapping analysis of 1551 differentially expressed lncRNAs and the predicted 61 lncRNAs indicated that only lncRNA JPX interacted with miR-33a-5p via seven consecutive pairings of complementary base pairs (Fig. <xref rid="Fig1" ref-type="fig">1</xref>b and c). To confirm JPX expression in lung cancer tissues, we performed RT-qPCR to detect JPX in 116 pairs of lung cancer tissues and adjacent noncancerous tissues and found significantly higher JPX expression in lung cancer tissues than in adjacent normal tissues (Fig. <xref rid="Fig1" ref-type="fig">1</xref>d). To further investigate the association between the JPX expression and the clinicopathological characteristics, 116 human lung cancer tissue samples were divided into two subgroups according to the median ratio of relative JPX expression: the high JPX group (<italic>n</italic>&#x2009;=&#x2009;58) and the low JPX group (n&#x2009;=&#x2009;58) (Fig. <xref rid="Fig1" ref-type="fig">1</xref>e). Correlation regression analysis showed that the high JPX expression in 116 lung cancer patients was closely related to large tumor size (<italic>P</italic>&#x2009;=&#x2009;0.0009) and the advanced TNM stage (<italic>P</italic>&#x2009;=&#x2009;0.0003). However, gender (<italic>P</italic>&#x2009;=&#x2009;0.7077), age (<italic>P</italic>&#x2009;=&#x2009;0.4346), smoking history (<italic>P</italic>&#x2009;=&#x2009;0.3443), histology (<italic>P</italic>&#x2009;=&#x2009;0.9042), tumor location (<italic>P</italic>&#x2009;=&#x2009;0.193) and differentiation (<italic>P</italic>&#x2009;=&#x2009;0.8095) were not correlated with JPX expression (Table&#xA0;<xref rid="Tab1" ref-type="table">1</xref>). In addition, JPX was expressed more frequently in advanced and metastatic lung cancer patients than that in early and non-metastatic lung cancer patients (Fig. <xref rid="Fig1" ref-type="fig">1</xref>f and g). Next, we measured JPX expression in human normal lung bronchial epithelial cells (BEAS-2B) and four lung cancer cell lines (SPC-A-1, LTEP-a-2, A549, NCI-H1299) by RT-qPCR. As shown in Fig. <xref rid="Fig1" ref-type="fig">1</xref>h, JPX expression in these four cell lines was significantly higher than that in the normal lung bronchial epithelial cells. Among the four cell lines, relative JPX expression was the lowest in SPC-A-1 cells and highest in NCI-H1299 cells. Therefore, SPC-A-1 and NCI-H1299 cell lines were selected as subjects for the subsequent cell phenotype assays. Together, the results suggested that JPX was aberrantly upregulated in lung cancer tissues and cells and was closely correlated with tumor size and TNM stage, suggesting an oncogenic role of JPX in lung cancer.
+<fig id="Fig1"><label>Fig. 1</label><caption><p>JPX was ectopically overexpressed in lung cancer tissues and cells. (<bold>a</bold>) The heatmap of differentially expressed lncRNAs from four pairs of lung cancer tissues and matched adjacent normal tissues. The red color on the side of the row represents the upregulated lncRNAs in lung cancer, while the green color represents downregulated lncRNAs. (<bold>b</bold>) Venn diagram showing overlapping lncRNAs from the results of lncRNA microarray analysis and starBase database prediction. (<bold>c</bold>)Targeted sites between miR-33a-5p and JPX in starBase database. (<bold>d</bold>)Relative JPX expression detected by RT-qPCR in 116 paired lung cancer and noncancerous tissues. Results are presented as 2<sup>-&#x394;&#x394;Ct</sup> in tumor tissues relative to normal tissues. (<bold>e</bold>)Relative JPX expression of in lung cancer tissues was divided into 58 high-expression groups and 58 low-expression groups according to the median. (<bold>f, g</bold>)Relative JPX expression in lung cancer tissues with different TNM stages and with or without metastasis. (<bold>h</bold>)RT-qPCR analysis of the relative JPX expression in four lung cancer cell lines (SPC-A-1, LTEP-a-2, A549, NCI-H1299) and a normal lung epithelial cell line (BEAS-2B). Data are presented as the mean&#x2009;&#xB1;&#x2009;SD from three independent experiments. *<italic>P</italic>&#x2009;&lt;&#x2009;0.05, **<italic>P</italic>&#x2009;&lt;&#x2009;0.01, ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001</p></caption><graphic xlink:href="12943_2020_1133_Fig1_HTML" id="MO1"/></fig>
+<table-wrap id="Tab1"><label>Table 1</label><caption><p>Correlations between JPX and clinical characteristics of 116 lung cancer patients</p></caption><table frame="hsides" rules="groups"><thead><tr><th/><th>n</th><th colspan="2">lncRNA JPX level<sup>&#x2020;</sup></th><th>&#x3C7;<sup>2</sup> test</th><th><italic>P</italic> value</th></tr><tr><th>Characteristics</th><th/><th>High</th><th>Low</th><th/><th/></tr></thead><tbody><tr><td>Total cases</td><td>116</td><td>58</td><td>58</td><td/><td/></tr><tr><td colspan="6">Gender</td></tr><tr><td>&#x2003;Male</td><td>66</td><td>34</td><td>32</td><td char="." align="char">0.1406</td><td char="." align="char">0.7077</td></tr><tr><td>&#x2003;Female</td><td>50</td><td>24</td><td>26</td><td/><td/></tr><tr><td colspan="6">Age (years)</td></tr><tr><td>&#x2003;&#x2009;&#x2264;&#x2009;60</td><td>40</td><td>18</td><td>22</td><td char="." align="char">0.6105</td><td char="." align="char">0.4346</td></tr><tr><td>&#x2003;&gt;60</td><td>76</td><td>40</td><td>36</td><td/><td/></tr><tr><td colspan="6">Smoking history</td></tr><tr><td>&#x2003;Yes</td><td>47</td><td>26</td><td>21</td><td char="." align="char">0.8942</td><td char="." align="char">0.3443</td></tr><tr><td>&#x2003;No</td><td>69</td><td>32</td><td>37</td><td/><td/></tr><tr><td colspan="6">Histology</td></tr><tr><td>&#x2003;Adenocarcinoma</td><td>84</td><td>41</td><td>43</td><td char="." align="char">0.2015</td><td char="." align="char">0.9042</td></tr><tr><td>&#x2003;Squamous carcinoma</td><td>26</td><td>14</td><td>12</td><td/><td/></tr><tr><td>&#x2003;Other type</td><td>6</td><td>3</td><td>3</td><td/><td/></tr><tr><td colspan="6">Tumor location</td></tr><tr><td>&#x2003;Left</td><td>55</td><td>24</td><td>31</td><td char="." align="char">1.694</td><td char="." align="char">0.193</td></tr><tr><td>&#x2003;Right</td><td>61</td><td>34</td><td>27</td><td/><td/></tr><tr><td colspan="6">Differentiation</td></tr><tr><td>&#x2003;High and moderate</td><td>21</td><td>11</td><td>10</td><td char="." align="char">0.05815</td><td char="." align="char">0.8095</td></tr><tr><td>&#x2003;Poor</td><td>95</td><td>47</td><td>48</td><td/><td/></tr><tr><td colspan="6">Tumor size(cm)</td></tr><tr><td>&#x2003;&#x2009;&#x2264;&#x2009;3</td><td>84</td><td>34</td><td>50</td><td char="." align="char">11.05</td><td char="." align="char">0.0009<sup>**</sup></td></tr><tr><td>&#x2003;&gt;3</td><td>32</td><td>24</td><td>8</td><td/><td/></tr><tr><td colspan="6">TNM stage</td></tr><tr><td>&#x2003;I&#xA0;+&#x2009;II</td><td>87</td><td>35</td><td>52</td><td char="." align="char">13.29</td><td char="." align="char">0.0003<sup>***</sup></td></tr><tr><td>&#x2003;III&#xA0;+&#x2009;IV</td><td>29</td><td>23</td><td>6</td><td/><td/></tr></tbody></table><table-wrap-foot><p>&#x2020;Median expression level was used as cutoff. Low expression of JPX in 116 patients was defined as a value below the 50th percentile, and high above the 50th percentile. <italic>P</italic> values were acquired by Pearson&#x2019;s chi-square test. **<italic>P</italic>&#x2009;&lt;&#x2009;0.01, ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001</p></table-wrap-foot></table-wrap></p>
+      </sec>
+      <sec id="Sec21">
+        <title>JPX promoted lung cancer cell proliferation in vitro and facilitated lung tumor growth in vivo</title>
+        <p id="Par40">To explore the biological function of JPX in lung cancer cells, small interfering RNAs (siRNAs) were used to specifically knockdown JPX expression, whereas the full-length recombinant plasmid with JPX was used to increase JPX expression. By transfecting three JPX siRNAs, we found that si-JPX#1 could significantly downregulate JPX expression by up to 57&#x2013;71% (Additional&#xA0;file&#xA0;<xref rid="MOESM2" ref-type="media">2</xref>, Figure S1A). JPX could be upregulated 21&#x2013;78 fold when transfected with the JPX recombinant plasmid (Additional file <xref rid="MOESM2" ref-type="media">2</xref>, Figure S1B). CCK-8 and colony formation assays revealed that depletion of JPX inhibited the growth and proliferation of SPC-A-1 and NCI-H1299 cells (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>a and c), while JPX overexpression promoted cell growth and proliferation in both cell lines (Fig. <xref rid="Fig2" ref-type="fig">2</xref>b and d). To further investigate the effect of JPX on lung tumor growth in vivo, the xenograft mouse model was generated by subcutaneous injection of lung cancer cell lines (SPC-A-1 and NCI-H1299) stably expressing JPX. With SPC-A-1 cells, the tumor volume and weight in JPX-overexpressing mice were significantly larger and heavier than those in the control mice (Fig. <xref rid="Fig2" ref-type="fig">2</xref>e-g). Similar results were also found with NCI-H1299 cells (Fig. <xref rid="Fig2" ref-type="fig">2</xref>h-j). Overall, these results indicated that JPX overexpression promoted the lung cancer cell growth and proliferation in vitro and facilitated the lung tumor growth in xenograft mouse model.
+<fig id="Fig2"><label>Fig. 2</label><caption><p>JPX overexpression promoted cell growth and proliferation in vitro and in vivo. The CCK-8 assays were performed to determine the viability of lung cancer cells treated with si-JPX#1 (<bold>a</bold>) or pcDNA3.1-JPX (<bold>b</bold>) in SPC-A1 and NCI-H1299 cells. Colony formation assays were used to detect the proliferation of lung cancer cells after transfection with si-JPX#1 (<bold>c</bold>) or pcDNA3.1-JPX (<bold>d</bold>) in SPC-A1 and NCI-H1299 cells. The bar charts represent the numbers of cell colonies. (<bold>e</bold>) NCI-H1299 cells with empty vector were injected into the upper nude mice (<italic>n</italic>&#x2009;=&#x2009;7), while NCI-H1299 cells stably expressing JPX were injected into the lower nude mice (n&#x2009;=&#x2009;7). Representative images of xenograft tumors are shown in the right panel. (<bold>f, g</bold>) Tumor volume and weight in the xenograft mice from the JPX overexpression group and the control group. Data are shown as the mean&#x2009;&#xB1;&#x2009;SD in three independent experiments. *<italic>P</italic>&#x2009;&lt;&#x2009;0.05, **<italic>P</italic>&#x2009;&lt;&#x2009;0.01, ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001</p></caption><graphic xlink:href="12943_2020_1133_Fig2_HTML" id="MO2"/></fig></p>
+      </sec>
+      <sec id="Sec22">
+        <title>JPX promoted migration and invasion of lung cancer cells</title>
+        <p id="Par41">To determine the effect of JPX on the migration and invasion of lung cancer cells, the wound healing and transwell assays were performed in SPC-A-1 and NCI-H1299 cells. The wound healing assay results showed that knockdown of JPX significantly reduced the migration distance in SPC-A-1 (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>a) and in NCI-H1299 (Fig. <xref rid="Fig3" ref-type="fig">3</xref>b) cells. In contrast, JPX overexpression significantly increased the migration distance in both two cell lines (Fig. <xref rid="Fig3" ref-type="fig">3</xref>c and d). The results of migration and invasion assays showed that knockdown of JPX significantly reduced the number of migrated cells in SPC-A-1 (Fig. <xref rid="Fig3" ref-type="fig">3</xref>e) and NCI-H1299 (Fig. <xref rid="Fig3" ref-type="fig">3</xref>f) cells. Contrarily, JPX overexpression increased the number of migrated cells in SPC-A-1 (Fig. <xref rid="Fig3" ref-type="fig">3</xref>g) and NCI-H1299 (Fig. <xref rid="Fig3" ref-type="fig">3</xref>h) cells. Thus, the data showed that JPX could enhance the migration and invasion of lung cancer cells in vitro.
+<fig id="Fig3"><label>Fig. 3</label><caption><p>JPX reinforced the migration and invasion of lung cancer cells in vitro. The migration ability of SPC-A-1 and NCI-H1299 cells treated with si-JPX#1 (<bold>a, b</bold>) or pcDNA3.1-JPX (<bold>c, d</bold>) was assessed by wound healing assays. The bar charts represent the distance of the cell migration. The invasion ability of SPC-A-1 and NCI-H1299 cells treated with si-JPX#1 (<bold>e, f</bold>) or pcDNA3.1-JPX (<bold>g, h</bold>) was evaluated by the transwell assays. The bar charts indicate the number of invaded cells. Data are presented as the mean&#x2009;&#xB1;&#x2009;SD, <italic>n</italic>&#x2009;=&#x2009;3. *<italic>P</italic>&#x2009;&lt;&#x2009;0.05, **<italic>P</italic>&#x2009;&lt;&#x2009;0.01, ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001</p></caption><graphic xlink:href="12943_2020_1133_Fig3_HTML" id="MO3"/></fig></p>
+      </sec>
+      <sec id="Sec23">
+        <title>JPX acted as a sponge for miR-33a-5p</title>
+        <p id="Par42">To further confirm the interaction between JPX and miR-33a-5p, we firstly identified the subcellular location of JPX in lung cancer cells. Nuclear-cytoplasmic fractionation showed that JPX was mainly located in the cytoplasm of lung cancer cells (Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>a). The most commonly accepted mechanism of cytoplasmic lncRNAs is that of ceRNAs, which inhibit the regulation of target genes by sponging various miRNAs [<xref ref-type="bibr" rid="CR24">24</xref>]. To validate the above theory, we subcloned the wild-type (JPX-WT) and mutated (JPX-MUT) miR-33a-5p binding sites into dual-luciferase reporters (Fig. <xref rid="Fig4" ref-type="fig">4</xref>b). The luciferase assay showed that transfection of miR-33a-5p mimics significantly reduced the relative luciferase activity of JPX-WT-treated lung cancer cells, but did not affect that of JPX-MUT-treated lung cancer cells (Fig. <xref rid="Fig4" ref-type="fig">4</xref>c). To determine the relationship between JPX and miR-33a-5p, we used RT-qPCR assay to evaluate miR-33a-5p expression in lung cancer patients. Compared with the adjacent normal tissues, miR-33a-5p was notably downregulated in lung cancer tissues (Fig. <xref rid="Fig4" ref-type="fig">4</xref>d). Interestingly, Pearson correlation analysis showed a negative correlation between the expression level of JPX and miR-33a-5p in lung cancer tissues (Fig. <xref rid="Fig4" ref-type="fig">4</xref>e). In contrast to JPX, tiR-33a-5p expression in four lung cancer cell lines was much lower than that in normal lung bronchial epithelial cells (Fig. <xref rid="Fig4" ref-type="fig">4</xref>f). In addition, miR-33a-5p was upregulated when the lung cancer cells were transfected with JPX siRNA s (Fig. <xref rid="Fig4" ref-type="fig">4</xref>g). However, JPX was downregulated when the lung cancer cells were transfected with miR-33a-5p mimics (Fig. <xref rid="Fig4" ref-type="fig">4</xref>h). Taken together, the data suggested that JPX acted as a sponge for miR-33a-5p in lung cancer cells.
+<fig id="Fig4"><label>Fig. 4</label><caption><p>JPX targeted the miR-33a-5p in lung cancer cells as a ceRNA. (<bold>a</bold>) The subcellular position of JPX in the cytoplasm or nucleus. GAPDH and U6 were used as the cytoplasmic and nuclear control, respectively. (<bold>b</bold>)The potential binding sites of miR-33a-5p and JPX. (<bold>c</bold>) Relative luciferase activities of wild type (WT) and mutated (MUT) JPX reporter plasmid in SPC-A-1 and NCI-H1299 cells co-transfected with miR-33a-5p mimics. (<bold>d</bold>) The RT-qPCR assays were utilized to measure miR-33a-5p expression in 65 lung cancer tissues and paired normal tissues. (<bold>e</bold>) Pearson&#x2019;s correlation analysis determined the relationship between JPX and miR-33a-5p expression in 20 lung cancer tissues. (<bold>f</bold>) Relative expression of miR-33a-5p in lung cancer cell lines compared with that in the normal epithelial cell line. (<bold>g</bold>) Relative miR-33a-5p expression after JPX knockdown. (<bold>h</bold>) Detection of JPX expression by RT-qPCR after overexpression of miR-33a-5p. Data are shown as the mean&#x2009;&#xB1;&#x2009;SD based on three independent experiments. *<italic>P</italic>&#x2009;&lt;&#x2009;0.05, **<italic>P</italic>&#x2009;&lt;&#x2009;0.01, ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001</p></caption><graphic xlink:href="12943_2020_1133_Fig4_HTML" id="MO4"/></fig></p>
+      </sec>
+      <sec id="Sec24">
+        <title>JPX promoted cell proliferation, migration, and invasion of lung cancer cells by regulating miR-33a-5p</title>
+        <p id="Par43">To investigate whether JPX regulates the cell phenotype via sponging miR-33a-5p, the rescue experiments were employed to detect the effect of JPX and miR-33a-5p on lung cancer cell proliferation, migration, and invasion. The results showed that the cell growth suppression induced by miR-33a-5p overexpression was relieved by restoring JPX in SPC-A-1 (Fig.&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>a) and NCI-H1299 (Fig. <xref rid="Fig5" ref-type="fig">5</xref>b) cells. In addition, the decrease in cell colony number due to miR-33a-5p overexpression was restored by JPX treatment in the two lung cancer cell lines (Fig. <xref rid="Fig5" ref-type="fig">5</xref>c and d). The wound healing assay revealed that miR-33a-5p markedly inhibited cell migration in both SPC-A-1 and NCI-H1299 cells, while the effects were abolished by JPX overexpression (Fig. <xref rid="Fig5" ref-type="fig">5</xref>e and f). Similarly, the transwell assay showed that miR-33a-5p significantly suppressed the invasion of SPC-A-1 and NCI-H1299 cells; however, these effects were abrogated by JPX overexpression (Fig. <xref rid="Fig5" ref-type="fig">5</xref>g and h). These results indicated that JPX promoted the cell proliferation, migration, and invasion by regulating miR-33a-5p in lung cancer cells.
+<fig id="Fig5"><label>Fig. 5</label><caption><p>JPX promoted proliferation and metastasis of lung cancer cells by inhibiting miR-33a-5p. (<bold>a, b</bold>) Rescue effects of JPX overexpression on miR-33a-5p mimics-mediated inhibition of cell growth in SPP-A1 and NCI-H1299 cells determined by CCK-8 assays. (<bold>c, d</bold>) Rescue effects of JPX overexpression on miR-33a-5p mimics-mediated inhibition of cell proliferation in SPP-A1 and NCI-H1299 cells determined by colony formation assays. (<bold>e, f</bold>) Rescue effects of JPX overexpression on miR-33a-5p mimics-mediated inhibition of cell migration in SPP-A1 and NCI-H1299 cells determined by wound healing assays. (<bold>g, h</bold>) Rescue effects of JPX overexpression on miR-33a-5p mimics-mediated inhibition of cell invasion in SPP-A1 and NCI-H1299 cells determined by transwell assays. Data are shown as the mean&#x2009;&#xB1;&#x2009;SD, <italic>n</italic>&#x2009;=&#x2009;3. *<italic>P</italic>&#x2009;&lt;&#x2009;0.05, **<italic>P</italic>&#x2009;&lt;&#x2009;0.01, ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001</p></caption><graphic xlink:href="12943_2020_1133_Fig5_HTML" id="MO5"/></fig></p>
+      </sec>
+      <sec id="Sec25">
+        <title>JPX promoted lung tumor growth and metastasis in vivo by regulating miR-33a-5p</title>
+        <p id="Par44">In order to verify whether miR-33a-5p could inhibit lung cancer cell growth and metastasis in vivo and whether JPX could reverse miR-33a-5p-induced suppression of the malignant process of lung cancer cells, co-expression of miR-33a-5p and JPX in nude mice was conducted by intravenous injection. Subcutaneous tumor formation experiments revealed that JPX overexpression significantly promoted the formation of subcutaneous tumors of lung cancer cells, while miR-33a-5p overexpression abrogated the JPX-enhanced tumorigenicity in vivo (Fig.&#xA0;<xref rid="Fig6" ref-type="fig">6</xref>a and b). By observing lung tissue surfaces in the nude mice metastasis model, it was found that the miR-33a-5p upregulation group could reduce the metastatic lesion compared to the normal controls, while JPX overexpression restored these effects (Fig. <xref rid="Fig6" ref-type="fig">6</xref>c). H&amp;E staining showed that miR-33a-5p markedly decreased the number of metastatic lung nodules, whereas the effects were abolished in the JPX overexpression group (Fig. <xref rid="Fig6" ref-type="fig">6</xref>d). In addition, IHC assay showed that both Twist1 and &#x3B2;-catenin were significantly increased by upregulating JPX; these effects could be reversed by increasing miR-33a-5p levels (Fig. <xref rid="Fig6" ref-type="fig">6</xref>e). These results indicated that JPX promoted lung tumor growth and metastasis in vivo by regulating miR-33a-5p.
+<fig id="Fig6"><label>Fig. 6</label><caption><p>JPX promoted lung tumor growth and metastasis in vivo by regulating miR-33a-5p. Rescue effects of JPX overexpression on AgomiR-33a-5p-mediated inhibition of tumor growth in mice subcutaneously implanted inhibition with SPP-A1 and NCI-H1299 cells. (<bold>a</bold>) Representative subcutaneous xenograft tumors were shown (n&#x2009;=&#x2009;3). (<bold>b</bold>) Tumor volume and weight were measured. (<bold>c</bold>) Representative images of gross lung tissue lesions and (<bold>d</bold>) H&amp;E-stained sections from the nude mice with tail vein injection in the rescue experiments. (<bold>e</bold>) Representative IHC staining of Twist1 and &#x3B2;-catenin in the tumors from nude mice with subcutaneous implantation in the rescue experiments. Scale bar&#x2009;=&#x2009;100&#x2009;&#x3BC;m. Data are presented as the mean&#x2009;&#xB1;&#x2009;SD, <italic>n</italic>&#x2009;=&#x2009;3. *<italic>P</italic>&#x2009;&lt;&#x2009;0.05, **<italic>P</italic>&#x2009;&lt;&#x2009;0.01, ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001</p></caption><graphic xlink:href="12943_2020_1133_Fig6_HTML" id="MO6"/></fig></p>
+      </sec>
+      <sec id="Sec26">
+        <title>JPX and <italic>Twist1</italic> were coordinately upregulated in lung cancer tissues and cells</title>
+        <p id="Par45">Since studies have shown that miR-33a-5p negatively regulates its target gene, <italic>Twist1</italic> [<xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR25">25</xref>], we aimed to further investigate the relationship between JPX and <italic>Twist1</italic> in lung cancer. <italic>Twist1</italic> expression was verified in 95 pairs of lung cancer tissues and adjacent tissues. It was found that <italic>Twist1</italic> was highly expressed in lung cancer tissues compared to that in adjacent tissues (Fig.&#xA0;<xref rid="Fig7" ref-type="fig">7</xref>a). Pearson&#x2019;s correlation analysis showed that the JPX expression was positively correlated with <italic>Twist1</italic> in lung cancer patients (Fig. <xref rid="Fig7" ref-type="fig">7</xref>b). As expected, miR-33a-5p was negatively correlated with <italic>Twist1</italic> in lung cancer patients (Fig. <xref rid="Fig7" ref-type="fig">7</xref>c). <italic>Twist1</italic> was highly expressed in lung cancer cells, which was consistent with JPX expression (Fig. <xref rid="Fig7" ref-type="fig">7</xref>d). In the xenograft tumor mice, RT-qPCR showed that JPX expression was remarkably upregulated in tumor tissues (Fig. <xref rid="Fig7" ref-type="fig">7</xref>e). Moreover, JPX overexpression induced an increase in <italic>Twist1</italic> expression in tumor tissues at the RNA (Fig. <xref rid="Fig7" ref-type="fig">7</xref>f) and protein (Fig. <xref rid="Fig7" ref-type="fig">7</xref>g) levels. To further assess the relevance of JPX and <italic>Twist1</italic>, we divided the lung cancerous specimens into two groups: the &#x201C;JPX high&#x201D; and &#x201C;JPX low&#x201D; groups, which had higher or lower JPX expression, respectively, in tumor tissues than that in the paired adjacent non-tumor tissues (Fig. <xref rid="Fig7" ref-type="fig">7</xref>h). Notably, the mRNA levels of <italic>Twist1</italic> were higher in the &#x201C;JPX high&#x201D; group than in the &#x201C;JPX low&#x201D; group (Fig. <xref rid="Fig7" ref-type="fig">7</xref>i). Similarly, two groups named the &#x201C;<italic>Twist1</italic> mRNA high&#x201D; and the &#x201C;<italic>Twist1</italic> mRNA low&#x201D; were generated to distinguish the relative expression of <italic>Twist1</italic> mRNAs (Fig. <xref rid="Fig7" ref-type="fig">7</xref>j). As expected, JPX RNA levels were obviously higher in the &#x201C;<italic>Twist1</italic> mRNA high&#x201D; subset than in the &#x201C;<italic>Twist1</italic> mRNA low&#x201D; subset (Fig. <xref rid="Fig7" ref-type="fig">7</xref>k). Collectively, the data indicated that JPX and <italic>Twist1</italic> were coordinately upregulated in lung cancer.
+<fig id="Fig7"><label>Fig. 7</label><caption><p>JPX promoted <italic>Twist1</italic> expression in lung cancer cells. (<bold>a</bold>) Relative Twist1 expression in 95 lung cancer tissues and matched noncancerous tissues. (<bold>b</bold>) The relationship between <italic>Twist1</italic> and JPX expression in 20 lung cancer tissues using Pearson&#x2019;s correlation analysis. (<bold>c</bold>) Correlation analysis between JPX and miR-33a-5p expression in 20 lung cancer tissues. (<bold>d</bold>) Relative <italic>Twist1</italic> expression in lung cancer cell lines compared with that in the normal epithelial cell line. The relative expression levels of JPX (<bold>e</bold>) and Twist1 (<bold>f</bold>) in tumor tissues from the xenograft models. (<bold>g</bold>) Twist1 protein expression when transfected with enhanced JPX. (<bold>h, i</bold>) Based on JPX expression, the qRT-PCR data from clinical samples was classified as JPX high and JPX low. Relative Twist1 mRNA expression was compared with JPX and using box plots. (<bold>j, k</bold>) Based on Twist1 mRNA expression, the qRT-PCR data from clinical samples were classified as the &#x201C;Twist1 high&#x201D; and the &#x201C;Twist1 low&#x201D;. Relative JPX expression was compared with Twist1 mRNA using box plots. Data are shown as the mean&#x2009;&#xB1;&#x2009;SD, n&#x2009;=&#x2009;3. *<italic>P</italic>&#x2009;&lt;&#x2009;0.05, **<italic>P&#x2009;&lt;</italic>&#xA0;0.01, ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001</p></caption><graphic xlink:href="12943_2020_1133_Fig7_HTML" id="MO7"/></fig></p>
+      </sec>
+      <sec id="Sec27">
+        <title>JPX/miR-33a-5p/Twist1 axis participated in lung cancer cell EMT progression via the Wnt/&#x3B2;-catenin signaling</title>
+        <p id="Par46">Wnt/&#x3B2;-catenin signaling, a driver of EMT, was investigated by immunological blotting to discern the molecular mechanism underlying the JPX/miR-33a-5p/Twist1 axis in EMT progression. The results showed that the epithelial biomarker of E-cadherin, and GSK-3&#x3B2;, a key regulator of in Wnt/&#x3B2;-catenin signal pathway, were upregulated; whereas the mesenchymal biomarkers of N-cadherin and Vimentin, as well as Twist1 as an inducer of EMT, and &#x3B2;-catenin were downregulated in lung cancer cells with JPX knockdown (Fig.&#xA0;<xref rid="Fig8" ref-type="fig">8</xref>a). In contrast, JPX overexpression resulted in the opposite changes in the EMT biomarkers and key regulators of the Wnt/&#x3B2;-catenin pathway (Fig. <xref rid="Fig8" ref-type="fig">8</xref>b). To reveal whether miR-33a-5p participated in the EMT process by regulating Wnt/&#x3B2;-catenin signaling, we transfected miR-33a-5p mimics into SPC-A-1 and NCI-H1299 cells and found that the protein expression levels of E-cadherin and GSK-3&#x3B2; were increased, whereas those of N-cadherin, Vimentin, Twist1, and &#x3B2;-catenin were decreased. Importantly, JPX overexpression could restore the miR-33a-5p-induced abnormal expression of EMT- and Wnt/&#x3B2;-catenin pathway-associated proteins in lung cancer cells (Fig. <xref rid="Fig8" ref-type="fig">8</xref>c). The cytosolic protein &#x3B2;-catenin is a molecular switch of the canonical Wnt signaling pathway, and it accumulates in the cytoplasm to activate the transcription of a series of Wnt signaling target genes [<xref ref-type="bibr" rid="CR26">26</xref>]. Our results demonstrated that JPX could positively regulate &#x3B2;-catenin protein expression, so we speculated that JPX could promote &#x3B2;-catenin to accumulate in the cytoplasm and then enter the nucleus, thereby activating the Wnt signaling pathway. To verify our hypothesis, we isolated nuclear and cytoplasmic proteins in lung cancer cell lines (SPC-A-1 and NCI-H1299) stably expressing JPX and their controls and found that &#x3B2;-catenin expression was reduced in the cytoplasm and significantly increased in the nucleus (Fig. <xref rid="Fig8" ref-type="fig">8</xref>d). The results indicated that JPX could promote the transfer of &#x3B2;-catenin from the cytoplasm to the nucleus to activate the transcription of target genes. In addition, to further prove that JPX could upregulate &#x3B2;-catenin expression, we transfected siRNAs of CTNNB1, which is a gene encoding &#x3B2;-catenin, in lung cancer cells (Additional file <xref rid="MOESM2" ref-type="media">2</xref>, Figure S2A and B). It was found that si-CTNNB1 could reduce the expression levels of &#x3B2;-catenin and N-cadherin but increase that of E-cadherin (Fig. <xref rid="Fig8" ref-type="fig">8</xref>e). JPX overexpression could restore the CTNNB1 knock down-induced abnormal expression of &#x3B2;-catenin and EMT-related markers (Fig. <xref rid="Fig8" ref-type="fig">8</xref>f). To further confirm whether Twist1 is directly involved in the Wnt/&#x3B2;-catenin pathway, we first screened four synthesized siRNAs and found that two of them (named si-Twist1#2, si-Twist1#4) significantly reduced the expression of Twist1 in two lung cancer cell lines (Additional file <xref rid="MOESM2" ref-type="media">2</xref>, Figure S3A and B). Next, it was found that Twist1 knockdown led to an increase in GSK-3&#x3B2; and a decrease in &#x3B2;-catenin in both SPC-A-1 and NCI-H1299 cells (Fig. <xref rid="Fig8" ref-type="fig">8</xref>g). Interestingly, JPX overexpression could decrease GSK-3&#x3B2; expression and increase &#x3B2;-catenin expression upon the siRNA-mediated Twist1 knockdown in SPC-A-1 (Fig. <xref rid="Fig8" ref-type="fig">8</xref>h) and NCI-H1299 (Fig. <xref rid="Fig8" ref-type="fig">8</xref>i) cells.
+<fig id="Fig8"><label>Fig. 8</label><caption><p>JPX/miR-33a-5p/Twist1 promoted EMT progression in lung cancer cells by activating the Wnt/&#x3B2;-catenin pathway. Immunoblot assay of E-cadherin, N-cadherin, Vimentin, Twist1, GSK-3&#x3B2; and &#x3B2;-catenin proteins in SPC-A-1 and NCI-H1299 cells transfected with si-JPX#1 (<bold>a</bold>), pcDNA3.1-JPX (<bold>b</bold>), and miR-33a-5p&#x2009;+&#x2009;pcDNA3.1-JPX (<bold>c</bold>). Western blot analysis for &#x3B2;-catenin, E-cadherin, and N-cadherin in SPC-A-1 and NCI-H1299 cells after transfection with pcDNA3.1-JPX (<bold>d</bold>), and si-CTNNB1+ pcDNA3.1-JPX (<bold>e, f</bold>). Western blotting was conducted to verify the protein expression of GSK-3&#x3B2; and &#x3B2;-catenin in SPC-A-1 and NCI-H1299 cells transfected with si-Twist1#2/#4 (<bold>g</bold>) and si-Twist1#2/#4&#x2009;+&#x2009;pcDNA3.1-JPX (<bold>h, i</bold>). The numbers indicate the quantification of relative protein amount. GAPDH was used as an internal control. (<bold>j</bold>) Schematic diagram of the regulatory mechanism of the JPX/miR-33a-5p/Twist1 axis in promoting lung cancer cells proliferation and metastasis. Twist1 could participate in the EMT process through the Wnt/&#x3B2;-catenin pathway, ultimately affecting the proliferation and metastasis of lung cancer cells, which could be inhibited by miR-33a-5p and enhanced by JPX as a ceRNA. Data are shown as the mean&#x2009;&#xB1;&#x2009;SD based on three independent experiments</p></caption><graphic xlink:href="12943_2020_1133_Fig8_HTML" id="MO8"/></fig></p>
+        <p id="Par47">Together, the data demonstrated that JPX regulated miR-33a-5p/Twist1-mediated EMT progression by activating the Wnt/&#x3B2;-catenin signaling (Fig. <xref rid="Fig8" ref-type="fig">8</xref>j).</p>
+      </sec>
+    </sec>
+    <sec id="Sec28">
+      <title>Discussion</title>
+      <p id="Par48">Although encouraging progress has been made in understanding the molecular mechanisms of lung cancer development, the prognosis of patients with advanced lung cancer remains unfavorable [<xref ref-type="bibr" rid="CR27">27</xref>]. Recent studies have shown that abnormally expressed lncRNAs are closely related to lung cancer occurrence and development [<xref ref-type="bibr" rid="CR28">28</xref>&#x2013;<xref ref-type="bibr" rid="CR30">30</xref>]. Specifically, lncRNA HCP5 was found to be upregulated in lung adenocarcinoma (LUAD), resulting in increases of <italic>Snail</italic> and <italic>Slug</italic> to promote EMT progression by adsorbing miR-203 [<xref ref-type="bibr" rid="CR31">31</xref>]. As an early specific antisense lncRNA, SBF2-AS1 promoted LUAD tumorigenesis through substantially decreased miR-338-3p and miR-362-3p and substantially increased <italic>E2F1</italic>, and served as a prognostic marker and potential therapeutic target for LUAD [<xref ref-type="bibr" rid="CR32">32</xref>]. Based on our previous work, we have found that miR-33a-5p negatively regulated the target gene of <italic>Twist1</italic> and participated in the EMT process of lung cancer cells. We combined an lncRNA microarray and bioinformatic prediction to screen out lncRNA JPX, which has potential binding sites with miR-33a-5p and is associated with lung cancer tumorigenesis. In this study, we showed that JPX was significantly upregulated in lung cancer tissues and cells. Importantly, JPX promoted lung cancer malignant processes and tumor growth in vivo. The results indicate that JPX plays an oncogenic role in lung cancer.</p>
+      <p id="Par49">JPX is a molecular switch that inactivates the X chromosome [<xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR34">34</xref>]. Recent study has shown that exosomal JPX from hepatocellular carcinoma (HCC) cells promotes XIST expression by inhibiting the function of CCCTC-binding factor (CTCF) in blood cells [<xref ref-type="bibr" rid="CR35">35</xref>]. Relevant research shows that human JPX and its mouse homolog of lncRNA Jpx have great differences in their nucleotide sequences and RNA secondary structures, but both lncRNAs show strong binding to CTCF, and human JPX can functionally compensate for the loss of Jpx in mouse embryonic stem cells [<xref ref-type="bibr" rid="CR36">36</xref>]. It has also been shown that JPX is lowly expressed in HCC and inhibits HepG2 cell growth or tumorigenesis in a XIST-dependent manner, revealing that JPX has a tumor-suppressing effect in HCC [<xref ref-type="bibr" rid="CR37">37</xref>]. In addition, highly expressed JPX shows poor prognosis; promotes the proliferation, invasion, and migration of human ovarian cancer cells, and inhibits cell apoptosis by activating the PI3K/Akt/mTOR signaling [<xref ref-type="bibr" rid="CR38">38</xref>]. Recently, there have been reports on JPX in lung cancer. As an oncogene, JPX is significantly upregulated in NSCLC tissues and is associated with poor prognosis; JPX upregulates cyclin D2 expression in the ceRNA mechanism by interacting with miR-145-5p, which stimulates NSCLC development and progression [<xref ref-type="bibr" rid="CR39">39</xref>]. These studies show that JPX plays different roles in different types of human cancers. On the one hand, JPX acts as an oncogene to promote the development of ovarian and lung cancer. On the other hand, JPX acts as a tumor suppressor gene to inhibit HCC development. In our study, we found for the first time that JPX was highly expressed in lung cancer patients and was significantly linked to tumor size and TNM stage. Interestingly, JPX expression was higher in patients with advanced lung cancer than in those with early lung cancer. Consistently, JPX expression was also higher in patients with metastatic lung cancer than in those without metastasis. We further revealed a negative correlation between JPX and miR-33a-5p in lung cancer patients. The miR-33a-5p-induced inhibition of cell growth and metastasis could be restored by JPX overexpression. Additionally, Twist1<italic>,</italic>a target of miR-33a-5p, was found to be coordinately upregulated with JPX in lung cancer. These findings indicate that JPX plays an oncogenic role via its interaction with miR-33a-5p and Twist1.</p>
+      <p id="Par50">In the past decade, ceRNAs have become a very important class of post-transcriptional regulators that affect tumor occurrence and development by altering the corresponding gene expression through miRNA-mediated mechanism [<xref ref-type="bibr" rid="CR40">40</xref>]. As a type of ceRNA, lncRNAs can act as molecular sponges to adsorb miRNAs through the same miRNA response elements (MREs), thereby regulating their target genes and ultimately affecting tumor progression. For instance, lncRNA CA7&#x2013;4 regulated the autophagy and apoptosis of vascular endothelial cells by inducing miR-877-3p and miR-5680 under high-glucose condition [<xref ref-type="bibr" rid="CR41">41</xref>]. Similarly, LINC01234 acted as a ceRNA of miR-642a-5p, resulting in the suppression of the endogenous serine hydroxymethyl transferase 2 (SHMT2), suggesting that the LINC01234-miR642a-5p-SHMT2 axis plays a key role in colon cancer [<xref ref-type="bibr" rid="CR42">42</xref>]. There are also other lncRNAs that play crucial roles as ceRNAs in cancers development [<xref ref-type="bibr" rid="CR43">43</xref>, <xref ref-type="bibr" rid="CR44">44</xref>]. The present work demonstrated that lncRNA JPX, miRNA-33a-5p, and Twist1 constituted a ceRNA network to regulate lung cancer growth and metastasis. However, the ceRNA hypothesis is still in the verification stage, and much research is needed to identify the abundance of the three components and verify the functional activities of ceRNAs.</p>
+      <p id="Par51">It has been reported that EMT and the associated Wnt/&#x3B2;-catenin pathway can be important drivers of tumor growth and metastasis [<xref ref-type="bibr" rid="CR45">45</xref>]. Twist1 is a member of the basic helix-loop-helix transcription factor family and is an important transcription factor that induces EMT, migration and invasion in cancer cells [<xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR19">19</xref>]. Furthermore, Twist1 is highly expressed and acts as an oncogene in many invasive types of cancers, such as lung cancer [<xref ref-type="bibr" rid="CR46">46</xref>], breast cancer [<xref ref-type="bibr" rid="CR47">47</xref>], and HCC [<xref ref-type="bibr" rid="CR48">48</xref>]. Additionally, studies have shown that Twist1 affects the cancerous behavior of tumor cells via the Wnt/&#x3B2;-catenin pathway [<xref ref-type="bibr" rid="CR49">49</xref>]. In the current study, we found that JPX could increase Twist1 expression by adsorbing miR-33a-5p, thereby activating Wnt/&#x3B2;-catenin signaling pathway to promote EMT progression in lung cancer cells. However, whether Twist1 participates in the Wnt/&#x3B2;-catenin pathway directly or indirectly, and whether JPX affects Twist1 expression or regulates other pathways through RNA-binding proteins to promote lung cancer development remain unclear. The above speculation needs further investigation. Importantly, recent studies have shown that lncRNA is closely related to the stemness of cancer cells [<xref ref-type="bibr" rid="CR50">50</xref>]. For example, lncRNA CCAT1 which is notably upregulated in breast cancer stem cells (BCSCs) and contributes to the stemness of BCSCs [<xref ref-type="bibr" rid="CR51">51</xref>]; lncRNA SPRY4-IT1 increases TCF7L2 expression by targeting miR-6882-3p, thereby promoting breast cancer cell proliferation and stemness as well as BCSC renewal and maintenance [<xref ref-type="bibr" rid="CR52">52</xref>]; and lncRNA LOXL1-AS1 facilitates the stemness of gastric carcinoma through regulating the miR-708-5p/USF1 axis [<xref ref-type="bibr" rid="CR53">53</xref>]. Although we have not tested the function of JPX in lung cancer stem cells at present, our results provide a deeper understanding of the role of JPX in lung cancer cells as well as a new direction for future research.</p>
+    </sec>
+    <sec id="Sec29">
+      <title>Conclusions</title>
+      <p id="Par52">In summary, our results demonstrate that the lncRNA JPX/miRNA-33a-5p/Twist1 axis may act as a new ceRNA regulatory network, participating in the EMT process by activating the Wnt/&#x3B2;-catenin signaling pathway, thus accelerating the malignant processes of lung cancer. These findings suggest that JPX may serve as a potential therapeutic target and a novel biomarker for the precise treatment of lung cancer.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary information</title>
+      <sec id="Sec30">
+        <p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="12943_2020_1133_MOESM1_ESM.docx"><caption><p><bold>Additional file 1: Table S1</bold> Primer sequences. <bold>Table S2</bold> RNA oligonucleotide sequences.</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="12943_2020_1133_MOESM2_ESM.docx"><caption><p><bold>Additional file 2: Figure S1</bold> Knockdown and overexpression of JPX in lung cancer cells. <bold>Figure S2</bold> Knockdown of CTNNB in lung cancer cells. <bold>Figure S3</bold> Knockdown of Twist1 in lung cancer cells.</p></caption></media></supplementary-material>
+</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term>ceRNA</term>
+          <def>
+            <p id="Par5">Competitive endogenous RNA</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>CTCF</term>
+          <def>
+            <p id="Par6">CCCTC-binding factor</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>DMEM</term>
+          <def>
+            <p id="Par7">Dulbecco&#x2019;s modified Eagle&#x2019;s medium</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>GBC</term>
+          <def>
+            <p id="Par8">Gallbladder cancer</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>HCC</term>
+          <def>
+            <p id="Par9">Hepatocellular carcinoma</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>HK2</term>
+          <def>
+            <p id="Par10">Hexokinase 2</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>lncRNA</term>
+          <def>
+            <p id="Par11">Long noncoding RNA</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>LUAD</term>
+          <def>
+            <p id="Par12">Lung adenocarcinoma</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>miRNA</term>
+          <def>
+            <p id="Par13">microRNA</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>MRE</term>
+          <def>
+            <p id="Par14">miRNA response elements</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>NSCLC</term>
+          <def>
+            <p id="Par15">Non-small cell lung cancer</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>qPCR</term>
+          <def>
+            <p id="Par16">Quantitative polymerase chain reaction</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>RBP</term>
+          <def>
+            <p id="Par17">RNA-binding proteins</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>SHMT2</term>
+          <def>
+            <p id="Par18">Serine hydroxymethyl transferase 2</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>siRNA</term>
+          <def>
+            <p id="Par19">Small interfering RNA</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher&#x2019;s Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <sec>
+      <title>Supplementary information</title>
+      <p><bold>Supplementary information</bold> accompanies this paper at 10.1186/s12943-020-1133-9.</p>
+    </sec>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank Dr. Hui-Kuan Lin (Department of Cancer Biology, Wake Forest University School of Medicine, USA) for helpful discussion on the manuscript.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors&#x2019; contributions</title>
+      <p>Z.G. and J.P. developed the concepts for the manuscript and designed the study. J.P., H.T., and S.F. performed the experiments on RT-qPCR, Western blot, cell phenotype and in vivo experiments. C.Z., H.T., J.H., and W.S. collected the clinical samples and performed the clinicopathologic analyses. J.P., Z.G., X.M., and X.J. performed the data analysis and discussed results. J.P. prepared the manuscript and all authors contributed to editing the paper. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>This work was supported in part by research grants from the Non-profit Technology Research Program of Zhejiang (LGF18H160006), the Natural Science Foundation of Zhejiang (LQ18H200001), the Non-profit Technology Research Program of Ningbo (2019C50040), the Natural Science Foundation of Ningbo (2018A610204), the Scientific Innovation Team Project of Ningbo (2017C110019) and the K.C. Wong Magna Fund in Ningbo University.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Availability of data and materials</title>
+      <p>The authors declare that all the other data supporting the findings of this study are available within the article and its additional files and from the corresponding author upon reasonable request.</p>
+    </notes>
+    <notes>
+      <title>Ethics approval and consent to participate</title>
+      <p id="Par53">Human lung primary cancer tissue specimens and cancer-adjacent tissues were collected from the patients underwent the radical surgery of lung cancer or palliative resection of lung cancer at the Affiliated Hospital of Medical School of Ningbo University and Ningbo Medical Center Lihuili Eastern Hospital. Written informed consent was obtained from all patients and the study protocol was approved by the Clinical Research Ethics Committee of Medical School of Ningbo University (Approval No.: NBUSM20171006). All methods were performed in accordance with relevant guidelines and local regulations.</p>
+    </notes>
+    <notes>
+      <title>Consent for publication</title>
+      <p id="Par54">Not applicable.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Competing interests</title>
+      <p id="Par55">The authors have no conflicts of interest to disclose.</p>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hirsch</surname>
+              <given-names>FR</given-names>
+            </name>
+            <name>
+              <surname>Scagliotti</surname>
+              <given-names>GV</given-names>
+            </name>
+            <name>
+              <surname>Mulshine</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Kwon</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Curran</surname>
+              <given-names>WJ</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>YL</given-names>
+            </name>
+            <name>
+              <surname>Paz-Ares</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Lung cancer: current therapies and new targeted treatments</article-title>
+          <source>Lancet</source>
+          <year>2017</year>
+          <volume>389</volume>
+          <fpage>299</fpage>
+          <lpage>311</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(16)30958-8</pub-id>
+          <pub-id pub-id-type="pmid">27574741</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siegel</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Jemal</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Cancer statistics, 2018</article-title>
+          <source>CA Cancer J Clin</source>
+          <year>2018</year>
+          <volume>68</volume>
+          <fpage>7</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="doi">10.3322/caac.21442</pub-id>
+          <pub-id pub-id-type="pmid">29313949</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Adjei</surname>
+              <given-names>AA</given-names>
+            </name>
+          </person-group>
+          <article-title>Lung cancer and metastasis: new opportunities and challenges</article-title>
+          <source>Cancer Metastasis Rev</source>
+          <year>2015</year>
+          <volume>34</volume>
+          <fpage>169</fpage>
+          <lpage>171</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10555-015-9562-4</pub-id>
+          <pub-id pub-id-type="pmid">25956388</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alvarez-Dominguez</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Lodish</surname>
+              <given-names>HF</given-names>
+            </name>
+          </person-group>
+          <article-title>Emerging mechanisms of long noncoding RNA function during normal and malignant hematopoiesis</article-title>
+          <source>Blood</source>
+          <year>2017</year>
+          <volume>130</volume>
+          <fpage>1965</fpage>
+          <lpage>1975</lpage>
+          <pub-id pub-id-type="doi">10.1182/blood-2017-06-788695</pub-id>
+          <pub-id pub-id-type="pmid">28928124</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hua</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Soares</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Risk SNP-Mediated Promoter-Enhancer Switching Drives Prostate Cancer through lncRNA PCAT19</article-title>
+          <source>Cell</source>
+          <year>2018</year>
+          <volume>174</volume>
+          <fpage>564</fpage>
+          <lpage>575</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2018.06.014</pub-id>
+          <pub-id pub-id-type="pmid">30033362</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mattick</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Rinn</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <article-title>Discovery and annotation of long noncoding RNAs</article-title>
+          <source>Nat Struct Mol Biol</source>
+          <year>2015</year>
+          <volume>22</volume>
+          <fpage>5</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1038/nsmb.2942</pub-id>
+          <pub-id pub-id-type="pmid">25565026</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Insights into the noncoding RNA-encoded peptides</article-title>
+          <source>Protein Pept Lett</source>
+          <year>2018</year>
+          <volume>25</volume>
+          <fpage>720</fpage>
+          <lpage>727</lpage>
+          <pub-id pub-id-type="doi">10.2174/0929866525666180809142326</pub-id>
+          <pub-id pub-id-type="pmid">30091402</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Xue</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Linc00152 promotes malignant progression of glioma stem cells by regulating miR-103a-3p/FEZF1/CDC25A pathway</article-title>
+          <source>Mol Cancer</source>
+          <year>2017</year>
+          <volume>16</volume>
+          <fpage>110</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12943-017-0677-9</pub-id>
+          <pub-id pub-id-type="pmid">28651608</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Shan</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long noncoding RNA LINP1 regulates repair of DNA double-strand breaks in triple-negative breast cancer</article-title>
+          <source>Nat Struct Mol Biol</source>
+          <year>2016</year>
+          <volume>23</volume>
+          <fpage>522</fpage>
+          <lpage>530</lpage>
+          <pub-id pub-id-type="doi">10.1038/nsmb.3211</pub-id>
+          <pub-id pub-id-type="pmid">27111890</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhuo</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long Noncoding RNA GMAN, Up-regulated in Gastric Cancer Tissues, Is Associated With Metastasis in Patients and Promotes Translation of Ephrin A1 by Competitively Binding GMAN-AS</article-title>
+          <source>Gastroenterol</source>
+          <year>2019</year>
+          <volume>156</volume>
+          <fpage>676</fpage>
+          <lpage>691</lpage>
+          <pub-id pub-id-type="doi">10.1053/j.gastro.2018.10.054</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <mixed-citation publication-type="other">Wang M, Mao C, Ouyang L, Liu Y, Lai W, Liu N, Shi Y, Chen L, Xiao D, Yu F, et al. Long noncoding RNA LINC00336 inhibits ferroptosis in lung cancer by functioning as a competing endogenous RNA. Cell Death Differ. 2019.</mixed-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhuang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>LncRNA NR2F2-AS1 promotes tumourigenesis through modulating BMI1 expression by targeting miR-320b in non-small cell lung cancer</article-title>
+          <source>J Cell Mol Med</source>
+          <year>2019</year>
+          <volume>23</volume>
+          <fpage>2001</fpage>
+          <lpage>2011</lpage>
+          <pub-id pub-id-type="doi">10.1111/jcmm.14102</pub-id>
+          <pub-id pub-id-type="pmid">30592135</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Salmena</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Poliseno</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Tay</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Kats</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Pandolfi</surname>
+              <given-names>PP</given-names>
+            </name>
+          </person-group>
+          <article-title>A ceRNA hypothesis: the Rosetta stone of a hidden RNA language?</article-title>
+          <source>Cell</source>
+          <year>2011</year>
+          <volume>146</volume>
+          <fpage>353</fpage>
+          <lpage>358</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2011.07.014</pub-id>
+          <pub-id pub-id-type="pmid">21802130</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Jiao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>YY</given-names>
+            </name>
+            <name>
+              <surname>Ning</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>YR</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Kang-Sheng</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Lnc SMAD5-AS1 AS ceRNA inhibit proliferation of diffuse large B cell lymphoma via Wnt/beta-catenin pathway by sponging miR-135b-5p to elevate expression of APC</article-title>
+          <source>Cell Death Dis</source>
+          <year>2019</year>
+          <volume>10</volume>
+          <fpage>252</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41419-019-1479-3</pub-id>
+          <pub-id pub-id-type="pmid">30874550</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Xue</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ren</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Ren</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long non-coding RNA PVT1 promotes tumor progression by regulating the miR-143/HK2 axis in gallbladder cancer</article-title>
+          <source>Mol Cancer</source>
+          <year>2019</year>
+          <volume>18</volume>
+          <fpage>33</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12943-019-0947-9</pub-id>
+          <pub-id pub-id-type="pmid">30825877</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Le</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>MircoRNA-33a inhibits epithelial-to-mesenchymal transition and metastasis and could be a prognostic marker in non-small cell lung cancer</article-title>
+          <source>Sci Rep</source>
+          <year>2015</year>
+          <volume>5</volume>
+          <fpage>13677</fpage>
+          <pub-id pub-id-type="doi">10.1038/srep13677</pub-id>
+          <pub-id pub-id-type="pmid">26330060</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Fang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A two-miRNA signature (miR-33a-5p and miR-128-3p) in whole blood as potential biomarker for early diagnosis of lung cancer</article-title>
+          <source>Sci Rep</source>
+          <year>2018</year>
+          <volume>8</volume>
+          <fpage>16699</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41598-018-35139-3</pub-id>
+          <pub-id pub-id-type="pmid">30420640</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Mani</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Donaher</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Ramaswamy</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Itzykson</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Come</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Savagner</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Gitelman</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Richardson</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Weinberg</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Twist, a master regulator of morphogenesis, plays an essential role in tumor metastasis</article-title>
+          <source>Cell</source>
+          <year>2004</year>
+          <volume>117</volume>
+          <fpage>927</fpage>
+          <lpage>939</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2004.06.006</pub-id>
+          <pub-id pub-id-type="pmid">15210113</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Qin</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Normal and disease-related biological functions of Twist1 and underlying molecular mechanisms</article-title>
+          <source>Cell Res</source>
+          <year>2012</year>
+          <volume>22</volume>
+          <fpage>90</fpage>
+          <lpage>106</lpage>
+          <pub-id pub-id-type="doi">10.1038/cr.2011.144</pub-id>
+          <pub-id pub-id-type="pmid">21876555</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Xiao</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Hou</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Ge</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhong</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>EphA2 promotes epithelial-mesenchymal transition through the Wnt/beta-catenin pathway in gastric cancer cells</article-title>
+          <source>Oncogene</source>
+          <year>2014</year>
+          <volume>33</volume>
+          <fpage>2737</fpage>
+          <lpage>2747</lpage>
+          <pub-id pub-id-type="doi">10.1038/onc.2013.238</pub-id>
+          <pub-id pub-id-type="pmid">23752181</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Luo</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Lv</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>YZ</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Zhong</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Long non-coding RNA NEAT1 promotes colorectal cancer progression by competitively binding miR-34a with SIRT1 and enhancing the Wnt/beta-catenin signaling pathway</article-title>
+          <source>Cancer Lett</source>
+          <year>2019</year>
+          <volume>440-441</volume>
+          <fpage>11</fpage>
+          <lpage>22</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.canlet.2018.10.002</pub-id>
+          <pub-id pub-id-type="pmid">30312725</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ren</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Hou</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>MiR-454-3p-mediated Wnt/beta-catenin signaling antagonists suppression promotes breast Cancer metastasis</article-title>
+          <source>Theranostics</source>
+          <year>2019</year>
+          <volume>9</volume>
+          <fpage>449</fpage>
+          <lpage>465</lpage>
+          <pub-id pub-id-type="doi">10.7150/thno.29055</pub-id>
+          <pub-id pub-id-type="pmid">30809286</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dong</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Zhong</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>MicroRNA-31 inhibits cisplatin-induced apoptosis in non-small cell lung cancer cells by regulating the drug transporter ABCB9</article-title>
+          <source>Cancer Lett</source>
+          <year>2014</year>
+          <volume>343</volume>
+          <fpage>249</fpage>
+          <lpage>257</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.canlet.2013.09.034</pub-id>
+          <pub-id pub-id-type="pmid">24099915</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmitt</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>HY</given-names>
+            </name>
+          </person-group>
+          <article-title>Long noncoding RNAs in Cancer pathways</article-title>
+          <source>Cancer Cell</source>
+          <year>2016</year>
+          <volume>29</volume>
+          <fpage>452</fpage>
+          <lpage>463</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ccell.2016.03.010</pub-id>
+          <pub-id pub-id-type="pmid">27070700</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Shi J: miR-33a is up-regulated in chemoresistant osteosarcoma and promotes osteosarcoma cell resistance to cisplatin by down-regulating TWIST</article-title>
+          <source>J Exp Clin Cancer Res</source>
+          <year>2014</year>
+          <volume>33</volume>
+          <fpage>12</fpage>
+          <pub-id pub-id-type="doi">10.1186/1756-9966-33-12</pub-id>
+          <pub-id pub-id-type="pmid">24468065</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nusse</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Clevers</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Wnt/beta-catenin signaling, disease, and emerging therapeutic modalities</article-title>
+          <source>Cell</source>
+          <year>2017</year>
+          <volume>169</volume>
+          <fpage>985</fpage>
+          <lpage>999</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2017.05.016</pub-id>
+          <pub-id pub-id-type="pmid">28575679</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heigener</surname>
+              <given-names>David F.</given-names>
+            </name>
+            <name>
+              <surname>Reck</surname>
+              <given-names>Martin</given-names>
+            </name>
+          </person-group>
+          <article-title>Giant steps and stumbling blocks</article-title>
+          <source>Nature Reviews Clinical Oncology</source>
+          <year>2017</year>
+          <volume>15</volume>
+          <issue>2</issue>
+          <fpage>71</fpage>
+          <lpage>72</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrclinonc.2017.178</pub-id>
+          <pub-id pub-id-type="pmid">29158589</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Ye</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Qiu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zeng</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Long non-coding RNA HOTTIP promotes BCL-2 expression and induces chemoresistance in small cell lung cancer by sponging miR-216a</article-title>
+          <source>Cell Death Dis</source>
+          <year>2018</year>
+          <volume>9</volume>
+          <fpage>85</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41419-017-0113-5</pub-id>
+          <pub-id pub-id-type="pmid">29367594</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sakai</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ohhata</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kitagawa</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Uchida</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Aoshima</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Niida</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Inoue</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Miyazawa</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kitagawa</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Long noncoding RNA ELIT-1 acts as a Smad3 cofactor to facilitate TGFbeta/Smad signaling and promote epithelial-Mesenchymal transition</article-title>
+          <source>Cancer Res</source>
+          <year>2019</year>
+          <volume>79</volume>
+          <fpage>2821</fpage>
+          <lpage>2838</lpage>
+          <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-18-3210</pub-id>
+          <pub-id pub-id-type="pmid">30952633</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <mixed-citation publication-type="other">Tan BS, Yang MC, Singh S, Chou YC, Chen HY, Wang MY, Wang YC, Chen RH. LncRNA NORAD is repressed by the YAP pathway and suppresses lung and breast cancer metastasis by sequestering S100P. Oncogene. 2019.</mixed-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jiang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Fang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Ge</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Xiong</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>HCP5 is a SMAD3-responsive long non-coding RNA that promotes lung adenocarcinoma metastasis via miR-203/SNAI axis</article-title>
+          <source>Theranostics</source>
+          <year>2019</year>
+          <volume>9</volume>
+          <fpage>2460</fpage>
+          <lpage>2474</lpage>
+          <pub-id pub-id-type="doi">10.7150/thno.31097</pub-id>
+          <pub-id pub-id-type="pmid">31131047</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Xia</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Fang</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long noncoding RNA SBF2-AS1 is critical for tumorigenesis of early-stage lung adenocarcinoma</article-title>
+          <source>Mol Ther Nucleic Acids</source>
+          <year>2019</year>
+          <volume>16</volume>
+          <fpage>543</fpage>
+          <lpage>553</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.omtn.2019.04.004</pub-id>
+          <pub-id pub-id-type="pmid">31071530</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tian</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>JT</given-names>
+            </name>
+          </person-group>
+          <article-title>The long noncoding RNA, Jpx, is a molecular switch for X chromosome inactivation</article-title>
+          <source>Cell</source>
+          <year>2010</year>
+          <volume>143</volume>
+          <fpage>390</fpage>
+          <lpage>403</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2010.09.049</pub-id>
+          <pub-id pub-id-type="pmid">21029862</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Del Rosario</surname>
+              <given-names>BC</given-names>
+            </name>
+            <name>
+              <surname>Szanto</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ogawa</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Jeon</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>JT</given-names>
+            </name>
+          </person-group>
+          <article-title>Jpx RNA activates Xist by evicting CTCF</article-title>
+          <source>Cell</source>
+          <year>2013</year>
+          <volume>153</volume>
+          <fpage>1537</fpage>
+          <lpage>1551</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2013.05.028</pub-id>
+          <pub-id pub-id-type="pmid">23791181</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ma</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Zang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhuang</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>X-inactive-specific transcript of peripheral blood cells is regulated by exosomal Jpx and acts as a biomarker for female patients with hepatocellular carcinoma</article-title>
+          <source>Ther Adv Med Oncol</source>
+          <year>2017</year>
+          <volume>9</volume>
+          <fpage>665</fpage>
+          <lpage>677</lpage>
+          <pub-id pub-id-type="doi">10.1177/1758834017731052</pub-id>
+          <pub-id pub-id-type="pmid">29344104</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <mixed-citation publication-type="other">Karner HM, Webb CH, Carmona S, Liu Y, Lin B, Erhard M, Chan D, Baldi P, Spitale RC, Sun S. Functional conservation of lncRNA JPX despite sequence and structural divergence. J Mol Biol. 2019.</mixed-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>XQ</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>ZM</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>XIST induced by JPX suppresses hepatocellular carcinoma by sponging miR-155-5p</article-title>
+          <source>Yonsei Med J</source>
+          <year>2018</year>
+          <volume>59</volume>
+          <fpage>816</fpage>
+          <lpage>826</lpage>
+          <pub-id pub-id-type="doi">10.3349/ymj.2018.59.7.816</pub-id>
+          <pub-id pub-id-type="pmid">30091314</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>YL</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>FQ</given-names>
+            </name>
+          </person-group>
+          <article-title>Long noncoding RNA-JPX predicts the poor prognosis of ovarian cancer patients and promotes tumor cell proliferation, invasion and migration by the PI3K/Akt/mTOR signaling pathway</article-title>
+          <source>Eur Rev Med Pharmacol Sci</source>
+          <year>2018</year>
+          <volume>22</volume>
+          <fpage>8135</fpage>
+          <lpage>8144</lpage>
+          <pub-id pub-id-type="pmid">30556851</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <mixed-citation publication-type="other">Jin M, Ren J, Luo M, You Z, Fang Y, Han Y, Li G, Liu H. Long noncoding RNA JPX correlates with poor prognosis and tumor progression in non-small cell lung cancer by interacting with miR-145-5p and CCND2. Carcinogenesis. 2019.</mixed-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karreth</surname>
+              <given-names>FA</given-names>
+            </name>
+          </person-group>
+          <article-title>Pandolfi PP: ceRNA cross-talk in cancer: when ce-bling rivalries go awry</article-title>
+          <source>Cancer Discov</source>
+          <year>2013</year>
+          <volume>3</volume>
+          <fpage>1113</fpage>
+          <lpage>1121</lpage>
+          <pub-id pub-id-type="doi">10.1158/2159-8290.CD-13-0202</pub-id>
+          <pub-id pub-id-type="pmid">24072616</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <mixed-citation publication-type="other">Zhao X, Su L, He X, Zhao B, Miao J. Long noncoding RNA CA7-4 promotes autophagy and apoptosis via sponging MIR877-3P and MIR5680 in high glucose-induced vascular endothelial cells. Autophagy. 2019:1&#x2013;16.</mixed-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Bai</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Long noncoding RNA LINC01234 promotes serine hydroxymethyltransferase 2 expression and proliferation by competitively binding miR-642a-5p in colon cancer</article-title>
+          <source>Cell Death Dis</source>
+          <year>2019</year>
+          <volume>10</volume>
+          <fpage>137</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41419-019-1352-4</pub-id>
+          <pub-id pub-id-type="pmid">30755591</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cong</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Diao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Shao</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ji</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>De</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Qiang</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Long non-coding RNA linc00665 promotes lung adenocarcinoma progression and functions as ceRNA to regulate AKR1B10-ERK signaling by sponging miR-98</article-title>
+          <source>Cell Death Dis</source>
+          <year>2019</year>
+          <volume>10</volume>
+          <fpage>84</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41419-019-1361-3</pub-id>
+          <pub-id pub-id-type="pmid">30692511</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Tong</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Tu</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel lncRNA MCM3AP-AS1 promotes the growth of hepatocellular carcinoma by targeting miR-194-5p/FOXA1 axis</article-title>
+          <source>Mol Cancer</source>
+          <year>2019</year>
+          <volume>18</volume>
+          <fpage>28</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12943-019-0957-7</pub-id>
+          <pub-id pub-id-type="pmid">30782188</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <mixed-citation publication-type="other">Zhou P, Li Y, Li B, Zhang M, Liu Y, Yao Y, Li D. NMIIA promotes tumor growth and metastasis by activating the Wnt/beta-catenin signaling pathway and EMT in pancreatic cancer. Oncogene. 2019.</mixed-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yochum</surname>
+              <given-names>ZA</given-names>
+            </name>
+            <name>
+              <surname>Cades</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Chatterjee</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Simons</surname>
+              <given-names>BW</given-names>
+            </name>
+            <name>
+              <surname>O'Brien</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Khetarpal</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Lemtiri-Chlieh</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Myers</surname>
+              <given-names>KV</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>EH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Targeting the EMT transcription factor TWIST1 overcomes resistance to EGFR inhibitors in EGFR-mutant non-small-cell lung cancer</article-title>
+          <source>Oncogene</source>
+          <year>2019</year>
+          <volume>38</volume>
+          <fpage>656</fpage>
+          <lpage>670</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41388-018-0482-y</pub-id>
+          <pub-id pub-id-type="pmid">30171258</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Mo</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Liao</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Twist1 promotes breast cancer invasion and metastasis by silencing Foxa1 expression</article-title>
+          <source>Oncogene</source>
+          <year>2017</year>
+          <volume>36</volume>
+          <fpage>1157</fpage>
+          <lpage>1166</lpage>
+          <pub-id pub-id-type="doi">10.1038/onc.2016.286</pub-id>
+          <pub-id pub-id-type="pmid">27524420</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Shang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Xia</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Sox12, a direct target of FoxQ1, promotes hepatocellular carcinoma metastasis through up-regulating Twist1 and FGFBP1</article-title>
+          <source>Hepatol</source>
+          <year>2015</year>
+          <volume>61</volume>
+          <fpage>1920</fpage>
+          <lpage>1933</lpage>
+          <pub-id pub-id-type="doi">10.1002/hep.27756</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shin</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Im</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Kwon</surname>
+              <given-names>YJ</given-names>
+            </name>
+            <name>
+              <surname>Ye</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Baek</surname>
+              <given-names>HS</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>HK</given-names>
+            </name>
+            <name>
+              <surname>Chun</surname>
+              <given-names>YJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Human steroid sulfatase induces Wnt/beta-catenin signaling and epithelial-mesenchymal transition by upregulating Twist1 and HIF-1alpha in human prostate and cervical cancer cells</article-title>
+          <source>Oncotarget</source>
+          <year>2017</year>
+          <volume>8</volume>
+          <fpage>61604</fpage>
+          <lpage>61617</lpage>
+          <pub-id pub-id-type="pmid">28977889</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <mixed-citation publication-type="other">Huang QY, Liu GF, Qian XL, Tang LB, Huang QY, Xiong LX. Long non-coding RNA: dual effects on breast Cancer metastasis and clinical applications. Cancers (Basel). 2019;11.</mixed-citation>
+      </ref>
+      <ref id="CR51">
+        <label>51.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tang</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Xia</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Zen</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>LncCCAT1 promotes breast Cancer stem cell function through activating WNT/beta-catenin signaling</article-title>
+          <source>Theranostics</source>
+          <year>2019</year>
+          <volume>9</volume>
+          <fpage>7384</fpage>
+          <lpage>7402</lpage>
+          <pub-id pub-id-type="doi">10.7150/thno.37892</pub-id>
+          <pub-id pub-id-type="pmid">31695775</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR52">
+        <label>52.</label>
+        <mixed-citation publication-type="other">Song X, Zhang X, Wang X, Chen L, Jiang L, Zheng A, Zhang M, Zhao L, Wei M. LncRNA SPRY4-IT1 regulates breast cancer cell stemness through competitively binding miR-6882-3p with TCF7L2. J Cell Mol Med. 2019.</mixed-citation>
+      </ref>
+      <ref id="CR53">
+        <label>53.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Bei</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>LncRNA LOXL1-AS1 facilitates the tumorigenesis and stemness of gastric carcinoma via regulation of miR-708-5p/USF1 pathway</article-title>
+          <source>Cell Prolif</source>
+          <year>2019</year>
+          <volume>52</volume>
+          <fpage>e12687</fpage>
+          <pub-id pub-id-type="pmid">31468594</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

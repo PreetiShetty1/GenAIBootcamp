@@ -1,0 +1,2295 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Nat Commun</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Nat Commun</journal-id>
+      <journal-title-group>
+        <journal-title>Nature Communications</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2041-1723</issn>
+      <publisher>
+        <publisher-name>Nature Publishing Group UK</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">31911640</article-id>
+      <article-id pub-id-type="pmc">6946810</article-id>
+      <article-id pub-id-type="publisher-id">13855</article-id>
+      <article-id pub-id-type="doi">10.1038/s41467-019-13855-2</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Immune-mediated genetic pathways resulting in pulmonary function impairment increase lung cancer susceptibility</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kachuri</surname>
+            <given-names>Linda</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Johansson</surname>
+            <given-names>Mattias</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5542-6891</contrib-id>
+          <name>
+            <surname>Rashkin</surname>
+            <given-names>Sara R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0316-8303</contrib-id>
+          <name>
+            <surname>Graff</surname>
+            <given-names>Rebecca E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3067-3711</contrib-id>
+          <name>
+            <surname>Boss&#xE9;</surname>
+            <given-names>Yohan</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Manem</surname>
+            <given-names>Venkata</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Caporaso</surname>
+            <given-names>Neil E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4507-329X</contrib-id>
+          <name>
+            <surname>Landi</surname>
+            <given-names>Maria Teresa</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0301-0242</contrib-id>
+          <name>
+            <surname>Christiani</surname>
+            <given-names>David C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff6">6</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vineis</surname>
+            <given-names>Paolo</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff7">7</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Geoffrey</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff8">8</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Scelo</surname>
+            <given-names>Ghislaine</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zaridze</surname>
+            <given-names>David</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff9">9</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shete</surname>
+            <given-names>Sanjay S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff10">10</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Albanes</surname>
+            <given-names>Demetrius</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Aldrich</surname>
+            <given-names>Melinda C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff11">11</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5150-1209</contrib-id>
+          <name>
+            <surname>Tard&#xF3;n</surname>
+            <given-names>Adonina</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff12">12</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8512-068X</contrib-id>
+          <name>
+            <surname>Rennert</surname>
+            <given-names>Gad</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff13">13</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Chu</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff14">14</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Goodman</surname>
+            <given-names>Gary E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff14">14</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Doherty</surname>
+            <given-names>Jennifer A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff15">15</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bickeb&#xF6;ller</surname>
+            <given-names>Heike</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff16">16</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Field</surname>
+            <given-names>John K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff17">17</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Davies</surname>
+            <given-names>Michael P.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff17">17</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dawn Teare</surname>
+            <given-names>M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff18">18</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kiemeney</surname>
+            <given-names>Lambertus A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff19">19</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4061-4133</contrib-id>
+          <name>
+            <surname>Bojesen</surname>
+            <given-names>Stig E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff20">20</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Haugen</surname>
+            <given-names>Aage</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff21">21</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zienolddiny</surname>
+            <given-names>Shanbeh</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff21">21</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lam</surname>
+            <given-names>Stephen</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff22">22</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Le Marchand</surname>
+            <given-names>Lo&#xEF;c</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff23">23</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cheng</surname>
+            <given-names>Iona</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3241-3216</contrib-id>
+          <name>
+            <surname>Schabath</surname>
+            <given-names>Matthew B.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff24">24</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Duell</surname>
+            <given-names>Eric J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff25">25</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Andrew</surname>
+            <given-names>Angeline S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff26">26</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Manjer</surname>
+            <given-names>Jonas</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff27">27</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lazarus</surname>
+            <given-names>Philip</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff28">28</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6542-9551</contrib-id>
+          <name>
+            <surname>Arnold</surname>
+            <given-names>Susanne</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff29">29</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>McKay</surname>
+            <given-names>James D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Emami</surname>
+            <given-names>Nima C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Warkentin</surname>
+            <given-names>Matthew T.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+          <xref ref-type="aff" rid="Aff30">30</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brhane</surname>
+            <given-names>Yonathan</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5443-2752</contrib-id>
+          <name>
+            <surname>Obeidat</surname>
+            <given-names>Ma&#x2019;en</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff31">31</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7992-7719</contrib-id>
+          <name>
+            <surname>Martin</surname>
+            <given-names>Richard M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff32">32</xref>
+          <xref ref-type="aff" rid="Aff33">33</xref>
+          <xref ref-type="aff" rid="Aff34">34</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Relton</surname>
+            <given-names>Caroline</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff32">32</xref>
+          <xref ref-type="aff" rid="Aff33">33</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1407-8314</contrib-id>
+          <name>
+            <surname>Davey Smith</surname>
+            <given-names>George</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff32">32</xref>
+          <xref ref-type="aff" rid="Aff33">33</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Haycock</surname>
+            <given-names>Philip C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff32">32</xref>
+          <xref ref-type="aff" rid="Aff33">33</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Amos</surname>
+            <given-names>Christopher I.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff35">35</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0518-8714</contrib-id>
+          <name>
+            <surname>Brennan</surname>
+            <given-names>Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+          <name>
+            <surname>Witte</surname>
+            <given-names>John S.</given-names>
+          </name>
+          <address>
+            <email>jwitte@ucsf.edu</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4486-7496</contrib-id>
+          <name>
+            <surname>Hung</surname>
+            <given-names>Rayjean J.</given-names>
+          </name>
+          <address>
+            <email>rayjean.hung@lunenfeld.ca</email>
+          </address>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+          <xref ref-type="aff" rid="Aff30">30</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2297 6811</institution-id><institution-id institution-id-type="GRID">grid.266102.1</institution-id><institution>Department of Epidemiology &amp; Biostatistics, </institution><institution>University of California San Francisco, </institution></institution-wrap>San Francisco, CA USA </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0626 6184</institution-id><institution-id institution-id-type="GRID">grid.250674.2</institution-id><institution>Prosserman Centre for Population Health Research, </institution><institution>Lunenfeld-Tanenbaum Research Institute, Sinai Health System, </institution></institution-wrap>Toronto, ON Canada </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000000405980095</institution-id><institution-id institution-id-type="GRID">grid.17703.32</institution-id><institution>International Agency for Research on Cancer, </institution></institution-wrap>Lyon, France </aff>
+        <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0000 8521 1798</institution-id><institution-id institution-id-type="GRID">grid.421142.0</institution-id><institution>Institut universitaire de cardiologie et de pneumologie de Qu&#xE9;bec &#x2013; Universit&#xE9; Laval, </institution></institution-wrap>Quebec City, Canada </aff>
+        <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8075</institution-id><institution-id institution-id-type="GRID">grid.48336.3a</institution-id><institution>Division of Cancer Epidemiology &amp; Genetics, US NCI, </institution></institution-wrap>Bethesda, MD USA </aff>
+        <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="ISNI">000000041936754X</institution-id><institution-id institution-id-type="GRID">grid.38142.3c</institution-id><institution>Departments of Environmental Health and Epidemiology, </institution><institution>Harvard TH Chan School of Public Health, </institution></institution-wrap>Boston, MA USA </aff>
+        <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2113 8111</institution-id><institution-id institution-id-type="GRID">grid.7445.2</institution-id><institution>Department of Epidemiology and Biostatistics, </institution><institution>School of Public Health, Imperial College London, </institution></institution-wrap>London, UK </aff>
+        <aff id="Aff8"><label>8</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0474 0428</institution-id><institution-id institution-id-type="GRID">grid.231844.8</institution-id><institution>Princess Margaret Cancer Center, </institution><institution>University Health Network, </institution></institution-wrap>Toronto, ON Canada </aff>
+        <aff id="Aff9"><label>9</label><institution-wrap><institution-id institution-id-type="GRID">grid.466123.4</institution-id><institution>Russian N.N. Blokhin Cancer Research Centre, </institution></institution-wrap>Moscow, Russian Federation </aff>
+        <aff id="Aff10"><label>10</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2291 4776</institution-id><institution-id institution-id-type="GRID">grid.240145.6</institution-id><institution>Department of Biostatistics, </institution><institution>Division of Basic Sciences, MD Anderson Cancer Center, </institution></institution-wrap>Houston, TX USA </aff>
+        <aff id="Aff11"><label>11</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 9916</institution-id><institution-id institution-id-type="GRID">grid.412807.8</institution-id><institution>Department of Thoracic Surgery and Division of Epidemiology, </institution><institution>Vanderbilt University Medical Center, </institution></institution-wrap>Nashville, TN USA </aff>
+        <aff id="Aff12"><label>12</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2164 6351</institution-id><institution-id institution-id-type="GRID">grid.10863.3c</institution-id><institution>Faculty of Medicine, </institution><institution>University of Oviedo and ISPA and CIBERESP, Campus del Cristo, </institution></institution-wrap>Oviedo, Spain </aff>
+        <aff id="Aff13"><label>13</label><institution-wrap><institution-id institution-id-type="ISNI">0000000121102151</institution-id><institution-id institution-id-type="GRID">grid.6451.6</institution-id><institution>Clalit National Cancer Control Center, </institution><institution>Technion Faculty of Medicine, </institution></institution-wrap>Haifa, Israel </aff>
+        <aff id="Aff14"><label>14</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2180 1622</institution-id><institution-id institution-id-type="GRID">grid.270240.3</institution-id><institution>Fred Hutchinson Cancer Research Center, </institution></institution-wrap>Seattle, WA USA </aff>
+        <aff id="Aff15"><label>15</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0422 3447</institution-id><institution-id institution-id-type="GRID">grid.479969.c</institution-id><institution>Department of Population Health Sciences, </institution><institution>Huntsman Cancer Institute, </institution></institution-wrap>Salt Lake City, UT USA </aff>
+        <aff id="Aff16"><label>16</label>Department of Genetic Epidemiology, University Medical Center, Georg-August-Universit&#xE4;t G&#xF6;ttingen, G&#xF6;ttingen, Germany </aff>
+        <aff id="Aff17"><label>17</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8470</institution-id><institution-id institution-id-type="GRID">grid.10025.36</institution-id><institution>Roy Castle Lung Cancer Research Programme, Department of Molecular and Clinical Cancer Medicine, </institution><institution>The University of Liverpool, </institution></institution-wrap>London, UK </aff>
+        <aff id="Aff18"><label>18</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0462 7212</institution-id><institution-id institution-id-type="GRID">grid.1006.7</institution-id><institution>Biostatistics Research Group, Institute of Health and Society, </institution><institution>Newcastle University, </institution></institution-wrap>Newcastle upon Tyne, UK </aff>
+        <aff id="Aff19"><label>19</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0444 9382</institution-id><institution-id institution-id-type="GRID">grid.10417.33</institution-id><institution>Radboud Institute for Health Sciences, </institution><institution>Radboud University Medical Centre, </institution></institution-wrap>Nijmegen, The Netherlands </aff>
+        <aff id="Aff20"><label>20</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0646 7373</institution-id><institution-id institution-id-type="GRID">grid.4973.9</institution-id><institution>Department of Clinical Biochemistry, Herlev and Gentofte Hospital, </institution><institution>Copenhagen University Hospital, </institution></institution-wrap>Herlev, Denmark </aff>
+        <aff id="Aff21"><label>21</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0630 3985</institution-id><institution-id institution-id-type="GRID">grid.416876.a</institution-id><institution>The National Institute of Occupational Health, </institution></institution-wrap>Oslo, Norway </aff>
+        <aff id="Aff22"><label>22</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0702 3000</institution-id><institution-id institution-id-type="GRID">grid.248762.d</institution-id><institution>BC Cancer Agency, </institution></institution-wrap>Vancouver, BC Canada </aff>
+        <aff id="Aff23"><label>23</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2188 0957</institution-id><institution-id institution-id-type="GRID">grid.410445.0</institution-id><institution>Epidemiology Program, </institution><institution>University of Hawaii Cancer Center, </institution></institution-wrap>Honolulu, HI USA </aff>
+        <aff id="Aff24"><label>24</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0000 9891 5233</institution-id><institution-id institution-id-type="GRID">grid.468198.a</institution-id><institution>Department of Cancer Epidemiology, </institution><institution>H. Lee Moffitt Cancer Center &amp; Research Institute, </institution></institution-wrap>Tampa, FL USA </aff>
+        <aff id="Aff25"><label>25</label>Unit of Biomarkers and Susceptibility, Oncology Data Analytics Program, Catalan Institute of Oncology (ICO), Bellvitge Biomedical Research Institute (IDIBELL), Barcelona, Spain </aff>
+        <aff id="Aff26"><label>26</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2179 2404</institution-id><institution-id institution-id-type="GRID">grid.254880.3</institution-id><institution>Department of Epidemiology, </institution><institution>Geisel School of Medicine, Dartmouth College, </institution></institution-wrap>Hanover, NH USA </aff>
+        <aff id="Aff27"><label>27</label>Sk&#xE5;ne University Hospital, Lund University, Lund, Sweden </aff>
+        <aff id="Aff28"><label>28</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2157 6568</institution-id><institution-id institution-id-type="GRID">grid.30064.31</institution-id><institution>Department of Pharmaceutical Sciences, </institution><institution>College of Pharmacy and Pharmaceutical Sciences, Washington State University, </institution></institution-wrap>Spokane, WA USA </aff>
+        <aff id="Aff29"><label>29</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8438</institution-id><institution-id institution-id-type="GRID">grid.266539.d</institution-id><institution>Markey Cancer Center, </institution><institution>University of Kentucky, </institution></institution-wrap>Lexington, KY USA </aff>
+        <aff id="Aff30"><label>30</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2157 2938</institution-id><institution-id institution-id-type="GRID">grid.17063.33</institution-id><institution>Epidemiology Division, Dalla Lana School of Public Health, </institution><institution>University of Toronto, </institution></institution-wrap>Toronto, ON Canada </aff>
+        <aff id="Aff31"><label>31</label>University of British Columbia, Centre for Heart Lung Innovation, Vancouver, BC Canada </aff>
+        <aff id="Aff32"><label>32</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 7603</institution-id><institution-id institution-id-type="GRID">grid.5337.2</institution-id><institution>MRC Integrative Epidemiology Unit, </institution><institution>University of Bristol, </institution></institution-wrap>Bristol, UK </aff>
+        <aff id="Aff33"><label>33</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 7603</institution-id><institution-id institution-id-type="GRID">grid.5337.2</institution-id><institution>Bristol Medical School, Population Health Sciences, </institution><institution>University of Bristol, </institution></institution-wrap>Bristol, UK </aff>
+        <aff id="Aff34"><label>34</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0380 7336</institution-id><institution-id institution-id-type="GRID">grid.410421.2</institution-id><institution>National Institute for Health Research (NIHR) Bristol Biomedical Research Centre, </institution><institution>University Hospitals Bristol NHS Foundation Trust and the University of Bristol, </institution></institution-wrap>Bristol, UK </aff>
+        <aff id="Aff35"><label>35</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2160 926X</institution-id><institution-id institution-id-type="GRID">grid.39382.33</institution-id><institution>Institute for Clinical and Translational Research, </institution><institution>Baylor College of Medicine, </institution></institution-wrap>Houston, TX USA </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>7</day>
+        <month>1</month>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>7</day>
+        <month>1</month>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2020</year>
+      </pub-date>
+      <volume>11</volume>
+      <elocation-id>27</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+        <date date-type="accepted">
+          <day>29</day>
+          <month>11</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2020</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article&#x2019;s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article&#x2019;s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <p id="Par1">Impaired lung function is often caused by cigarette smoking, making it challenging to disentangle its role in lung cancer susceptibility. Investigation of the shared genetic basis of these phenotypes in the UK Biobank and International Lung Cancer Consortium (29,266 cases, 56,450 controls) shows that lung cancer is genetically correlated with reduced forced expiratory volume in one second (FEV<sub>1</sub>: <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.098, <italic>p</italic>&#x2009;=&#x2009;2.3&#x2009;&#xD7;&#x2009;10<sup>&#x2212;8</sup>) and the ratio of FEV<sub>1</sub> to forced vital capacity (FEV<sub>1</sub>/FVC: <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.137, <italic>p</italic>&#x2009;=&#x2009;2.0&#x2009;&#xD7;&#x2009;10<sup>&#x2212;12</sup>). Mendelian randomization analyses demonstrate that reduced FEV<sub>1</sub> increases squamous cell carcinoma risk (odds ratio (OR)&#x2009;=&#x2009;1.51, 95% confidence intervals: 1.21&#x2013;1.88), while reduced FEV<sub>1</sub>/FVC increases the risk of adenocarcinoma (OR&#x2009;=&#x2009;1.17, 1.01&#x2013;1.35) and lung cancer in never smokers (OR&#x2009;=&#x2009;1.56, 1.05&#x2013;2.30). These findings support a causal role of pulmonary impairment in lung cancer etiology. Integrative analyses reveal that pulmonary function instruments, including 73 novel variants, influence lung tissue gene expression and implicate immune-related pathways in mediating the observed effects on lung carcinogenesis.</p>
+      </abstract>
+      <abstract id="Abs2" abstract-type="web-summary">
+        <p id="Par2">The role of impaired lung function in lung cancer etiology is complex due to the relation of cigarette smoking to both conditions. Here, supported by Mendelian randomization analysis the authors find a link between pulmonary function impairment and lung cancer risk beyond smoking, implicating immune-related pathways</p>
+      </abstract>
+      <kwd-group kwd-group-type="npg-subject">
+        <title>Subject terms</title>
+        <kwd>Cancer epidemiology</kwd>
+        <kwd>Genetics research</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">https://doi.org/10.13039/100000054</institution-id>
+              <institution>U.S. Department of Health &amp; Human Services | NIH | National Cancer Institute (NCI)</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>R01CA201358</award-id>
+          <award-id>U19CA203654</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Witte</surname>
+              <given-names>John S.</given-names>
+            </name>
+            <name>
+              <surname>Hung</surname>
+              <given-names>Rayjean J.</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>U.S. Department of Health &amp; Human Services | NIH | National Cancer Institute (NCI)</institution>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">https://doi.org/10.13039/501100000024</institution-id>
+              <institution>Gouvernement du Canada | Canadian Institutes of Health Research (Instituts de Recherche en Sant&#xE9; du Canada)</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>FDN167273</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Hung</surname>
+              <given-names>Rayjean J.</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; The Author(s) 2020</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1" sec-type="introduction">
+      <title>Introduction</title>
+      <p id="Par3">Lung cancer is the most commonly diagnosed cancer worldwide and the leading cause of cancer mortality<sup><xref ref-type="bibr" rid="CR1">1</xref></sup>. Although tobacco smoking remains the predominant risk factor for lung cancer, clinical observations and epidemiological studies have consistently shown that individuals with airflow limitation, particularly those with chronic obstructive pulmonary disease (COPD), have a significantly higher risk of developing lung cancer<sup><xref ref-type="bibr" rid="CR2">2</xref>&#x2013;<xref ref-type="bibr" rid="CR7">7</xref></sup>. Several lines of evidence suggest that biological processes resulting in pulmonary impairment warrant consideration as independent lung cancer risk factors, including observations that previous lung diseases influence lung cancer risk independently of tobacco use<sup><xref ref-type="bibr" rid="CR6">6</xref>,<xref ref-type="bibr" rid="CR8">8</xref>&#x2013;<xref ref-type="bibr" rid="CR10">10</xref></sup>, and overlap in genetic susceptibility loci for lung cancer and chronic obstructive pulmonary disease (COPD) on 4q24 (<italic>FAM13A</italic>), 4q31 (<italic>HHIP</italic>), 5q.32 (<italic>HTR4</italic>), the 6p21 region, and 15q25 (<italic>CHRNA3</italic>/<italic>CHRNA5</italic>)<sup><xref ref-type="bibr" rid="CR11">11</xref>&#x2013;<xref ref-type="bibr" rid="CR14">14</xref></sup>. Inflammation and oxidative stress have been proposed as key mechanisms promoting lung carcinogenesis in individuals affected by COPD or other non-neoplastic lung pathologies<sup><xref ref-type="bibr" rid="CR9">9</xref>,<xref ref-type="bibr" rid="CR11">11</xref>,<xref ref-type="bibr" rid="CR15">15</xref></sup>.</p>
+      <p id="Par4">Despite an accumulation of observational findings, previous epidemiological studies have been unable to conclusively establish a causal link between indicators of impaired pulmonary function and lung cancer risk due to the interrelated nature of these conditions<sup><xref ref-type="bibr" rid="CR7">7</xref></sup>. Lung cancer and obstructive pulmonary disease share multiple etiological factors, such as cigarette smoking, occupational inhalation hazards, and air pollution, and 50&#x2013;70% of lung cancer patients present with co-existing COPD or airflow obstruction<sup><xref ref-type="bibr" rid="CR6">6</xref></sup>. Furthermore, reverse causality remains a concern since pulmonary symptoms may be early manifestations of lung cancer or acquired lung diseases in patients whose immune system has already been compromised by undiagnosed cancer.</p>
+      <p id="Par5">Disentangling the role of pulmonary impairment in lung cancer development is important from an etiological perspective, for refining disease susceptibility mechanisms, and for informing precision prevention and risk stratification strategies. In this study we comprehensively assess the shared genetic basis of impaired lung function and lung cancer risk by conducting genome-wide association analyses in the UK Biobank cohort to identify genetic determinants of three pulmonary phenotypes, forced expiratory volume in 1s (FEV<sub>1</sub>), forced vital capacity (FVC), and FEV<sub>1</sub>/FVC. We examine the genetic correlation between pulmonary function phenotypes and lung cancer, followed by Mendelian randomization (MR) using novel genetic instruments to formally test the causal relevance of impaired pulmonary function, using the largest available dataset of 29,266 lung cancer cases and 56,450 controls from the OncoArray lung cancer collaboration<sup><xref ref-type="bibr" rid="CR16">16</xref></sup>.</p>
+    </sec>
+    <sec id="Sec2" sec-type="results">
+      <title>Results</title>
+      <sec id="Sec3">
+        <title>Heritability and genetic correlation</title>
+        <p id="Par6">Array-based, or narrow-sense, heritability (<italic>h</italic><sub>g</sub>) estimates for all lung phenotypes were obtained using LD score regression<sup><xref ref-type="bibr" rid="CR17">17</xref></sup> based on summary statistics from our GWAS of the UKB cohort (<italic>n</italic>&#x2009;=&#x2009;372,750 for FEV<sub>1</sub>, <italic>n</italic>&#x2009;=&#x2009;370,638 for FVC, <italic>n</italic>&#x2009;=&#x2009;368,817 for FEV<sub>1</sub>/FVC; Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">1</xref>) are presented in Table&#xA0;<xref rid="Tab1" ref-type="table">1</xref>. Heritability estimates based on UKB-specific LD scores (<italic>n</italic>&#x2009;=&#x2009;7,567,036 variants) were consistently lower but more precise than those based on the 1000&#x2009;Genomes (1000G) Phase 3 reference population (<italic>n</italic>&#x2009;=&#x2009;1,095,408 variants). For FEV<sub>1</sub>, <italic>h</italic><sub>g</sub>&#x2009;=&#x2009;0.163 (SE&#x2009;=&#x2009;0.006) and <italic>h</italic><sub>g</sub>&#x2009;=&#x2009;0.201 (SE&#x2009;=&#x2009;0.008), based on UKB and 1000&#x2009;G LD scores, respectively. Estimates for FVC were <italic>h</italic><sub>g</sub>&#x2009;=&#x2009;0.175 (SE&#x2009;=&#x2009;0.007) and <italic>h</italic><sub>g</sub>&#x2009;=&#x2009;0.214 (SE&#x2009;=&#x2009;0.010). Heritability was lower for FEV<sub>1</sub>/FVC: <italic>h</italic><sub>g</sub>&#x2009;=&#x2009;0.128 (SE&#x2009;=&#x2009;0.006) and 0.157 (SE&#x2009;=&#x2009;0.010), based on internal and 1000&#x2009;G reference panels, respectively. For all phenotypes, <italic>h</italic><sub>g</sub> did not differ by smoking status and estimates were not affected by excluding the major histocompatibility complex (MHC) region.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Array-based heritability for FEV<sub>1</sub>, FVC, and FEV<sub>1</sub>/FVC.</p></caption><table frame="hsides" rules="groups"><thead><tr><th/><th>FEV<sub>1</sub></th><th/><th>FVC</th><th/><th>FEV<sub>1</sub>/FVC</th><th/></tr></thead><tbody><tr><td>UKB LD scores</td><td><italic>h</italic><sub>g</sub></td><td>(SE)</td><td><italic>h</italic><sub>g</sub></td><td>(SE)</td><td><italic>h</italic><sub>g</sub></td><td>(SE)</td></tr><tr><td>Overall</td><td>0.163</td><td>(0.006)</td><td>0.175</td><td>(0.007)</td><td>0.128</td><td>(0.006)</td></tr><tr><td>&#xA0;&#xA0;Never smokers</td><td>0.163</td><td>(0.007)</td><td>0.169</td><td>(0.007)</td><td>0.126</td><td>(0.008)</td></tr><tr><td>&#xA0;&#xA0;Smokers</td><td>0.159</td><td>(0.007)</td><td>0.172</td><td>(0.009)</td><td>0.129</td><td>(0.008)</td></tr><tr><td>Overall no MHC</td><td>0.162</td><td>(0.006)</td><td>0.175</td><td>(0.007)</td><td>0.125</td><td>(0.006)</td></tr><tr><td colspan="7">1000G LD scores</td></tr><tr><td>Overall</td><td>0.201</td><td>(0.008)</td><td>0.214</td><td>(0.010)</td><td>0.157</td><td>(0.010)</td></tr><tr><td>&#xA0;&#xA0;Never smokers</td><td>0.209</td><td>(0.010)</td><td>0.215</td><td>(0.011)</td><td>0.159</td><td>(0.011)</td></tr><tr><td>&#xA0;&#xA0;Smokers</td><td>0.208</td><td>(0.010)</td><td>0.221</td><td>(0.011)</td><td>0.166</td><td>(0.010)</td></tr></tbody></table><table-wrap-foot><p>Estimates were obtained using LD score regression applied to genome-wide summary statistics from the UK Biobank (UKB). Two types of LD scores were used: LD scores estimated using UK Biobank (internal reference population) and pre-computed LD scores based on the 1000 Genomes Phase 3 reference population</p></table-wrap-foot></table-wrap></p>
+        <p id="Par7">Partitioning heritability by functional annotation identified large and statistically significant (<italic>p</italic>&#x2009;&lt;&#x2009;8.5&#x2009;&#xD7;&#x2009;10<sup>&#x2212;4</sup>) enrichments for multiple categories (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>; Supplementary Tables&#xA0;<xref rid="MOESM1" ref-type="media">1</xref>&#x2013;<xref rid="MOESM1" ref-type="media">3</xref>). A total of 35 categories, corresponding to 22 distinct annotations, were significantly enriched for all three pulmonary phenotypes, including annotations that were not previously reported<sup><xref ref-type="bibr" rid="CR18">18</xref></sup>. Large enrichment, defined as the proportion of heritability accounted for by a specific category relative to the proportion of SNPs in that category, was observed for elements conserved in primates<sup><xref ref-type="bibr" rid="CR19">19</xref>,<xref ref-type="bibr" rid="CR20">20</xref></sup> (17.6% of SNPs, 54.7&#x2013;58.5% of <italic>h</italic><sub>g</sub>), McVicker background selection statistic<sup><xref ref-type="bibr" rid="CR21">21</xref>,<xref ref-type="bibr" rid="CR22">22</xref></sup> (17.8% of SNPs, 22.6&#x2013;25.1% of <italic>h</italic><sub>g</sub>), flanking bivalent transcription starting sites (TSS)/enhancers from Roadmap<sup><xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR23">23</xref></sup> (1.4% of SNPs, 11.1&#x2013;13.2% of <italic>h</italic><sub>g</sub>), and super enhancers (16.7% of SNPs, 33.9&#x2013;38.6% of <italic>h</italic><sub>g</sub>). We also replicated previously reported significant enrichments for histone methylation and acetylation marks H3K4me1, H3K9Ac, and H3K27Ac<sup><xref ref-type="bibr" rid="CR18">18</xref>,<xref ref-type="bibr" rid="CR24">24</xref></sup>.<fig id="Fig1"><label>Fig. 1</label><caption><title>Functional partitioning of array-based heritability for each pulmonary function phenotype.</title><p><bold>a</bold> The magnitude of category-specific enrichment and corresponding &#x2212;log<sub>10</sub>(<italic>p</italic>-value) for 22 distinct functional annotations that were significantly enriched for all three phenotypes (FEV<sub>1</sub>, FVC, FEV<sub>1</sub>/FVC). <bold>b</bold> The proportion of heritability, Pr(<italic>h</italic><sub>g</sub>), accounted for by each functional annotation with corresponding standard errors. Functional annotation categories are not mutually exclusive.</p></caption><graphic xlink:href="41467_2019_13855_Fig1_HTML" id="d29e1585"/></fig></p>
+        <p id="Par8">Substantial genetic correlation was observed for pulmonary phenotypes with body composition and smoking traits, mirroring phenotypic correlations in epidemiologic studies (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>). Large positive correlations with height were observed for FEV<sub>1</sub> (<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.568, <italic>p</italic>&#x2009;=&#x2009;2.5&#x2009;&#xD7;&#x2009;10<sup>&#x2212;567</sup>) and FVC (<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.652, <italic>p</italic>&#x2009;=&#x2009;1.8&#x2009;&#xD7;&#x2009;10<sup>&#x2212;864</sup>). Higher adiposity was negatively correlated with FEV<sub>1</sub> (BMI: <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;&#x2212;0.216, <italic>p</italic>&#x2009;=&#x2009;4.2&#x2009;&#xD7;&#x2009;10<sup>&#x2212;74</sup>; percent body fat: <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;&#x2212;0.221, <italic>p</italic>&#x2009;=&#x2009;1.7&#x2009;&#xD7;&#x2009;10<sup>&#x2212;66</sup>), FVC (BMI: <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;&#x2212;0.262, <italic>p</italic>&#x2009;=&#x2009;1.6&#x2009;&#xD7;&#x2009;10<sup>&#x2212;114</sup>; percent body fat: <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;&#x2212;0.254, <italic>p</italic>&#x2009;=&#x2009;1.2&#x2009;&#xD7;&#x2009;10<sup>&#x2212;88</sup>). Smoking status (ever vs. never) was significantly correlated with all lung function phenotypes (FEV<sub>1</sub>
+<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;&#x2212;0.221, <italic>p</italic>&#x2009;=&#x2009;8.1&#x2009;&#xD7;&#x2009;10<sup>&#x2212;78</sup>; FVC <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;&#x2212;0.091, 1.0&#x2009;&#xD7;&#x2009;10<sup>&#x2212;16</sup>; FEV<sub>1</sub>/FVC <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;&#x2212;0.360, <italic>p</italic>&#x2009;=&#x2009;7.5&#x2009;&#xD7;&#x2009;10<sup>&#x2212;130</sup>). Cigarette pack-years and impaired lung function in smokers were also significantly genetically correlated with FEV<sub>1</sub> (<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;&#x2212;0.287 <italic>p</italic>&#x2009;=&#x2009;1.1&#x2009;&#xD7;&#x2009;10<sup>&#x2212;35</sup>), FVC (<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;&#x2212;0.253, <italic>p</italic>&#x2009;=&#x2009;1.9&#x2009;&#xD7;&#x2009;10<sup>&#x2212;30</sup>), and FEV<sub>1</sub>/FVC (<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;&#x2212;0.108, <italic>p</italic>&#x2009;=&#x2009;3.0&#x2009;&#xD7;&#x2009;10<sup>&#x2212;4</sup>). As a positive control, we verified that FEV<sub>1</sub> and FVC were genetically correlated with each other (<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.922) and with FEV<sub>1</sub>/FVC (FEV<sub>1</sub>: <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.232, <italic>p</italic>&#x2009;=&#x2009;4.1&#x2009;&#xD7;&#x2009;10<sup>&#x2212;32</sup>; FVC: <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;&#x2212;0.167, <italic>p</italic>&#x2009;=&#x2009;1.0&#x2009;&#xD7;&#x2009;10<sup>&#x2212;19</sup>).<fig id="Fig2"><label>Fig. 2</label><caption><title>Genetic correlation (<italic>r</italic><sub>g</sub>) between pulmonary function phenotypes and anthropometric and smoking phenotypes.</title><p>Estimates for <italic>r</italic><sub>g</sub> are based on UK Biobank-specific LD scores. The colors in the Circos plot correspond to the direction of genetic correlation, with warm shades denoting positive relationships and cool tones depicting negative correlations. The width of each band in the Circos plot is proportional to the magnitude of the absolute value of the <italic>r</italic><sub>g</sub> estimate.</p></caption><graphic xlink:href="41467_2019_13855_Fig2_HTML" id="d29e1809"/></fig></p>
+        <p id="Par9">Genetic correlations between lung function phenotypes and lung cancer are presented in Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>. For simplicity of interpretation coefficients were rescaled to represent genetic correlation with impaired (decreasing) lung function. Impaired FEV<sub>1</sub> was positively correlated with lung cancer overall (<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.098, <italic>p</italic>&#x2009;=&#x2009;2.3&#x2009;&#xD7;&#x2009;10<sup>&#x2212;8</sup>), squamous cell carcinoma (<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.137, <italic>p</italic>&#x2009;=&#x2009;7.6&#x2009;&#xD7;&#x2009;10<sup>&#x2212;9</sup>), and lung cancer in smokers (<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.140, <italic>p</italic>&#x2009;=&#x2009;1.2&#x2009;&#xD7;&#x2009;10<sup>&#x2212;7</sup>). Genetic correlations were attenuated for adenocarcinoma histology (<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.041, <italic>p</italic>&#x2009;=&#x2009;0.044) and null for never smokers (<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;&#x2212;0.002, <italic>p</italic>&#x2009;=&#x2009;0.96). A similar pattern of associations was observed for FVC. Reduced FEV<sub>1</sub>/FVC was positively correlated with all lung cancer subgroups (overall: <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.137, <italic>p</italic>&#x2009;=&#x2009;2.0&#x2009;&#xD7;&#x2009;10<sup>&#x2212;12</sup>; squamous carcinoma: <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.137, <italic>p</italic>&#x2009;=&#x2009;4.3&#x2009;&#xD7;&#x2009;10<sup>&#x2212;8</sup>; adenocarcinoma: <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.125, <italic>p</italic>&#x2009;=&#x2009;7.2&#x2009;&#xD7;&#x2009;10<sup>&#x2212;9</sup>; smokers: <italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.185, <italic>p</italic>&#x2009;=&#x2009;1.4&#x2009;&#xD7;&#x2009;10<sup>&#x2212;10</sup>), except for never smokers (<italic>r</italic><sub>g</sub>&#x2009;=&#x2009;0.031, <italic>p</italic>&#x2009;=&#x2009;0.51).<fig id="Fig3"><label>Fig. 3</label><caption><title>Genetic correlation (<italic>r</italic><sub>g</sub>) between pulmonary function phenotypes and lung cancer subtypes.</title><p>Estimates of <italic>r</italic><sub>g</sub> are based on genome-wide summary statistics from the UK Biobank cohort for pulmonary traits, and the International Lung Cancer Consortium OncoArray study for lung cancer. Genetic correlations have been rescaled to depict associations between impaired (reduced) pulmonary function and lung cancer risk. The colors in the Circos plot correspond to the direction of genetic correlation, with warm shades depicting positive correlations between impaired pulmonary function and lung cancer risk, and gray tones corresponding to inverse and null correlations. The width of each band in the Circos plot is proportional to the magnitude of the absolute value of the <italic>r</italic><sub>g</sub> estimate.</p></caption><graphic xlink:href="41467_2019_13855_Fig3_HTML" id="d29e1953"/></fig></p>
+        <p id="Par10">Exploring the functional underpinnings of these genetic correlations revealed three functional categories that were significantly enriched for lung cancer (Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">4</xref>), and have not been previously reported<sup><xref ref-type="bibr" rid="CR25">25</xref></sup>. All these categories were also significantly enriched for pulmonary traits. CpG dinucleotide content<sup><xref ref-type="bibr" rid="CR22">22</xref></sup> included only 1% of SNPs, but had a strong enrichment signal for lung cancer (<italic>p</italic>&#x2009;=&#x2009;2.1&#x2009;&#xD7;&#x2009;10<sup>&#x2212;7</sup>), FEV<sub>1</sub> (<italic>p</italic>&#x2009;=&#x2009;7.7&#x2009;&#xD7;&#x2009;10<sup>&#x2212;24</sup>), FVC (<italic>p</italic>&#x2009;=&#x2009;2.3&#x2009;&#xD7;&#x2009;10<sup>&#x2212;23</sup>, and FEV<sub>1</sub>/FVC (<italic>p</italic>&#x2009;=&#x2009;3.8&#x2009;&#xD7;&#x2009;10<sup>&#x2212;17</sup>). Other shared features included background selection (lung cancer: <italic>p</italic>&#x2009;=&#x2009;1.0&#x2009;&#xD7;&#x2009;10<sup>&#x2212;6</sup>, FEV<sub>1</sub>: <italic>p</italic>&#x2009;=&#x2009;1.9&#x2009;&#xD7;&#x2009;10<sup>&#x2212;20</sup>, FVC: <italic>p</italic>&#x2009;=&#x2009;6.9&#x2009;&#xD7;&#x2009;10<sup>&#x2212;23</sup>, FEV<sub>1</sub>/FVC: <italic>p</italic>&#x2009;=&#x2009;1.5&#x2009;&#xD7;&#x2009;10<sup>&#x2212;15</sup>) and super enhancers (lung cancer: <italic>p</italic>&#x2009;=&#x2009;4.4&#x2009;&#xD7;&#x2009;10<sup>&#x2212;6</sup>, FEV<sub>1</sub>: <italic>p</italic>&#x2009;=&#x2009;3.4&#x2009;&#xD7;&#x2009;10<sup>&#x2212;24</sup>, FVC: <italic>p</italic>&#x2009;=&#x2009;5.1&#x2009;&#xD7;&#x2009;10<sup>&#x2212;20</sup>, FEV<sub>1</sub>/FVC: <italic>p</italic>&#x2009;=&#x2009;9.6&#x2009;&#xD7;&#x2009;10<sup>&#x2212;22</sup>).</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Genome-wide association analysis for instrument development</title>
+        <p id="Par11">Based on the results of our GWAS in the UK Biobank, we identified 207 independent instruments for FEV<sub>1</sub> (<italic>P</italic>&#x2009;&lt;&#x2009;5&#x2009;&#xD7;&#x2009;10<sup>&#x2212;8</sup>, replication <italic>P</italic>&#x2009;&lt;&#x2009;0.05; LD <italic>r</italic><sup>2</sup>&#x2009;&lt;&#x2009;0.05 within 10,000&#x2009;kb), 162 for FVC, and 297 for FEV<sub>1</sub>/FVC. We confirmed that our findings were not affected by spirometry performance quality, with a nearly perfect correlation between effect sizes (<italic>R</italic><sup>2</sup>&#x2009;=&#x2009;0.995, <italic>p</italic>&#x2009;=&#x2009;2.5&#x2009;&#xD7;&#x2009;10<sup>&#x2212;196</sup>) in the main discovery analysis and after excluding individuals with potential blow acceptability issues (Field 3061&#x2009;&#x2260;&#x2009;0; <italic>n</italic>&#x2009;=&#x2009;60,299). After applying these variants to the lung cancer OncoArray dataset and selecting LD proxies (<italic>r</italic><sup>2</sup>&#x2009;&gt;&#x2009;0.90) for unavailable variants, the final set of instruments consisted of 193 variants for FEV<sub>1</sub>, 144 for FVC, and 264 SNPs for FEV<sub>1</sub>/FVC (Supplementary Data&#xA0;<xref rid="MOESM3" ref-type="media">1</xref>&#x2013;<xref rid="MOESM5" ref-type="media">3</xref>), for a total of 601 instruments. The proportion of trait variation accounted for by each set of instruments was estimated in the UKB replication sample consisting of over 110,00 individuals (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">1</xref>), and corresponded to 3.13% for FEV<sub>1</sub>, 2.27% for FVC, and 5.83% for FEV<sub>1</sub>/FVC. We also developed instruments specifically for never smokers based on a separate GWAS of this population, which yielded 76 instruments for FEV<sub>1</sub>, 112 for FEV<sub>1</sub>/FVC, and 57 for FVC, accounting for 2.06%, 4.21%, and 1.36% of phenotype variation, respectively (Supplementary Data&#xA0;<xref rid="MOESM6" ref-type="media">4</xref>&#x2013;<xref rid="MOESM8" ref-type="media">6</xref>).</p>
+        <p id="Par12">After removing overlapping instruments between pulmonary phenotypes and LD-filtering (<italic>r</italic><sup>2</sup>&#x2009;&lt;&#x2009;0.05) across the three traits, 447 of the 601 variants were associated with at least one of FEV<sub>1</sub>, FVC, or FEV<sub>1</sub>/FVC (<italic>P</italic>&#x2009;&lt;&#x2009;5&#x2009;&#xD7;&#x2009;10<sup>&#x2212;8</sup>, replication <italic>P</italic>&#x2009;&lt;&#x2009;0.05). We compared these 447 independent variants to the 279 lung function variants recently reported by Shrine et al.<sup><xref ref-type="bibr" rid="CR18">18</xref></sup> based on an analysis of the UK Biobank and SpiroMeta consortium, by performing clumping with respect to these index variants (LD <italic>r</italic><sup>2</sup>&#x2009;&lt;&#x2009;0.05 within 10,000&#x2009;kb). Our set of instruments included an additional 73 independent variants, 69 outside the MHC region (Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">5</xref>), that achieved replication at the Bonferroni-corrected threshold for each trait (maximum replication <italic>P</italic>&#x2009;<italic>=</italic>&#x2009;2.0&#x2009;&#xD7;&#x2009;10<sup>&#x2212;4</sup>).</p>
+        <p id="Par13">Our instruments included additional independent signals in known lung function loci and variants in genes newly linked to lung function, such as <italic>HORMAD2</italic> at 22q12.1 (rs6006399: <italic>P</italic><sub>FEV1</sub>&#x2009;=&#x2009;1.9&#x2009;&#xD7;&#x2009;10<sup>&#x2212;18</sup>), which is involved in synapsis surveillance in meiotic prophase, and <italic>RIPOR1</italic> at 16q22.1 (rs7196853: <italic>P</italic><sub>FEV1/FVC</sub>&#x2009;=&#x2009;1.3&#x2009;&#xD7;&#x2009;10<sup>&#x2212;16</sup>), which plays a role in cell polarity and directional migration. Several new variants further support the importance of the tumor growth factor beta (TGF-&#x3B2;) signaling pathway, including <italic>CRIM1</italic> (rs1179500: <italic>P</italic><sub>FEV1/FVC</sub>&#x2009;=&#x2009;3.6&#x2009;&#xD7;&#x2009;10<sup>&#x2212;17</sup>) and <italic>FGF18</italic> (rs11745375: <italic>P</italic><sub>FEV1/FVC</sub>&#x2009;=&#x2009;1.6&#x2009;&#xD7;&#x2009;10<sup>&#x2212;11</sup>). Another novel gene, <italic>PIEZO1</italic> (rs750739: <italic>P</italic><sub>FEV1</sub>&#x2009;=&#x2009;1.8&#x2009;&#xD7;&#x2009;10<sup>&#x2212;10</sup>), encodes a mechano-sensory ion channel, supports adaptation to stretch of the lung epithelium and endothelium, and promotes repair after alveolar injury<sup><xref ref-type="bibr" rid="CR26">26</xref>,<xref ref-type="bibr" rid="CR27">27</xref></sup>. In never smokers a signal was identified at 6q15 in <italic>BACH2</italic> (rs58453446: <italic>P</italic><sub>FEV1/FVC-nvsmk</sub>&#x2009;=&#x2009;8.9&#x2009;&#xD7;&#x2009;10<sup>&#x2212;10</sup>), a gene required for pulmonary surfactant homeostasis. Last, two lung function variants mapped to genes somatically mutated in lung cancer: <italic>EML4</italic> (rs12466981: <italic>P</italic><sub>FEV1/FVC</sub>&#x2009;=&#x2009;2.7&#x2009;&#xD7;&#x2009;10<sup>&#x2212;14</sup>) and <italic>BRAF</italic> (rs13227429: <italic>P</italic><sub>FVC</sub>&#x2009;=&#x2009;5.6&#x2009;&#xD7;&#x2009;10<sup>&#x2212;9</sup>).</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Mendelian randomization</title>
+        <p id="Par14">The causal relevance of impaired pulmonary function was investigated by applying genetic instruments developed in the UK Biobank to the OncoArray lung cancer dataset, comprised of 29,266 lung cancer cases and 56,450 controls (Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">6</xref>). Primary analyses were based on the maximum likelihood (ML) and inverse variance weighted (IVW) multiplicative random-effects estimators<sup><xref ref-type="bibr" rid="CR28">28</xref>,<xref ref-type="bibr" rid="CR29">29</xref></sup>. Sensitivity analyses were conducted using the weighted median (WM) and robust adjusted profile score (RAPS) estimators<sup><xref ref-type="bibr" rid="CR30">30</xref>,<xref ref-type="bibr" rid="CR31">31</xref></sup>. A genetically predicted decrease in FEV<sub>1</sub> was significantly associated with increased risk of lung cancer overall (OR<sub>ML</sub>&#x2009;=&#x2009;1.28, 95% CI: 1.12&#x2013;1.47, <italic>p</italic>&#x2009;=&#x2009;3.4&#x2009;&#xD7;&#x2009;10<sup>&#x2212;4</sup>) and squamous carcinoma (OR<sub>ML</sub>&#x2009;=&#x2009;2.04, 1.64&#x2013;2.54, <italic>p</italic>&#x2009;=&#x2009;1.2&#x2009;&#xD7;&#x2009;10<sup>&#x2212;10</sup>), but not adenocarcinoma (OR<sub>ML</sub>&#x2009;=&#x2009;0.99, 0.83&#x2013;1.19, <italic>p</italic>&#x2009;=&#x2009;0.96) (Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>; Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">7</xref>). The association with lung cancer was not significant across all estimators (OR<sub>WM</sub>&#x2009;=&#x2009;1.06, <italic>p</italic>&#x2009;=&#x2009;0.57; OR<sub>RAPS</sub>&#x2009;=&#x2009;1.13, <italic>p</italic>&#x2009;=&#x2009;0.26). There was no evidence of directional pleiotropy based on the MR Egger intercept test (<italic>&#x3B2;</italic><sub>0&#x2009;Egger</sub>&#x2009;&#x2260;&#x2009;0, <italic>p</italic>&#x2009;&lt;&#x2009;0.05), but significant heterogeneity among SNP-specific causal effect estimates was observed, which may be indicative of balanced horizontal pleiotropy (lung cancer: <italic>P</italic><sub>Q</sub>&#x2009;=&#x2009;2.1&#x2009;&#xD7;&#x2009;10<sup>&#x2212;41</sup>; adenocarcinoma: <italic>P</italic><sub>Q</sub>&#x2009;=&#x2009;3.4&#x2009;&#xD7;&#x2009;10<sup>&#x2212;9</sup>; squamous carcinoma: <italic>P</italic><sub>Q</sub>&#x2009;=&#x2009;1.1&#x2009;&#xD7;&#x2009;10<sup>&#x2212;30</sup>). After excluding outlier variants contributing to this heterogeneity, 36 for lung cancer and 34 for squamous carcinoma, the association with FEV<sub>1</sub> diminished for both phenotypes (lung cancer: OR<sub>ML</sub>&#x2009;=&#x2009;OR<sub>IVW</sub>&#x2009;=&#x2009;1.12, <italic>p</italic>&#x2009;=&#x2009;0.13), but remained statistically significant for squamous carcinoma (OR<sub>IVW</sub>&#x2009;=&#x2009;1.51, 1.21&#x2013;1.88, <italic>p</italic>&#x2009;=&#x2009;2.2&#x2009;&#xD7;&#x2009;10<sup>&#x2212;4</sup>), with comparable effects observed using other estimators (OR<sub>ML</sub>&#x2009;=&#x2009;1.50, <italic>p</italic>&#x2009;=&#x2009;6.7&#x2009;&#xD7;&#x2009;10<sup>&#x2212;4</sup>; ORRAPS&#x2009;=&#x2009;1.48, <italic>p</italic>&#x2009;=&#x2009;1.7&#x2009;&#xD7;&#x2009;10<sup>&#x2212;3</sup>; OR<sub>WM</sub>&#x2009;=&#x2009;1.44, <italic>p</italic>&#x2009;=&#x2009;0.040).<fig id="Fig4"><label>Fig. 4</label><caption><title>Odds ratios (OR) and 95% confidence intervals for the effect of impaired pulmonary function on lung cancer risk, estimated using Mendelian randomization (MR).</title><p>Multiple MR estimation methods were applied to the International Lung Cancer Consortium OncoArray dataset, comprised of 29,266 lung cancer cases (11,273 adenocarcinoma, 7426 squamous cell carcinoma) and 56,450 controls to assess the causal relevance of impaired FEV<sub>1</sub> (<bold>a</bold>), FVC (<bold>b</bold>), and FEV<sub>1</sub>/FVC (<bold>c</bold>). MR estimates based on the full set of genetic instruments are compared to estimates after excluding outliers suspected of violating MR assumptions. Only associations with <italic>p</italic>-values &lt; 0.25 are labeled. Proportion of variation explained by the genetic instruments was estimated in a separate replication sample of over 110,000 individuals from the UK Biobank.</p></caption><graphic xlink:href="41467_2019_13855_Fig4_HTML" id="d29e2467"/></fig></p>
+        <p id="Par15">Genetic predisposition to reduced FVC was inconsistently associated with squamous carcinoma risk (OR<sub>ML</sub>&#x2009;=&#x2009;1.68, <italic>p</italic>&#x2009;=&#x2009;1.8&#x2009;&#xD7;&#x2009;10<sup>&#x2212;4</sup>; OR<sub>WM</sub>&#x2009;=&#x2009;1.19, <italic>p</italic>&#x2009;=&#x2009;0.38). Effects became attenuated and more similar after removing outliers (OR<sub>ML</sub>&#x2009;=&#x2009;1.27, <italic>p</italic>&#x2009;=&#x2009;0.10; OR<sub>RAPS</sub>&#x2009;=&#x2009;1.25, <italic>p</italic>&#x2009;=&#x2009;0.14) (Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>; Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">8</xref>). A genetically predicted 10% decrease in FEV<sub>1</sub>/FVC was associated with an elevated risk of lung cancer in some models (OR<sub>ML</sub>&#x2009;=&#x2009;1.18, 1.07&#x2013;1.31, <italic>p</italic>&#x2009;=&#x2009;1.6&#x2009;&#xD7;&#x2009;10<sup>&#x2212;3</sup>), but not others (OR<sub>WM</sub>&#x2009;=&#x2009;1.10, <italic>p</italic>&#x2009;=&#x2009;0.30; OR<sub>RAPS</sub>&#x2009;=&#x2009;1.11, <italic>p</italic>&#x2009;=&#x2009;0.14) (Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>; Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">9</xref>). The association with squamous carcinoma was also inconsistent across estimators. After removing outliers contributing to significant effect heterogeneity (lung cancer: <italic>P</italic><sub>Q</sub>&#x2009;=&#x2009;1.2&#x2009;&#xD7;&#x2009;10<sup>&#x2212;28</sup>; adenocarcinoma: <italic>P</italic><sub>Q</sub>&#x2009;=&#x2009;3.4&#x2009;&#xD7;&#x2009;10<sup>&#x2212;9</sup>; squamous carcinoma: <italic>P</italic><sub>Q</sub>&#x2009;=&#x2009;5.3&#x2009;&#xD7;&#x2009;10<sup>&#x2212;15</sup>), the association with adenocarcinoma strengthened (OR<sub>ML</sub>&#x2009;=&#x2009;1.17, 1.01&#x2013;1.35; OR<sub>RAPS</sub>&#x2009;=&#x2009;1.18, 1.02&#x2013;1.38), while associations for lung cancer and squamous carcinoma became attenuated.</p>
+        <p id="Par16">We examined the cancer risk in never smokers, by applying genetic instruments developed specifically in this population, to 2355 cases and 7504 controls (Fig.&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>; Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">10</xref>). A genetically predicted 1-SD decrease in FEV<sub>1</sub> and FVC was not associated with lung cancer risk in never smokers. However, a 10% reduction in FEV<sub>1</sub>/FVC was associated with a 61% increased risk (OR<sub>ML</sub>&#x2009;=&#x2009;1.61, 1.10&#x2013;2.35, <italic>p</italic>&#x2009;=&#x2009;0.014; OR<sub>IVW</sub>&#x2009;=&#x2009;1.60, <italic>p</italic>&#x2009;=&#x2009;0.030). Outlier filtering did not have an appreciable impact on the results (OR<sub>ML</sub>&#x2009;=&#x2009;1.56, 1.05&#x2013;2.30, <italic>p</italic>&#x2009;=&#x2009;0.027; OR<sub>IVW</sub>&#x2009;=&#x2009;1.55, 1.05&#x2013;2.28, <italic>p</italic>&#x2009;=&#x2009;0.028). A sensitivity analysis applied to 264 FEV<sub>1</sub>/FVC instruments not specific to never smokers yielded an attenuated estimate (OR<sub>IVW</sub>&#x2009;=&#x2009;1.35, 1.03&#x2013;1.75, <italic>p</italic>&#x2009;=&#x2009;0.027), but confirmed the impact of FEV<sub>1</sub>/FVC reduction on lung cancer risk.<fig id="Fig5"><label>Fig. 5</label><caption><title>Scatterplot depicting the Mendelian randomization (MR) results for FEV<sub>1</sub>/FVC in never smokers and lung cancer in never smokers (2355 cases, 7504 controls).</title><p>The scatterplot illustrates the effects of individual instruments on FEV<sub>1</sub>/FVC and lung cancer risk, highlighting potentially invalid outlier instruments that were filtered. Individual instrument effects in the scatterplot correspond to a 1-unit decrease in FEV<sub>1</sub>/FVC, but the summary odds ratios (ORs) for lung cancer have been rescaled to correspond to a 10% decrease in FEV<sub>1</sub>/FVC. Summary log(ORs) based on different MR estimators correspond to the slope of the lines in scatterplot.</p></caption><graphic xlink:href="41467_2019_13855_Fig5_HTML" id="d29e2642"/></fig></p>
+        <p id="Par17">For completeness, we also present MR estimates for the effect of impaired pulmonary function on lung cancer risk in smokers (Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">11</xref>). Despite the larger sample size (23,223 cases and 16,964 controls) compared to never smokers, a genetically predicted 10% reduction in FEV<sub>1</sub>/FVC was weakly and inconsistently associated with lung cancer risk (OR<sub>IVW</sub>&#x2009;=&#x2009;1.15, <italic>p</italic>&#x2009;=&#x2009;0.038; OR<sub>RAPS</sub>&#x2009;=&#x2009;1.08, <italic>p</italic>&#x2009;=&#x2009;0.488). Genetic predisposition to FEV<sub>1</sub> and FVC impairment did not appear to confer an increased risk among smokers.</p>
+        <p id="Par18">Extensive MR diagnostics are summarized in Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">12</xref>. All analyses used strong instruments (F-statistic&#x2009;&gt;&#x2009;40) and did not appear to be weakened by violations of the no measurement error (NOME) assumption (<italic>I</italic><sup>2</sup><sub>GX</sub> statistic&#x2009;&gt;&#x2009;0.97). MR Steiger test<sup><xref ref-type="bibr" rid="CR32">32</xref></sup> was used to orient the causal effects and confirmed that instruments for pulmonary function were affecting lung cancer susceptibility, not the reverse, and this direction of effect was highly robust. No instruments were removed based on Steiger filtering. We also confirmed that none of the genetic instruments were associated with nicotine dependence phenotypes (<italic>P</italic>&#x2009;&lt;&#x2009;1&#x2009;&#xD7;&#x2009;10<sup>&#x2212;5</sup>), such as time to first cigarette, difficulty in quitting smoking, and number of quit attempts, which were available for a subset of individuals in the UKB. All MR analyses were adequately powered, with &gt;80% power to detect a minimum OR of 1.25 for FEV<sub>1</sub> and FEV<sub>1</sub>/FVC (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">2</xref>). For never smokers, we had 80% power to detect a minimum OR of 1.40 for FEV<sub>1</sub>/FVC and 1.60 for FEV<sub>1</sub>.</p>
+        <p id="Par19">Given the genetic correlation observed for pulmonary phenotypes cigarette smoking and adiposity, we conducted several sensitivity analyses to further address any potential confounding by these phenotypes. The finding for squamous carcinoma and FEV<sub>1</sub> was further interrogated using multivariable MR (MVMR) by incorporating genetic instruments for BMI<sup><xref ref-type="bibr" rid="CR33">33</xref></sup> and smoking behavior<sup><xref ref-type="bibr" rid="CR34">34</xref></sup> to estimate the direct effect of FEV<sub>1</sub> on squamous carcinoma risk. MVMR using all instruments yielded an OR of 1.95 (95% CI: 1.36&#x2013;2.80, <italic>p</italic>&#x2009;=&#x2009;2.8&#x2009;&#xD7;&#x2009;10<sup>&#x2212;4</sup>) per 1-SD decrease in FEV<sub>1</sub> and an OR of 1.63 (95% CI: 1.20&#x2013;2.23, <italic>p</italic>&#x2009;=&#x2009;1.8&#x2009;&#xD7;&#x2009;10<sup>&#x2212;3</sup>) after filtering outlier instruments.</p>
+        <p id="Par20">We confirmed that none of the genetic instruments were associated with smoking status (ever/never), cigarette pack-years (continuous), or adiposity (body fat percentage) at the <italic>P</italic>&#x2009;&lt;&#x2009;5&#x2009;&#xD7;&#x2009;10<sup>&#x2013;8</sup> level. However, several variants were associated based on a <italic>P</italic>&#x2009;<italic>&lt;</italic>&#x2009;1&#x2009;&#xD7;&#x2009;10<sup>&#x2212;5</sup> threshold (25 for FEV<sub>1</sub> and 18 for FEV<sub>1</sub>/FVC). We repeated MR analyses after removing these variants (Supplementary Table&#xA0;<xref rid="MOESM1" ref-type="media">13</xref>) and confirmed that our results remained robust for FEV<sub>1</sub> and squamous cell carcinoma (OR<sub>IVW</sub>&#x2009;=&#x2009;2.02, 1.40&#x2013;2.92, <italic>p</italic>&#x2009;=&#x2009;1.9&#x2009;&#xD7;&#x2009;10<sup>&#x2212;4</sup>) and FEV<sub>1</sub>/FVC and adenocarcinoma (OR<sub>IVW</sub>&#x2009;=&#x2009;1.19, 1.01&#x2013;1.40, <italic>p</italic>&#x2009;=&#x2009;0.04). However, there was still significant heterogeneity among the causal effect estimates. After filtering the remaining outliers, the effect of a 10% decrease in FEV<sub>1</sub>/FVC on adenocarcinoma strengthened (OR<sub>IVW</sub>&#x2009;=&#x2009;1.24, 1.08&#x2013;1.43, <italic>p</italic>&#x2009;=&#x2009;2.4&#x2009;&#xD7;&#x2009;10<sup>&#x2212;3</sup>), while estimates attenuated slightly for FEV1 and squamous carcinoma (OR<sub>IVW</sub>&#x2009;=&#x2009;1.46, 1.14&#x2013;1.87, <italic>p</italic>&#x2009;=&#x2009;2.7&#x2009;&#xD7;&#x2009;10<sup>&#x2212;3</sup>).</p>
+        <p id="Par21">We also considered the possibility of residual confounding in our GWAS due to insufficient adjustment for smoking-related factors. We thus re-estimated SNP effects on FEV<sub>1</sub>, FVC, and FEV<sub>1</sub>/FVC with adjustment for continuous cigarette pack-years and years since quitting. The distribution of effect sizes did not differ between the two analyses (<italic>p</italic>&#x2009;&gt;&#x2009;0.05), and the correlation with our original instrument weights was strong for all phenotypes (Pearson&#x2019;s <italic>r</italic>&#x2009;&#x2265;&#x2009;0.87, <italic>p</italic>&#x2009;&lt;&#x2009;1&#x2009;&#xD7;&#x2009;10<sup>&#x2212;40</sup>) (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">3</xref>).</p>
+        <p id="Par22">Last, we examined the association between FEV<sub>1</sub> and FEV<sub>1</sub>/FVC genetic instruments and COPD, defined as FEV<sub>1</sub>/FVC&#x2009;&lt;&#x2009;0.70. Among FEV<sub>1</sub> instruments, 64% (123 variants) were associated with COPD at <italic>p</italic>&#x2009;&lt;&#x2009;0.05 and 16% (31 variants) at <italic>p</italic>&#x2009;&lt;&#x2009;5&#x2009;&#xD7;&#x2009;10<sup>&#x2212;8</sup> (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">4</xref>). All instruments for FEV<sub>1</sub>/FVC were associated with COPD at the nominal level, and 40% (105 variants) reached genome-wide significance. Using weights from estimated associations between the 105 instruments and COPD log(OR), we observed a modestly increased risk of lung adenocarcinoma (OR<sub>IVW</sub>&#x2009;=&#x2009;1.08, 1.01&#x2013;1.15, <italic>p</italic>&#x2009;=&#x2009;0.015), which parallels our findings based on instruments developed for the continuous FEV<sub>1</sub>/FVC phenotype.</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Functional characterization of lung function instruments</title>
+        <p id="Par23">To gain insight into biological mechanisms mediating the observed effects of impaired pulmonary function on lung cancer risk, we conducted in silico analyses of functional features associated with the genetic instruments for each lung phenotype.</p>
+        <p id="Par24">We identified 185 statistically significant (Bonferroni <italic>p</italic>&#x2009;&lt;&#x2009;0.05) <italic>cis</italic>-eQTLs for 101 genes among the genetic instruments for FEV<sub>1</sub> and FEV<sub>1</sub>/FVC based on lung tissue gene expression data from the Laval biobank<sup><xref ref-type="bibr" rid="CR35">35</xref></sup> (Supplementary Data&#xA0;<xref rid="MOESM9" ref-type="media">7</xref>). Predicted expression of seven genes was significantly (<italic>p</italic>&#x2009;&lt;&#x2009;5.0&#x2009;&#xD7;&#x2009;10<sup>&#x2212;4</sup>) associated with lung cancer risk: <italic>SECISBP2L</italic>, <italic>HLA-L</italic>, <italic>DISP2</italic>, <italic>MAPT</italic>, <italic>KANSL1-AS1</italic>, <italic>LRRC37A4P</italic>, and <italic>PLEKHM1</italic> (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">5</xref>). Of these, <italic>SECISBP2L</italic> (OR&#x2009;=&#x2009;0.80, <italic>p</italic>&#x2009;=&#x2009;5.2&#x2009;&#xD7;&#x2009;10<sup>&#x2212;8</sup>), <italic>HLA-L</italic> (OR&#x2009;=&#x2009;0.84, <italic>p</italic>&#x2009;=&#x2009;1.6&#x2009;&#xD7;&#x2009;10<sup>&#x2212;6</sup>), and <italic>DISP2</italic> (OR&#x2009;=&#x2009;1.25, <italic>p</italic>&#x2009;=&#x2009;1.6&#x2009;&#xD7;&#x2009;10<sup>&#x2212;4</sup>) displayed consistent directions of effect for pulmonary function and lung cancer risk, whereby alleles associated with increased expression were associated with impaired FEV<sub>1</sub> or FEV<sub>1</sub>/FVC and increased cancer risk (or conversely, positively associated with pulmonary function and inversely associated with cancer risk). Gene expression associations with inconsistent effects are more likely to indicate pleiotropic pathways not operating primarily through pulmonary impairment. Differences by histology were observed for <italic>SECISBP2L</italic>, which was associated with adenocarcinoma (OR&#x2009;=&#x2009;0.54, <italic>p</italic>&#x2009;=&#x2009;3.1&#x2009;&#xD7;&#x2009;10<sup>&#x2212;14</sup>), but not squamous cell carcinoma (OR&#x2009;=&#x2009;1.05, <italic>p</italic>&#x2009;=&#x2009;0.44). Effects observed for <italic>DISP2</italic> (OR&#x2009;=&#x2009;1.21, <italic>p</italic>&#x2009;=&#x2009;0.021) and <italic>HLA-L</italic> (OR&#x2009;=&#x2009;0.90, <italic>p</italic>&#x2009;=&#x2009;0.034) were attenuated for adenocarcinoma, but not for squamous carcinoma (<italic>DISP2</italic>: OR&#x2009;=&#x2009;1.30, <italic>p</italic>&#x2009;=&#x2009;6.2&#x2009;&#xD7;&#x2009;10<sup>&#x2212;3</sup>; <italic>HLA-L</italic>: OR&#x2009;=&#x2009;0.75, <italic>p</italic>&#x2009;=&#x2009;1.6&#x2009;&#xD7;&#x2009;10<sup>&#x2212;6</sup>).</p>
+        <p id="Par25">A total of 70 lung function instruments were mapped to genome-wide significant (<italic>p</italic>&#x2009;&lt;&#x2009;5.0&#x2009;&#xD7;&#x2009;10<sup>&#x2212;8</sup>) protein quantitative trait loci (pQTL) affecting the plasma levels of 64 different proteins (Supplementary Data&#xA0;<xref rid="MOESM10" ref-type="media">8</xref>), based on data from the Human Plasma Proteome Atlas<sup><xref ref-type="bibr" rid="CR36">36</xref></sup>. Many of these pQTL targets are involved in regulation of immune and inflammatory responses, such as interleukins (IL21, IL1R1, IL17RD, IL18R1), MHC class I polypeptide-related sequences, transmembrane glycoproteins expressed by natural killer cells, and members of the tumor necrosis receptor superfamily (TNFSF12, TNFRSF6B, TR19L). Other notable associations include NAD(P)H dehydrogenase [quinone] 1 (NQO1) a detoxification enzyme involved in protecting lung tissues in response to reactive oxidative stress (ROS) and promoting p53 stability<sup><xref ref-type="bibr" rid="CR37">37</xref></sup>. NQO1 is a target of the NFE2-related factor 2 (NRF2), a master regulator of cellular antioxidant response that has generated considerable interest as a chemoprevention target<sup><xref ref-type="bibr" rid="CR38">38</xref>,<xref ref-type="bibr" rid="CR39">39</xref></sup>.</p>
+        <p id="Par26">Next, we analyzed genes where the lung function instruments were localized using curated pathways from the Reactome database. Significant enrichment (FDR <italic>q</italic>&#x2009;&lt;&#x2009;0.05) was observed only for FEV<sub>1</sub>/FVC instruments in never smokers, with an over-representation of pathways involved in adaptive immunity and cytokine signaling (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">6</xref>). Top-ranking pathways with <italic>q</italic>&#x2009;=&#x2009;2.2&#x2009;&#xD7;&#x2009;10<sup>&#x2212;6</sup> included translocation of ZAP-70 to immunological synapse, phosphorylation of CD3 and TCR zeta chains, and PD-1 signaling. These findings are in line with the predominance of immune-related pQTL associations. Examining all instruments for FEV<sub>1</sub> and FEV<sub>1</sub>/FVC identified significant over-representation (FDR <italic>q</italic>&#x2009;&lt;&#x2009;0.05) of six immunologic signatures from the ImmuneSigDB collection<sup><xref ref-type="bibr" rid="CR40">40</xref></sup>, including pathways implicated in host response to infection and immunization (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">7</xref>).</p>
+      </sec>
+    </sec>
+    <sec id="Sec7" sec-type="discussion">
+      <title>Discussion</title>
+      <p id="Par27">Despite a substantial body of observational literature demonstrating an increased risk of lung cancer in individuals with pulmonary dysfunction<sup><xref ref-type="bibr" rid="CR2">2</xref>&#x2013;<xref ref-type="bibr" rid="CR7">7</xref>,<xref ref-type="bibr" rid="CR41">41</xref></sup>, confounding by shared environmental risk factors and high co-occurrence of lung cancer and airflow obstruction created uncertainty regarding the causal nature of this relationship. We comprehensively investigated this by characterizing shared genetic profiles between lung cancer and lung function, and interrogated causal hypotheses using Mendelian randomization, which overcomes many limitations of observational studies. We also provide insight into biological pathways underlying the observed associations by incorporating functional annotations into heritability analyses, assessing eQTL and pQTL effects of lung function instruments, and conducting pathway enrichment analyses.</p>
+      <p id="Par28">The large sample size of the UK Biobank allowed us to successfully create instruments for three pulmonary function phenotypes, FEV<sub>1</sub>, FEV<sub>1</sub>/FVC, and FVC. Although these phenotypes are closely related, they capture different aspects of pulmonary impairment, with FEV<sub>1</sub> and FEV<sub>1</sub>/FVC used for diagnostic purposes in clinical setting. Our genetic instruments captured known and novel mechanisms involved in pulmonary function. Of the 73 novel variants identified here, many were in loci implicated in immune-related functions and pathologies. Examples include <italic>HORMAD2</italic>, which has been previously linked to inflammatory bowel disease<sup><xref ref-type="bibr" rid="CR42">42</xref>,<xref ref-type="bibr" rid="CR43">43</xref></sup> and tonsillitis<sup><xref ref-type="bibr" rid="CR44">44</xref></sup>, and <italic>RIPOR1</italic> (also known as <italic>FAM65A</italic>), which is part of a gene expression signature for atopy<sup><xref ref-type="bibr" rid="CR45">45</xref></sup>. <italic>PIEZO1</italic> is primarily involved in mechano-transduction and tissue differentiation during embryonic development<sup><xref ref-type="bibr" rid="CR46">46</xref>&#x2013;<xref ref-type="bibr" rid="CR48">48</xref></sup>, however, recent evidence has emerged delineating its role in optimal T-cell receptor activation and immune regulation<sup><xref ref-type="bibr" rid="CR49">49</xref></sup>. <italic>BACH2</italic>, the new signal for FEV<sub>1</sub>/FVC in never smokers, is involved in alveolar macrophage function<sup><xref ref-type="bibr" rid="CR50">50</xref></sup>, as well as selection-mediated <italic>TP53</italic> regulation and checkpoint control<sup><xref ref-type="bibr" rid="CR51">51</xref></sup>. The lead variant identified here is independent (<italic>r</italic><sup>2</sup>&#x2009;&lt;&#x2009;0.05) of <italic>BACH2</italic> loci nominally associated with lung function decline in a candidate gene study of COPD patients<sup><xref ref-type="bibr" rid="CR52">52</xref></sup>, suggesting there may be differences in the genetic architecture of pulmonary traits in never smokers.</p>
+      <p id="Par29">Our genetic correlation analyses indicate shared genetic determinants between pulmonary function with anthropometric traits and cigarette smoking. Our results are in contrast with the recent findings of Wyss et al.<sup><xref ref-type="bibr" rid="CR24">24</xref></sup>, who did not observe statistically significant genetic correlations for any pulmonary function phenotypes with height and smoking, as well FVC and FEV<sub>1</sub>/FVC, using publicly available summary statistics from the UKB and other studies of European ancestry individuals. In this respect, assessing genetic correlation within a single well-characterized population provides improved power while minimizing potential for bias and heterogeneity when combining data from multiple sources.</p>
+      <p id="Par30">We observed statistically significant genetic correlations between pulmonary function impairment and lung cancer susceptibility for all lung cancer subtypes, except for never smokers. Reduced FEV<sub>1</sub>/FVC was significantly correlated with increased risk of lung cancer overall, squamous cell carcinoma, and adenocarcinoma. Significant genetic correlations with FEV<sub>1</sub> and FVC were observed for lung cancer overall, in smokers, and for tumors with squamous cell histology, but not adenocarcinoma. Jiang et al.<sup><xref ref-type="bibr" rid="CR25">25</xref></sup> reported a similar magnitude of genetic correlation with FEV<sub>1</sub>/FVC, but did not observe an association with FVC, and did not assess FEV<sub>1</sub>. Differences in our results may be attributable to their use of GWAS summary statistics for pulmonary phenotypes from the interim UK Biobank release. Our findings demonstrate substantial overlap in the genetic architecture of obstructive and neoplastic lung disease, particularly for highly conserved variants that are likely to be subject to natural selection, and super enhancers. However, genetic correlations do not support a causal interpretation, especially considering the shared heritability with potentially confounding traits, such as smoking and obesity.</p>
+      <p id="Par31">On the other hand, Mendelian randomization analyses revealed histology-specific effects of reduced FEV<sub>1</sub> and FEV<sub>1</sub>/FVC on lung cancer susceptibility, suggesting that these indicators of impaired pulmonary function may be causal risk factors. Genetic predisposition to FEV<sub>1</sub> impairment conferred an increased risk of lung cancer overall, particularly for squamous carcinoma. This relationship persisted after filtering potentially pleiotropic instruments and performing other sensitivity analyses, including multivariable Mendelian randomization and manual filtering of variants associated with smoking or adiposity. FEV<sub>1</sub>/FVC reduction appeared to increase the risk of lung adenocarcinoma, as well as lung cancer among never smokers. The latter finding is particularly compelling since it precludes confounding by smoking-related factors and demonstrates an association with the most clinically relevant pulmonary phenotype. The increased lung cancer risk in never smokers was also observed using genetic instruments developed specifically in never smokers and in sensitivity analyses using instruments from the population that also includes smokers. We hypothesize that the effects of pulmonary obstruction are mediated by chronic inflammation and immune response, which is supported by the over-representation of adaptive immunity and cytokine signaling pathways and pQTL effects among FEV<sub>1</sub> and FEV<sub>1</sub>/FVC instruments.</p>
+      <p id="Par32">Examining lung eQTL effects of our genetic instruments identified additional relevant mechanisms, including gene expression of <italic>SECISBP2L</italic> and <italic>DISP2</italic>. <italic>SECISBP2L</italic> at 15q21 is essential for ciliary function<sup><xref ref-type="bibr" rid="CR53">53</xref></sup> and has an inhibitory effect on lung tumor growth by suppressing cell proliferation and inactivation of Aurora kinase A<sup><xref ref-type="bibr" rid="CR54">54</xref></sup>. This gene was among several susceptibility regions identified in the most recent lung cancer GWAS<sup><xref ref-type="bibr" rid="CR16">16</xref></sup>, and now we more conclusively establish impaired pulmonary function as the mechanism mediating <italic>SECISBP2L</italic> effects on risk of lung cancer overall, particularly adenocarcinoma. Less is known about <italic>DISP2</italic>, although it has been implicated in the conserved Hedgehog signaling pathway essential for embryonic development and cell differentiation<sup><xref ref-type="bibr" rid="CR55">55</xref></sup>.</p>
+      <p id="Par33">One of the main challenges and outstanding questions in previous epidemiologic studies has been clarifying how smoking fits into the causal pathway between impaired pulmonary function and lung cancer risk. Are indicators of airway obstruction simply proxies for smoking-induced carcinogenesis? The association between reduced FEV<sub>1</sub>/FVC and risk of adenocarcinoma and lung cancer in never smokers observed in our Mendelian randomization analysis and in previous studies<sup><xref ref-type="bibr" rid="CR8">8</xref>,<xref ref-type="bibr" rid="CR9">9</xref></sup>, argues against this simplistic explanation and points to alternative pathways. Chronic airway inflammation fosters a lung microenvironment with altered signaling pathways, aberrant expression of cytokines, chemokines, growth factors, and DNA damage-promoting agents, all of which promote cancer initaiton<sup><xref ref-type="bibr" rid="CR15">15</xref></sup>. This mechanism may be particularly relevant for adenocarcinoma, which is the most common lung cancer histology in never smokers, arising from the peripheral alveolar epithelium that has less direct contact with inhaled carcinogens.</p>
+      <p id="Par34">Dysregulated immune function is a hallmark of lung cancer and COPD, with both diseases sharing similar inflammatory cell profiles characterized by macrophages, neutrophils, and CD4+ and CD8+ lymphocytes. Immune cells in COPD and emphysema exhibit T helper 1 (Th1)/Th17 polarization, decreased programmed death ligand-1 (PD-L1) expression in alveolar macrophages, and increased production of interferon (IFN)-&#x3B3; by CD8+ T cells<sup><xref ref-type="bibr" rid="CR56">56</xref></sup>, a phenotype believed to prevail at tumor initiation, whereas established tumors are dominated by Th2/M2-like macrophages<sup><xref ref-type="bibr" rid="CR57">57</xref></sup>. These putative mechanisms were highlighted in our pathway analysis, with an enrichment of genes involved in INF-&#x3B3;, PD-1 and IL-1 signaling among FEV<sub>1</sub>/FVC genetic instruments, and over-representation of pQTL targets in these pathways. Furthermore, a study of <italic>trans</italic>-thoracically implanted tumors in an emphysema mouse model demonstrates how this pulmonary phenotype results in impaired antitumor T-cell responses at a critical point when nascent cancer cells evade detection and elimination by the immune system resulting in enhanced tumor growth<sup><xref ref-type="bibr" rid="CR58">58</xref></sup>.</p>
+      <p id="Par35">Other relevant pathways implicating pulmonary dysfunction in lung cancer development include lung tissue destruction via matrix degrading enzymes and increased genotoxic and apoptotic stress resulting from cigarette smoke in conjunction with macrophage- and neutrophil-derived ROS<sup><xref ref-type="bibr" rid="CR15">15</xref>,<xref ref-type="bibr" rid="CR59">59</xref></sup>. This may explain our findings for FEV<sub>1</sub> and squamous carcinoma, for which cigarette smoking is a particularly dominant risk factor. Genetic predisposition to impaired FEV<sub>1</sub> may create a milieu that promotes malignant transformation and susceptibility to external carcinogens and tissue damage, rather than increasing the likelihood of cigarette smoking. In our analysis we attempted to isolate the former pathway from the latter by carefully instrumenting pulmonary phenotypes and confirming that they are not associated with behavioral aspects of nicotine dependence. However, residual confounding by smoking cannot be entirely precluded, given its high genetic and phenotypic correlation with FEV<sub>1</sub>.</p>
+      <p id="Par36">The causal interpretation of our results critically depends on the validity of fundamental Mendelian randomization assumptions. We employed a range of estimation techniques with different underlying assumptions, as well as diagnostic tests, to interrogate the robustness of our results with respect to confounding, horizontal pleiotropy, and weak instrument bias. However, despite these efforts, residual confounding by related phenotypes, such as smoking, or subtle effects of population structure cannot be ruled out. In evaluating the contribution of our findings, several limitations should be acknowledged. Our approach to outlier removal based on Cochran&#x2019;s Q-statistic with modified second order weights may have been overly stringent; however, manually pruning based on such a large set of genetic instruments may not be feasible and may introduce additional bias, thus we feel this systematic conservative approach is justified. Furthermore, outlier removal did not have an adverse impact on instrument strength and precision of the MR analysis.</p>
+      <p id="Par37">In addition to pleiotropy, selection bias may also undermine the validity of a Mendelian Randomization study, particularly in the form of collider bias, if selection is a function of the exposure or outcome. In the context of the UKB, low participation (5.5%) may have resulted in an unrepresentative study population<sup><xref ref-type="bibr" rid="CR60">60</xref>,<xref ref-type="bibr" rid="CR61">61</xref></sup>. Although enrollment in the cohort was not explicitly contingent on cancer status or pulmonary function, it is likely that individuals who did not complete a spirometry assessment were more likely to be smokers and have poor lung function. Simulations by Gkatzionis and Burgess<sup><xref ref-type="bibr" rid="CR61">61</xref></sup> demonstrate that when the effect of a risk factor on selection is mild to moderate (odds of selection: 0.82&#x2013;0.61), the type I error rate remains reasonable at 5.0&#x2013;6.6%. The direction of the resulting bias depends on the direction and strength of the exposure (lung function)&#x2013;confounder (smoking) relationship. In the context of our study, the causal effect may be underestimated since the confounder and exposure are both likely to increase non-participation or result in missing spirometry data.</p>
+      <p id="Par38">Another limitation is that we did not assess the relationship between the velocity of lung function decline and lung cancer risk, which may also prove to be a risk factor and capture a different dimension of pulmonary dysfunction. Furthermore, since our study includes the largest GWAS of lung cancer cases in never smokers, this precludes a well-powered replication study in an independent European ancestry population. In addition, dichotomous stratification by smoking status does not permit an evaluation of the relationship between pulmonary impairment and lung cancer risk across more granular levels of smoking. Last, in our efforts to present the most comprehensive assessment of pulmonary function impairment and lung cancer risk, a number of analyses were conducted, and it may be possible that some inconsistently observed associations were due to chance.</p>
+      <p id="Par39">Despite these limitations, important strengths of this work include the large sample size for instrument development and causal hypothesis testing. Our Mendelian randomization approach leveraged a large number of genetic instruments, including variants specifically associated with lung function in never smokers, while balancing the concerns related to genetic confounding and pleiotropy. By triangulating evidence from gene expression and plasma protein levels, we also provide a more enriched interpretation of the genetic effects of pulmonary function loci on lung cancer risk, which implicate immune-mediated pathways. Despite the small individual SNP effect sizes, combining multiple instruments revealed meaningful increases in lung cancer risk. A genetically predicted 10% reduction in FEV<sub>1</sub>/FVC confers an ~55% increased risk of lung cancer in never smokers, and a similar magnitude of effect was observed for FEV<sub>1</sub> and squamous carcinoma. However, effects of FEV<sub>1</sub>/FVC on adenocarcinoma were more modest (16&#x2013;23% increase). Taken together, these findings provide more robust etiological insight than previous studies that relied on using observed lung function phenotypes directly as putatively casual factors.</p>
+      <p id="Par40">As our understanding of the shared genetic and molecular pathways between lung cancer and pulmonary disease continues to evolve, identification of new susceptibility loci for pulmonary function and lung cancer risk may have important implications for future precision prevention and screening endeavors. Multiple genetic determinants of lung function are in pathways that contain druggable targets, based on our pQTL findings and previous reports<sup><xref ref-type="bibr" rid="CR18">18</xref></sup>, which may open new avenues for chemoprevention or targeted therapies for lung cancers with an obstructive pulmonary etiology. In addition, with accumulating evidence supporting the effectiveness of low-dose computed tomography for lung cancer<sup><xref ref-type="bibr" rid="CR62">62</xref>,<xref ref-type="bibr" rid="CR63">63</xref></sup>, impairment in FEV<sub>1</sub> and FEV<sub>1</sub>/FVC and their genetic determinants may provide additional information for refining risk stratification and screening eligibility criteria.</p>
+    </sec>
+    <sec id="Sec8">
+      <title>Methods</title>
+      <sec id="Sec9">
+        <title>Study populations</title>
+        <p id="Par41">The UK Biobank (UKB) is a population-based prospective cohort of over 500,000 individuals aged 40&#x2013;69 years at enrollment in 2006&#x2013;2010 who completed extensive questionnaires on health-related factors, physical assessments, and provided blood samples<sup><xref ref-type="bibr" rid="CR64">64</xref></sup>. Participants were genotyped on the UK Biobank Affymetrix Axiom array (89%) or the UK BiLEVE array (11%)<sup><xref ref-type="bibr" rid="CR64">64</xref></sup>. Genotype imputation was performed using the Haplotype Reference Consortium data as the main reference panel as well as using the merged UK10K and 1000 Genomes (1000G) phase 3 reference panels<sup><xref ref-type="bibr" rid="CR64">64</xref></sup>. Our analyses were restricted to individuals of predominantly European ancestry based on self-report and after excluding samples with either of the first two genetic ancestry principal components (PCs) outside of 5 standard deviations (SD) of the population mean. Samples with discordant self-reported and genetic sex were removed. Using a subset of genotyped autosomal variants with minor allele frequency (MAF) &#x2265;0.01 and call rate &#x2265;97%, we filtered samples with call rates &lt;97% or heterozygosity &gt;5 standard deviations (SD) from the mean. First-degree relatives were identified using KING<sup><xref ref-type="bibr" rid="CR65">65</xref></sup> and one sample from each pair was excluded, leaving at total of 413,810 individuals available for analysis.</p>
+        <p id="Par42">We further excluded 36,461 individuals without spirometry data, 207 individuals who only completed one blow (<italic>n</italic>&#x2009;=&#x2009;207), for whom reproducibility could not be assessed (Supplementary Fig.&#xA0;<xref rid="MOESM1" ref-type="media">1</xref>). For the remaining subjects, we examined the difference between the maximum value per individual (referred to as the best measure) and all other blows. Values differing by more than 0.15&#x2009;L were considered non-reproducible, based on standard spirometry guidelines<sup><xref ref-type="bibr" rid="CR66">66</xref></sup>, and were excluded. Our analyses thus included 372,750 and 370,638 individuals for of FEV<sub>1</sub> and FVC, respectively. The best per individual measure among the reproducible blows was used to derive FEV<sub>1</sub>/FVC, resulting in 368,817 individuals. FEV<sub>1</sub> and FVC values were then converted to standardized Z-scores with a mean of 0 and standard deviation (SD) of 1.</p>
+        <p id="Par43">The OncoArray Lung Cancer study has been previously described<sup><xref ref-type="bibr" rid="CR16">16</xref></sup>. Briefly, this dataset consists of genome-wide summary statistics based on 29,266 lung cancer cases (11,273 adenocarcinoma, 7426 squamous carcinoma) and 56,450 controls of predominantly European ancestry (&#x2265;80%) assembled from studies part of the International Lung Cancer Consortium. Summary statistics from the lung cancer GWAS were adjusted for appropriate covariates, including genetic ancestry PCs, and showed no signs of genomic inflation for lung cancer overall (<italic>&#x3BB;</italic><sub>GC</sub>&#x2009;=&#x2009;1.0035) or for any subtypes, including adenocarcinoma (<italic>&#x3BB;</italic><sub>GC</sub>&#x2009;=&#x2009;1.0050), squamous carcinoma (<italic>&#x3BB;</italic><sub>GC</sub>&#x2009;=&#x2009;1.0051), and lung cancer in never smokers (<italic>&#x3BB;</italic><sub>GC</sub>&#x2009;=&#x2009;1.0060).</p>
+        <p id="Par44">Informed consent was obtained from study participants in the UK Biobank and studies contributing data to the OncoArray Lung Cancer collaboration. UK Biobank received ethics approval from the Research Ethics Committee (REC reference: <xref ref-type="bibr" rid="CR11">11</xref>/NW/0382). Approval for OncoArray studies was obtained from each of the participating institutional research ethics review boards.</p>
+      </sec>
+      <sec id="Sec10">
+        <title>Genome-wide association analysis</title>
+        <p id="Par45">Genome-wide association analyses of pulmonary function phenotypes in the UK Biobank cohort were conducted using PLINK 2.0 (October 2017 version). We excluded variants out of with Hardy&#x2013;Weinberg equilibrium at <italic>p</italic>&#x2009;&lt;&#x2009;1&#x2009;&#xD7;&#x2009;10<sup>&#x2212;5</sup> in cancer-free individuals, call rate &lt;95% (alternate allele dosage required to be within 0.1 of the nearest hard call to be non-missing), imputation quality INFO&#x2009;&lt;&#x2009;0.30, and MAF&#x2009;&lt;&#x2009;0.005. To minimize potential for reverse causation, prevalent lung cancer cases, defined as diagnoses occurring up to 5 years before cohort entry and incident cases occurring within 2 years of enrollment, were excluded (<italic>n</italic>&#x2009;=&#x2009;738). Linear regression models for pulmonary function phenotypes (standardized Z-scores for FEV<sub>1</sub> and FVC; untransformed FEV<sub>1</sub>/FVC ratio bounded by 0 and 1) were adjusted for age, age2, sex, genotyping array and 15 PCs to permit an assessment of heritability (<italic>h</italic><sub>g</sub>) and genetic correlation (<italic>r</italic><sub>g</sub>) with height, smoking (status and pack-years), and anthropometric traits.</p>
+      </sec>
+      <sec id="Sec11">
+        <title>Heritability and genetic correlation</title>
+        <p id="Par46">LD Score regression<sup><xref ref-type="bibr" rid="CR17">17</xref></sup> was used to estimate <italic>h</italic><sub>g</sub> for each lung phenotype and <italic>r</italic><sub>g</sub> with lung cancer and other traits. To better capture LD patterns present in the UKB data, we generated LD scores for all variants that passed QC with MAF&#x2009;&gt;&#x2009;0.0001 using a random sample of 10,000 UKB participants. UKB LD scores were used to estimate <italic>h</italic><sub>g</sub> for each lung phenotype and <italic>r</italic><sub>g</sub> with other non-cancer traits. Genetic correlation with lung cancer was estimated using publicly available LD scores based on the 1000G phase 3 reference population (<italic>n</italic>&#x2009;=&#x2009;1,095,408 variants).</p>
+        <p id="Par47">To assess the importance of specific functional annotations in SNP-heritability, we partitioned trait-specific heritability using stratified-LDSC<sup><xref ref-type="bibr" rid="CR67">67</xref></sup>. The analysis was performed using 86 annotations (baseline-LD model v2.1), which incorporated MAF-adjustment and other LD-related annotations, such as predicted allele age and recombination rate<sup><xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR22">22</xref></sup>. The MHC region was excluded from partitioned heritability analyses. Enrichment was considered statistically significant if <italic>p</italic>&#x2009;&lt;&#x2009;8.5&#x2009;&#xD7;&#x2009;10<sup>&#x2212;4</sup>, which reflects Bonferroni correction for 59 annotations (functional categories with and without a 500&#x2009;bp window around it were considered as the same annotation).</p>
+      </sec>
+      <sec id="Sec12">
+        <title>Development of genetic instruments for pulmonary function</title>
+        <p id="Par48">For the purpose of instrument development, a two-stage genome-wide analysis was employed, with a randomly sampled 70% of the cohort used for discovery and the remaining 30% reserved for replication. In addition to age, age2, sex, genotyping array and 15 PC&#x2019;s, models were adjusted for covariates that explain a substantial proportion of variation in pulmonary phenotypes, such as smoking and height, in order to decrease the residual variance and help isolate the relevant genetic signals. Specifically, we adjusted for height, height2, and cigarette pack-year categories (0, corresponding to never smokers, &gt;0&#x2013;10, &gt;10&#x2013;20, &gt;20&#x2013;30, &gt;30&#x2013;40, and &gt;40). Other covariates, such as UKB assessment center (Field 54), use of an inhaler prior to spirometry (Field 3090), and blow acceptability (Field 3061) were considered. However, these covariates did not explain a substantial proportion of phenotype variation and had low variable importance metrics (lmg&#x2009;&lt;&#x2009;0.01), and thus were not included in our final models. Instruments were selected from independent associated variants (LD <italic>r</italic><sup>2</sup>&#x2009;&lt;&#x2009;0.05 in a clumping window of 10,000&#x2009;kb) with <italic>P</italic>&#x2009;&lt;&#x2009;5&#x2009;&#xD7;&#x2009;10<sup>&#x2212;8</sup> in the discovery stage and <italic>P</italic>&#x2009;&lt;&#x2009;0.05 and consistent direction of effect in the replication stage. Since the primary goal of our GWAS was to develop a comprehensive set of genetic instruments we applied a less stringent replication threshold in anticipation of subsequent filtering based on potential violation of Mendelian randomization assumptions.</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Mendelian randomization</title>
+        <p id="Par49">Mendelian randomization (MR) analyses were carried out to investigate the potential causal relationship between impaired pulmonary function and lung cancer risk. Genetic instruments excluded multi-allelic and non-inferable palindromic variants with intermediate allele frequencies (MAF&#x2009;&gt;&#x2009;0.42). Odds ratios (OR) and corresponding 95% confidence intervals were obtained using the maximum likelihood and inverse variance weighted multiplicative random-effects (IVW-RE) estimators<sup><xref ref-type="bibr" rid="CR28">28</xref>,<xref ref-type="bibr" rid="CR29">29</xref></sup>. Effects for FEV<sub>1</sub> and FVC were estimated for a genetically predicted 1-SD decrease in the standardized Z-score. For FEV<sub>1</sub>/FVC, we modeled cancer risk corresponding to a 10% decrease in the ratio. Sensitivity analyses included the weighted median (WM) estimator<sup><xref ref-type="bibr" rid="CR30">30</xref></sup>, which provides unbiased estimates when up to 50% of the weights are from invalid instruments, and MR RAPS (Robust Adjusted Profile Score), which incorporates random effect and robust loss functions to limit the influence of potentially pleiotropic instruments. MR RAPS assumes balanced (mean 0) horizontal pleiotropy. In contrast to IVW-RE, MR RAPS models idiosyncratic and systematic pleiotropy effects as additive, rather than multiplicative<sup><xref ref-type="bibr" rid="CR31">31</xref></sup>. Using MR estimation techniques with different underlying statistical models allows for a more comprehensive assessment of the robustness of our results with respect to violations of MR assumptions. We also applied the following diagnostic tests: (i) significant (<italic>p</italic>&#x2009;&lt;&#x2009;0.05) deviation of the MR Egger intercept (<italic>&#x3B2;</italic><sub>0 Egger</sub>) from 0, as a test for directional pleiotropy<sup><xref ref-type="bibr" rid="CR68">68</xref></sup>; (ii) <italic>I</italic><sup>2</sup><sub>GX</sub> statistic&#x2009;&lt;&#x2009;0.90 indicative of regression dilution bias and inflation in the MR Egger pleiotropy test due to violation of the no measurement error (NOME) assumption<sup><xref ref-type="bibr" rid="CR68">68</xref></sup>; (iii) Cochran&#x2019;s Q-statistic with modified second order weights to asses heterogeneity (<italic>p</italic>-value&#x2009;&lt;&#x2009;0.05) indicative of (balanced) horizontal pleiotropy<sup><xref ref-type="bibr" rid="CR69">69</xref></sup>.</p>
+        <p id="Par50">All statistical analyses were conducted using R (version 3.6.1). Mendelian randomization analyses were conducted using the TwoSampleMR R package (version 0.4.23).</p>
+      </sec>
+      <sec id="Sec14">
+        <title>Functional characterization of lung function instruments</title>
+        <p id="Par51">In order to characterize functional pathways that are represented by the genetic instruments for FEV<sub>1</sub> and FEV<sub>1</sub>/FVC, we examined effects on gene expression in lung tissues from 409 subjects from the Laval eQTL study<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>. Lung function instruments with significant (Bonferroni <italic>p</italic>-value&#x2009;&lt;&#x2009;0.05) eQTL effects were used as instruments to estimate the effect of the gene expression on lung cancer risk. For genes with multiple eQTLs, independent variants (LD <italic>r</italic><sup>2</sup>&#x2009;&lt;&#x2009;0.05) were used to obtain IVW estimates of the predicted effects of increased gene expression on lung cancer risk. For genes with a single eQTL, OR estimates were obtained using the Wald method. Next, we examined data from the genetic atlas of the human plasma proteome<sup><xref ref-type="bibr" rid="CR36">36</xref></sup>, queried using PhenoScanner<sup><xref ref-type="bibr" rid="CR70">70</xref></sup>, to assess whether any of the genetic instruments for FEV<sub>1</sub> and FEV<sub>1</sub>/FVC had significant (<italic>p</italic>&#x2009;&lt;&#x2009;5&#x2009;&#xD7;&#x2009;10<sup>&#x2212;8</sup>) effects on intracellular protein levels. Last, we summarized the pathways represented by the genes where the lung function instruments were localized using pathway enrichment analysis via the Reactome database and ImmuneSigDB (collection C7 from MSigDB).</p>
+      </sec>
+      <sec id="Sec15">
+        <title>URLs</title>
+        <p id="Par52">PLINK 2.0: <ext-link ext-link-type="uri" xlink:href="https://www.cog-genomics.org/plink/2.0/">https://www.cog-genomics.org/plink/2.0/</ext-link></p>
+        <p id="Par53">LDSC (version 1.0.0) from: <ext-link ext-link-type="uri" xlink:href="https://github.com/bulik/ldsc/">https://github.com/bulik/ldsc/</ext-link></p>
+        <p id="Par54">LDSC functional annotations available from:</p>
+        <p id="Par55">
+<ext-link ext-link-type="uri" xlink:href="https://data.broadinstitute.org/alkesgroup/LDSCORE/1000G_Phase3_EUR_baselineLD_v2.1_ldscores.tgz">https://data.broadinstitute.org/alkesgroup/LDSCORE/1000G_Phase3_EUR_baselineLD_v2.1_ldscores.tgz</ext-link>
+</p>
+        <p id="Par56">R package for Circos plots (version 0.4.7): <ext-link ext-link-type="uri" xlink:href="https://github.com/jokergoo/circlize">https://github.com/jokergoo/circlize</ext-link></p>
+        <p id="Par57">R package for Mendelian Randomization (version 0.4.23): <ext-link ext-link-type="uri" xlink:href="https://github.com/MRCIEU/TwoSampleMR">https://github.com/MRCIEU/TwoSampleMR</ext-link></p>
+        <p id="Par58">R package for PhenoScanner (version 1.0): <ext-link ext-link-type="uri" xlink:href="https://github.com/phenoscanner/phenoscanner">https://github.com/phenoscanner/phenoscanner</ext-link></p>
+        <p id="Par59">R packages for pathway analysis: <ext-link ext-link-type="uri" xlink:href="https://bioconductor.org/packages/release/bioc/html/ReactomePA.html">https://bioconductor.org/packages/release/bioc/html/ReactomePA.html</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html">https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html</ext-link></p>
+        <p id="Par60">ImmuneSigDB (C7): <ext-link ext-link-type="uri" xlink:href="http://software.broadinstitute.org/gsea/msigdb/collections.jsp">http://software.broadinstitute.org/gsea/msigdb/collections.jsp</ext-link>.</p>
+      </sec>
+      <sec id="Sec16">
+        <title>Reporting summary</title>
+        <p id="Par61">Further information on research design is available in the&#xA0;<xref rid="MOESM11" ref-type="media">Nature Research Reporting Summary</xref> linked to this article.</p>
+      </sec>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary information</title>
+      <sec id="Sec17">
+        <p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="41467_2019_13855_MOESM1_ESM.pdf"><caption><p>Supplementary Information</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="41467_2019_13855_MOESM2_ESM.pdf"><caption><p>Description of Additional Supplementary Files</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM3"><media xlink:href="41467_2019_13855_MOESM3_ESM.xlsx"><caption><p>Supplementary Data 1</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM4"><media xlink:href="41467_2019_13855_MOESM4_ESM.xlsx"><caption><p>Supplementary Data 2</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM5"><media xlink:href="41467_2019_13855_MOESM5_ESM.xlsx"><caption><p>Supplementary Data 3</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM6"><media xlink:href="41467_2019_13855_MOESM6_ESM.xlsx"><caption><p>Supplementary Data 4</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM7"><media xlink:href="41467_2019_13855_MOESM7_ESM.xlsx"><caption><p>Supplementary Data 5</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM8"><media xlink:href="41467_2019_13855_MOESM8_ESM.xlsx"><caption><p>Supplementary Data 6</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM9"><media xlink:href="41467_2019_13855_MOESM9_ESM.xlsx"><caption><p>Supplementary Data 7</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM10"><media xlink:href="41467_2019_13855_MOESM10_ESM.xlsx"><caption><p>Supplementary Data 8</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM11"><media xlink:href="41467_2019_13855_MOESM11_ESM.pdf"><caption><p>Reporting Summary</p></caption></media></supplementary-material>
+</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p><bold>Peer review information</bold>
+<italic>Nature Communications</italic> thanks Bjorn Olav Asvold and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available.</p>
+      </fn>
+      <fn>
+        <p><bold>Publisher&#x2019;s note</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+      <fn>
+        <p>These authors jointly supervised this work: John S. Witte, Rayjean J. Hung</p>
+      </fn>
+    </fn-group>
+    <sec>
+      <title>Supplementary information</title>
+      <p><bold>Supplementary information</bold> is available for this paper at 10.1038/s41467-019-13855-2.</p>
+    </sec>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Where authors are identified as personnel of the International Agency for Research on Cancer/World Health Organization, the authors alone are responsible for the views expressed in this article and they do not necessarily represent the decisions, policy or views of the International Agency for Research on Cancer/World Health Organization. This research was supported by funding from the National Institutes of Health (US NCI R25T CA112355 and R01 CA201358; PI: Witte) and the Canadian Institute for Health Research (Foundation grant FDN 167273, PI: Hung; Canada Research Chair, PI: Hung). The OncoArray project was supported by NIH U19 CA203654 (MPI: Hung, Amos, Brennan, Lin). The Boston Lung Cancer Study was funded by NIH (NCI) U01CA209414 (PI: Christiani). The lung eQTL study at Laval University was supported by the Fondation de l&#x2019;Institut universitaire de cardiologie et de pneumologie de Qu&#xE9;bec and the Canadian Institutes of Health Research (MOP &#x2212; 123369). Y.B. holds a Canada Research Chair in Genomics of Heart and Lung Diseases. The EAGLE study was supported by the Intramural Research Program, Division of Cancer Epidemiology and Genetics, National Cancer Institute, NIH, DHHS. The Multiethnic Cohort Study is supported by National Institutes of Health (CA164973). The CARET study was supported by the National Institutes of Health/National Cancer Institute: UM1 CA167462 (PI: Goodman), U01 CA6367307 (PIs: Omen, Goodman); R01 CA111703 (PI: Chen), 5R01 CA151989-01A1 (PI: Doherty) and U01 CA167462 (PI: Chen). M.B.S. was supported in part by a Cancer Center Support Grant (P30 CA076292) and by NIH P50 CA119997. R.M.M. is supported by a CRUK programme grant, the Integrative Cancer Epidemiology Programme (C18281/A19169), and by the National Institute for Health Research (NIHR) Bristol Biomedical Research Centre based at University Hospitals Bristol NHS Foundation Trust and the University of Bristol. The views expressed in this publication are those of the authors and not necessarily those of the NHS, the National Institute for Health Research or the Department of Health. Dr Haycock is supported by CRUK Population Research Postdoctoral Fellowship C52724/A20138. M.P.D. is supported by the Roy Castle Lung Cancer Foundation UK.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Author contributions</title>
+      <p>Study conception: L.K., R.J.H., M.J., and P.B.; Statistical analysis: L.K.; L.K. drafted the paper with input from R.J.H. and J.S.W.; Project coordination: R.J.H., P.B., M.J., and J.S.W.; UK Biobank genotype and sample quality control: S.R.R. and R.E.G.; Lung tissue eQTL analysis: Y. Boss&#xE9; and V.M.; Development of analytic strategy: L.K., S.R.R., R.E.G., R.J.H., J.S.W., M.J., R.M.M., C.R., G.D.S., and P.C.H.; Data acquisition and development of lung cancer epidemiological studies: R.J.H., C.I.A., P.B., M.J., J.S.W., N.E.C., M.T.L., D.C.C., P.V., G.L., G.S., D.Z., S.S.S., D.A., M.C.A., A.T., G.R., C.C., G.E.G, J.A.D., H.B., J.K.F, M.P.D., M.D.T., L.A.K., S.E.B., A.H., S.Z., S.L., L.L.M., I.C., M.B.S., E.J.D., A.S.A., J.M., P.L., S.A., J.D.M., N.C.E., M.T.W., Y.B., M.O., and Y. Boss&#xE9;. All authors contributed to the interpretation of the results and provided critical feedback on the paper.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data availability</title>
+      <p>The datasets generated during and/or analyzed during the current study are available from the authors on request. Genotype data for the Oncoarray Consortium Lung Cancer studies have been deposited in the database of Genotypes and Phenotypes (dbGaP) under accession: <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001273.v3.p2">phs001273.v2.p2</ext-link>. Readers interested in obtaining a copy of the lung cancer GWAS summary statistics can do so by completing the proposal request form at <ext-link ext-link-type="uri" xlink:href="http://oncoarray.dartmouth.edu/">http://oncoarray.dartmouth.edu/</ext-link>. The UK Biobank in an open access resource, available at <ext-link ext-link-type="uri" xlink:href="https://www.ukbiobank.ac.uk/researchers/">https://www.ukbiobank.ac.uk/researchers/</ext-link>. This research was conducted with approved access to UK Biobank data under applications number 14105 and 23261. All data supporting the findings of this study are available within the article and its supplementary information files, and from the corresponding authors upon reasonable request. A reporting summary for this article is available as a&#xA0;<xref rid="MOESM1" ref-type="media">Supplementary file</xref>.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Competing interests</title>
+      <p id="Par62">The authors declare no competing interests.</p>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferlay</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Estimating the global cancer incidence and mortality in 2018: GLOBOCAN sources and methods</article-title>
+          <source>Int J. Cancer</source>
+          <year>2019</year>
+          <volume>144</volume>
+          <fpage>1941</fpage>
+          <lpage>1953</lpage>
+          <pub-id pub-id-type="doi">10.1002/ijc.31937</pub-id>
+          <pub-id pub-id-type="pmid">30350310</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wasswa-Kintu</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gan</surname>
+              <given-names>WQ</given-names>
+            </name>
+            <name>
+              <surname>Man</surname>
+              <given-names>SF</given-names>
+            </name>
+            <name>
+              <surname>Pare</surname>
+              <given-names>PD</given-names>
+            </name>
+            <name>
+              <surname>Sin</surname>
+              <given-names>DD</given-names>
+            </name>
+          </person-group>
+          <article-title>Relationship between reduced forced expiratory volume in one second and the risk of lung cancer: a systematic review and meta-analysis</article-title>
+          <source>Thorax</source>
+          <year>2005</year>
+          <volume>60</volume>
+          <fpage>570</fpage>
+          <lpage>575</lpage>
+          <pub-id pub-id-type="doi">10.1136/thx.2004.037135</pub-id>
+          <pub-id pub-id-type="pmid">15994265</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Calabro</surname>
+              <given-names>E</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Lung function predicts lung cancer risk in smokers: a tool for targeting screening programmes</article-title>
+          <source>Eur. Respir. J.</source>
+          <year>2010</year>
+          <volume>35</volume>
+          <fpage>146</fpage>
+          <lpage>151</lpage>
+          <pub-id pub-id-type="doi">10.1183/09031936.00049909</pub-id>
+          <pub-id pub-id-type="pmid">19679603</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fry</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Hamling</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>PN</given-names>
+            </name>
+          </person-group>
+          <article-title>Systematic review with meta-analysis of the epidemiological evidence relating FEV1 decline to lung cancer risk</article-title>
+          <source>BMC Cancer</source>
+          <year>2012</year>
+          <volume>12</volume>
+          <fpage>498</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2407-12-498</pub-id>
+          <pub-id pub-id-type="pmid">23101666</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mannino</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Aguayo</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Petty</surname>
+              <given-names>TL</given-names>
+            </name>
+            <name>
+              <surname>Redd</surname>
+              <given-names>SC</given-names>
+            </name>
+          </person-group>
+          <article-title>Low lung function and incident lung cancer in the United States: data From the First National Health and Nutrition Examination Survey follow-up</article-title>
+          <source>Arch. Intern. Med.</source>
+          <year>2003</year>
+          <volume>163</volume>
+          <fpage>1475</fpage>
+          <lpage>1480</lpage>
+          <pub-id pub-id-type="doi">10.1001/archinte.163.12.1475</pub-id>
+          <pub-id pub-id-type="pmid">12824098</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Young</surname>
+              <given-names>RP</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>COPD prevalence is increased in lung cancer, independent of age, sex and smoking history</article-title>
+          <source>Eur. Respir. J.</source>
+          <year>2009</year>
+          <volume>34</volume>
+          <fpage>380</fpage>
+          <lpage>386</lpage>
+          <pub-id pub-id-type="doi">10.1183/09031936.00144208</pub-id>
+          <pub-id pub-id-type="pmid">19196816</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhai</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Christiani</surname>
+              <given-names>DC</given-names>
+            </name>
+          </person-group>
+          <article-title>Smoking and smoking cessation in relation to the development of co-existing non-small cell lung cancer with chronic obstructive pulmonary disease</article-title>
+          <source>Int J. Cancer</source>
+          <year>2014</year>
+          <volume>134</volume>
+          <fpage>961</fpage>
+          <lpage>970</lpage>
+          <pub-id pub-id-type="doi">10.1002/ijc.28414</pub-id>
+          <pub-id pub-id-type="pmid">23921845</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brenner</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>McLaughlin</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Hung</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Previous lung diseases and lung cancer risk: a systematic review and meta-analysis</article-title>
+          <source>PLoS One</source>
+          <year>2011</year>
+          <volume>6</volume>
+          <fpage>e17479</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0017479</pub-id>
+          <pub-id pub-id-type="pmid">21483846</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brenner</surname>
+              <given-names>DR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Previous lung diseases and lung cancer risk: a pooled analysis from the International Lung Cancer Consortium</article-title>
+          <source>Am. J. Epidemiol.</source>
+          <year>2012</year>
+          <volume>176</volume>
+          <fpage>573</fpage>
+          <lpage>585</lpage>
+          <pub-id pub-id-type="doi">10.1093/aje/kws151</pub-id>
+          <pub-id pub-id-type="pmid">22986146</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Denholm</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Is previous respiratory disease a risk factor for lung cancer?</article-title>
+          <source>Am. J. Respir. Crit. Care Med.</source>
+          <year>2014</year>
+          <volume>190</volume>
+          <fpage>549</fpage>
+          <lpage>559</lpage>
+          <pub-id pub-id-type="doi">10.1164/rccm.201402-0338OC</pub-id>
+          <pub-id pub-id-type="pmid">25054566</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Durham</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>Adcock</surname>
+              <given-names>IM</given-names>
+            </name>
+          </person-group>
+          <article-title>The relationship between COPD and lung cancer</article-title>
+          <source>Lung Cancer</source>
+          <year>2015</year>
+          <volume>90</volume>
+          <fpage>121</fpage>
+          <lpage>127</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.lungcan.2015.08.017</pub-id>
+          <pub-id pub-id-type="pmid">26363803</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>IA</given-names>
+            </name>
+            <name>
+              <surname>Holloway</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Fong</surname>
+              <given-names>KM</given-names>
+            </name>
+          </person-group>
+          <article-title>Genetic susceptibility to lung cancer and co-morbidities</article-title>
+          <source>J. Thorac. Dis.</source>
+          <year>2013</year>
+          <volume>5</volume>
+          <fpage>S454</fpage>
+          <lpage>S462</lpage>
+          <pub-id pub-id-type="pmid">24163739</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Young</surname>
+              <given-names>RP</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Chromosome 4q31 locus in COPD is also associated with lung cancer</article-title>
+          <source>Eur. Respir. J.</source>
+          <year>2010</year>
+          <volume>36</volume>
+          <fpage>1375</fpage>
+          <lpage>1382</lpage>
+          <pub-id pub-id-type="doi">10.1183/09031936.00033310</pub-id>
+          <pub-id pub-id-type="pmid">21119205</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hancock</surname>
+              <given-names>DB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Meta-analyses of genome-wide association studies identify multiple loci associated with pulmonary function</article-title>
+          <source>Nat. Genet.</source>
+          <year>2010</year>
+          <volume>42</volume>
+          <fpage>45</fpage>
+          <lpage>52</lpage>
+          <pub-id pub-id-type="doi">10.1038/ng.500</pub-id>
+          <pub-id pub-id-type="pmid">20010835</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Houghton</surname>
+              <given-names>AM</given-names>
+            </name>
+          </person-group>
+          <article-title>Mechanistic links between COPD and lung cancer</article-title>
+          <source>Nat. Rev. Cancer</source>
+          <year>2013</year>
+          <volume>13</volume>
+          <fpage>233</fpage>
+          <lpage>245</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrc3477</pub-id>
+          <pub-id pub-id-type="pmid">23467302</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McKay</surname>
+              <given-names>JD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Large-scale association analysis identifies new lung cancer susceptibility loci and heterogeneity in genetic susceptibility across histological subtypes</article-title>
+          <source>Nat. Genet.</source>
+          <year>2017</year>
+          <volume>49</volume>
+          <fpage>1126</fpage>
+          <lpage>1132</lpage>
+          <pub-id pub-id-type="doi">10.1038/ng.3892</pub-id>
+          <pub-id pub-id-type="pmid">28604730</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bulik-Sullivan</surname>
+              <given-names>BK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>LD Score regression distinguishes confounding from polygenicity in genome-wide association studies</article-title>
+          <source>Nat. Genet.</source>
+          <year>2015</year>
+          <volume>47</volume>
+          <fpage>291</fpage>
+          <lpage>295</lpage>
+          <pub-id pub-id-type="doi">10.1038/ng.3211</pub-id>
+          <pub-id pub-id-type="pmid">25642630</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shrine</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>New genetic signals for lung function highlight pathways and chronic obstructive pulmonary disease associations across multiple ancestries</article-title>
+          <source>Nat. Genet.</source>
+          <year>2019</year>
+          <volume>51</volume>
+          <fpage>481</fpage>
+          <lpage>493</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41588-018-0321-7</pub-id>
+          <pub-id pub-id-type="pmid">30804560</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siepel</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Evolutionarily conserved elements in vertebrate, insect, worm, and yeast genomes</article-title>
+          <source>Genome Res.</source>
+          <year>2005</year>
+          <volume>15</volume>
+          <fpage>1034</fpage>
+          <lpage>1050</lpage>
+          <pub-id pub-id-type="doi">10.1101/gr.3715005</pub-id>
+          <pub-id pub-id-type="pmid">16024819</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gazal</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Functional architecture of low-frequency variants highlights strength of negative selection across coding and non-coding annotations</article-title>
+          <source>Nat. Genet.</source>
+          <year>2018</year>
+          <volume>50</volume>
+          <fpage>1600</fpage>
+          <lpage>1607</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41588-018-0231-8</pub-id>
+          <pub-id pub-id-type="pmid">30297966</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McVicker</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Green</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Widespread genomic signatures of natural selection in hominid evolution</article-title>
+          <source>PLoS Genet.</source>
+          <year>2009</year>
+          <volume>5</volume>
+          <fpage>e1000471</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pgen.1000471</pub-id>
+          <pub-id pub-id-type="pmid">19424416</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gazal</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Linkage disequilibrium-dependent architecture of human complex traits shows action of negative selection</article-title>
+          <source>Nat. Genet.</source>
+          <year>2017</year>
+          <volume>49</volume>
+          <fpage>1421</fpage>
+          <lpage>1427</lpage>
+          <pub-id pub-id-type="doi">10.1038/ng.3954</pub-id>
+          <pub-id pub-id-type="pmid">28892061</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Roadmap Epigenomics</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Integrative analysis of 111 reference human epigenomes</article-title>
+          <source>Nature</source>
+          <year>2015</year>
+          <volume>518</volume>
+          <fpage>317</fpage>
+          <lpage>330</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature14248</pub-id>
+          <pub-id pub-id-type="pmid">25693563</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wyss</surname>
+              <given-names>AB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Multiethnic meta-analysis identifies ancestry-specific and cross-ancestry loci for pulmonary function</article-title>
+          <source>Nat. Commun.</source>
+          <year>2018</year>
+          <volume>9</volume>
+          <fpage>2976</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41467-018-05369-0</pub-id>
+          <pub-id pub-id-type="pmid">30061609</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jiang</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Shared heritability and functional enrichment across six solid cancers</article-title>
+          <source>Nat. Commun.</source>
+          <year>2019</year>
+          <volume>10</volume>
+          <fpage>431</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41467-018-08054-4</pub-id>
+          <pub-id pub-id-type="pmid">30683880</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gudipaty</surname>
+              <given-names>SA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Mechanical stretch triggers rapid epithelial cell division through Piezo1</article-title>
+          <source>Nature</source>
+          <year>2017</year>
+          <volume>543</volume>
+          <fpage>118</fpage>
+          <lpage>121</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature21407</pub-id>
+          <pub-id pub-id-type="pmid">28199303</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhong</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Komarova</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Rehman</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Malik</surname>
+              <given-names>AB</given-names>
+            </name>
+          </person-group>
+          <article-title>Mechanosensing Piezo channels in tissue homeostasis including their role in lungs</article-title>
+          <source>Pulm. Circ.</source>
+          <year>2018</year>
+          <volume>8</volume>
+          <fpage>2045894018767393</fpage>
+          <pub-id pub-id-type="doi">10.1177/2045894018767393</pub-id>
+          <pub-id pub-id-type="pmid">29521167</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burgess</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Butterworth</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>SG</given-names>
+            </name>
+          </person-group>
+          <article-title>Mendelian randomization analysis with multiple genetic variants using summarized data</article-title>
+          <source>Genet Epidemiol.</source>
+          <year>2013</year>
+          <volume>37</volume>
+          <fpage>658</fpage>
+          <lpage>665</lpage>
+          <pub-id pub-id-type="doi">10.1002/gepi.21758</pub-id>
+          <pub-id pub-id-type="pmid">24114802</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bowden</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A framework for the investigation of pleiotropy in two-sample summary data Mendelian randomization</article-title>
+          <source>Stat. Med.</source>
+          <year>2017</year>
+          <volume>36</volume>
+          <fpage>1783</fpage>
+          <lpage>1802</lpage>
+          <pub-id pub-id-type="doi">10.1002/sim.7221</pub-id>
+          <pub-id pub-id-type="pmid">28114746</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bowden</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Davey Smith</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Haycock</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Burgess</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Consistent estimation in mendelian randomization with some invalid instruments using a weighted median estimator</article-title>
+          <source>Genet Epidemiol.</source>
+          <year>2016</year>
+          <volume>40</volume>
+          <fpage>304</fpage>
+          <lpage>314</lpage>
+          <pub-id pub-id-type="doi">10.1002/gepi.21965</pub-id>
+          <pub-id pub-id-type="pmid">27061298</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <mixed-citation publication-type="other">Zhao, Q., Wang, J., Hemani, G., Bowden, J. &amp; Small, D. S. Statistical inference in two-sample summary-data Mendelian randomization using robust adjusted profile score. Preprint at <ext-link ext-link-type="uri" xlink:href="https://arxiv.org/pdf/1801.09652v09653.pdf">https://arxiv.org/pdf/1801.09652v09653.pdf</ext-link> (2019).</mixed-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hemani</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Tilling</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Davey Smith</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Orienting the causal relationship between imprecisely measured traits using GWAS summary data</article-title>
+          <source>PLoS Genet.</source>
+          <year>2017</year>
+          <volume>13</volume>
+          <fpage>e1007081</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pgen.1007081</pub-id>
+          <pub-id pub-id-type="pmid">29149188</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Locke</surname>
+              <given-names>AE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Genetic studies of body mass index yield new insights for obesity biology</article-title>
+          <source>Nature</source>
+          <year>2015</year>
+          <volume>518</volume>
+          <fpage>197</fpage>
+          <lpage>206</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature14177</pub-id>
+          <pub-id pub-id-type="pmid">25673413</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tobacco</surname>
+              <given-names>GeneticsC</given-names>
+            </name>
+          </person-group>
+          <article-title>Genome-wide meta-analyses identify multiple loci associated with smoking behavior</article-title>
+          <source>Nat. Genet.</source>
+          <year>2010</year>
+          <volume>42</volume>
+          <fpage>441</fpage>
+          <lpage>447</lpage>
+          <pub-id pub-id-type="doi">10.1038/ng.571</pub-id>
+          <pub-id pub-id-type="pmid">20418890</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hao</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Lung eQTLs to help reveal the molecular underpinnings of asthma</article-title>
+          <source>PLoS Genet.</source>
+          <year>2012</year>
+          <volume>8</volume>
+          <fpage>e1003029</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pgen.1003029</pub-id>
+          <pub-id pub-id-type="pmid">23209423</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>BB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Genomic atlas of the human plasma proteome</article-title>
+          <source>Nature</source>
+          <year>2018</year>
+          <volume>558</volume>
+          <fpage>73</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41586-018-0175-2</pub-id>
+          <pub-id pub-id-type="pmid">29875488</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Asher</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Lotem</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sachs</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Shaul</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation of p53 stability and p53-dependent apoptosis by NADH quinone oxidoreductase 1</article-title>
+          <source>Proc. Natl Acad. Sci. USA</source>
+          <year>2001</year>
+          <volume>98</volume>
+          <fpage>1188</fpage>
+          <lpage>1193</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.98.3.1188</pub-id>
+          <pub-id pub-id-type="pmid">11158615</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sporn</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Liby</surname>
+              <given-names>KT</given-names>
+            </name>
+          </person-group>
+          <article-title>NRF2 and cancer: the good, the bad and the importance of context</article-title>
+          <source>Nat. Rev. Cancer</source>
+          <year>2012</year>
+          <volume>12</volume>
+          <fpage>564</fpage>
+          <lpage>571</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrc3278</pub-id>
+          <pub-id pub-id-type="pmid">22810811</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rojo de la Vega</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chapman</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>DD</given-names>
+            </name>
+          </person-group>
+          <article-title>NRF2 and the Hallmarks of Cancer</article-title>
+          <source>Cancer Cell</source>
+          <year>2018</year>
+          <volume>34</volume>
+          <fpage>21</fpage>
+          <lpage>43</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ccell.2018.03.022</pub-id>
+          <pub-id pub-id-type="pmid">29731393</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Godec</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Compendium of immune signatures identifies conserved and species-specific biology in response to inflammation</article-title>
+          <source>Immunity</source>
+          <year>2016</year>
+          <volume>44</volume>
+          <fpage>194</fpage>
+          <lpage>206</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.immuni.2015.12.006</pub-id>
+          <pub-id pub-id-type="pmid">26795250</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilson</surname>
+              <given-names>DO</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Association of radiographic emphysema and airflow obstruction with lung cancer</article-title>
+          <source>Am. J. Respir. Crit. Care Med.</source>
+          <year>2008</year>
+          <volume>178</volume>
+          <fpage>738</fpage>
+          <lpage>744</lpage>
+          <pub-id pub-id-type="doi">10.1164/rccm.200803-435OC</pub-id>
+          <pub-id pub-id-type="pmid">18565949</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Franke</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Genome-wide meta-analysis increases to 71 the number of confirmed Crohn&#x2019;s disease susceptibility loci</article-title>
+          <source>Nat. Genet.</source>
+          <year>2010</year>
+          <volume>42</volume>
+          <fpage>1118</fpage>
+          <lpage>1125</lpage>
+          <pub-id pub-id-type="doi">10.1038/ng.717</pub-id>
+          <pub-id pub-id-type="pmid">21102463</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Imielinski</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Common variants at five new loci associated with early-onset inflammatory bowel disease</article-title>
+          <source>Nat. Genet.</source>
+          <year>2009</year>
+          <volume>41</volume>
+          <fpage>1335</fpage>
+          <lpage>1340</lpage>
+          <pub-id pub-id-type="doi">10.1038/ng.489</pub-id>
+          <pub-id pub-id-type="pmid">19915574</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Feenstra</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Genome-wide association study identifies variants in HORMAD2 associated with tonsillectomy</article-title>
+          <source>J. Med. Genet.</source>
+          <year>2017</year>
+          <volume>54</volume>
+          <fpage>358</fpage>
+          <lpage>364</lpage>
+          <pub-id pub-id-type="doi">10.1136/jmedgenet-2016-104304</pub-id>
+          <pub-id pub-id-type="pmid">27941131</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Howrylak</surname>
+              <given-names>JA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Gene expression profiling of asthma phenotypes demonstrates molecular signatures of atopy and asthma control</article-title>
+          <source>J. Allergy Clin. Immunol.</source>
+          <year>2016</year>
+          <volume>137</volume>
+          <fpage>1390</fpage>
+          <lpage>1397 e1396</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jaci.2015.09.058</pub-id>
+          <pub-id pub-id-type="pmid">26792209</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Piezo1 integration of vascular architecture with physiological force</article-title>
+          <source>Nature</source>
+          <year>2014</year>
+          <volume>515</volume>
+          <fpage>279</fpage>
+          <lpage>282</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature13701</pub-id>
+          <pub-id pub-id-type="pmid">25119035</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lewis</surname>
+              <given-names>AH</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>McDonald</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Grandl</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Transduction of repetitive mechanical stimuli by Piezo1 and Piezo2 ion channels</article-title>
+          <source>Cell Rep.</source>
+          <year>2017</year>
+          <volume>19</volume>
+          <fpage>2572</fpage>
+          <lpage>2585</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.celrep.2017.05.079</pub-id>
+          <pub-id pub-id-type="pmid">28636944</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andolfo</surname>
+              <given-names>I</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Multiple clinical forms of dehydrated hereditary stomatocytosis arise from mutations in PIEZO1</article-title>
+          <source>Blood</source>
+          <year>2013</year>
+          <volume>121</volume>
+          <fpage>3925</fpage>
+          <lpage>3935</lpage>
+          <pub-id pub-id-type="doi">10.1182/blood-2013-02-482489</pub-id>
+          <pub-id pub-id-type="pmid">23479567</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>CSC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cutting edge: Piezo1 mechanosensors optimize human T cell activation</article-title>
+          <source>J. Immunol.</source>
+          <year>2018</year>
+          <volume>200</volume>
+          <fpage>1255</fpage>
+          <lpage>1260</lpage>
+          <pub-id pub-id-type="doi">10.4049/jimmunol.1701118</pub-id>
+          <pub-id pub-id-type="pmid">29330322</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nakamura</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Transcription repressor Bach2 is required for pulmonary surfactant homeostasis and alveolar macrophage function</article-title>
+          <source>J. Exp. Med.</source>
+          <year>2013</year>
+          <volume>210</volume>
+          <fpage>2191</fpage>
+          <lpage>2204</lpage>
+          <pub-id pub-id-type="doi">10.1084/jem.20130028</pub-id>
+          <pub-id pub-id-type="pmid">24127487</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR51">
+        <label>51.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Swaminathan</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>BACH2 mediates negative selection and p53-dependent tumor suppression at the pre-B cell receptor checkpoint</article-title>
+          <source>Nat. Med.</source>
+          <year>2013</year>
+          <volume>19</volume>
+          <fpage>1014</fpage>
+          <lpage>1022</lpage>
+          <pub-id pub-id-type="doi">10.1038/nm.3247</pub-id>
+          <pub-id pub-id-type="pmid">23852341</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR52">
+        <label>52.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sandford</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>NFE2L2 pathway polymorphisms and lung function decline in chronic obstructive pulmonary disease</article-title>
+          <source>Physiol. Genomics</source>
+          <year>2012</year>
+          <volume>44</volume>
+          <fpage>754</fpage>
+          <lpage>763</lpage>
+          <pub-id pub-id-type="doi">10.1152/physiolgenomics.00027.2012</pub-id>
+          <pub-id pub-id-type="pmid">22693272</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR53">
+        <label>53.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boldt</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>An organelle-specific protein landscape identifies novel diseases and molecular mechanisms</article-title>
+          <source>Nat. Commun.</source>
+          <year>2016</year>
+          <volume>7</volume>
+          <fpage>11491</fpage>
+          <pub-id pub-id-type="doi">10.1038/ncomms11491</pub-id>
+          <pub-id pub-id-type="pmid">27173435</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR54">
+        <label>54.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>CT</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The novel protein suppressed in lung cancer down-regulated in lung cancer tissues retards cell proliferation and inhibits the oncokinase Aurora-A</article-title>
+          <source>J. Thorac. Oncol.</source>
+          <year>2011</year>
+          <volume>6</volume>
+          <fpage>988</fpage>
+          <lpage>997</lpage>
+          <pub-id pub-id-type="doi">10.1097/JTO.0b013e318212692e</pub-id>
+          <pub-id pub-id-type="pmid">21566536</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR55">
+        <label>55.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katoh</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Katoh</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Hedgehog signaling pathway and gastric cancer</article-title>
+          <source>Cancer Biol. Ther.</source>
+          <year>2005</year>
+          <volume>4</volume>
+          <fpage>1050</fpage>
+          <lpage>1054</lpage>
+          <pub-id pub-id-type="doi">10.4161/cbt.4.10.2184</pub-id>
+          <pub-id pub-id-type="pmid">16258256</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR56">
+        <label>56.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grumelli</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>An immune basis for lung parenchymal destruction in chronic obstructive pulmonary disease and emphysema</article-title>
+          <source>PLoS Med.</source>
+          <year>2004</year>
+          <volume>1</volume>
+          <fpage>e8</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pmed.0010008</pub-id>
+          <pub-id pub-id-type="pmid">15526056</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR57">
+        <label>57.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Conway</surname>
+              <given-names>EM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Macrophages, Inflammation, and Lung Cancer</article-title>
+          <source>Am. J. Respir. Crit. Care Med.</source>
+          <year>2016</year>
+          <volume>193</volume>
+          <fpage>116</fpage>
+          <lpage>130</lpage>
+          <pub-id pub-id-type="doi">10.1164/rccm.201508-1545CI</pub-id>
+          <pub-id pub-id-type="pmid">26583808</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR58">
+        <label>58.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kerdidani</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cigarette smoke-induced emphysema exhausts early cytotoxic CD8(+) T cell responses against nascent lung cancer cells</article-title>
+          <source>J. Immunol.</source>
+          <year>2018</year>
+          <volume>201</volume>
+          <fpage>1558</fpage>
+          <lpage>1569</lpage>
+          <pub-id pub-id-type="doi">10.4049/jimmunol.1700700</pub-id>
+          <pub-id pub-id-type="pmid">30037849</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR59">
+        <label>59.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haqqani</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Sandhu</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Birnboim</surname>
+              <given-names>HC</given-names>
+            </name>
+          </person-group>
+          <article-title>Expression of interleukin-8 promotes neutrophil infiltration and genetic instability in mutatect tumors</article-title>
+          <source>Neoplasia</source>
+          <year>2000</year>
+          <volume>2</volume>
+          <fpage>561</fpage>
+          <lpage>568</lpage>
+          <pub-id pub-id-type="doi">10.1038/sj.neo.7900110</pub-id>
+          <pub-id pub-id-type="pmid">11228549</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR60">
+        <label>60.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manolio</surname>
+              <given-names>TA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>New models for large prospective studies: is there a better way?</article-title>
+          <source>Am. J. Epidemiol.</source>
+          <year>2012</year>
+          <volume>175</volume>
+          <fpage>859</fpage>
+          <lpage>866</lpage>
+          <pub-id pub-id-type="doi">10.1093/aje/kwr453</pub-id>
+          <pub-id pub-id-type="pmid">22411865</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR61">
+        <label>61.</label>
+        <mixed-citation publication-type="other">Gkatzionis, A. &amp; Burgess, S. Contextualizing selection bias in Mendelian randomization: how bad is it likely to be? <italic>Int. J. Epidemiol.</italic>. <bold>48</bold>, 691&#x2013;701 (2018).</mixed-citation>
+      </ref>
+      <ref id="CR62">
+        <label>62.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>National Lung Screening Trial Research T.</collab>
+            <etal/>
+          </person-group>
+          <article-title>Reduced lung-cancer mortality with low-dose computed tomographic screening</article-title>
+          <source>N. Engl. J. Med.</source>
+          <year>2011</year>
+          <volume>365</volume>
+          <fpage>395</fpage>
+          <lpage>409</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMoa1102873</pub-id>
+          <pub-id pub-id-type="pmid">21714641</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR63">
+        <label>63.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>De Koning</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Van Der Aalst</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ten Haaf</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Oudkerk</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>PL02.05 effects of volume CT lung cancer screening: mortality results of the NELSON randomised-controlled population based trial</article-title>
+          <source>J. Thorac. Oncol.</source>
+          <year>2018</year>
+          <volume>13</volume>
+          <fpage>S185</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.jtho.2018.08.012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR64">
+        <label>64.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bycroft</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The UK Biobank resource with deep phenotyping and genomic data</article-title>
+          <source>Nature</source>
+          <year>2018</year>
+          <volume>562</volume>
+          <fpage>203</fpage>
+          <lpage>209</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41586-018-0579-z</pub-id>
+          <pub-id pub-id-type="pmid">30305743</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR65">
+        <label>65.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manichaikul</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Robust relationship inference in genome-wide association studies</article-title>
+          <source>Bioinformatics</source>
+          <year>2010</year>
+          <volume>26</volume>
+          <fpage>2867</fpage>
+          <lpage>2873</lpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/btq559</pub-id>
+          <pub-id pub-id-type="pmid">20926424</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR66">
+        <label>66.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miller</surname>
+              <given-names>MR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Standardisation of spirometry</article-title>
+          <source>Eur. Respir. J.</source>
+          <year>2005</year>
+          <volume>26</volume>
+          <fpage>319</fpage>
+          <lpage>338</lpage>
+          <pub-id pub-id-type="doi">10.1183/09031936.05.00034805</pub-id>
+          <pub-id pub-id-type="pmid">16055882</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR67">
+        <label>67.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Finucane</surname>
+              <given-names>HK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Partitioning heritability by functional annotation using genome-wide association summary statistics</article-title>
+          <source>Nat. Genet.</source>
+          <year>2015</year>
+          <volume>47</volume>
+          <fpage>1228</fpage>
+          <lpage>1235</lpage>
+          <pub-id pub-id-type="doi">10.1038/ng.3404</pub-id>
+          <pub-id pub-id-type="pmid">26414678</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR68">
+        <label>68.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bowden</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Assessing the suitability of summary data for two-sample Mendelian randomization analyses using MR-Egger regression: the role of the I2 statistic</article-title>
+          <source>Int J. Epidemiol.</source>
+          <year>2016</year>
+          <volume>45</volume>
+          <fpage>1961</fpage>
+          <lpage>1974</lpage>
+          <pub-id pub-id-type="doi">10.1093/ije/dyw252</pub-id>
+          <pub-id pub-id-type="pmid">27616674</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR69">
+        <label>69.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bowden</surname>
+              <given-names>Jack</given-names>
+            </name>
+            <name>
+              <surname>Del Greco M</surname>
+              <given-names>Fabiola</given-names>
+            </name>
+            <name>
+              <surname>Minelli</surname>
+              <given-names>Cosetta</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Qingyuan</given-names>
+            </name>
+            <name>
+              <surname>Lawlor</surname>
+              <given-names>Debbie A</given-names>
+            </name>
+            <name>
+              <surname>Sheehan</surname>
+              <given-names>Nuala A</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>John</given-names>
+            </name>
+            <name>
+              <surname>Davey Smith</surname>
+              <given-names>George</given-names>
+            </name>
+          </person-group>
+          <article-title>Improving the accuracy of two-sample summary-data Mendelian randomization: moving beyond the NOME assumption</article-title>
+          <source>International Journal of Epidemiology</source>
+          <year>2018</year>
+          <volume>48</volume>
+          <issue>3</issue>
+          <fpage>728</fpage>
+          <lpage>742</lpage>
+          <pub-id pub-id-type="doi">10.1093/ije/dyy258</pub-id>
+          <pub-id pub-id-type="pmid">6659376</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR70">
+        <label>70.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kamat</surname>
+              <given-names>Mihir A</given-names>
+            </name>
+            <name>
+              <surname>Blackshaw</surname>
+              <given-names>James A</given-names>
+            </name>
+            <name>
+              <surname>Young</surname>
+              <given-names>Robin</given-names>
+            </name>
+            <name>
+              <surname>Surendran</surname>
+              <given-names>Praveen</given-names>
+            </name>
+            <name>
+              <surname>Burgess</surname>
+              <given-names>Stephen</given-names>
+            </name>
+            <name>
+              <surname>Danesh</surname>
+              <given-names>John</given-names>
+            </name>
+            <name>
+              <surname>Butterworth</surname>
+              <given-names>Adam S</given-names>
+            </name>
+            <name>
+              <surname>Staley</surname>
+              <given-names>James R</given-names>
+            </name>
+          </person-group>
+          <article-title>PhenoScanner V2: an expanded tool for searching human genotype&#x2013;phenotype associations</article-title>
+          <source>Bioinformatics</source>
+          <year>2019</year>
+          <volume>35</volume>
+          <issue>22</issue>
+          <fpage>4851</fpage>
+          <lpage>4853</lpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/btz469</pub-id>
+          <pub-id pub-id-type="pmid">31233103</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,1238 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Thorac Cancer</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Thorac Cancer</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1759-7714</journal-id>
+      <journal-id journal-id-type="publisher-id">TCA</journal-id>
+      <journal-title-group>
+        <journal-title>Thoracic Cancer</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1759-7706</issn>
+      <issn pub-type="epub">1759-7714</issn>
+      <publisher>
+        <publisher-name>John Wiley &amp; Sons Australia, Ltd</publisher-name>
+        <publisher-loc>Melbourne</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">32022430</article-id>
+      <article-id pub-id-type="pmc">7049508</article-id>
+      <article-id pub-id-type="doi">10.1111/1759-7714.13308</article-id>
+      <article-id pub-id-type="publisher-id">TCA13308</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Original Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Original Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Nm23&#x2010;H1 inhibits lung cancer bone&#x2010;specific metastasis by upregulating miR&#x2010;660&#x2010;5p targeted SMARCA5</article-title>
+        <alt-title alt-title-type="right-running-head">Nm23&#x2010;H1 inhibits metastasis of lung CA</alt-title>
+        <alt-title alt-title-type="left-running-head">C. Ai <italic>et al</italic>.</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="tca13308-cr-0001" contrib-type="author">
+          <name>
+            <surname>Ai</surname>
+            <given-names>Cheng</given-names>
+          </name>
+          <address>
+            <email>brain230388@163.com</email>
+          </address>
+          <xref ref-type="aff" rid="tca13308-aff-0001">
+<sup>1</sup>
+</xref>
+          <xref ref-type="aff" rid="tca13308-aff-0002">
+<sup>2</sup>
+</xref>
+          <xref ref-type="author-notes" rid="tca13308-note-0001">
+<sup>&#x2020;</sup>
+</xref>
+        </contrib>
+        <contrib id="tca13308-cr-0002" contrib-type="author">
+          <name>
+            <surname>Ma</surname>
+            <given-names>Guangzhi</given-names>
+          </name>
+          <xref ref-type="aff" rid="tca13308-aff-0001">
+<sup>1</sup>
+</xref>
+          <xref ref-type="author-notes" rid="tca13308-note-0001">
+<sup>&#x2020;</sup>
+</xref>
+        </contrib>
+        <contrib id="tca13308-cr-0003" contrib-type="author">
+          <name>
+            <surname>Deng</surname>
+            <given-names>Yunfu</given-names>
+          </name>
+          <xref ref-type="aff" rid="tca13308-aff-0001">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="tca13308-cr-0004" contrib-type="author">
+          <name>
+            <surname>Zheng</surname>
+            <given-names>Qiangqiang</given-names>
+          </name>
+          <xref ref-type="aff" rid="tca13308-aff-0001">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="tca13308-cr-0005" contrib-type="author">
+          <name>
+            <surname>Gen</surname>
+            <given-names>Yingcai</given-names>
+          </name>
+          <xref ref-type="aff" rid="tca13308-aff-0001">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="tca13308-cr-0006" contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Wen</given-names>
+          </name>
+          <xref ref-type="aff" rid="tca13308-aff-0001">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="tca13308-cr-0007" contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Yang</given-names>
+          </name>
+          <xref ref-type="aff" rid="tca13308-aff-0003">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="tca13308-cr-0008" contrib-type="author">
+          <name>
+            <surname>Zu</surname>
+            <given-names>Lingling</given-names>
+          </name>
+          <xref ref-type="aff" rid="tca13308-aff-0003">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="tca13308-cr-0009" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Zhou</surname>
+            <given-names>Qinghua</given-names>
+          </name>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1108-9456</contrib-id>
+          <xref ref-type="aff" rid="tca13308-aff-0001">
+<sup>1</sup>
+</xref>
+          <xref ref-type="aff" rid="tca13308-aff-0003">
+<sup>3</sup>
+</xref>
+          <address>
+            <email>zhouqh135@163.com</email>
+          </address>
+        </contrib>
+      </contrib-group>
+      <aff id="tca13308-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Lung Cancer Center</named-content>
+<institution>West China Hospital, Sichuan University</institution>
+<city>Chengdu</city>
+<country country="CN">China</country>
+</aff>
+      <aff id="tca13308-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Cardiothoracic Surgery</named-content>
+<institution>Panzhihua Central Hospital of Sichuan</institution>
+<city>Panzhihua</city>
+<country country="CN">China</country>
+</aff>
+      <aff id="tca13308-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Tianjin Key Laboratory of Lung Cancer Metastasis and Tumor Microenvironment, Tianjin Lung Cancer Institute</named-content>
+<institution>Tianjin Medical University General Hospital</institution>
+<city>Tianjin</city>
+<country country="CN">China</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Qinghua Zhou, Lung Cancer Center, West China Hospital, Sichuan University, No. 37 Guoxue Alley, Wuhou District, Chengdu 610041, Sichuan, China.<break/>
+Tel: +86 28 8629 8113<break/>
+Fax: +86 28 8619 8114<break/>
+Email: <email>zhouqh135@163.com</email><break/></corresp>
+        <fn id="tca13308-note-0001">
+          <label>&#x2020;</label>
+          <p>Equal contributors.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>05</day>
+        <month>2</month>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>3</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>11</volume>
+      <issue>3</issue>
+      <issue-id pub-id-type="doi">10.1111/tca.v11.3</issue-id>
+      <fpage>640</fpage>
+      <lpage>650</lpage>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>11</month>
+          <year>2019</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>23</day>
+          <month>12</month>
+          <year>2019</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>12</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 China Lung Oncology Group and Wiley Publishing Asia Pty Ltd <copyright-statement>-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2020 The Authors. <italic>Thoracic Cancer</italic> published by China Lung Oncology Group and John Wiley &amp; Sons Australia, Ltd</copyright-statement>
+        <license license-type="creativeCommonsBy">
+          <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:TCA-11-640.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="tca13308-sec-0001">
+          <title>Background</title>
+          <p>Nm23&#x2010;H1 gene has been found to be an inhibitor of tumor metastasis in lung cancer. MicroRNAs (miRNAs) play key roles in tumor metastasis through multiple signaling pathways. This study explored whether the nm23&#x2010;H1 gene could inhibit invasion and metastasis of lung cancer cells by regulating miRNA&#x2010;660&#x2010;5p targets.</p>
+        </sec>
+        <sec id="tca13308-sec-0002">
+          <title>Methods</title>
+          <p>Quantitative real&#x2010;time PCR (qRT&#x2010;PCR) and western blots were used to measure the expression of nm23&#x2010;H1 and miR&#x2010;660&#x2010;5p of various human lung cancer cell lines. Cell counting kit&#x2010;8 (CCK&#x2010;8), wound&#x2010;healing and transwell assay were carried out to assess cell proliferation, migration and invasion of each cell line. Xenograft were applied to determine in vivo effects of miR&#x2010;660&#x2010;5p among nude mice. Luciferase assay and western blot were performed to determine the target gene of miR&#x2010;660&#x2010;5p.</p>
+        </sec>
+        <sec id="tca13308-sec-0003">
+          <title>Results</title>
+          <p>We found that high expression of nm23&#x2010;H1 correlated with decreased miRNA&#x2010;660&#x2010;5p expression. Inhibiting miR&#x2010;660&#x2010;5p suppressed lung cancer cells progression significantly in vitro, whereas overexpression of miR&#x2010;660&#x2010;5p facilitated tumor growth and bone metastasis in vivo. In addition, as the potential target gene of miR&#x2010;660&#x2010;5p, SMARCA5 overexpression in vitro suppressed tumor progression and osteolytic metastasis associated RANKL signaling, which is congruent with the effect of nm23&#x2010;H1 on the lung cancer cells.</p>
+        </sec>
+        <sec id="tca13308-sec-0004">
+          <title>Conclusion</title>
+          <p>Nm23&#x2010;H1 inhibits tumor progression and bone&#x2010;specific metastasis of lung cancer by regulating miR&#x2010;660&#x2010;5p/SMARCA5/RANKL axis, which indicates the related genes may serve as potential targets for the treatment of human lung cancer.</p>
+        </sec>
+        <sec id="tca13308-sec-1004">
+          <title>Key points</title>
+          <p>Significant findings of the study</p>
+          <p>High expression of nm23&#x2010;H1 correlated with decreased miRNA&#x2010;660&#x2010;5p expression. Further, downregulation of miR&#x2010;660&#x2010;5p significantly suppressed the tumor progression and bone&#x2010;specific metastasis of lung cancer cells.</p>
+          <p>What this study adds</p>
+          <p>This is the first study to show an inverse association between nm23&#x2010;H1 and miR&#x2010;660&#x2010;5p, and confirm that nm23&#x2010;H1 inhibits tumor progression and bone&#x2010;specific metastasis of lung cancer by regulating miR&#x2010;660&#x2010;5p/SMARCA5/RANKL axis.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="tca13308-kwd-0001">Lung cancer</kwd>
+        <kwd id="tca13308-kwd-0002">miR&#x2010;660&#x2010;5p</kwd>
+        <kwd id="tca13308-kwd-0003">nm23&#x2010;H1</kwd>
+        <kwd id="tca13308-kwd-0004">RANKL</kwd>
+        <kwd id="tca13308-kwd-0005">SMARCA5</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="funding-0001">
+          <funding-source>Key Project of International Cooperation of Science and Technology Innovation Between Governments</funding-source>
+        </award-group>
+        <award-group id="funding-0002">
+          <funding-source>National Key Research and Development Plan of China</funding-source>
+          <award-id>No 2016YEE0103400</award-id>
+        </award-group>
+        <award-group id="funding-0003">
+          <funding-source>
+            <institution-wrap>
+              <institution>National Natural Science Foundation of China </institution>
+              <institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id>
+            </institution-wrap>
+          </funding-source>
+          <award-id>No 81572288</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="5"/>
+        <table-count count="0"/>
+        <page-count count="11"/>
+        <word-count count="7141"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>March 2020</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.6.1 mode:remove_FC converted:01.03.2020</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body id="tca13308-body-0001">
+    <sec id="tca13308-sec-0005">
+      <title>Introduction</title>
+      <p>Lung cancer is one of the most common malignant tumors globally and is a threat to human health and quality of life.<xref rid="tca13308-bib-0001" ref-type="ref">1</xref> Among all human cancers, the disease has the highest morbidity and mortality worldwide.<xref rid="tca13308-bib-0002" ref-type="ref">2</xref> Despite recent progress in multimodal management, lung cancer prognosis remains poor, primarily because of its aggressive metastasis to various organs.<xref rid="tca13308-bib-0003" ref-type="ref">3</xref> Cancer cells typically spread to the lymph nodes, bone, brain, and liver. The skeleton is a frequent target of lung cancer metastasis, and approximately 30% to 40% of patients with advanced lung cancer develop bone metastasis, which explains the high mortality rates and poor quality of life.<xref rid="tca13308-bib-0004" ref-type="ref">4</xref>, <xref rid="tca13308-bib-0005" ref-type="ref">5</xref> Osteolytic metastasis is associated with enhanced osteoclast activity.<xref rid="tca13308-bib-0006" ref-type="ref">6</xref> Receptor activator of NF&#x2010;kB ligand (RANKL) signaling is essential for the terminal differentiation of monocytes/macrophages into osteoclasts.<xref rid="tca13308-bib-0007" ref-type="ref">7</xref> Increased RANKL expression in the tumoral bone environment can increase osteoclast differentiation and bone resorption activity, resulting in bone metastasis.<xref rid="tca13308-bib-0008" ref-type="ref">8</xref> In our previous study, a group of organ&#x2010;specific metastatic cell lines which only metastasize to the spinal column, lung, brain, and mediastinal lymph node were successfully established from the parent lung cancer cell line L9981&#x2010;Luc.<sup>9</sup> The four cell lines were: L9981&#x2010;BoM, L9981&#x2010;LuM, L9981&#x2010;BrM and L9981&#x2010;LnM, respectively.<xref rid="tca13308-bib-0009" ref-type="ref">9</xref> Compared to the parent cell line (L9981&#x2010;Luc), the morphology and biological behavior of the four organ&#x2010;specific metastatic cells changed significantly.<xref rid="tca13308-bib-0009" ref-type="ref">9</xref> Given this, it will be helpful to provide reliable cell model for further studying the molecular mechanisms and signal regulation of organ&#x2010;specific metastasis in lung cancer.</p>
+      <p>MicroRNAs (miRNAs) are an abundant class of small, non&#x2010;coding RNAs, approximately 19&#x2013;25 nucleotides long.<xref rid="tca13308-bib-0010" ref-type="ref">10</xref> They modulate the expression of target genes by interacting with the 3' untranslated regions (3'&#x2010;UTRs) of target mRNA and play an essential role in the biological and pathological processes of various diseases.<xref rid="tca13308-bib-0011" ref-type="ref">11</xref>, <xref rid="tca13308-bib-0012" ref-type="ref">12</xref> Many studies have also indicated that microRNAs can modulate tumor initiation and progression and function in tumor cell invasion and metastasis.<xref rid="tca13308-bib-0013" ref-type="ref">13</xref>, <xref rid="tca13308-bib-0014" ref-type="ref">14</xref>, <xref rid="tca13308-bib-0015" ref-type="ref">15</xref>, <xref rid="tca13308-bib-0016" ref-type="ref">16</xref> Studies have shown that miR&#x2010;660&#x2010;5p regulates the malignancy of breast cancer cells by suppressing the expression of TFCP2, and is a novel therapeutic target for clinical treatment and a potential prognostic indicator.<xref rid="tca13308-bib-0017" ref-type="ref">17</xref>, <xref rid="tca13308-bib-0018" ref-type="ref">18</xref> Moreover, miR&#x2010;660&#x2010;5p acts as a tumor suppressor in renal cell carcinoma and may regulate cell migration, proliferation, and apoptosis.<xref rid="tca13308-bib-0019" ref-type="ref">19</xref> However, the role of miR&#x2010;660&#x2010;5p in the pathogenesis of lung cancer remains unknown. This study aimed to elucidate the role of miR&#x2010;660&#x2010;5p in organ&#x2010;specific metastasis of lung cancer cells and the molecular mechanism underlying its functions.</p>
+      <p>The SMARCA5 (SWI/SNF&#x2010;related, matrix&#x2010;associated, actin&#x2010;dependent regulator of chromatin, subfamily a, member 5) belongs to the ISWI family of chromatin remodelers which have helicase and ATPase activities and are thought to regulate transcription of specific genes by altering the chromatin structure around them.<xref rid="tca13308-bib-0020" ref-type="ref">20</xref>, <xref rid="tca13308-bib-0021" ref-type="ref">21</xref> The chromosome location that determined for the SMARCA5 gene, 4q31, is within a region where loss of heterozygosity (LOH) is frequently observed in hepatocellular carcinomas.<xref rid="tca13308-bib-0022" ref-type="ref">22</xref>, <xref rid="tca13308-bib-0023" ref-type="ref">23</xref> Furthermore, studies indicate that SMARCA5 expression is dysregulated in many human malignant tumors, such as gastric cancer, breast cancer, prostate cancer, and acute leukemia.<xref rid="tca13308-bib-0024" ref-type="ref">24</xref>, <xref rid="tca13308-bib-0025" ref-type="ref">25</xref>, <xref rid="tca13308-bib-0026" ref-type="ref">26</xref>, <xref rid="tca13308-bib-0027" ref-type="ref">27</xref> Also, SMARCA5 gene is a target of miRNA regulation.<xref rid="tca13308-bib-0028" ref-type="ref">28</xref>, <xref rid="tca13308-bib-0029" ref-type="ref">29</xref> However, the association between SMARCA5 expression and the formation, progression, and metastasis of lung cancer cells remains unclear.</p>
+      <p>The Nm23&#x2010;H1 gene was initially identified as a suppressor of tumor metastasis.<xref rid="tca13308-bib-0030" ref-type="ref">30</xref>, <xref rid="tca13308-bib-0031" ref-type="ref">31</xref>, <xref rid="tca13308-bib-0032" ref-type="ref">32</xref> The downregulation and hetero&#x2010;deletion of the gene are closely correlated with the high metastatic potential and poor prognosis of lung cancer.<xref rid="tca13308-bib-0033" ref-type="ref">33</xref>, <xref rid="tca13308-bib-0034" ref-type="ref">34</xref> Besides, the aberration of the nm23&#x2010;H1 gene is often companied by alteration in tumor metastasis&#x2010;related genes. Nm23&#x2010;H1 serves as an upstream regulatory gene that inhibits lung cancer metastasis by regulating downstream genes.<xref rid="tca13308-bib-0035" ref-type="ref">35</xref>, <xref rid="tca13308-bib-0036" ref-type="ref">36</xref>
+</p>
+      <p>The results of the present study showed that nm23&#x2010;H1 expression was negatively correlated with miR&#x2010;660&#x2010;5p expression in organ&#x2010;specific metastatic lung cancer cells. Also, the regulation of miR&#x2010;660&#x2010;5p through nm23&#x2010;H1 was confirmed. Downregulation of miR&#x2010;660&#x2010;5p inhibited the proliferation, migration, invasion, and bone&#x2010;specific metastasis of lung cancer cells. Furthermore, the chromatin remodeler SMARCA5 was identified as one of the direct target genes of miR&#x2010;660&#x2010;5p. Overexpression of SMARCA5 suppressed lung cancer cell migration and invasion. In addition, miR&#x2010;660&#x2010;5p activated the RANKL signaling through SMARCA5 suppression. These results demonstrated that miR&#x2010;660&#x2010;5p could be a potential therapeutic target for lung cancer metastasis.</p>
+    </sec>
+    <sec id="tca13308-sec-0006">
+      <title>Methods</title>
+      <sec id="tca13308-sec-0007">
+        <title>Cell lines and cell culture</title>
+        <p>The subcell lines (high&#x2010;metastatic L9981 and low&#x2010;metastatic NL9980) were isolated from a human lung large cell carcinoma cell line and established.<xref rid="tca13308-bib-0037" ref-type="ref">37</xref> A group of organ&#x2010;specific metastatic cell lines: L9981&#x2010;BoM, L9981&#x2010;LuM, L9981&#x2010;BrM, and L9981&#x2010;LnM were established from the parent lung cancer cell line L9981&#x2010;Luc.<xref rid="tca13308-bib-0009" ref-type="ref">9</xref> The cell lines with stable nm23&#x2010;H1 gene silencing (ie, NL9980&#x2010;99 and A549&#x2010;99) were established from NL9980 and A549 cell lines.<xref rid="tca13308-bib-0038" ref-type="ref">38</xref> The A549 cell line was procured from the American Tissue Culture Collection (ATCC). Cells were cultured in RPMI&#x2010;1640 medium (Gibco, Carlsbad, CA, USA) with 10% fetal bovine serum (FBS; Gibco) and 1% penicillin&#x2010;streptomycin (Sigma Aldrich, Saint Louis, MO, USA) at 37&#xB0;C, in a humidified atmosphere of 95% air and 5% CO<sub>2</sub>.</p>
+      </sec>
+      <sec id="tca13308-sec-0008">
+        <title>Quantitative real&#x2010;time PCR</title>
+        <p>Quantitative RT&#x2010;PCR was performed to validate the miRNA and mRNA expression levels using SYBR Premix Ex Taq (Takara, Japan). The PCR was performed in triplicate and analyzed using the ABI Prism 7900HT fast real&#x2010;time PCR system (Applied Biosystems, Life Technologies, USA). The relative quantification values for each gene were calculated by the 2<sup>&#x2212;&#x394;&#x394;Ct</sup> method using U6 or GAPDH as an internal reference. The primer for miR&#x2010;660&#x2010;5p was a specific miRNA primer (Hsa&#x2010;miR&#x2010;660&#x2010;5p; Ruibobio, Guangzhou, China). The other primers in this study are shown in Table <xref rid="tca13308-supitem-0001" ref-type="supplementary-material">S1</xref>.</p>
+      </sec>
+      <sec id="tca13308-sec-0009">
+        <title>Cell transfection</title>
+        <p>To study miR&#x2010;660&#x2010;5p gene regulation, 3&#x2009;&#xD7;&#x2009;10<sup>5</sup> cells were seeded into six&#x2010;well plates and cultured for 24&#x2009;hours at 37&#xB0;C before transfection. A total of 200&#x2009;pmol of synthesized miR&#x2010;660&#x2010;5p mimic or inhibitor (GenePharma, Shanghai, China) were transfected into L9981&#x2010;Luc or L9981&#x2010;BoM cell lines (once the cells had reached 60%&#x2013;80% confluence) using Lipofectamine 2000 (Invitrogen, CA, USA) according to the manufacturer's instructions. The same quantities of mimic or inhibitor were used as negative controls (NCs; GenePharma, Shanghai, China). Subsequently, transfection efficiency was verified by RT&#x2010;qPCR.</p>
+      </sec>
+      <sec id="tca13308-sec-0010">
+        <title>Cell migration assays</title>
+        <p>To conduct a wound&#x2010;healing migration assay, the cells were seeded onto 35&#x2009;mm dishes coated with fibronectin. Once the cells had reached 100% confluence, a scratch (approximately 500&#x2009;&#x3BC;m long) was created on the confluent monolayer using a sterile p200 pipette tip. The cell debris was then removed by replacing the medium with fresh serum&#x2010;free medium. During the subsequent 48&#x2009;hours culture of the cells, the width of the wound was measured at 0 hours, 24&#x2009;hours, and 48&#x2009;hours time points. Three to four different locations were visualized and photographed under a phase&#x2010;contrast inverted microscope. Images were taken in 40x field of vision.</p>
+      </sec>
+      <sec id="tca13308-sec-0011">
+        <title>Cell invasion assays</title>
+        <p>A Matrigel transwell chamber (BD), filled with the serum&#x2010;free medium, was used for the invasion assay. A total of 1&#x2009;&#xD7;&#x2009;10<sup>4</sup> cells were loaded into the upper chamber. Medium containing 20% FBS was used as the chemoattractant in the lower chamber. After 24&#x2009;hours of incubation at 37&#xB0;C, the cells that had adhered to the lower membrane were fixed, stained, and counted using a microscope and a counting chamber (Olympus, Tokyo, Japan). Photos were taken in 100x field of vision.</p>
+      </sec>
+      <sec id="tca13308-sec-0012">
+        <title>Cell proliferation assay</title>
+        <p>Cell Counting Kit&#x2010;8 (CCK&#x2010;8) assay was used to analyze cell proliferation. Cells were seeded in 96 well plated at 5.0&#x2009;&#xD7;&#x2009;10<sup>3</sup> cells/mL and cultured for 24&#x2009;hours, 48&#x2009;hours, and 72&#x2009;hours durations. At the end of each time point, the cells were stained with 10&#x2009;&#x3BC;L of CCK&#x2010;8 solution (Dojindo, Tokyo, Japan) then incubated for 3&#x2009;hours at 37&#xB0;C. Each absorbance was measured at 450&#x2009;nm (A450) using a spectrophotometer. Each sample was run in triplicate.</p>
+      </sec>
+      <sec id="tca13308-sec-0013">
+        <title>Generation of stable miR&#x2010;660&#x2010;5p and nm23&#x2010;H1 overexpressing cells</title>
+        <p>Experiments were performed using lentiviral vector (GenePharma, Shanghai, China) to obtain stable miR&#x2010;660&#x2010;5p and nm23&#x2010;H1 overexpressing cells. Lung cancer cells were seeded at 5&#x2009;&#xD7;&#x2009;10<sup>4</sup> cell density in each 24 well plate and infected with miR&#x2010;660&#x2010;5p/nm23&#x2010;H1/control lentiviral vector at multiplicity of infection of 10 (10 infectious units for each target cells). After 72&#x2009;hours of infection, cells were selected with Puromycin, and mRNA overexpression was quantified on day 10 or 30 after infection. A group of stable miR&#x2010;660&#x2010;5p or nm23&#x2010;H1 overexpressing cells labelled L9981&#x2010;Luc&#x2010;miR&#x2010;660&#x2010;5p, L9981&#x2010;BoM&#x2010;nm23&#x2010;H1, and L9981&#x2010;BoM&#x2010;nm23&#x2010;H1&#x2010;miR&#x2010;660&#x2010;5p were established.</p>
+      </sec>
+      <sec id="tca13308-sec-0014">
+        <title>In vivo assay</title>
+        <p>For in vivo metastasis assays, the stable cell lines L9981&#x2010;Luc&#x2010;miR&#x2010;660&#x2010;5p, L9981&#x2010;BoM&#x2010;nm23&#x2010;H1, and L9981&#x2010;BoM&#x2010;nm23&#x2010;H1&#x2010;miR&#x2010;660&#x2010;5p and control cell lines L9981&#x2010;luc&#x2010;Lv&#x2010;NC and L9981&#x2010;BoM&#x2010;Lv&#x2010;NC were collected and suspended in 0.2 mL PBS for each mouse (five mice in each group, 6&#x2013;8&#x2009;weeks old), and the cells were injected into the left side of the posterior flank of the nude mice. A total of 30 minutes after cell injection, luciferase substrate was injected at a dose of 150&#x2009;mg/kg, and live images of the mice were obtained using an IVIS200 (Xenogene, USA). These initial data were regarded as those for Day 0. Luciferase activity was measured every seven&#x2009;days using the same protocol. Tumor growth was measured periodically. Image&#x2010;Pro software (Media Cybernetics, Bethesda, MD, USA) was used to calculate the fluorescence intensity. Bone metastasis rate was evaluated according to the number of spinal column metastases in each group.</p>
+      </sec>
+      <sec id="tca13308-sec-0015">
+        <title>Dual&#x2010;luciferase reporter assay</title>
+        <p>The full&#x2010;length 3'untranslated region (3'UTR) of SMARCA5 amplified from human genomic DNA was cloned into the downstream of the firefly luciferase coding region of pMIR&#x2010;GLOTM Luciferase vector (Promega, USA). The recombined vector was denoted as pMIR&#x2010;SMARCA5. Mutations of miR&#x2010;660&#x2010;5p binding sites were introduced by site&#x2010;directed mutagenesis, and the resulting vector was denoted as pMIR&#x2010;SMARCA5&#x2010;Mut. Cells were seeded into 24 well plates and cotransfected with 200&#x2009;ng of pMIR&#x2010;SMARCA or pMIR&#x2010;SMARCA&#x2010;Mut vectors and 100&#x2009;ng of miR&#x2010;660&#x2010;5p mimic or mimic control. The pRL&#x2010;TK plasmid (Promega, Madison, WI) was used for internal normalization. After 48&#x2009;hours, cells were lysed using the lysis buffer (Promega). Luciferase reporter gene assay was conducted using the Dual&#x2010;Luciferase Reporter Assay System (Promega) according to the manufacturer's instructions. All experiments were performed at least three times.</p>
+      </sec>
+      <sec id="tca13308-sec-0016">
+        <title>Western blotting</title>
+        <p>Cells were transfected with either miR&#x2010;660&#x2010;5p, pcDNA3.1&#x2010;SMARCA5, or small interfering RNA targeting SMARCA5 (si&#x2010;SMARCA5; GenePharma, Shanghai, China). Total cellular protein extracted using RIPA buffer (Beyotime, China) were resolved on 10% gradient SDS&#x2010;PAGE (sodium dodecyl sulphate&#x2010; polyacrylamide gel) then transferred onto nitrocellulose (NC) membranes. Membranes were blocked for one&#x2009;hour in 5% skim milk in TBST and incubated with primary antibody overnight at 4&#xB0;C, followed by the incubation with appropriate horseradish peroxidase (HRP) &#x2010;conjugated secondary antibody at optimized concentration. The primary antibodies used in this study were as follows: anti&#x2010;nm23&#x2010;H1 antibody (1:500, CST), anti&#x2010;SMARCA5 antibody (1:2000, CST), anti&#x2010;RANKL antibody (1:1000, CST) and anti&#x2010;&#x3B2;&#x2010;actin antibody (1:3000, CST). The densitometry of western blot results was measured using ImageJ software.</p>
+      </sec>
+      <sec id="tca13308-sec-0017">
+        <title>Statistical analysis</title>
+        <p>The data are presented as mean&#x2009;&#xB1;&#x2009;standard deviation (SD). Student's <italic>t</italic>&#x2010;test was used to determine the significant differences between control and treatment groups. All statistical analyses were performed using SPSS15.0 software, and <italic>P</italic>&#x2009;&lt;&#x2009;0.05 was considered to be a statistically significant difference.</p>
+      </sec>
+    </sec>
+    <sec id="tca13308-sec-0018">
+      <title>Results</title>
+      <sec id="tca13308-sec-0019">
+        <title>Downregulation of nm23&#x2010;H1 expression in lung cancer cells results in upregulation of miR&#x2010;660&#x2010;5p expression</title>
+        <p>In the present study, qRT&#x2010;PCR and western blot assays were used to evaluate the expression of nm23&#x2010;H1 in normal L9981&#x2010;Luc and organ&#x2010;specific metastatic cells, including L9981&#x2010;LuM, L9981&#x2010;LyM, L9981&#x2010;BoM, and L9981&#x2010;BrM. The results showed that nm23&#x2010;H1 downregulated significantly both mRNA and protein level in all the organ&#x2010;specific metastatic cell lines compared with the normal L9981&#x2010;luc cell line (Fig <xref rid="tca13308-fig-0001" ref-type="fig">1a,b</xref>). Also, the expression of miR&#x2010;660&#x2010;5p was analyzed in the same cell lines, and the results showed that miR&#x2010;660&#x2010;5p was upregulated in all the cell lines with organ&#x2010;specific metastasis potential (Fig <xref rid="tca13308-fig-0001" ref-type="fig">1c</xref>). Furthermore, the increased expression of miR&#x2010;660&#x2010;5p in L9980&#x2010;99 and A549&#x2010;99 cells with low expression of nm23&#x2010;H1 was validated (Fig <xref rid="tca13308-fig-0001" ref-type="fig">1d</xref>). These findings indicate that nm23&#x2010;H1 negatively regulates miRNA&#x2010;660&#x2010;5p, and the enhanced expression of miR&#x2010;660&#x2010;5p is associated with organ&#x2010;specific metastasis of lung cancer cells.</p>
+        <fig fig-type="Figure" xml:lang="en" id="tca13308-fig-0001" orientation="portrait" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p>Crosstalk between nm23&#x2010;H1 and miR&#x2010;660&#x2010;5p gene expressions in lung cancer cells. (<bold>a</bold>) The relative mRNA levels of nm23&#x2010;H1 as detected by RT&#x2010;PCR analysis in normal L9981&#x2010;Luc and organ&#x2010;specific metastasis lung cancer cells. (<bold>b</bold>) The Nm23&#x2010;H1 protein expression as determined by western blot in normal L9981&#x2010;Luc and organ&#x2010;specific metastatic cells. (<bold>c</bold>) The relative mRNA levels of miR&#x2010;660&#x2010;5p as detected by RT&#x2010;PCR in L9981&#x2010;Luc and organ&#x2010;specific metastatic cells. (<bold>d</bold>) The relative mRNA levels of nm23&#x2010;H1 and miR&#x2010;660&#x2010;5p in lung cancer cells and cells with stable nm23&#x2010;H1 gene silencing (*<italic>P</italic>&#x2009;&lt;&#x2009;0.05, <italic>t</italic>&#x2010;test). (<inline-graphic xlink:href="TCA-11-640-g006.jpg" xlink:title="image"/>) NL9980 and (<inline-graphic xlink:href="TCA-11-640-g007.jpg" xlink:title="image"/>) NL9980&#x2010;99. (<inline-graphic xlink:href="TCA-11-640-g008.jpg" xlink:title="image"/>) A549 and (<inline-graphic xlink:href="TCA-11-640-g009.jpg" xlink:title="image"/>) A549&#x2010;99.</p>
+          </caption>
+          <graphic id="nlm-graphic-1" xlink:href="TCA-11-640-g001"/>
+        </fig>
+      </sec>
+      <sec id="tca13308-sec-0020">
+        <title>Downregulation of miR&#x2010;660&#x2010;5p inhibits growth, migration, and invasion of lung cancer cells with bone&#x2010;specific metastatic potential in vitro</title>
+        <p>Next, the functional significance of miR&#x2010;660&#x2010;5p in lung cancer cells was evaluated. Briefly, L9981&#x2010;BoM cells with high MiR&#x2010;660&#x2010;5p expression were transfected with miR&#x2010;660&#x2010;5p inhibitor or inhibitor control, whereas L9981&#x2010;Luc cells with low miR&#x2010;660&#x2010;5p expression were transfected with miR&#x2010;660&#x2010;5p mimics or NCs. A wound&#x2010;healing assay was used to examine cell migration ability. The downregulation of miR&#x2010;660&#x2010;5p in L9981&#x2010;BoM significantly inhibited cell migration compared to the control group (Fig <xref rid="tca13308-fig-0002" ref-type="fig">2a</xref>). Furthermore, the Boyden chamber assay was conducted to investigate the effect of miR&#x2010;660&#x2010;5p on cell invasion. The invasion ability of L9981&#x2010;BoM cells transfected with miR&#x2010;660&#x2010;5p inhibitor was lower than that of the control group (Fig <xref rid="tca13308-fig-0002" ref-type="fig">2b</xref>). Moreover, a CCK&#x2010;8 assay was performed to investigate the effect of miR&#x2010;660&#x2010;5p on cell proliferation. The proliferation ability of L9981&#x2010;BoM cells transfected with miR&#x2010;660&#x2010;5p inhibitor was lower than that of the control group (Fig <xref rid="tca13308-fig-0002" ref-type="fig">2c</xref>). However, the normal L9981&#x2010;Luc cells showed an increased migration, invasion and proliferation after treatment with miR&#x2010;660&#x2010;5p mimics (Fig <xref rid="tca13308-fig-0002" ref-type="fig">2a</xref>&#x2013;<xref rid="tca13308-fig-0002" ref-type="fig">c</xref>). Collectively, these results suggest that miR&#x2010;660&#x2010;5p can be an oncogene, and thus inhibiting miR&#x2010;660&#x2010;5p can suppress the growth, migration, and invasion of bone&#x2010;specific metastatic cells in vitro.</p>
+        <fig fig-type="Figure" xml:lang="en" id="tca13308-fig-0002" orientation="portrait" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p>Effect of miR&#x2010;660&#x2010;5p suppression on the growth, migration, and invasion of bone&#x2010;specific metastatic cells in vitro. (<bold>a</bold>) The wound&#x2010;healing assay results showing the migration ability of L9981&#x2010;BoM and L9981&#x2010;Luc cells. Cells were transfected with miR&#x2010;660&#x2010;5p inhibitor or inhibitor control and miR&#x2010;660&#x2010;5p mimic or mimic control and photos were taken in 40x field of vision. L9981&#x2010;BoM (<inline-graphic xlink:href="TCA-11-640-g010.jpg" xlink:title="image"/>) inhibitor&#x2010;NC and (<inline-graphic xlink:href="TCA-11-640-g011.jpg" xlink:title="image"/>) inhibitor. L9981&#x2010;Luc (<inline-graphic xlink:href="TCA-11-640-g012.jpg" xlink:title="image"/>) mimic&#x2010;NC and (<inline-graphic xlink:href="TCA-11-640-g013.jpg" xlink:title="image"/>) mimic. (<bold>b</bold>) Boyden chamber assay results showing the invasion ability of L9981&#x2010;BoM and L9981&#x2010;Luc cells. The results were from three independent experiments. The migratory cell number in each group was normalized to the control. Cells were transfected with miR&#x2010;660&#x2010;5p inhibitor or inhibitor control, and miR&#x2010;660&#x2010;5p mimic or mimic control. Images were taken in 100x field of vision. L9981&#x2010;BoM (<inline-graphic xlink:href="TCA-11-640-g014.jpg" xlink:title="image"/>) inhibitor&#x2010;NC and (<inline-graphic xlink:href="TCA-11-640-g015.jpg" xlink:title="image"/>) inhibitor. L9981&#x2010;Luc (<inline-graphic xlink:href="TCA-11-640-g016.jpg" xlink:title="image"/>) mimic&#x2010;NC and (<inline-graphic xlink:href="TCA-11-640-g017.jpg" xlink:title="image"/>) mimic. (<bold>c</bold>) The CCK&#x2010;8 assay results showing the proliferation ability of L9981&#x2010;BoM and L9981&#x2010;Luc cells. Cells were transfected with miR&#x2010;660&#x2010;5p inhibitor or inhibitor control and miR&#x2010;660&#x2010;5p mimic or mimics control (*<italic>P</italic>&#x2009;&lt;&#x2009;0.05, <italic>t</italic>&#x2010;test). L9981&#x2010;BoM (<inline-graphic xlink:href="TCA-11-640-g018.jpg" xlink:title="image"/>) inhibitor&#x2010;NC and (<inline-graphic xlink:href="TCA-11-640-g019.jpg" xlink:title="image"/>) inhibitor. L9981&#x2010;Luc (<inline-graphic xlink:href="TCA-11-640-g020.jpg" xlink:title="image"/>) mimic&#x2010;NC and (<inline-graphic xlink:href="TCA-11-640-g021.jpg" xlink:title="image"/>) mimic.</p>
+          </caption>
+          <graphic id="nlm-graphic-3" xlink:href="TCA-11-640-g002"/>
+        </fig>
+      </sec>
+      <sec id="tca13308-sec-0021">
+        <title>MiR&#x2010;660&#x2010;5p promotes lung cancer progression and bone&#x2010;specific metastasis and reverse the antitumor effect of nm23&#x2010;H1 in vivo</title>
+        <p>To further determine the roles of miR&#x2010;660&#x2010;5p, L9981&#x2010;Luc cells with stable overexpression of miR&#x2010;660&#x2010;5p were generated and injected subcutaneously into nude mice. Subsequently, tumor growth was closely monitored for eight&#x2009;weeks. The fluorescence value of mice in the miR&#x2010;660&#x2010;5p overexpressed group was significantly higher than the negative control group (Fig <xref rid="tca13308-fig-0003" ref-type="fig">3a</xref>). The tumor size and weight were also increased significantly in the miR&#x2010;660&#x2010;5p overexpressed group (Fig <xref rid="tca13308-fig-0003" ref-type="fig">3b,c</xref>). Furthermore, spinal column metastases fluorescence value of tumor&#x2010;bearing mice in vitro was used to investigate the effect of miR&#x2010;660&#x2010;5p on bone metastasis (Fig <xref rid="tca13308-fig-0003" ref-type="fig">3d</xref>). The bone metastasis rate and fluorescence value in the miR&#x2010;660&#x2010;5p overexpressed group were significantly higher than those of the control group (Fig <xref rid="tca13308-fig-0003" ref-type="fig">3e</xref>).</p>
+        <fig fig-type="Figure" xml:lang="en" id="tca13308-fig-0003" orientation="portrait" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p>MiR&#x2010;660&#x2010;5p promotes lung cancer progression and bone metastasis and reverses the anti&#x2010;tumor effect of nm23&#x2010;H1 in vivo. The miR&#x2010;660&#x2010;5p or nm23&#x2010;H1 overexpressed cells L9981&#x2010;Luc&#x2010;miR&#x2010;660&#x2010;5p, L9981&#x2010;BoM &#x2010;Lv&#x2010;nm23&#x2010;H1, L9981&#x2010;BoM &#x2010;Lv&#x2010;nm23&#x2010;H1&#x2010;miR&#x2010;660&#x2010;5p and negative control cells L9981&#x2010;Luc&#x2010;Lv&#x2010;NC, L9981&#x2010;BoM&#x2010;Lv&#x2010;NC were injected into the nude mice (5/group). (<bold>a</bold>) Representative images of tumors (durations are indicated). The pseudo&#x2010;color scale bars represent the intensity of light emission with different colors. (<bold>b</bold>) Tumor growth curve (data are mean&#x2009;&#xB1;&#x2009;SD). L9981&#x2010;BoM (<inline-graphic xlink:href="TCA-11-640-g022.jpg" xlink:title="image"/>) Lv&#x2010;NC, (<inline-graphic xlink:href="TCA-11-640-g023.jpg" xlink:title="image"/>) Lv&#x2010;nm23&#x2010;H1 and (<inline-graphic xlink:href="TCA-11-640-g024.jpg" xlink:title="image"/>) Lv&#x2010;nm23&#x2010;H1&#x2010;miR&#x2010;660&#x2010;5p. L9981&#x2010;Luc (<inline-graphic xlink:href="TCA-11-640-g025.jpg" xlink:title="image"/>) Lv&#x2010;NC and (<inline-graphic xlink:href="TCA-11-640-g026.jpg" xlink:title="image"/>) Lv&#x2010;miR&#x2010;660&#x2010;5p. (<bold>c</bold>) Images of tumors obtained from different groups of nude mice (up) and a comparison of the average weight of implanted tumors (down). L9981&#x2010;BoM (<inline-graphic xlink:href="TCA-11-640-g027.jpg" xlink:title="image"/>) Lv&#x2010;NC, (<inline-graphic xlink:href="TCA-11-640-g028.jpg" xlink:title="image"/>) Lv&#x2010;nm23&#x2010;H1 and (<inline-graphic xlink:href="TCA-11-640-g029.jpg" xlink:title="image"/>) Lv&#x2010;nm23&#x2010;H1&#x2010;miR&#x2010;660&#x2010;5p. L9981&#x2010;Luc (<inline-graphic xlink:href="TCA-11-640-g030.jpg" xlink:title="image"/>) Lv&#x2010;NC and (<inline-graphic xlink:href="TCA-11-640-g031.jpg" xlink:title="image"/>) Lv&#x2010;miR&#x2010;660&#x2010;5p. (<bold>d</bold>) Spinal column metastases luciferase imaging of tumor&#x2010;bearing mice in vitro. (<bold>e</bold>) Comparison of bone metastasis rate (up) and the luciferase value (down) of each group based on spinal metastasis (the intensity was measured on week 8 and data are presented as mean&#x2009;&#xB1;&#x2009;SD) (*<italic>P</italic>&#x2009;&lt;&#x2009;0.05, <italic>t</italic>&#x2010;test). L9981&#x2010;BoM (<inline-graphic xlink:href="TCA-11-640-g032.jpg" xlink:title="image"/>) Lv&#x2010;NC, (<inline-graphic xlink:href="TCA-11-640-g033.jpg" xlink:title="image"/>) Lv&#x2010;nm23&#x2010;H1 and (<inline-graphic xlink:href="TCA-11-640-g034.jpg" xlink:title="image"/>) Lv&#x2010;nm23&#x2010;H1&#x2010;miR&#x2010;660&#x2010;5p. L9981&#x2010;Luc (<inline-graphic xlink:href="TCA-11-640-g035.jpg" xlink:title="image"/>) Lv&#x2010;NC and (<inline-graphic xlink:href="TCA-11-640-g036.jpg" xlink:title="image"/>) Lv&#x2010;miR&#x2010;660&#x2010;5p. L9981&#x2010;BoM (<inline-graphic xlink:href="TCA-11-640-g037.jpg" xlink:title="image"/>) Lv&#x2010;NC, (<inline-graphic xlink:href="TCA-11-640-g038.jpg" xlink:title="image"/>) Lv&#x2010;nm23&#x2010;H1 and (<inline-graphic xlink:href="TCA-11-640-g039.jpg" xlink:title="image"/>) Lv&#x2010;nm23&#x2010;H1&#x2010;miR&#x2010;660&#x2010;5p. L9981&#x2010;Luc (<inline-graphic xlink:href="TCA-11-640-g040.jpg" xlink:title="image"/>) Lv&#x2010;NC and (<inline-graphic xlink:href="TCA-11-640-g041.jpg" xlink:title="image"/>) Lv&#x2010;miR&#x2010;660&#x2010;5p.</p>
+          </caption>
+          <graphic id="nlm-graphic-5" xlink:href="TCA-11-640-g003"/>
+        </fig>
+        <p>This study also established L9981&#x2010;BoM &#x2010;Lv&#x2010;nm23&#x2010;H1 (nm23&#x2010;H1) cell lines with high nm23&#x2010;H1 expression and L9981&#x2010;BoM &#x2010;Lv&#x2010;nm23&#x2010;H1&#x2010;miR&#x2010;660&#x2010;5p cell lines with high miR&#x2010;660&#x2010;5p expression and another L9981&#x2010;BoM&#x2010;Lv&#x2010;con cell line as a negative control (NC). The cells were injected subcutaneously to the nude mice, and the fluorescence intensity was measured every week until the eighth week. The nm23&#x2010;H1 overexpressed group showed a significant decrease in luciferase activity, tumor size, and weight compared with the negative control group (Fig <xref rid="tca13308-fig-0003" ref-type="fig">3a</xref>&#x2013;<xref rid="tca13308-fig-0003" ref-type="fig">c</xref>). Also, overexpression of nm23&#x2010;H1 significantly decreased the number of bone metastasis and metastases fluorescence value compared with the negative control group (Fig <xref rid="tca13308-fig-0003" ref-type="fig">3d,e</xref>). In addition, compared with the nm23&#x2010;H1 overexpressed group, the tumor size and weight, bone metastasis rate, and luciferase activity were increased in the re&#x2010;induced miR&#x2010;660&#x2010;5p group, but the increase was not significantly higher than the negative control group (Fig <xref rid="tca13308-fig-0003" ref-type="fig">3a</xref>&#x2013;<xref rid="tca13308-fig-0003" ref-type="fig">e</xref>).</p>
+      </sec>
+      <sec id="tca13308-sec-0022">
+        <title>MiR&#x2010;660&#x2010;5p directly inhibits SMARCA5 expression via targeting its 3'UTR and induces RANKL signaling in lung cancer cells</title>
+        <p>The phenotypic results mentioned above indicate that the growth and migration of the human lung cancer cells with bone&#x2010;specific metastasis potential were both reduced by the inhibition of miR&#x2010;660&#x2010;5p. Moreover, TARGETSCAN, MIRDB, and MICRORNA.ORG were used to predict the targets of miR&#x2010;660&#x2010;5p. Notably, the results of the present study suggested that SMARCA5 was indeed a potential target of miR&#x2010;660&#x2010;5p (Fig <xref rid="tca13308-fig-0004" ref-type="fig">4</xref>). The 3'&#x2010;UTR of SMARCA5 mRNA contained a site that complemented the seed region of miR&#x2010;660&#x2010;5p (Fig <xref rid="tca13308-fig-0004" ref-type="fig">4a</xref>). The human SMARCA5 3'&#x2010;UTR fragments with wild&#x2010;type or mutant miR&#x2010;660&#x2010;5p&#x2010;binding sequences were cloned into pMIR reporter vector (Fig <xref rid="tca13308-fig-0004" ref-type="fig">4b</xref>). The luciferase activity of pMIR&#x2010;SMARCA5&#x2010;3'UTR&#x2010;wt construct was significantly decreased (because of the overexpression of miR&#x2010;660&#x2010;5p in L9981 cells), whereas its mutant counterpart was not (Fig <xref rid="tca13308-fig-0004" ref-type="fig">4c</xref>). Moreover, the expression levels of SMARCA5 were determined in L9981&#x2010;Luc and L9981&#x2010;BoM cells transfected with miR&#x2010;660&#x2010;5p mimics or inhibitors and miR&#x2010;NC. The mRNA and protein levels of SMARCA5 in L9981 cells were dramatically reduced after transfection with miR&#x2010;660&#x2010;5p mimics. Also, the SMARCA5 mRNA and protein levels were higher in the L9981&#x2010;BoM cells than in the miRNA control as a result of miR&#x2010;660&#x2010;5p suppression (Fig <xref rid="tca13308-fig-0004" ref-type="fig">4d</xref>&#x2013;<xref rid="tca13308-fig-0004" ref-type="fig">f</xref>). Collectively, these results indicate that SMARCA5 is a direct target of miR&#x2010;660&#x2010;5p.</p>
+        <fig fig-type="Figure" xml:lang="en" id="tca13308-fig-0004" orientation="portrait" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p>MiR&#x2010;660&#x2010;5p inhibits the expression of SMARCA5 through its 3'UTR. (<bold>a</bold>) The miR&#x2010;660&#x2010;5p binding site, as predicted in the 3'UTR of SMARCA5 mRNA. (<bold>b</bold>) Mutation generated at the seed region of SMARCA5 3'UTR (indicated by the underlined bases). A 3'UTR fragment of SMARCA5 mRNA containing wild&#x2010;type or mutant of the miR&#x2010;660&#x2010;5p binding sequence was cloned into the downstream of the luciferase gene in the pMIR vector. (<bold>c</bold>) L9981&#x2010;Luc cells were transfected with pMIR reporter vectors containing either wild&#x2010;type or mutant SMARCA5 3'UTR (indicated as pMIR&#x2010;SMARCA5&#x2010;3'UTR&#x2010;wt and pMIR&#x2010;SMARCA5&#x2010;3'UTR&#x2010;mut) with either miR&#x2010;660&#x2010;5p mimics (indicated as miR&#x2010;660&#x2010;5p) or miR&#x2010;660&#x2010;5p mimics control (indicated as NC). Bar graphs showing luciferase activity 48&#x2009;hours after transfection. (<inline-graphic xlink:href="TCA-11-640-g042.jpg" xlink:title="image"/>) NC and (<inline-graphic xlink:href="TCA-11-640-g043.jpg" xlink:title="image"/>) miR&#x2010;660&#x2010;5p. (<bold>d</bold>&#x2013;<bold>f</bold>) The mRNA and protein expression levels of SMARCA5 and RANKL genes as determined by RT&#x2010;PCR and western blot assays in L9981&#x2010;Luc or L9981&#x2010;BoM cell transfected with miR&#x2010;660&#x2010;5p mimic, control miRNA mimic, miR&#x2010;660&#x2010;5p inhibitor, or control miRNA inhibitor. (<bold>e</bold>, <bold>f</bold>) Here the relative gray values of each band (normalized to &#x3B2;&#x2010;actin) are shown. Protein bands from three independent western blot assays were quantified using Quantity One software (Bio&#x2010;Rad, USA). Data are presented as mean&#x2009;&#xB1;&#x2009;SD (*<italic>P</italic>&#x2009;&lt;&#x2009;0.05, <italic>t</italic>&#x2010;test). L9981&#x2010;Luc (<inline-graphic xlink:href="TCA-11-640-g044.jpg" xlink:title="image"/>) mimic&#x2010;NC and (<inline-graphic xlink:href="TCA-11-640-g045.jpg" xlink:title="image"/>) miR&#x2010;660&#x2010;5p mimic. L9981&#x2010;BoM (<inline-graphic xlink:href="TCA-11-640-g046.jpg" xlink:title="image"/>) inhibitor&#x2010;NC and (<inline-graphic xlink:href="TCA-11-640-g047.jpg" xlink:title="image"/>) inhibitor.</p>
+          </caption>
+          <graphic id="nlm-graphic-7" xlink:href="TCA-11-640-g004"/>
+        </fig>
+        <p>RANKL plays a critical role in the development of osteolytic metastasis in the bones.<xref rid="tca13308-bib-0039" ref-type="ref">39</xref> It is highly expressed in the osteolytic lesions associated with malignant tumors.<xref rid="tca13308-bib-0040" ref-type="ref">40</xref> Moreover, by blocking the RANKL signaling, osteolytic lesions have been successfully inhibited in several types of cancer, including multiple myeloma and prostate cancer.<xref rid="tca13308-bib-0041" ref-type="ref">41</xref>, <xref rid="tca13308-bib-0042" ref-type="ref">42</xref>, <xref rid="tca13308-bib-0043" ref-type="ref">43</xref> Given this, the present study evaluated the effect of miR&#x2010;660&#x2010;5p on RANKL in lung cancer cells using western blot assay. The expression of RANKL was positively correlated with miR&#x2010;660&#x2010;5p expression in L9981&#x2010;Luc or L9981&#x2010;BoM cells (4E). Collectively, these results show that miR&#x2010;660&#x2010;5p directly inhibits SMARCA5 expression by targeting its 3'UTR and also induces RANKL signaling of lung cancer cells.</p>
+      </sec>
+      <sec id="tca13308-sec-0023">
+        <title>SMARCA5 expression is inversely correlated with miR&#x2010;660&#x2010;5p mediated bone&#x2010;specific metastatic lung cancer cell migration, invasion, and RANKL signaling</title>
+        <p>The expression of SMARCA5 and RANKL in normal L9981&#x2010;Luc and bone&#x2010;specific metastatic L9981&#x2010;BoM cells was also examined in this study. Both the mRNA and protein levels of SMARCA5 in L9981&#x2010;BoM cells were significantly low. Also, RANKL expression was higher in bone&#x2010;specific metastatic L9981&#x2010;BoM cells than in the normal L9981&#x2010;Luc cells (Fig <xref rid="tca13308-fig-0005" ref-type="fig">5a</xref>). A significant reverse correlation between SMARCA5 and RANKL (Fig <xref rid="tca13308-fig-0005" ref-type="fig">5b</xref>) was observed after transfecting pcDNA3.1&#x2010;SMARCA5 in L9981&#x2010;BoM or siSMARCA5 in L9981&#x2010;Luc cells for overexpression or knockdown of SMARCA5, respectively. Furthermore, we investigated whether SMARCA5 contributed to the migration and invasion of bone&#x2010;specific metastatic lung cancer cells. Ectopic expression of SMARCA5 in L9981&#x2010;BoM cells led to a significant decrease in cell migration and invasion (Fig <xref rid="tca13308-fig-0005" ref-type="fig">5c,d</xref>); however, silencing SMARCA5 by siRNAs in L9981 cells resulted in increased migration and invasion of the cells (Fig <xref rid="tca13308-fig-0005" ref-type="fig">5c,d</xref>). Therefore, SMARCA5 was negatively correlated with bone&#x2010;specific metastatic cell migration and invasion.</p>
+        <fig fig-type="Figure" xml:lang="en" id="tca13308-fig-0005" orientation="portrait" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>Effect of inverse correlation between SMARCA5 and miR&#x2010;660&#x2010;5p expressions on bone&#x2010;specific metastatic lung cancer cell migration, invasion, and RANKL signaling. (<bold>a</bold>) Results of RT&#x2010;PCR and western blot assays showing SMARCA5 and RANKL expressions as examined in L9981&#x2010;Luc and L9981&#x2010;BoM cells. (<inline-graphic xlink:href="TCA-11-640-g048.jpg" xlink:title="image"/>) L9981&#x2010;Luc and (<inline-graphic xlink:href="TCA-11-640-g049.jpg" xlink:title="image"/>) L9981&#x2010;BoM. (<bold>b</bold>) SMARCA5 and RANKL expression as revealed by western blot assay after transfecting pcDNA3.1&#x2010;SMARCA5 in L9981&#x2010;BoM or siSMARCA5 in L9981&#x2010;Luc to overexpression or knockdown of SMARCA5. (<bold>c</bold>) The cell migration ability, as detected by wound healing assay in L9981&#x2010;BoM cells, transfected with pcDNA3.1 or pcDNA3.1&#x2010;SMARCA5 vectors and L9981&#x2010;Luc transfected with siSMARCA5 or siControl. Images were taken in 40x field of vision. L9981&#x2010;BoM (<inline-graphic xlink:href="TCA-11-640-g050.jpg" xlink:title="image"/>) pcDNA3.1 and (<inline-graphic xlink:href="TCA-11-640-g051.jpg" xlink:title="image"/>) pcDNA3.1&#x2010;SMARCA5. L9981&#x2010;Luc (<inline-graphic xlink:href="TCA-11-640-g052.jpg" xlink:title="image"/>) siControl and (<inline-graphic xlink:href="TCA-11-640-g053.jpg" xlink:title="image"/>) siSMARCA5. (<bold>d</bold>) The effect of SMARCA5 on the cell invasion as assessed by the Boyden chamber assay after overexpression or knockdown of SMARCA5 in L9981&#x2010;BoM or L9981&#x2010;Luc cells, respectively. Images were taken in 100x field of vision. L9981&#x2010;BoM (<inline-graphic xlink:href="TCA-11-640-g054.jpg" xlink:title="image"/>) pcDNA3.1 and (<inline-graphic xlink:href="TCA-11-640-g055.jpg" xlink:title="image"/>) pcDNA3.1&#x2010;SMARCA5. L9981&#x2010;Luc (<inline-graphic xlink:href="TCA-11-640-g056.jpg" xlink:title="image"/>) siControl and (<inline-graphic xlink:href="TCA-11-640-g057.jpg" xlink:title="image"/>) siSMARCA5. (<bold>e</bold>, <bold>f</bold>) The SMARCA5 and RANKL protein expression levels as determined by western blot (*<italic>P</italic>&#x2009;&lt;&#x2009;0.05, <italic>t</italic>&#x2010;test). (<bold>e</bold>) (<inline-graphic xlink:href="TCA-11-640-g058.jpg" xlink:title="image"/>) anti&#x2010;miR&#x2010;NC+siControl, (<inline-graphic xlink:href="TCA-11-640-g059.jpg" xlink:title="image"/>) anti&#x2010;miR&#x2010;660&#x2010;5p+siControl and (<inline-graphic xlink:href="TCA-11-640-g060.jpg" xlink:title="image"/>) anti&#x2010;miR&#x2010;660&#x2010;5p+siSMARCA5. (<bold>f</bold>) (<inline-graphic xlink:href="TCA-11-640-g061.jpg" xlink:title="image"/>) miR&#x2010;NC&#x2010;pcDNA3.1, (<inline-graphic xlink:href="TCA-11-640-g062.jpg" xlink:title="image"/>) miR&#x2010;660&#x2010;5p+pcDNA3.1 and (<inline-graphic xlink:href="TCA-11-640-g063.jpg" xlink:title="image"/>) miR&#x2010;660&#x2010;5p+pcDNA3.1&#x2010;SMARCA5.</p>
+          </caption>
+          <graphic id="nlm-graphic-9" xlink:href="TCA-11-640-g005"/>
+        </fig>
+        <p>In the present study, miR&#x2010;660&#x2010;5p regulated the expression of SMARCA5 and induced RANKL signaling. Also, there was a significant negative correlation between SMARCA5 and RANKL expressions. Given this, we investigated whether the role of miR&#x2010;660&#x2010;5p on RANKL signaling was dependent on SMARCA5. The expression level of RANKL was significantly reduced or increased in L9981&#x2010;BoM, and L9981&#x2010;Luc cells transfected with miR&#x2010;660&#x2010;5p inhibitor or mimic, respectively (Fig <xref rid="tca13308-fig-0005" ref-type="fig">5e</xref>,f). After SMARCA5 silencing, RANKL inhibition induced through miR&#x2010;660&#x2010;5p was reversed in L9981&#x2010;BoM cells (Fig <xref rid="tca13308-fig-0005" ref-type="fig">5e</xref>). Thus, SMARCA5 could be involved in the regulation of miR&#x2010;660&#x2010;5p on RANKL signaling in L9981&#x2010;BoM cells. Also, the overexpression of SMARCA5 could reverse the increased RANKL expression induced by miR&#x2010;660&#x2010;5p in L9981&#x2010;Luc cells (Fig <xref rid="tca13308-fig-0005" ref-type="fig">5f</xref>). Collectively, these results suggest that SMARCA5 is a functional target of miR&#x2010;660&#x2010;5p, which is inversely correlated with miR&#x2010;660&#x2010;5p mediated bone&#x2010;specific metastatic lung cancer cells migration, invasion, and RANKL signaling.</p>
+      </sec>
+    </sec>
+    <sec id="tca13308-sec-0024">
+      <title>Discussion</title>
+      <p>Tumor cells tend to spread (metastasize) to adjacent and distant tissues and organs which poses a considerable challenge to cancer treatment and management. Metastasis is the leading cause of death in cancer patients.<xref rid="tca13308-bib-0044" ref-type="ref">44</xref> Lung cancer metastasis has organ&#x2010;specific characteristics. For studying the mechanisms and signal regulation of organ&#x2010;specific metastasis of lung cancer, our laboratory screened and established an organ&#x2010;specific metastatic lung cancer cell model from the parent lung cancer cell line L9981&#x2010;Luc, including L9981&#x2010;BrM, L9981&#x2010;LuM, L9981&#x2010;BoM, L9981&#x2010;LnM, which are only able metastasized to brain, lung, spinal column and mediastinal lymph nodes.<xref rid="tca13308-bib-0009" ref-type="ref">9</xref> The nm23&#x2010;H1 gene is a well&#x2010;known suppressor of tumor metastasis. In this study, nm23&#x2010;H1 was significantly downregulated in all four organ&#x2010;specific metastasis cell lines, which suggested that organ&#x2010;specific metastasis could occur as a result of nm23&#x2010;H1 suppression. The downregulation of nm23&#x2010;H1 might influence the expression of some genes downstream.</p>
+      <p>Several lines of evidence have indicated that miRNAs play a crucial role in tumor formation and progression.<xref rid="tca13308-bib-0013" ref-type="ref">13</xref>, <xref rid="tca13308-bib-0014" ref-type="ref">14</xref>, <xref rid="tca13308-bib-0015" ref-type="ref">15</xref>, <xref rid="tca13308-bib-0016" ref-type="ref">16</xref> Previous studies have revealed that miR&#x2010;660&#x2010;5p is dysregulated in several human malignancies. For example, miR&#x2010;660&#x2010;5p is upregulated in breast cancer, and it may be a potential oncogene that plays a vital role in the development and metastasis of breast cancer.<xref rid="tca13308-bib-0017" ref-type="ref">17</xref> Another study reported that miR&#x2010;660&#x2010;5p expression was significantly downregulated in renal cell carcinoma and could act as a tumor suppressor to regulate cell migration, proliferation, and apoptosis.<sup>19</sup> Also, dysregulated miR&#x2010;660&#x2010;5p expression has been reported in Hodgkin's lymphoma<xref rid="tca13308-bib-0045" ref-type="ref">45</xref> and multiple myeloma.<xref rid="tca13308-bib-0046" ref-type="ref">46</xref> In the present study, miR&#x2010;660&#x2010;5p was significantly upregulated in all four organ&#x2010;specific metastasis cell lines with lower nm23&#x2010;H1 expression than normal L9981&#x2010;Luc. Thus, we speculated that negative regulation of miR&#x2010;660&#x2010;5p by nm23&#x2010;H1 might be involved in the organ&#x2010;specific metastasis of lung cancer cells. However, the role of miR&#x2010;660&#x2010;5p in lung cancer cell migration and invasion remains unclear.</p>
+      <p>Herein, the role of miR&#x2010;660&#x2010;5p in lung cancer cell progression was investigated. The downregulation of miR&#x2010;660&#x2010;5p in bone&#x2010;specific metastatic lung cancer cell L9981&#x2010;BoM significantly inhibited cell proliferation, migration, and invasion in vitro, whereas the upregulation of miR&#x2010;660&#x2010;5p in L9981&#x2010;Luc significantly promoted lung cancer tumorigenesis and bone&#x2010;specific metastasis in vitro and in vivo. Moreover, the reintroduction of miR&#x2010;660&#x2010;5p reversed nm23&#x2010;H1 mediated antitumor and antibone&#x2010;specific metastatic effect in L9981&#x2010;BoM in vivo. These results suggested that miR&#x2010;660&#x2010;5p could serve as a downstream gene of nm23&#x2010;H1, and could be a novel potential oncogene that plays a vital role in the development and bone&#x2010;specific metastasis of lung cancer.</p>
+      <p>The biological function of miRNAs is to regulate target genes by directly inactivating mRNA or inhibiting protein synthesis.<xref rid="tca13308-bib-0011" ref-type="ref">11</xref>, <xref rid="tca13308-bib-0012" ref-type="ref">12</xref> In the current study, it was revealed that SMARCA5 has a binding site for miR&#x2010;660&#x2010;5p within its 3'&#x2010;UTR region, as earlier predicted. Furthermore, SMARCA5 was characterized as a functional target of miR&#x2010;660&#x2010;5p by luciferase reporter gene assays, RT&#x2010;PCR, and western blot analysis. The imitation switch (ISWI) nuclear ATPase SMARCA5 (Snf2h) is one of the most conserved chromatin remodeling factors which are associated with various developmental disorders and cancer.<xref rid="tca13308-bib-0021" ref-type="ref">21</xref>, <xref rid="tca13308-bib-0022" ref-type="ref">22</xref> A study reported that SMARCA5 expression was higher in gastric cancer samples than in normal mucosa<xref rid="tca13308-bib-0024" ref-type="ref">24</xref> and overexpression of SMARCA5 correlated with cell proliferation and migration in breast cancer.<xref rid="tca13308-bib-0025" ref-type="ref">25</xref> In the present study, SMARCA5 expression was inversely correlated with miR&#x2010;660&#x2010;5p expression. Overexpression of SMARCA5 suppressed the L9981&#x2010;BoM cell invasion and migration, indicating that SMARCA5 could be involved in the regulation of tumor progression in bone&#x2010;specific metastatic lung cancer cells.</p>
+      <p>Receptor activator of NF&#x2010;kB ligand (RANKL) signaling is essential for osteoclastogenesis and bone resorption that contribute to the underlying pathogenesis of tumor cell metastasis to the bone.<xref rid="tca13308-bib-0007" ref-type="ref">7</xref>, <xref rid="tca13308-bib-0008" ref-type="ref">8</xref> The RANKL protein expression in cancer cells plays a pivotal role in bone metastasis. Xianbo <italic>et al</italic>. suggested that the movement of lung cancer cells from primary sites to bone metastatic sites could depend on the level of RANKL expression. In their study, the RANKL expression was increased at both transcript and protein levels in the most metastatic cell line.<xref rid="tca13308-bib-0047" ref-type="ref">47</xref> Moreover, osteolytic metastasis has been successfully inhibited in several types of cancer, including multiple myeloma and prostate cancer through the suppression of RANKL signaling.<xref rid="tca13308-bib-0041" ref-type="ref">41</xref>, <xref rid="tca13308-bib-0043" ref-type="ref">43</xref> This study also found similar results that showed that RANKL expression was upregulated in bone&#x2010;specific metastasis L9981&#x2010;BoM cells compared to L9981&#x2010;Luc cells. Also, it was observed that RANKL expression was influenced by miR&#x2010;660&#x2010;5p expression. The RANKL expression induced by miR&#x2010;660&#x2010;5p was reversed as a result of SMARCA5 knockdown, indicating that miR&#x2010;660&#x2010;5p could play a role in bone&#x2010;specific metastasis of lung cancer cells by modulating RANKL signaling through targeting SMARCA5. However, more detailed mechanisms involving other relevant downstream factors in the process should be investigated further.</p>
+      <p>In conclusion, the results of this study show that nm23&#x2010;H1 negatively regulates miR&#x2010;660&#x2010;5p (as a downstream gene). Moreover, miR&#x2010;660&#x2010;5p influences the proliferation, migration, invasion, and bone&#x2010;specific metastasis of human lung cancer cells through the miR&#x2010;660&#x2010;5p/SMARCA5/RANKL signaling pathways. These findings provide new insight into the mechanism underlying the development of human lung cancer, particularly bone&#x2010;specific metastasis. MiR&#x2010;660&#x2010;5p and its downstream targets may be potential therapeutic targets for the treatment and prognosis of human lung cancer.</p>
+    </sec>
+    <sec id="tca13308-sec-0026">
+      <title>Disclosure</title>
+      <p>The authors report no conflicts of interest in this work.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material content-type="local-data" id="tca13308-supitem-0001">
+        <caption>
+          <p>
+<bold>Table S1</bold> Sequences of components used in this study.</p>
+        </caption>
+        <media xlink:href="TCA-11-640-s001.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack id="tca13308-sec-0025">
+      <title>Acknowledgments</title>
+      <p>This study was supported by grants from the National Natural Science Foundation of China (No 81572288 to Qinghua Zhou), the Key Project of International Cooperation of Science and Technology Innovation Between Governments, the National Key Research and Development Plan of China (No 2016YEE0103400 to Qinghua Zhou).</p>
+    </ack>
+    <ref-list id="tca13308-bibl-0001" content-type="cited-references">
+      <title>References</title>
+      <ref id="tca13308-bib-0001">
+        <label>1</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0001">
+<string-name>
+<surname>Duffy</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>O'Byrne</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Tissue and blood biomarkers in lung cancer: A review</article-title>. <source xml:lang="en">Adv Clin Chem</source>
+<year>2018</year>; <volume>86</volume>: <fpage>1</fpage>&#x2013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">30144837</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0002">
+        <label>2</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0002">
+<string-name>
+<surname>Bamji&#x2010;Stocke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>van Berkel</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Frieboes</surname>
+<given-names>HB</given-names>
+</string-name>. <article-title>A review of metabolism&#x2010;associated biomarkers in lung cancer diagnosis and treatment</article-title>. <source xml:lang="en">Metabolomics</source>
+<year>2018</year>; <volume>14</volume> (<issue>6</issue>): <fpage>81</fpage>.<pub-id pub-id-type="pmid">29983671</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0003">
+        <label>3</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0003">
+<string-name>
+<surname>Jemal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Siegel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Cancer statistics, 2010</article-title>. <source xml:lang="en">CA Cancer J Clin</source>
+<year>2010</year>; <volume>60</volume> (<issue>5</issue>): <fpage>277</fpage>&#x2013;<lpage>300</lpage>.<pub-id pub-id-type="pmid">20610543</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0004">
+        <label>4</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0004">
+<string-name>
+<surname>Weiss</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Wedin</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Surgery for skeletal metastases in lung cancer</article-title>. <source xml:lang="en">Acta Orthop</source>
+<year>2011</year>; <volume>82</volume> (<issue>1</issue>): <fpage>96</fpage>&#x2013;<lpage>101</lpage>.<pub-id pub-id-type="pmid">21281260</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0005">
+        <label>5</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0005">
+<string-name>
+<surname>Rove</surname>
+<given-names>KO</given-names>
+</string-name>, <string-name>
+<surname>Crawford</surname>
+<given-names>ED</given-names>
+</string-name>. <article-title>Metastatic cancer in solid tumors and clinical outcome: Skeletal&#x2010;related events</article-title>. <source xml:lang="en">Oncology (Williston Park)</source>
+<year>2009</year>; <volume>23</volume> (<issue>14 Suppl. 5</issue>): <fpage>21</fpage>&#x2013;<lpage>7</lpage>.</mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0006">
+        <label>6</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0006">
+<string-name>
+<surname>Sterling</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Edwards</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Mundy</surname>
+<given-names>GR</given-names>
+</string-name>. <article-title>Advances in the biology of bone metastasis: How the skeleton affects tumor behavior</article-title>. <source xml:lang="en">Bone</source>
+<year>2011</year>; <volume>48</volume>: <fpage>10</fpage>.</mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0007">
+        <label>7</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0007">
+<string-name>
+<surname>Takayanagi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Koga</surname>
+<given-names>T</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Induction and activation of the transcription factor NFATc1 (NFAT2) integrate RANKL signaling in terminal differentiation of osteoclasts</article-title>. <source xml:lang="en">Dev Cell</source>
+<year>2002</year>; <volume>3</volume> (<issue>6</issue>): <fpage>889</fpage>&#x2013;<lpage>901</lpage>.<pub-id pub-id-type="pmid">12479813</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0008">
+        <label>8</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0008">
+<string-name>
+<surname>Ando</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mori</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Redini</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Heymann</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>RANKL/RANK/OPG: Key therapeutic target in bone oncology</article-title>. <source xml:lang="en">Curr Drug Discov Technol</source>
+<year>2008</year>; <volume>5</volume> (<issue>3</issue>): <fpage>263</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">18690894</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0009">
+        <label>9</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0009">
+<string-name>
+<surname>Zhou</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>
+<italic>et al</italic> [<article-title>Screening and establishment of human lung cancer cell lines with organ&#x2010;specific metastasis potential</article-title>]. <source xml:lang="en">Zhongguo Fei Ai Za Zhi</source>
+<year>2014</year>; <volume>17</volume> (<issue>3</issue>): <fpage>175</fpage>&#x2013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">24667252</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0010">
+        <label>10</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0010">
+<string-name>
+<surname>Carthew</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Sontheimer</surname>
+<given-names>EJ</given-names>
+</string-name>. <article-title>Origins and mechanisms of miRNAs and siRNAs</article-title>. <source xml:lang="en">Cell</source>
+<year>2009</year>; <volume>136</volume> (<issue>4</issue>): <fpage>642</fpage>&#x2013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">19239886</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0011">
+        <label>11</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0011">
+<string-name>
+<surname>Bartel</surname>
+<given-names>DP</given-names>
+</string-name>. <article-title>MicroRNAs: Target recognition and regulatory functions</article-title>. <source xml:lang="en">Cell</source>
+<year>2009</year>; <volume>136</volume> (<issue>2</issue>): <fpage>215</fpage>&#x2013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">19167326</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0012">
+        <label>12</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0012">
+<string-name>
+<surname>Friedman</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Farh</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Burge</surname>
+<given-names>CB</given-names>
+</string-name>. <article-title>Most mammalian mRNAs are conserved targets of microRNAs</article-title>. <source xml:lang="en">Genome Res</source>
+<year>2008</year>; <volume>19</volume>: <fpage>92</fpage>&#x2013;<lpage>105</lpage>.<pub-id pub-id-type="pmid">18955434</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0013">
+        <label>13</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0013">
+<string-name>
+<surname>Yiwei</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Jian</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Cyclin&#x2010;dependent kinase 4 is a novel target in micoRNA&#x2010;195&#x2010;mediated cell cycle arrest in bladder cancer cells</article-title>. <source xml:lang="en">FEBS Lett</source>
+<year>2012</year>; <volume>586</volume> (<issue>3</issue>): <fpage>442</fpage>&#x2013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">22289176</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0014">
+        <label>14</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0014">
+<string-name>
+<surname>Borzi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Calzolari</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Centonze</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Milione</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sozzi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Fortunato</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>mir&#x2010;660&#x2010;p53&#x2010;mir&#x2010;486 network: A new key regulatory pathway in lung tumorigenesis</article-title>. <source xml:lang="en">Int J Mol Sci</source>
+<year>2017</year>; <volume>18</volume> (<issue>1</issue>): <elocation-id>E222</elocation-id>.<pub-id pub-id-type="pmid">28124991</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0015">
+        <label>15</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0015">
+<string-name>
+<surname>Xiao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>MiR&#x2010;1 downregulation correlates with poor survival in clear cell renal cell carcinoma where it interferes with cell cycle regulation and metastasis</article-title>. <source xml:lang="en">Oncotarget</source>
+<year>2015</year>; <volume>6</volume> (<issue>15</issue>): <fpage>13201</fpage>&#x2013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">26036633</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0016">
+        <label>16</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0016">
+<string-name>
+<surname>Wang</surname>
+<given-names>QY</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>CX</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name>. [<article-title>The down&#x2010;regulation of miR&#x2010;129 in breast cancer and its effect on breast cancer migration and motility</article-title>]. <source xml:lang="en">Sheng Li Xue Bao</source>
+<year>2012</year>; <volume>64</volume> (<issue>4</issue>): <fpage>403</fpage>&#x2013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">22907300</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0017">
+        <label>17</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0017">
+<string-name>
+<surname>Shen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>YF</given-names>
+</string-name>, <string-name>
+<surname>Ruan</surname>
+<given-names>LW</given-names>
+</string-name>, <string-name>
+<surname>Bao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Inhibition of miR&#x2010;660&#x2010;5p expression suppresses tumor development and metastasis in human breast cancer</article-title>. <source xml:lang="en">Genet Mol Res</source>
+<year>2017</year>; <volume>16</volume> (<issue>1</issue>). <pub-id pub-id-type="doi">10.4238/gmr16019479</pub-id>.</mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0018">
+        <label>18</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0018">
+<string-name>
+<surname>Krishnan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ghosh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Next generation sequencing profiling identifies miR&#x2010;574&#x2010;3p and miR&#x2010;660&#x2010;5p as potential novel prognostic markers for breast cancer</article-title>. <source xml:lang="en">BMC Genomics</source>
+<year>2015</year>; <volume>16</volume> (<issue>1</issue>): <fpage>735</fpage>.<pub-id pub-id-type="pmid">26416693</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0019">
+        <label>19</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0019">
+<string-name>
+<surname>He</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>miR&#x2010;660&#x2010;5p is associated with cell migration, invasion, proliferation and apoptosis in renal cell carcinoma</article-title>. <source xml:lang="en">Mol Med Rep</source>
+<year>2018</year>; <volume>17</volume> (<issue>1</issue>): <fpage>2051</fpage>&#x2013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">29138826</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0020">
+        <label>20</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0020">
+<string-name>
+<surname>Poot</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Dellaire</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hulsmann</surname>
+<given-names>BB</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>HuCHRAC, a human ISWI chromatin remodelling complex contains hACF1 and two novel histone&#x2010;fold proteins</article-title>. <source xml:lang="en">EMBO J</source>
+<year>2000</year>; <volume>19</volume> (<issue>13</issue>): <fpage>3377</fpage>&#x2013;<lpage>87</lpage>.<pub-id pub-id-type="pmid">10880450</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0021">
+        <label>21</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0021">
+<string-name>
+<surname>Strohner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nemeth</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jansa</surname>
+<given-names>P</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>NoRC&#x2013;a novel member of mammalian ISWI&#x2010;containing chromatin remodeling machines</article-title>. <source xml:lang="en">EMBO J</source>
+<year>2001</year>; <volume>20</volume> (<issue>17</issue>): <fpage>4892</fpage>&#x2013;<lpage>900</lpage>.<pub-id pub-id-type="pmid">11532953</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0022">
+        <label>22</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0022">
+<string-name>
+<surname>Aihara</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Miyoshi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Koyama</surname>
+<given-names>K</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Cloning and mapping of SMARCA5 encoding hSNF2H, a novel human homologue of Drosophila ISWI</article-title>. <source xml:lang="en">Cytogenet Cell Genet</source>
+<year>1998</year>; <volume>81</volume> (<issue>3&#x2013;4</issue>): <fpage>191</fpage>&#x2013;<lpage>3</lpage>.<pub-id pub-id-type="pmid">9730600</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0023">
+        <label>23</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0023">
+<string-name>
+<surname>Buetow</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Israel</surname>
+<given-names>JL</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Loss of heterozygosity suggests tumor suppressor gene responsible for primary hepatocellular carcinoma</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>
+<year>1989</year>; <volume>86</volume> (<issue>22</issue>): <fpage>8852</fpage>&#x2013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">2573067</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0024">
+        <label>24</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0024">
+<string-name>
+<surname>Gigek</surname>
+<given-names>CO</given-names>
+</string-name>, <string-name>
+<surname>Lisboa</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Leal</surname>
+<given-names>MF</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>SMARCA5 methylation and expression in gastric cancer</article-title>. <source xml:lang="en">Cancer Invest</source>
+<year>2011</year>; <volume>29</volume> (<issue>2</issue>): <fpage>162</fpage>&#x2013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">21261476</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0025">
+        <label>25</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0025">
+<string-name>
+<surname>Jin</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Overexpression of SMARCA5 correlates with cell proliferation and migration in breast cancer</article-title>. <source xml:lang="en">Tumour Biol</source>
+<year>2015</year>; <volume>36</volume> (<issue>3</issue>): <fpage>1895</fpage>&#x2013;<lpage>902</lpage>.<pub-id pub-id-type="pmid">25377162</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0026">
+        <label>26</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0026">
+<string-name>
+<surname>Reis</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Timoszczuk</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Pontes&#x2010;Junior</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>The role of micro RNAs let7c, 100 and 218 expression and their target RAS, C&#x2010;MYC, BUB1, RB, SMARCA5, LAMB3 and Ki&#x2010;67 in prostate cancer</article-title>. <source xml:lang="en">Clinics (Sao Paulo)</source>
+<year>2013</year>; <volume>68</volume> (<issue>5</issue>): <fpage>652</fpage>&#x2013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">23778407</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0027">
+        <label>27</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0027">
+<string-name>
+<surname>Stopka</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Zakova</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Fuchs</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Chromatin remodeling gene SMARCA5 is dysregulated in primitive hematopoietic cells of acute leukemia</article-title>. <source xml:lang="en">Leukemia</source>
+<year>2000</year>; <volume>14</volume> (<issue>7</issue>): <fpage>1247</fpage>&#x2013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">10914549</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0028">
+        <label>28</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0028">
+<string-name>
+<surname>Mueller</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Dutta</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The miR&#x2010;99 family regulates the DNA damage response through its target SNF2H</article-title>. <source xml:lang="en">Oncogene</source>
+<year>2013</year>; <volume>32</volume> (<issue>9</issue>): <fpage>1164</fpage>&#x2013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">22525276</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0029">
+        <label>29</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0029">
+<string-name>
+<surname>Tommasi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pinto</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Danza</surname>
+<given-names>K</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>miR&#x2010;151&#x2010;5p, targeting chromatin remodeler SMARCA5, as a marker for the BRCAness phenotype</article-title>. <source xml:lang="en">Oncotarget</source>
+<year>2016</year>; <volume>7</volume> (<issue>49</issue>): <fpage>80363</fpage>&#x2013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">27385001</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0030">
+        <label>30</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0030">
+<string-name>
+<surname>Steeg</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Bevilacqua</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kopper</surname>
+<given-names>L</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Evidence for a novel gene associated with low tumor metastatic potential</article-title>. <source xml:lang="en">J Natl Cancer Inst</source>
+<year>1988</year>; <volume>80</volume> (<issue>3</issue>): <fpage>200</fpage>&#x2013;<lpage>4</lpage>.<pub-id pub-id-type="pmid">3346912</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0031">
+        <label>31</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0031">
+<string-name>
+<surname>Leone</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Flatow</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>King</surname>
+<given-names>CR</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Reduced tumor incidence, metastatic potential, and cytokine responsiveness of nm23&#x2010;transfected melanoma cells</article-title>. <source xml:lang="en">Cell</source>
+<year>1991</year>; <volume>65</volume> (<issue>1</issue>): <fpage>25</fpage>&#x2013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">2013093</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0032">
+        <label>32</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0032">
+<string-name>
+<surname>Lacombe</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Milon</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Munier</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mehus</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Lambeth</surname>
+<given-names>DO</given-names>
+</string-name>. <article-title>The human Nm23/nucleoside diphosphate kinases</article-title>. <source xml:lang="en">J Bioenerg Biomembr</source>
+<year>2000</year>; <volume>32</volume> (<issue>3</issue>): <fpage>247</fpage>&#x2013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">11768308</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0033">
+        <label>33</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0033">
+<string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>Z</given-names>
+</string-name>
+<italic>et al</italic> [<article-title>Experimental study on molecular mechanism of nm23&#x2010;H1 gene transfection reversing the malignant phenotype of human high&#x2010;metastatic large cell lung cancer cell line</article-title>]. <source xml:lang="en">Zhongguo Fei Ai Za Zhi</source>
+<year>2006</year>; <volume>9</volume> (<issue>4</issue>): <fpage>307</fpage>&#x2013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">21176443</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0034">
+        <label>34</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0034">
+<string-name>
+<surname>Ma</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>X</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Alteration in gene expression profile and biological behavior in human lung cancer cell line NL9980 by nm23&#x2010;H1 gene silencing</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>
+<year>2008</year>; <volume>371</volume> (<issue>3</issue>): <fpage>425</fpage>&#x2013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">18440302</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0035">
+        <label>35</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0035">
+<string-name>
+<surname>Jean&#x2010;Claude</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Joshua</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Natascia</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The Nm23&#x2010;H1 metastasis suppressor as a translational target</article-title>. <source xml:lang="en">Eur J Cancer</source>
+<year>2010</year>; <volume>46</volume> (<issue>7</issue>): <fpage>0</fpage>&#x2013;<lpage>1282</lpage>.</mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0036">
+        <label>36</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0036">
+<string-name>
+<surname>Prabhu</surname>
+<given-names>VV</given-names>
+</string-name>, <string-name>
+<surname>Siddikuzzaman</surname>
+</string-name>, <string-name>
+<surname>Grace</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Guruvayoorappan</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Targeting tumor metastasis by regulating Nm23 gene expression</article-title>. <source xml:lang="en">Asian Pac J Cancer Prev</source>
+<year>2012</year>; <volume>13</volume> (<issue>8</issue>): <fpage>3539</fpage>&#x2013;<lpage>48</lpage>.<pub-id pub-id-type="pmid">23098432</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0037">
+        <label>37</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0037">
+<string-name>
+<surname>Zhou</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Che</surname>
+<given-names>G</given-names>
+</string-name>
+<italic>et al</italic> [<article-title>Establishment and their biological characteristics of clonal cell subpopulations (NL9980 and L9981) from a human lung large cell carcinoma cell line (WCQH&#x2010;9801)</article-title>]. <source xml:lang="en">Zhongguo Fei Ai Za Zhi</source>
+<year>2003</year>; <volume>6</volume> (<issue>6</issue>): <fpage>464</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">21310132</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0038">
+        <label>38</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0038">
+<string-name>
+<surname>Luo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Gong</surname>
+<given-names>L</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Lentivirus&#x2010;mediated stable silencing of nm23&#x2010;H1 gene in lung cancer cells and the influence on biological behavior</article-title>]. <source xml:lang="en">Zhongguo Fei Ai Za Zhi</source>
+<year>2012</year>; <volume>15</volume> (<issue>3</issue>): <fpage>139</fpage>&#x2013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">22429576</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0039">
+        <label>39</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0039">
+<string-name>
+<surname>Sohei</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Riko</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>RANK ligand is a prerequisite for cancer&#x2010;associated osteolytic lesions</article-title>. <source xml:lang="en">J Pathol</source>
+<year>2002</year>; <volume>198</volume> (<issue>2</issue>): <fpage>228</fpage>&#x2013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">12237883</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0040">
+        <label>40</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0040">
+<string-name>
+<surname>Michigami</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>IharaWatanabe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yamazaki</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Receptor activator of nuclear factor kappaB ligand (RANKL) is a key molecule of osteoclast formation for bone metastasis in a newly developed model of human neuroblastoma</article-title>. <source xml:lang="en">Cancer Res</source>
+<year>2001</year>; <volume>61</volume> (<issue>4</issue>): <fpage>1637</fpage>&#x2013;<lpage>44</lpage>.<pub-id pub-id-type="pmid">11245477</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0041">
+        <label>41</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0041">
+<string-name>
+<surname>Whang</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Schwarz</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Gamradt</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Dougall</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Lieberman</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>The effects of RANK blockade and osteoclast depletion in a model of pure osteoblastic prostate cancer metastasis in bone</article-title>. <source xml:lang="en">J Orthop Res</source>
+<year>2005</year>; <volume>23</volume> (<issue>6</issue>): <fpage>1475</fpage>&#x2013;<lpage>83</lpage>.<pub-id pub-id-type="pmid">16005175</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0042">
+        <label>42</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0042">
+<string-name>
+<surname>Zhang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Schwarz</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Rosier</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Zuscik</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Puzas</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>O'Keefe</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>ALK2 functions as a BMP type I receptor and induces Indian hedgehog in chondrocytes during skeletal development</article-title>. <source xml:lang="en">J Bone Miner Res</source>
+<year>2003</year>; <volume>18</volume> (<issue>9</issue>): <fpage>1593</fpage>&#x2013;<lpage>604</lpage>.<pub-id pub-id-type="pmid">12968668</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0043">
+        <label>43</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0043">
+<string-name>
+<surname>Sordillo</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Pearse</surname>
+<given-names>RN</given-names>
+</string-name>. <article-title>RANK&#x2010;fc: A therapeutic antagonist for RANK&#x2010;L in myeloma</article-title>. <source xml:lang="en">Cancer</source>
+<year>2010</year>; <volume>97</volume> (<issue>S3</issue>): <fpage>802</fpage>&#x2013;<lpage>12</lpage>.</mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0044">
+        <label>44</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0044">
+<string-name>
+<surname>Chen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zou</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Lung cancer incidence and mortality in China, 2009</article-title>. <source xml:lang="en">Thorac Cancer</source>
+<year>2013</year>; <volume>4</volume> (<issue>2</issue>): <fpage>102</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">28920188</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0045">
+        <label>45</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0045">
+<string-name>
+<surname>Paydas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Acikalin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ergin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Celik</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yavuz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Tanriverdi</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Micro&#x2010;RNA (miRNA) profile in Hodgkin lymphoma: Association between clinical and pathological variables</article-title>. <source xml:lang="en">Med Oncol</source>
+<year>2016</year>; <volume>33</volume> (<issue>4</issue>): <fpage>34</fpage>.<pub-id pub-id-type="pmid">26951445</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0046">
+        <label>46</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0046">
+<string-name>
+<surname>Navarro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Diaz</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Tovar</surname>
+<given-names>N</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A serum microRNA signature associated with complete remission and progression after autologous stem&#x2010;cell transplantation in patients with multiple myeloma</article-title>. <source xml:lang="en">Oncotarget</source>
+<year>2015</year>; <volume>6</volume> (<issue>3</issue>): <fpage>1874</fpage>&#x2013;<lpage>83</lpage>.<pub-id pub-id-type="pmid">25593199</pub-id></mixed-citation>
+      </ref>
+      <ref id="tca13308-bib-0047">
+        <label>47</label>
+        <mixed-citation publication-type="journal" id="tca13308-cit-0047">
+<string-name>
+<surname>Peng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>
+<given-names>T</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Differential expression of the RANKL/RANK/OPG system is associated with bone metastasis in human non&#x2010;small cell lung cancer</article-title>. <source xml:lang="en">PLOS One</source>
+<year>2013</year>; <volume>8</volume> (<issue>3</issue>): <elocation-id>e58361</elocation-id>.<pub-id pub-id-type="pmid">23516466</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>
